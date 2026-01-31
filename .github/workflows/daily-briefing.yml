@@ -1,0 +1,35 @@
+name: Daily Morning Briefing
+
+on:
+  schedule:
+    # 5:00 AM EST (10:00 UTC) Monday–Friday
+    - cron: '0 10 * * 1-5'
+  workflow_dispatch: # manual trigger from GitHub UI
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run briefing agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: node index.js
+
+      - name: Commit output
+        run: |
+          git config user.name "Briefing Bot"
+          git config user.email "bot@energymacro.com"
+          git add -f output/
+          git diff --cached --quiet || git commit -m "Briefing $(date -u +%Y-%m-%d)"
+          git push
