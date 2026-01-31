@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2026-01-31T21:33:37.791Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -10.27,
+        "current": 444.95,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -10.27% to $444.95"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -28.54,
+        "current": 75.44,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -28.54% to $75.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -10,
+        "current": 84.81,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -10% to $84.81"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -8.3,
+        "current": 74.36,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -8.3% to $74.36"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -7.32,
+        "current": 54.99,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -7.32% to $54.99"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -15.02,
+        "current": 31.8,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -15.02% to $31.8"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Kevin Warsh isn’t who investors think he is — how you can profit from their mistake",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Kevin Warsh isn’t who investors think he is — how you can profit from their mistake"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.42,
+        "message": "Gold/Silver ratio: 60.42x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 444.95,
+        "previousClose": 495.9,
+        "high": 470.06,
+        "low": 430.8,
+        "changePct": -10.27
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 75.44,
+        "previousClose": 105.57,
+        "high": 92.14,
+        "low": 69.12,
+        "changePct": -28.54
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 84.81,
+        "previousClose": 94.23,
+        "high": 88.4899,
+        "low": 82.4301,
+        "changePct": -10
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 74.36,
+        "previousClose": 81.09,
+        "high": 80.38,
+        "low": 72.38,
+        "changePct": -8.3
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.99,
+        "previousClose": 59.33,
+        "high": 58.71,
+        "low": 53.71,
+        "changePct": -7.32
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.8,
+        "previousClose": 37.42,
+        "high": 35.09,
+        "low": 31.41,
+        "changePct": -15.02
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 51.05,
+        "previousClose": 50.51,
+        "high": 51.08,
+        "low": 49.875,
+        "changePct": 1.07
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.85,
+        "previousClose": 26.59,
+        "high": 26.85,
+        "low": 26.7,
+        "changePct": 0.98
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.13,
+        "previousClose": 87.62,
+        "high": 87.56,
+        "low": 87.13,
+        "changePct": -0.56
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 691.97,
+        "previousClose": 694.07,
+        "high": 694.21,
+        "low": 687.12,
+        "changePct": -0.3
+      }
+    },
+    "metals": {
+      "gold": 4745.1,
+      "silver": 78.53,
+      "copper": 5.92,
+      "platinum": 2121.6,
+      "crude": null,
+      "goldSilverRatio": 60.42
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4745.1,
+        "change": -609.6997,
+        "changePct": -11.39,
+        "previousClose": 5354.8
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 78.531,
+        "change": -35.898003,
+        "changePct": -31.37,
+        "previousClose": 114.429
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.924,
+        "change": -0.2795,
+        "changePct": -4.51,
+        "previousClose": 6.2035
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2121.6,
+        "change": -496.69995,
+        "changePct": -18.97,
+        "previousClose": 2618.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 65.21,
+        "change": -0.20999908,
+        "changePct": -0.32,
+        "previousClose": 65.42
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.53,
+        "previous": 3.56,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-01-29"
+      },
+      "10Y": {
+        "current": 4.24,
+        "previous": 4.26,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-01-29"
+      },
+      "30Y": {
+        "current": 4.85,
+        "previous": 4.85,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-01-29"
+      },
+      "DXY_BROAD": {
+        "current": 119.2855,
+        "previous": 119.5823,
+        "change": -0.3,
+        "changeBps": -30,
+        "date": "2026-01-23"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108036,
+        "previous": 24785,
+        "change": 83251,
+        "period": "2026-01-23",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Iranians Seal Windows & Store Food, Water As They Prepare For Attack",
+        "link": "https://www.zerohedge.com/geopolitical/iranians-seal-windows-store-food-water-they-prepare-attack",
+        "date": "2026-01-31T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Latest Epstein Release Catches Goldman's Top Lawyer In Massive Lie",
+        "link": "https://www.zerohedge.com/political/latest-epstein-release-catches-goldmans-top-lawyer-massive-lie",
+        "date": "2026-01-31T20:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Kevin Warsh isn’t who investors think he is — how you can profit from their mistake",
+        "link": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-boost-markets-what-this-means-for-your-portfolio-f83826cb?mod=mw_rss_topstories",
+        "date": "2026-01-31T19:54:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Federal Judge Refuses To Block Trump's ICE Surge In Minnesota",
+        "link": "https://www.zerohedge.com/political/federal-judge-refuses-block-trumps-ice-surge-minnesota",
+        "date": "2026-01-31T19:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Activist Judge Blocks Key Parts Of Trump EO On Verifying Citizenship To Vote",
+        "link": "https://www.zerohedge.com/political/activist-judge-blocks-key-parts-trump-eo-verifying-citizenship-vote",
+        "date": "2026-01-31T17:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Latest Epstein Emails Reveal Bill Gates Slipped Wife Antibiotics For STD He Got From Russian Hookers",
+        "link": "https://www.zerohedge.com/markets/latest-epstein-emails-reveal-bill-gates-slipped-wife-antibiotics-std-he-got-russian-hookers",
+        "date": "2026-01-31T14:56:34.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Hits Back At EU: Designates European Armies As 'Terrorist Entities'",
+        "link": "https://www.zerohedge.com/geopolitical/iran-hits-back-eu-designates-european-armies-terrorist-entities",
+        "date": "2026-01-31T13:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Next-Level Spying: How China Read The West's Wiretaps For Years",
+        "link": "https://www.zerohedge.com/geopolitical/next-level-spying-how-china-read-wests-wiretaps-years",
+        "date": "2026-01-31T12:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Seven Reasons Not To Bomb Iran",
+        "link": "https://www.zerohedge.com/geopolitical/seven-reasons-not-bomb-iran",
+        "date": "2026-01-31T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia's Lukoil To Sell Bulk Of International Portfolio To US Carlyle Group",
+        "link": "https://www.zerohedge.com/energy/russias-lukoil-sell-bulk-international-portfolio-us-carlyle-group",
+        "date": "2026-01-31T02:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Judge Grants Asylum To Chinese National Who Filmed China's Uyghur Prison Camps",
+        "link": "https://www.zerohedge.com/political/us-judge-grants-asylum-chinese-national-who-filmed-chinas-uyghur-prison-camps",
+        "date": "2026-01-31T01:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Sues US Treasury For $10 Billion Over Tax-Returns Leak",
+        "link": "https://www.zerohedge.com/political/trump-sues-us-treasury-10-billion-over-tax-returns-leak",
+        "date": "2026-01-31T01:30:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Trump picks veteran staffer to head Bureau of Labor Statistics",
+        "link": "https://www.foxbusiness.com/economy/trump-picks-veteran-staffer-head-bureau-labor-statistics",
+        "date": "2026-01-30T22:47:31.000Z"
+      }
+    ],
+    "fetchedAt": "2026-01-31T21:33:27.376Z"
+  }
+}
