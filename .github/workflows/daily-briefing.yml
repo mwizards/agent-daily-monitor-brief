@@ -2,8 +2,8 @@ name: Daily Morning Briefing
 
 on:
   schedule:
-    # 5:00 AM EST (10:00 UTC) Monday–Friday
-    - cron: '0 10 * * 1-5'
+    # 5:00 AM EST (10:00 UTC) every day
+    - cron: '0 10 * * *'
   workflow_dispatch: # manual trigger from GitHub UI
 
 permissions:
