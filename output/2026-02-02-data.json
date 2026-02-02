@@ -1,0 +1,370 @@
+{
+  "generatedAt": "2026-02-02T10:35:02.487Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -10.27,
+        "current": 444.95,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -10.27% to $444.95"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -28.54,
+        "current": 75.44,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -28.54% to $75.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -10,
+        "current": 84.81,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -10% to $84.81"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -8.3,
+        "current": 74.36,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -8.3% to $74.36"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -7.32,
+        "current": 54.99,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -7.32% to $54.99"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -15.02,
+        "current": 31.8,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -15.02% to $31.8"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Italian lender loses nearly half its value on profit warning, CEO exit",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Italian lender loses nearly half its value on profit warning, CEO exit"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Isaacman: NASA Aims To Build 'Martian Outpost' On Mars With Nuclear Propulsion",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Isaacman: NASA Aims To Build 'Martian Outpost' On Mars With Nuclear Propulsion"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.31,
+        "message": "Gold/Silver ratio: 58.31x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 444.95,
+        "previousClose": 495.9,
+        "high": 470.06,
+        "low": 430.8,
+        "changePct": -10.27
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 75.44,
+        "previousClose": 105.57,
+        "high": 92.14,
+        "low": 69.12,
+        "changePct": -28.54
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 84.81,
+        "previousClose": 94.23,
+        "high": 88.4899,
+        "low": 82.4301,
+        "changePct": -10
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 74.36,
+        "previousClose": 81.09,
+        "high": 80.38,
+        "low": 72.38,
+        "changePct": -8.3
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.99,
+        "previousClose": 59.33,
+        "high": 58.71,
+        "low": 53.7,
+        "changePct": -7.32
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.8,
+        "previousClose": 37.42,
+        "high": 35.09,
+        "low": 31.41,
+        "changePct": -15.02
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 51.05,
+        "previousClose": 50.51,
+        "high": 51.085,
+        "low": 49.875,
+        "changePct": 1.07
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.85,
+        "previousClose": 26.59,
+        "high": 26.85,
+        "low": 26.7,
+        "changePct": 0.98
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.13,
+        "previousClose": 87.619995,
+        "high": 87.56,
+        "low": 87.13,
+        "changePct": -0.56
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 691.97,
+        "previousClose": 694.07,
+        "high": 694.21,
+        "low": 687.12,
+        "changePct": -0.3
+      }
+    },
+    "metals": {
+      "gold": 4716.4,
+      "silver": 80.89,
+      "copper": 5.82,
+      "platinum": 2043.1,
+      "crude": null,
+      "goldSilverRatio": 58.31
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4716.4,
+        "change": -28.700195,
+        "changePct": -0.6,
+        "previousClose": 4745.1
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 80.89,
+        "change": 2.3590012,
+        "changePct": 3,
+        "previousClose": 78.531
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8185,
+        "change": -0.105499744,
+        "changePct": -1.78,
+        "previousClose": 5.924
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2043.1,
+        "change": -78.50012,
+        "changePct": -3.7,
+        "previousClose": 2121.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 62.04,
+        "change": -3.1699982,
+        "changePct": -4.86,
+        "previousClose": 65.21
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.53,
+        "previous": 3.56,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-01-29"
+      },
+      "10Y": {
+        "current": 4.24,
+        "previous": 4.26,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-01-29"
+      },
+      "30Y": {
+        "current": 4.85,
+        "previous": 4.85,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-01-29"
+      },
+      "DXY_BROAD": {
+        "current": 119.2855,
+        "previous": 119.5823,
+        "change": -0.3,
+        "changeBps": -30,
+        "date": "2026-01-23"
+      }
+    },
+    "eia": null,
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Italian lender loses nearly half its value on profit warning, CEO exit",
+        "link": "https://www.marketwatch.com/story/italian-lender-loses-nearly-half-its-value-on-profit-warning-ceo-exit-2e42e9fc?mod=mw_rss_topstories",
+        "date": "2026-02-02T10:12:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Approves New Massive Arms Deals For Israel, Saudis - Bypasses Congressional Review",
+        "link": "https://www.zerohedge.com/geopolitical/us-approves-new-massive-arms-deals-israel-saudis-bypasses-congressional-review",
+        "date": "2026-02-02T10:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Gold now down nearly $1,000 from peak as silver struggles following record 31% slump",
+        "link": "https://www.marketwatch.com/story/gold-now-down-nearly-1-000-from-peak-as-silver-struggles-following-record-31-slump-56067f2a?mod=mw_rss_topstories",
+        "date": "2026-02-02T08:58:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hero British Bus Driver Fired For Stopping Thief And Protecting Passenger",
+        "link": "https://www.zerohedge.com/political/hero-british-bus-driver-fired-stopping-thief-and-protecting-passenger",
+        "date": "2026-02-02T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How Arctic Ice Loss Is Reshaping Global Shipping",
+        "link": "https://www.zerohedge.com/geopolitical/how-arctic-ice-loss-reshaping-global-shipping",
+        "date": "2026-02-02T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Energy Suicide\": Slovak PM Fico To Sue After Brussels Issues Total Ban On Russian Gas",
+        "link": "https://www.zerohedge.com/geopolitical/energy-suicide-slovak-pm-fico-sue-after-brussels-issues-total-ban-russian-gas",
+        "date": "2026-02-02T07:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "China's factory activity grows at fastest pace since October, private survey shows, beating official reading",
+        "link": "https://www.cnbc.com/2026/02/02/china-factory-activity-private-survey-official-reading-pmi-january-lunar-new-year-ratingdog.html",
+        "date": "2026-02-02T05:32:40.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories",
+        "date": "2026-02-02T03:59:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Isaacman: NASA Aims To Build 'Martian Outpost' On Mars With Nuclear Propulsion",
+        "link": "https://www.zerohedge.com/technology/isaacman-nasa-aims-build-martian-outpost-mars-nuclear-propulsion",
+        "date": "2026-02-01T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says Federal Authorities Won't Respond To Protests In Democrat-Led Cities Unless Asked",
+        "link": "https://www.zerohedge.com/political/trump-says-federal-authorities-wont-respond-protests-democrat-led-cities-unless-asked",
+        "date": "2026-02-01T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "House Speaker Says He Has Votes To End Government Shutdown This Week",
+        "link": "https://www.zerohedge.com/political/house-speaker-says-he-has-votes-end-government-shutdown-week",
+        "date": "2026-02-01T20:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Concedes Iran 'Seriously Talking To Us' As Ayatollah Says 'We Don't Seek To Attack Any Country'",
+        "link": "https://www.zerohedge.com/geopolitical/trump-concedes-iran-seriously-talking-us-ayatollah-says-we-dont-seek-attack-any",
+        "date": "2026-02-01T18:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Colombian Mercenary Pipeline Funnels South American Fighters To Ukraine's Frontlines",
+        "link": "https://www.zerohedge.com/geopolitical/colombian-mercenary-pipeline-funnels-south-american-fighters-ukraines-frontlines",
+        "date": "2026-02-01T17:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Military Still Not Prepared For Major Attack On Iran, Only 'Limited' Strikes",
+        "link": "https://www.zerohedge.com/geopolitical/us-military-still-not-prepared-major-attack-iran-only-limited-strikes",
+        "date": "2026-02-01T16:05:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "New SNAP work requirements take effect in more states under Trump-backed law",
+        "link": "https://www.foxbusiness.com/economy/new-snap-work-requirements-take-effect-more-states-under-trump-backed-law",
+        "date": "2026-02-01T15:50:19.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-02T10:34:53.738Z"
+  }
+}
