@@ -1,0 +1,388 @@
+{
+  "generatedAt": "2026-02-03T10:27:24.224Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -4,
+        "current": 427.13,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -4% to $427.13"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -3.98,
+        "current": 72.44,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -3.98% to $72.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.58,
+        "current": 71.7,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.58% to $71.7"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3.13,
+        "current": 53.27,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3.13% to $53.27"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "It's Time To Accept That Civil War 2.0 Has Already Started",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] It's Time To Accept That Civil War 2.0 Has Already Started"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Watch: Russian Soldiers Surrender To Gun-Wielding Robot; Humanoid Warfare Nears",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Watch: Russian Soldiers Surrender To Gun-Wielding Robot; Humanoid Warfare Nears"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"F**k ICE!\": Awards Season Exposes 'Spoiled, Entitled, Reality-Denying Tyrants'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"F**k ICE!\": Awards Season Exposes 'Spoiled, Entitled, Reality-Denying Tyrants'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Polish President Pushes For Aggressive Move To Nuclear, Bypassing LNG Amidst 'Geopolitical Turmoils'",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Polish President Pushes For Aggressive Move To Nuclear, Bypassing LNG Amidst 'Geopolitical Turmoils'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Witkoff Set To Meet Iran Envoy In Istanbul For Rare Direct Nuclear Talks",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Witkoff Set To Meet Iran Envoy In Istanbul For Rare Direct Nuclear Talks"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 57.28,
+        "message": "Gold/Silver ratio: 57.28x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 427.13,
+        "previousClose": 444.95,
+        "high": 440.76,
+        "low": 422.55,
+        "changePct": -4
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 72.44,
+        "previousClose": 75.44,
+        "high": 74.92,
+        "low": 68.26,
+        "changePct": -3.98
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 85.2,
+        "previousClose": 84.81,
+        "high": 85.7889,
+        "low": 83.64,
+        "changePct": 0.46
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 71.7,
+        "previousClose": 74.36,
+        "high": 75.44,
+        "low": 71.22,
+        "changePct": -3.58
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 53.27,
+        "previousClose": 54.99,
+        "high": 55.6299,
+        "low": 52.66,
+        "changePct": -3.13
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.52,
+        "previousClose": 31.8,
+        "high": 32.7078,
+        "low": 30.76,
+        "changePct": -0.88
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 50.05,
+        "previousClose": 51.05,
+        "high": 50.51,
+        "low": 49.77,
+        "changePct": -1.96
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.99,
+        "previousClose": 26.85,
+        "high": 27.0299,
+        "low": 26.912,
+        "changePct": 0.52
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.55,
+        "previousClose": 86.79812,
+        "high": 87.055,
+        "low": 86.55,
+        "changePct": -0.29
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 695.41,
+        "previousClose": 691.97,
+        "high": 696.93,
+        "low": 689.425,
+        "changePct": 0.5
+      }
+    },
+    "metals": {
+      "gold": 4939.7,
+      "silver": 86.25,
+      "copper": 6.03,
+      "platinum": 2228,
+      "crude": null,
+      "goldSilverRatio": 57.28
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4939.7,
+        "change": 287.1001,
+        "changePct": 6.17,
+        "previousClose": 4652.6
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 86.245,
+        "change": 9.236,
+        "changePct": 11.99,
+        "previousClose": 77.009
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.028,
+        "change": 0.20249987,
+        "changePct": 3.48,
+        "previousClose": 5.8255
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2228,
+        "change": 123.8999,
+        "changePct": 5.89,
+        "previousClose": 2104.1
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 62.07,
+        "change": -0.069999695,
+        "changePct": -0.11,
+        "previousClose": 62.14
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.52,
+        "previous": 3.53,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-01-30"
+      },
+      "10Y": {
+        "current": 4.26,
+        "previous": 4.24,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-01-30"
+      },
+      "30Y": {
+        "current": 4.87,
+        "previous": 4.85,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-01-30"
+      },
+      "DXY_BROAD": {
+        "current": 117.8996,
+        "previous": 117.4396,
+        "change": 0.46,
+        "changeBps": 46,
+        "date": "2026-01-30"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108036,
+        "previous": 24785,
+        "change": 83251,
+        "period": "2026-01-23",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "‘I’m spooked’: Do gold and silver belong in my retirement portfolio after their dramatic fall in value?",
+        "link": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
+        "date": "2026-02-03T10:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "During the worst day for gold in 46 years, options traders made bets the metal could hit $20,000",
+        "link": "https://www.marketwatch.com/story/during-the-worst-day-for-gold-in-46-years-options-traders-made-bets-the-metal-could-hit-20-000-2b5393a4?mod=mw_rss_topstories",
+        "date": "2026-02-03T10:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US-Sanctioned Russian Military Transport Plane Touches Down At Cuban Airfield",
+        "link": "https://www.zerohedge.com/markets/us-sanctioned-russian-military-transport-plane-touches-down-cuban-airfield",
+        "date": "2026-02-03T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Polish President Pushes For Aggressive Move To Nuclear, Bypassing LNG Amidst 'Geopolitical Turmoils'",
+        "link": "https://www.zerohedge.com/energy/polish-president-pushes-aggressive-move-nuclear-bypassing-lng-amidst-geopolitical-turmoils",
+        "date": "2026-02-03T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Witkoff Set To Meet Iran Envoy In Istanbul For Rare Direct Nuclear Talks",
+        "link": "https://www.zerohedge.com/geopolitical/witkoff-set-meet-iran-envoy-istanbul-rare-direct-nuclear-talks",
+        "date": "2026-02-03T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "It's Time To Accept That Civil War 2.0 Has Already Started",
+        "link": "https://www.zerohedge.com/geopolitical/its-time-accept-civil-war-20-has-already-started",
+        "date": "2026-02-03T04:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: Russian Soldiers Surrender To Gun-Wielding Robot; Humanoid Warfare Nears",
+        "link": "https://www.zerohedge.com/military/watch-russian-soldiers-surrender-gun-wielding-robot-humanoid-warfare-nears",
+        "date": "2026-02-03T04:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Revolving Green Door: Former Biden Officials Landed Jobs With Environmental NGOs After Funneling Money To Them",
+        "link": "https://www.zerohedge.com/political/revolving-green-door-former-biden-officials-landed-jobs-environmental-ngos-after",
+        "date": "2026-02-03T03:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UAE Firm Bought 49% Of Trump-Linked Crypto Startup For $500M: WSJ",
+        "link": "https://www.zerohedge.com/political/uae-firm-bought-49-trump-linked-crypto-startup-500m-wsj",
+        "date": "2026-02-03T01:05:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "From PopMart to JD.com: Britain and China rush to forge business deals as diplomatic thaw takes hold",
+        "link": "https://www.cnbc.com/2026/02/02/china-uk-business-starmer-visit-popmart-jdcom.html",
+        "date": "2026-02-02T23:59:06.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Gold and silver prices turn volatile – what to know before selling jewelry",
+        "link": "https://www.foxbusiness.com/markets/gold-silver-prices-turn-volatile-what-know-before-selling-jewelry",
+        "date": "2026-02-02T21:30:21.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"F**k ICE!\": Awards Season Exposes 'Spoiled, Entitled, Reality-Denying Tyrants'",
+        "link": "https://www.zerohedge.com/markets/awards-season-exposes-spoiled-entitled-reality-denying-tyrants",
+        "date": "2026-02-02T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'Rock Now Beats Paper': Making Sense Of \"Silver Friday's\" Utterly Rigged Nonsense",
+        "link": "https://www.zerohedge.com/precious-metals/rock-now-beats-paper-making-sense-silver-fridays-utterly-rigged-nonsense",
+        "date": "2026-02-02T20:05:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+        "link": "https://www.cnbc.com/2026/02/02/fridays-jobs-report-will-be-delayed-because-of-the-partial-government-shutdown.html",
+        "date": "2026-02-02T18:44:43.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Government shutdown will delay release of January jobs report",
+        "link": "https://www.foxbusiness.com/economy/government-shutdown-delay-release-january-jobs-report",
+        "date": "2026-02-02T17:48:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-03T10:27:14.856Z"
+  }
+}
