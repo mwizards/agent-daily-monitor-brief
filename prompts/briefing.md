@@ -27,7 +27,7 @@ If HIGH IMPACT signals exist:
 **Action:** [Specific, actionable guidance for Power Portfolio holders]
 
 ---
-[Price dashboard: Gold, Silver, Copper, Uranium, DXY, 10Y, SPY — one line]
+[Price dashboard: Gold, Silver, Copper, Uranium, UUP (dollar), 10Y, SPY — one line]
 ```
 
 If NO significant signals:
@@ -54,3 +54,4 @@ Hold positions. The thesis hasn't changed.
 - If multiple signals, lead with the biggest one, mention others briefly
 - Connect every move to the real assets / debasement thesis
 - If a position in the model portfolio is directly affected, call it out by name
+- NEVER use "DXY" for dollar direction. The data feed includes a "USD Broad Trade-Weighted Index" from FRED — this is NOT the DXY (ICE US Dollar Index). They are different indexes with different values. For dollar direction, use UUP (Dollar Bull ETF) which is in the ETF data. In the price dashboard, show UUP price and change, not the FRED broad index.

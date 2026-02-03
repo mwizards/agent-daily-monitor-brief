@@ -74,8 +74,8 @@ function buildDataContext(filteredData, rawData, today) {
   if (rawData.yields && Object.keys(rawData.yields).length > 0) {
     context += 'TREASURY YIELDS:\n';
     for (const [label, y] of Object.entries(rawData.yields)) {
-      if (label === 'DXY_BROAD') {
-        context += `  DXY: ${y.current} (${y.change > 0 ? '+' : ''}${y.change})\n`;
+      if (label === 'USD_BROAD') {
+        context += `  USD Broad Trade-Weighted Index (NOT DXY): ${y.current} (${y.change > 0 ? '+' : ''}${y.change})\n`;
       } else {
         context += `  ${label}: ${y.current}% (${y.changeBps > 0 ? '+' : ''}${y.changeBps}bps)\n`;
       }

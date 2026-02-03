@@ -68,14 +68,14 @@ async function fetchMarketQuotes() {
   return { etfQuotes, metals, futures };
 }
 
-// ── FRED: Treasury yields + DXY ───────────────────────────────────────
+// ── FRED: Treasury yields + USD trade-weighted index ──────────────────
 
 async function fetchTreasuryYields(apiKey) {
   const series = {
     'DGS2': '2Y',
     'DGS10': '10Y',
     'DGS30': '30Y',
-    'DTWEXBGS': 'DXY_BROAD',
+    'DTWEXBGS': 'USD_BROAD',
   };
 
   const results = {};
