@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-02-04T10:26:55.724Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 6.36,
+        "current": 454.29,
+        "direction": "UP",
+        "message": "Gold (GLD) +6.36% to $454.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 6.24,
+        "current": 76.96,
+        "direction": "UP",
+        "message": "Silver (SLV) +6.24% to $76.96"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 6.53,
+        "current": 90.76,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +6.53% to $90.76"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 6.62,
+        "current": 76.45,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +6.62% to $76.45"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 5.65,
+        "current": 56.28,
+        "direction": "UP",
+        "message": "Uranium (URA) +5.65% to $56.28"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 7.01,
+        "current": 33.73,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +7.01% to $33.73"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 3.24,
+        "current": 51.67,
+        "direction": "UP",
+        "message": "Energy (XLE) +3.24% to $51.67"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter."
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Markets",
+        "title": "Netflix co-CEO Ted Sarandos faces Senate hearing over massive $72B Warner Bros takeover deal",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Markets] Netflix co-CEO Ted Sarandos faces Senate hearing over massive $72B Warner Bros takeover deal"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Fed's Miran maintains call for aggressive interest rate cuts this year",
+        "keywords": [
+          "rate cut"
+        ],
+        "message": "[Fox Biz Economy] Fed's Miran maintains call for aggressive interest rate cuts this year"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 56.9,
+        "message": "Gold/Silver ratio: 56.9x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 454.29,
+        "previousClose": 427.13,
+        "high": 459,
+        "low": 448.48,
+        "changePct": 6.36
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 76.96,
+        "previousClose": 72.44,
+        "high": 80.72,
+        "low": 74.91,
+        "changePct": 6.24
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 90.76,
+        "previousClose": 85.2,
+        "high": 90.87,
+        "low": 88.05,
+        "changePct": 6.53
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 76.45,
+        "previousClose": 71.7,
+        "high": 76.9785,
+        "low": 73.94,
+        "changePct": 6.62
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 56.28,
+        "previousClose": 53.27,
+        "high": 56.92,
+        "low": 54.55,
+        "changePct": 5.65
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33.73,
+        "previousClose": 31.52,
+        "high": 34,
+        "low": 32.44,
+        "changePct": 7.01
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 51.67,
+        "previousClose": 50.05,
+        "high": 51.78,
+        "low": 50.025,
+        "changePct": 3.24
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.92,
+        "previousClose": 26.99,
+        "high": 26.99,
+        "low": 26.9001,
+        "changePct": -0.26
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.76,
+        "previousClose": 86.55,
+        "high": 86.78,
+        "low": 86.4284,
+        "changePct": 0.24
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 689.53,
+        "previousClose": 695.41,
+        "high": 696.96,
+        "low": 684.03,
+        "changePct": -0.85
+      }
+    },
+    "metals": {
+      "gold": 5076.9,
+      "silver": 89.23,
+      "copper": 6.03,
+      "platinum": 2274.5,
+      "crude": null,
+      "goldSilverRatio": 56.9
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5076.9,
+        "change": 141.8999,
+        "changePct": 2.88,
+        "previousClose": 4935
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 89.23,
+        "change": 5.929001,
+        "changePct": 7.12,
+        "previousClose": 83.301
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.032,
+        "change": -0.054500103,
+        "changePct": -0.9,
+        "previousClose": 6.0865
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2274.5,
+        "change": 65.69995,
+        "changePct": 2.97,
+        "previousClose": 2208.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 63.63,
+        "change": 0.42000198,
+        "changePct": 0.66,
+        "previousClose": 63.21
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.57,
+        "previous": 3.52,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-02-02"
+      },
+      "10Y": {
+        "current": 4.29,
+        "previous": 4.26,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-02-02"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.87,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-02-02"
+      },
+      "USD_BROAD": {
+        "current": 117.8996,
+        "previous": 117.4396,
+        "change": 0.46,
+        "changeBps": 46,
+        "date": "2026-01-30"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108036,
+        "previous": 24785,
+        "change": 83251,
+        "period": "2026-01-23",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Gold Giant Bundesbank Signals An Open Vote Of No Confidence in Global Monetary Stability",
+        "link": "https://www.zerohedge.com/markets/gold-giant-bundesbank-signals-open-vote-no-confidence-global-monetary-stability",
+        "date": "2026-02-04T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Rutte Says Post-Ukraine Peace To Include NATO Boots By Air, Land & Sea",
+        "link": "https://www.zerohedge.com/geopolitical/rutte-says-post-ukraine-peace-include-nato-boots-air-land-sea",
+        "date": "2026-02-04T07:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?",
+        "link": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
+        "date": "2026-02-04T05:38:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Illegal Biolabs In Vegas & California Linked To Chinese National With Alleged Military-Civil Fusion Ties",
+        "link": "https://www.zerohedge.com/medical/illegal-biolabs-vegas-california-linked-chinese-national-alleged-military-civil-fusion-ties",
+        "date": "2026-02-04T02:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.",
+        "link": "https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories",
+        "date": "2026-02-04T02:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's Rare Earth 'Monopoly' - And Why Markets Will Break It",
+        "link": "https://www.zerohedge.com/commodities/chinas-rare-earth-monopoly-and-why-markets-will-break-it",
+        "date": "2026-02-04T01:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says Administration Will Seek $1 Billion In Damages From Harvard",
+        "link": "https://www.zerohedge.com/political/trump-says-administration-will-seek-1-billion-damages-harvard",
+        "date": "2026-02-03T22:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Trump refuses to be outdone by Europe, signing his own U.S.-India trade deal",
+        "link": "https://www.cnbc.com/2026/02/03/trump-us-india-trade-deal-europe-india-deal-compared.html",
+        "date": "2026-02-03T19:22:33.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Netflix co-CEO Ted Sarandos faces Senate hearing over massive $72B Warner Bros takeover deal",
+        "link": "https://www.foxbusiness.com/markets/netflix-co-ceo-ted-sarandos-faces-senate-hearing-over-massive-72b-warner-bros-takeover-deal",
+        "date": "2026-02-03T17:20:21.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "China moves to ban feature commonly seen on Tesla vehicles over fear of trapped passengers",
+        "link": "https://www.foxbusiness.com/economy/china-moves-ban-feature-commonly-seen-tesla-vehicles-over-fear-trapped-passengers",
+        "date": "2026-02-03T17:01:14.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fed's Miran maintains call for aggressive interest rate cuts this year",
+        "link": "https://www.foxbusiness.com/economy/feds-miran-maintains-call-aggressive-interest-rate-cuts-year",
+        "date": "2026-02-03T15:23:26.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-04T10:26:46.263Z"
+  }
+}
