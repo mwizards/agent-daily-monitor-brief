@@ -1,0 +1,373 @@
+{
+  "generatedAt": "2026-02-05T10:29:17.033Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -8.36,
+        "current": 70.06,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -8.36% to $70.06"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -6.91,
+        "current": 52.39,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -6.91% to $52.39"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -4.57,
+        "current": 86.61,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -4.57% to $86.61"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Will The New Fed Chair Fix The Money?",
+        "keywords": [
+          "fed chair"
+        ],
+        "message": "[ZeroHedge] Will The New Fed Chair Fix The Money?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "3 US Warships Dispatched To Haiti As Part Of Campaign Against Drug Traffickers",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] 3 US Warships Dispatched To Haiti As Part Of Campaign Against Drug Traffickers"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.88,
+        "current": 79.18,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.88% to $79.18"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.25,
+        "current": 52.83,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.25% to $52.83"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Putin Notifies Xi Of New START Status As Trump Ready To Let Go Of Nuclear Arms Control With Russia",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Putin Notifies Xi Of New START Status As Trump Ready To Let Go Of Nuclear Arms Control With Russia"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.57,
+        "message": "Gold/Silver ratio: 62.57x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 453.97,
+        "previousClose": 454.29,
+        "high": 463.1,
+        "low": 445.74,
+        "changePct": -0.07
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 79.18,
+        "previousClose": 76.96,
+        "high": 82.78,
+        "low": 75.81,
+        "changePct": 2.88
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 86.61,
+        "previousClose": 90.76,
+        "high": 91.7004,
+        "low": 84.5,
+        "changePct": -4.57
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 70.06,
+        "previousClose": 76.45,
+        "high": 76.49,
+        "low": 67.5347,
+        "changePct": -8.36
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.39,
+        "previousClose": 56.28,
+        "high": 56.855,
+        "low": 50.28,
+        "changePct": -6.91
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33.47,
+        "previousClose": 33.73,
+        "high": 34.88,
+        "low": 31.91,
+        "changePct": -0.77
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 52.83,
+        "previousClose": 51.67,
+        "high": 52.9599,
+        "low": 51.82,
+        "changePct": 2.25
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.01,
+        "previousClose": 26.92,
+        "high": 27.025,
+        "low": 26.95,
+        "changePct": 0.33
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.54,
+        "previousClose": 86.76,
+        "high": 86.7775,
+        "low": 86.4601,
+        "changePct": -0.25
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 686.19,
+        "previousClose": 689.53,
+        "high": 691.45,
+        "low": 681.76,
+        "changePct": -0.48
+      }
+    },
+    "metals": {
+      "gold": 4887.4,
+      "silver": 78.11,
+      "copper": 5.83,
+      "platinum": 2100,
+      "crude": null,
+      "goldSilverRatio": 62.57
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4887.4,
+        "change": -63.399902,
+        "changePct": -1.28,
+        "previousClose": 4950.8
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 78.105,
+        "change": -6.2910004,
+        "changePct": -7.45,
+        "previousClose": 84.396
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8345,
+        "change": -0.015500069,
+        "changePct": -0.26,
+        "previousClose": 5.85
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2100,
+        "change": -76.69995,
+        "changePct": -3.52,
+        "previousClose": 2176.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 64.27,
+        "change": -0.87000275,
+        "changePct": -1.34,
+        "previousClose": 65.14
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.57,
+        "previous": 3.57,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-02-03"
+      },
+      "10Y": {
+        "current": 4.28,
+        "previous": 4.29,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-03"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.9,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-02-03"
+      },
+      "USD_BROAD": {
+        "current": 117.8996,
+        "previous": 117.4396,
+        "change": 0.46,
+        "changeBps": 46,
+        "date": "2026-01-30"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 7166,
+        "previous": 236562,
+        "change": -229396,
+        "period": "2026-01-30",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Gold’s massive outperformance leaves bitcoin looking more attractive over the long term, says JPMorgan strategist",
+        "link": "https://www.marketwatch.com/story/golds-massive-outperformance-leaves-bitcoin-looking-more-attractive-over-the-long-term-says-jpmorgan-strategist-6e17689f?mod=mw_rss_topstories",
+        "date": "2026-02-05T09:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Silver falls as much as 13% as the volatility continues in metals",
+        "link": "https://www.marketwatch.com/story/silver-falls-as-much-as-13-as-the-volatility-continues-in-metals-c5285ba7?mod=mw_rss_topstories",
+        "date": "2026-02-05T09:03:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Offers To Remove All Enriched Uranium From Iran",
+        "link": "https://www.zerohedge.com/geopolitical/russia-offers-remove-all-enriched-uranium-iran-last-ditch-mediation-effort",
+        "date": "2026-02-05T07:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?",
+        "link": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
+        "date": "2026-02-05T05:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Netanyahu Tells US Envoys Iran Cannot Be Trusted If Deal Is Reached",
+        "link": "https://www.zerohedge.com/geopolitical/netanyahu-tells-us-envoys-iran-cannot-be-trusted-if-deal-reached",
+        "date": "2026-02-05T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Silver Crashes 20% As China Opens, Gold & Bitcoin Also Plunging",
+        "link": "https://www.zerohedge.com/markets/silver-crashes-20-china-opens-gold-bitcoin-also-plunging",
+        "date": "2026-02-05T03:25:03.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "China's Xi reasserts Taiwan stance in call with Trump, while U.S. president pushes trade",
+        "link": "https://www.cnbc.com/2026/02/05/chinas-xi-taiwan-trump-trade-talks-iran-russia.html",
+        "date": "2026-02-05T03:21:40.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Here are the new release dates for January’s jobs and CPI inflation reports",
+        "link": "https://www.marketwatch.com/story/heres-the-new-dates-for-january-jobs-and-cpi-inflation-reports-0350659d?mod=mw_rss_topstories",
+        "date": "2026-02-05T02:56:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Will The New Fed Chair Fix The Money?",
+        "link": "https://www.zerohedge.com/political/will-new-fed-chair-fix-money",
+        "date": "2026-02-05T01:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Run It Hot: Trump, The Fed, & The Coming Currency Debasement",
+        "link": "https://www.zerohedge.com/political/run-it-hot-trump-fed-coming-currency-debasement",
+        "date": "2026-02-05T01:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Putin Notifies Xi Of New START Status As Trump Ready To Let Go Of Nuclear Arms Control With Russia",
+        "link": "https://www.zerohedge.com/geopolitical/putin-notifies-xi-new-start-status-trump-ready-let-go-nuclear-arms-control-russia",
+        "date": "2026-02-05T00:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ken Griffin Torches Trump Over 'Distasteful Favoritism' And Conflicts Of Interest, Opens Door To Political Run",
+        "link": "https://www.zerohedge.com/political/ken-griffin-torches-trump-over-distasteful-favoritism-and-conflicts-interest-opens-door",
+        "date": "2026-02-04T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "3 US Warships Dispatched To Haiti As Part Of Campaign Against Drug Traffickers",
+        "link": "https://www.zerohedge.com/geopolitical/3-us-warships-dispatched-haiti-part-campaign-against-drug-traffickers",
+        "date": "2026-02-04T22:40:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "January jobs report will be released on Feb. 11 after shutdown delay",
+        "link": "https://www.cnbc.com/2026/02/04/january-jobs-report-government-shutdown.html",
+        "date": "2026-02-04T18:45:04.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-05T10:29:07.870Z"
+  }
+}
