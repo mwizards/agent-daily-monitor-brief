@@ -1,0 +1,354 @@
+{
+  "generatedAt": "2026-02-06T10:27:14.561Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -15.77,
+        "current": 66.69,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -15.77% to $66.69"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -6.12,
+        "current": 81.31,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -6.12% to $81.31"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -6.19,
+        "current": 65.72,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -6.19% to $65.72"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -6.26,
+        "current": 49.11,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -6.26% to $49.11"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -8.69,
+        "current": 30.56,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -8.69% to $30.56"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Extends African Free-Trade Agreement Easing Tariff Fears Amid Tensions",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] Trump Extends African Free-Trade Agreement Easing Tariff Fears Amid Tensions"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Xi Used Latest 2-Hour Call To Warn Trump On Taiwan Red Lines",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Xi Used Latest 2-Hour Call To Warn Trump On Taiwan Red Lines"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -2.66,
+        "current": 441.88,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -2.66% to $441.88"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Uncharted Territory: US & Russia Now Have No Limits On Nuclear Weapons",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Uncharted Territory: US & Russia Now Have No Limits On Nuclear Weapons"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 66.27,
+        "message": "Gold/Silver ratio: 66.27x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 441.88,
+        "previousClose": 453.97,
+        "high": 450.8999,
+        "low": 440.38,
+        "changePct": -2.66
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 66.69,
+        "previousClose": 79.18,
+        "high": 70.52,
+        "low": 65.51,
+        "changePct": -15.77
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 81.31,
+        "previousClose": 86.61,
+        "high": 84.9,
+        "low": 81.2,
+        "changePct": -6.12
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 65.72,
+        "previousClose": 70.06,
+        "high": 69.49,
+        "low": 65.5401,
+        "changePct": -6.19
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 49.11,
+        "previousClose": 52.39,
+        "high": 51.6,
+        "low": 49.11,
+        "changePct": -6.26
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.56,
+        "previousClose": 33.47,
+        "high": 32.61,
+        "low": 30.51,
+        "changePct": -8.69
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 52.21,
+        "previousClose": 52.83,
+        "high": 52.49,
+        "low": 51.435,
+        "changePct": -1.17
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.09,
+        "previousClose": 27.01,
+        "high": 27.09,
+        "low": 27,
+        "changePct": 0.3
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.48,
+        "previousClose": 86.54,
+        "high": 87.48,
+        "low": 86.75,
+        "changePct": 1.09
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 677.62,
+        "previousClose": 686.19,
+        "high": 683.69,
+        "low": 675.79,
+        "changePct": -1.25
+      }
+    },
+    "metals": {
+      "gold": 4896.2,
+      "silver": 73.89,
+      "copper": 5.8,
+      "platinum": 1997,
+      "crude": null,
+      "goldSilverRatio": 66.27
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4896.2,
+        "change": 6.7001953,
+        "changePct": 0.14,
+        "previousClose": 4889.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.885,
+        "change": -2.8289948,
+        "changePct": -3.69,
+        "previousClose": 76.714
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8005,
+        "change": -0.020500183,
+        "changePct": -0.35,
+        "previousClose": 5.821
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1997,
+        "change": -73.6001,
+        "changePct": -3.55,
+        "previousClose": 2070.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 63.9,
+        "change": 0.6100006,
+        "changePct": 0.96,
+        "previousClose": 63.29
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.57,
+        "previous": 3.57,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-02-04"
+      },
+      "10Y": {
+        "current": 4.29,
+        "previous": 4.28,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-02-04"
+      },
+      "30Y": {
+        "current": 4.91,
+        "previous": 4.9,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-02-04"
+      },
+      "USD_BROAD": {
+        "current": 117.8996,
+        "previous": 117.4396,
+        "change": 0.46,
+        "changeBps": 46,
+        "date": "2026-01-30"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 7166,
+        "previous": 236562,
+        "change": -229396,
+        "period": "2026-01-30",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Extends African Free-Trade Agreement Easing Tariff Fears Amid Tensions",
+        "link": "https://www.zerohedge.com/geopolitical/trump-extends-african-free-trade-agreement-easing-tariff-fears-amid-tensions",
+        "date": "2026-02-06T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Abu Dhabi Talks Bearing Fruit: Over 300 Russian, Ukrainian POWs Swapped",
+        "link": "https://www.zerohedge.com/geopolitical/dubai-talks-bearing-fruit-over-300-russian-ukrainian-pows-swapped",
+        "date": "2026-02-06T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Study Of Military Meals Finds Low Nutrients, Concerning Contaminants",
+        "link": "https://www.zerohedge.com/medical/study-military-meals-finds-low-nutrients-concerning-contaminants",
+        "date": "2026-02-06T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Senate Bill Would Ensure Data Centers Do Not Pass Energy Costs Onto Consumers",
+        "link": "https://www.zerohedge.com/energy/senate-bill-would-ensure-data-centers-do-not-pass-energy-costs-consumers",
+        "date": "2026-02-06T02:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Beijing's Big Short: Meet The Chinese \"Anti Hunt Brother\" Billionaire Betting Against Silver Bulls",
+        "link": "https://www.zerohedge.com/precious-metals/beijings-big-short-meet-chinese-anti-hunt-brother-billionaire-betting-against",
+        "date": "2026-02-06T00:42:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Uncharted Territory: US & Russia Now Have No Limits On Nuclear Weapons",
+        "link": "https://www.zerohedge.com/geopolitical/uncharted-territory-us-russia-now-have-no-limits-nuclear-weapons",
+        "date": "2026-02-05T23:00:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Citi to match federal government's $1K Trump Account contributions for employees' children",
+        "link": "https://www.foxbusiness.com/markets/citi-match-federal-governments-1k-trump-account-contributions-employees-children",
+        "date": "2026-02-05T22:16:23.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Xi Used Latest 2-Hour Call To Warn Trump On Taiwan Red Lines",
+        "link": "https://www.zerohedge.com/geopolitical/xi-used-latest-2-hour-call-warn-trump-taiwan-red-lines",
+        "date": "2026-02-05T21:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Sidesteps 2028 GOP Endorsement On Vance, Rubio",
+        "link": "https://www.zerohedge.com/political/trump-sidesteps-2028-gop-endorsement-vance-rubio",
+        "date": "2026-02-05T21:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-06T10:27:04.521Z"
+  }
+}
