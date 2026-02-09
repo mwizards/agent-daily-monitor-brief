@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-02-09T10:49:21.477Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 5.25,
+        "current": 70.19,
+        "direction": "UP",
+        "message": "Silver (SLV) +5.25% to $70.19"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 6.21,
+        "current": 52.16,
+        "direction": "UP",
+        "message": "Uranium (URA) +6.21% to $52.16"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 7.23,
+        "current": 32.77,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +7.23% to $32.77"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.07,
+        "current": 455.46,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.07% to $455.46"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 4.14,
+        "current": 84.68,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +4.14% to $84.68"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 4.38,
+        "current": 68.6,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +4.38% to $68.6"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "2Y",
+        "current": 3.47,
+        "changeBps": -10,
+        "direction": "DOWN",
+        "message": "2Y yield -10bps to 3.47%"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "What's The Likelihood Of A Global Nuclear Arms Race?",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] What's The Likelihood Of A Global Nuclear Arms Race?"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.25,
+        "message": "Gold/Silver ratio: 63.25x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 455.46,
+        "previousClose": 441.88,
+        "high": 456.93,
+        "low": 450.03,
+        "changePct": 3.07
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 70.19,
+        "previousClose": 66.69,
+        "high": 70.84,
+        "low": 67.455,
+        "changePct": 5.25
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 84.68,
+        "previousClose": 81.31,
+        "high": 84.99,
+        "low": 83.66,
+        "changePct": 4.14
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.6,
+        "previousClose": 65.72,
+        "high": 68.73,
+        "low": 65.55,
+        "changePct": 4.38
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.16,
+        "previousClose": 49.11,
+        "high": 52.25,
+        "low": 50.12,
+        "changePct": 6.21
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 32.77,
+        "previousClose": 30.56,
+        "high": 32.77,
+        "low": 31.44,
+        "changePct": 7.23
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 53.25,
+        "previousClose": 52.21,
+        "high": 53.415,
+        "low": 52.38,
+        "changePct": 1.99
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.01,
+        "previousClose": 27.09,
+        "high": 27.02,
+        "low": 26.9701,
+        "changePct": -0.3
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.54,
+        "previousClose": 87.48,
+        "high": 87.54,
+        "low": 87.2,
+        "changePct": 0.07
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 690.62,
+        "previousClose": 677.62,
+        "high": 692.3099,
+        "low": 680.85,
+        "changePct": 1.92
+      }
+    },
+    "metals": {
+      "gold": 5015.4,
+      "silver": 79.3,
+      "copper": 5.85,
+      "platinum": 2049.5,
+      "crude": null,
+      "goldSilverRatio": 63.25
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5015.4,
+        "change": 35.600098,
+        "changePct": 0.71,
+        "previousClose": 4979.8
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 79.3,
+        "change": 2.4050064,
+        "changePct": 3.13,
+        "previousClose": 76.895
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.851,
+        "change": -0.031000137,
+        "changePct": -0.53,
+        "previousClose": 5.882
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2049.5,
+        "change": -49.899902,
+        "changePct": -2.38,
+        "previousClose": 2099.4
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 63.63,
+        "change": 0.08000183,
+        "changePct": 0.13,
+        "previousClose": 63.55
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.47,
+        "previous": 3.57,
+        "change": -0.1,
+        "changeBps": -10,
+        "date": "2026-02-05"
+      },
+      "10Y": {
+        "current": 4.21,
+        "previous": 4.29,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-02-05"
+      },
+      "30Y": {
+        "current": 4.85,
+        "previous": 4.91,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-02-05"
+      },
+      "USD_BROAD": {
+        "current": 117.8996,
+        "previous": 117.4396,
+        "change": 0.46,
+        "changeBps": 46,
+        "date": "2026-01-30"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 7166,
+        "previous": 236562,
+        "change": -229396,
+        "period": "2026-01-30",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Germany Rejects Billion-Euro Data Center: Bureaucracy Wins",
+        "link": "https://www.zerohedge.com/markets/germany-rejects-billion-euro-data-center-bureaucracy-wins",
+        "date": "2026-02-09T07:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "U.S. stock futures rise after a wild week on Wall Street, ahead of key jobs and inflation reports",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8?mod=mw_rss_topstories",
+        "date": "2026-02-09T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "What's The Likelihood Of A Global Nuclear Arms Race?",
+        "link": "https://www.zerohedge.com/geopolitical/whats-likelihood-global-nuclear-arms-race",
+        "date": "2026-02-09T02:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Lifts Biden-Era Restrictions On Commercial Fishing In Atlantic Marine Monument",
+        "link": "https://www.zerohedge.com/political/trump-lifts-biden-era-restrictions-commercial-fishing-atlantic-marine-monument",
+        "date": "2026-02-08T23:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "3 things to know about ‘Trump accounts’ — the new investment vehicle for kids advertised during the Super Bowl",
+        "link": "https://www.marketwatch.com/story/3-things-to-know-about-trump-accounts-the-new-investment-vehicle-for-kids-advertised-during-the-super-bowl-fdf64e91?mod=mw_rss_topstories",
+        "date": "2026-02-08T23:34:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Refuses To Comply With Immigration Court Order",
+        "link": "https://www.zerohedge.com/political/trump-admin-refuses-comply-immigration-court-order",
+        "date": "2026-02-08T19:35:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-09T10:49:12.700Z"
+  }
+}
