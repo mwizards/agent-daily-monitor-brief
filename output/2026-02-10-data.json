@@ -1,0 +1,344 @@
+{
+  "generatedAt": "2026-02-10T10:41:11.256Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 8.33,
+        "current": 76.04,
+        "direction": "UP",
+        "message": "Silver (SLV) +8.33% to $76.04"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 5.14,
+        "current": 89.03,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +5.14% to $89.03"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 5.79,
+        "current": 72.57,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +5.79% to $72.57"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 5.25,
+        "current": 54.9,
+        "direction": "UP",
+        "message": "Uranium (URA) +5.25% to $54.9"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 5.92,
+        "current": 34.71,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +5.92% to $34.71"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Today, We Are Preparing For War\": French Defense Chief Says Europe Has Until 2030, Cites Russia As Biggest Threat",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"Today, We Are Preparing For War\": French Defense Chief Says Europe Has Until 2030, Cites Russia As Biggest Threat"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Downward Bitch: Irate Yoga Wokes Demand 'Complicit' Instructors Condemn ICE",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Downward Bitch: Irate Yoga Wokes Demand 'Complicit' Instructors Condemn ICE"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran Offers To Dilute Enriched Uranium If US Lifts All The Sanctions",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] Iran Offers To Dilute Enriched Uranium If US Lifts All The Sanctions"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 2.54,
+        "current": 467.03,
+        "direction": "UP",
+        "message": "Gold (GLD) +2.54% to $467.03"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.92,
+        "message": "Gold/Silver ratio: 61.92x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 467.03,
+        "previousClose": 455.46,
+        "high": 467.54,
+        "low": 460.865,
+        "changePct": 2.54
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 76.04,
+        "previousClose": 70.19,
+        "high": 76.16,
+        "low": 72.55,
+        "changePct": 8.33
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 89.03,
+        "previousClose": 84.68,
+        "high": 89.2195,
+        "low": 85.95,
+        "changePct": 5.14
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 72.57,
+        "previousClose": 68.6,
+        "high": 72.65,
+        "low": 68.36,
+        "changePct": 5.79
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.9,
+        "previousClose": 52.16,
+        "high": 54.94,
+        "low": 51.765,
+        "changePct": 5.25
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.71,
+        "previousClose": 32.77,
+        "high": 34.8399,
+        "low": 33.21,
+        "changePct": 5.92
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 53.64,
+        "previousClose": 53.25,
+        "high": 53.72,
+        "low": 52.975,
+        "changePct": 0.73
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.79,
+        "previousClose": 27.01,
+        "high": 26.845,
+        "low": 26.775,
+        "changePct": -0.81
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.52,
+        "previousClose": 87.54,
+        "high": 87.58,
+        "low": 87.035,
+        "changePct": -0.02
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 693.95,
+        "previousClose": 690.62,
+        "high": 695.87,
+        "low": 688.34,
+        "changePct": 0.48
+      }
+    },
+    "metals": {
+      "gold": 5070.9,
+      "silver": 81.9,
+      "copper": 5.91,
+      "platinum": 2096.6,
+      "crude": null,
+      "goldSilverRatio": 61.92
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5070.9,
+        "change": -8.5,
+        "changePct": -0.17,
+        "previousClose": 5079.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 81.9,
+        "change": -0.33399963,
+        "changePct": -0.41,
+        "previousClose": 82.234
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.909,
+        "change": -0.053500175,
+        "changePct": -0.9,
+        "previousClose": 5.9625
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2096.6,
+        "change": -19.899902,
+        "changePct": -0.94,
+        "previousClose": 2116.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 64.36,
+        "change": 0,
+        "changePct": 0,
+        "previousClose": 64.36
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.5,
+        "previous": 3.47,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-02-06"
+      },
+      "10Y": {
+        "current": 4.22,
+        "previous": 4.21,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-02-06"
+      },
+      "30Y": {
+        "current": 4.85,
+        "previous": 4.85,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-02-06"
+      },
+      "USD_BROAD": {
+        "current": 118.2407,
+        "previous": 118.5034,
+        "change": -0.26,
+        "changeBps": -26,
+        "date": "2026-02-06"
+      }
+    },
+    "eia": null,
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "\"Today, We Are Preparing For War\": French Defense Chief Says Europe Has Until 2030, Cites Russia As Biggest Threat",
+        "link": "https://www.zerohedge.com/military/today-we-are-preparing-war-french-defense-chief-says-europe-has-until-2030-cites-russia",
+        "date": "2026-02-10T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mapping The Global Cost Of Living In 2026",
+        "link": "https://www.zerohedge.com/personal-finance/mapping-global-cost-living-2026",
+        "date": "2026-02-10T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany's \"Recovery\" Is Just Debt-Fueled Military Orders",
+        "link": "https://www.zerohedge.com/markets/germanys-recovery-just-debt-fueled-military-orders",
+        "date": "2026-02-10T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Record 9.5 Billion Passenger-Trips Expected During China's Spring Festival",
+        "link": "https://www.zerohedge.com/personal-finance/record-95-billion-passenger-trips-expected-during-chinas-spring-festival",
+        "date": "2026-02-10T04:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Downward Bitch: Irate Yoga Wokes Demand 'Complicit' Instructors Condemn ICE",
+        "link": "https://www.zerohedge.com/political/downward-bitch-irate-yoga-wokes-demand-complicit-instructors-condemn-ice",
+        "date": "2026-02-10T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Google Versus China's Cyber Weapon",
+        "link": "https://www.zerohedge.com/markets/google-versus-chinas-cyber-weapon",
+        "date": "2026-02-10T00:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Offers To Dilute Enriched Uranium If US Lifts All The Sanctions",
+        "link": "https://www.zerohedge.com/geopolitical/iran-offers-dilute-enriched-uranium-if-us-lifts-all-sanctions",
+        "date": "2026-02-09T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Vows 'All Possible Assistance' To Cuba As US 'Strangles' The Population",
+        "link": "https://www.zerohedge.com/geopolitical/russia-vows-all-possible-assistance-cuba-us-strangles-population",
+        "date": "2026-02-09T20:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Beef prices in focus as Trump signs order aimed at consumer relief",
+        "link": "https://www.foxbusiness.com/economy/beef-prices-focus-trump-signs-order-aimed-consumer-relief",
+        "date": "2026-02-09T17:41:05.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-10T10:41:03.462Z"
+  }
+}
