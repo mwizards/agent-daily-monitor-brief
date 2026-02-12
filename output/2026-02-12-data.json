@@ -1,0 +1,350 @@
+{
+  "generatedAt": "2026-02-12T10:31:51.066Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 4.29,
+        "current": 76.56,
+        "direction": "UP",
+        "message": "Silver (SLV) +4.29% to $76.56"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[CNBC Economy] Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.14,
+        "current": 90.12,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.14% to $90.12"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.36,
+        "current": 35.19,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.36% to $35.19"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.61,
+        "current": 54.98,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.61% to $54.98"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Japan Restarts World's Largest Nuclear Plant, 15 Years After Fukushima Shutdown",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Japan Restarts World's Largest Nuclear Plant, 15 Years After Fukushima Shutdown"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Beijing Blasts Washington For Fabricating Excuses To Restart Nuclear Testing",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Beijing Blasts Washington For Fabricating Excuses To Restart Nuclear Testing"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.12,
+        "message": "Gold/Silver ratio: 61.12x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 467.63,
+        "previousClose": 462.4,
+        "high": 468.605,
+        "low": 462.82,
+        "changePct": 1.13
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 76.56,
+        "previousClose": 73.41,
+        "high": 76.985,
+        "low": 74.8,
+        "changePct": 4.29
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 90.12,
+        "previousClose": 88.23,
+        "high": 91.3372,
+        "low": 88.3,
+        "changePct": 2.14
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 72.1,
+        "previousClose": 70.88,
+        "high": 73.3,
+        "low": 69.39,
+        "changePct": 1.72
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 53.71,
+        "previousClose": 53.5,
+        "high": 55.06,
+        "low": 51.913,
+        "changePct": 0.39
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 35.19,
+        "previousClose": 34.38,
+        "high": 35.81,
+        "low": 33.845,
+        "changePct": 2.36
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 54.98,
+        "previousClose": 53.58,
+        "high": 55.11,
+        "low": 54.26,
+        "changePct": 2.61
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.83,
+        "previousClose": 26.8,
+        "high": 26.865,
+        "low": 26.7599,
+        "changePct": 0.11
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 88.06,
+        "previousClose": 88.53,
+        "high": 88.475,
+        "low": 87.935,
+        "changePct": -0.53
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 691.96,
+        "previousClose": 692.12,
+        "high": 697.13,
+        "low": 689.18,
+        "changePct": -0.02
+      }
+    },
+    "metals": {
+      "gold": 5087.8,
+      "silver": 83.24,
+      "copper": 6,
+      "platinum": 2111.9,
+      "crude": null,
+      "goldSilverRatio": 61.12
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5087.8,
+        "change": -10.700195,
+        "changePct": -0.21,
+        "previousClose": 5098.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 83.24,
+        "change": -0.6800003,
+        "changePct": -0.81,
+        "previousClose": 83.92
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.997,
+        "change": 0.03150034,
+        "changePct": 0.53,
+        "previousClose": 5.9655
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2111.9,
+        "change": -33.80005,
+        "changePct": -1.58,
+        "previousClose": 2145.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 64.39,
+        "change": -0.23999786,
+        "changePct": -0.37,
+        "previousClose": 64.63
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.45,
+        "previous": 3.48,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-02-10"
+      },
+      "10Y": {
+        "current": 4.16,
+        "previous": 4.22,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-02-10"
+      },
+      "30Y": {
+        "current": 4.78,
+        "previous": 4.85,
+        "change": -0.07,
+        "changeBps": -7,
+        "date": "2026-02-10"
+      },
+      "USD_BROAD": {
+        "current": 118.2407,
+        "previous": 118.5034,
+        "change": -0.26,
+        "changeBps": -26,
+        "date": "2026-02-06"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 25113,
+        "previous": 844041,
+        "change": -818928,
+        "period": "2026-02-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "‘I’m a loner’: I’m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?",
+        "link": "https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories",
+        "date": "2026-02-12T10:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Scared to invest in emerging-market bonds? If you hold U.S. Treasurys, then you already do.",
+        "link": "https://www.marketwatch.com/story/scared-to-invest-in-emerging-market-bonds-if-you-hold-u-s-treasurys-then-you-already-do-aa0803a6?mod=mw_rss_topstories",
+        "date": "2026-02-12T10:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Currency strategist who incurred Bessent’s wrath exposes safe-haven myth of the dollar",
+        "link": "https://www.marketwatch.com/story/currency-strategist-who-incurred-bessents-wrath-exposes-safe-haven-myth-of-the-dollar-b4e1125d?mod=mw_rss_topstories",
+        "date": "2026-02-12T09:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Japan Restarts World's Largest Nuclear Plant, 15 Years After Fukushima Shutdown",
+        "link": "https://www.zerohedge.com/energy/japan-restarts-worlds-largest-nuclear-plant-15-years-after-fukushima-shutdown",
+        "date": "2026-02-12T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Beijing Blasts Washington For Fabricating Excuses To Restart Nuclear Testing",
+        "link": "https://www.zerohedge.com/geopolitical/beijing-blasts-washington-fabricating-excuses-restart-nuclear-testing",
+        "date": "2026-02-12T04:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US, China Work To Preserve Fragile Trade Truce Ahead Of Trump's April Visit: Report",
+        "link": "https://www.zerohedge.com/geopolitical/us-china-work-preserve-fragile-trade-truce-ahead-trumps-april-visit-report",
+        "date": "2026-02-12T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Pushes To End Senate 'Blue Slips' As GOP Confirms Judges At Record Pace",
+        "link": "https://www.zerohedge.com/political/trump-pushes-end-senate-blue-slips-gop-confirms-judges-record-pace",
+        "date": "2026-02-11T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russian Airlines Suspend Flights To Cuba, Begin Evacuation Of Citizens, Over Fuel Crisis",
+        "link": "https://www.zerohedge.com/geopolitical/russian-airlines-suspend-flights-cuba-begin-evacuation-citizens-over-fuel-crisis",
+        "date": "2026-02-11T23:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Can End Protected Status For Nationals Of 3 More Countries: Appeals Court",
+        "link": "https://www.zerohedge.com/political/trump-admin-can-end-protected-status-nationals-3-countries-appeals-court",
+        "date": "2026-02-11T22:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "NYU Prof: Trump's Whole Milk Push Is 'Dog Whistle To Far-Right'",
+        "link": "https://www.zerohedge.com/political/nyu-prof-trumps-whole-milk-push-dog-whistle-far-right",
+        "date": "2026-02-11T22:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision",
+        "link": "https://www.cnbc.com/2026/02/11/tariff-revenue-soars-more-than-300percent-as-us-awaits-supreme-court-decision.html",
+        "date": "2026-02-11T20:05:10.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Expert credits Trump tax certainty for economic confidence, Americans returning to workforce",
+        "link": "https://www.foxbusiness.com/economy/expert-credits-trumps-tax-certainty-economic-confidence-americans-returning-workforce",
+        "date": "2026-02-11T18:52:46.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-12T10:31:42.332Z"
+  }
+}
