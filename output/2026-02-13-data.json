@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-02-13T10:27:57.262Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -11.53,
+        "current": 67.73,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -11.53% to $67.73"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -9.01,
+        "current": 32.02,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -9.01% to $32.02"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.47,
+        "current": 451.39,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.47% to $451.39"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.3,
+        "current": 87.15,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.3% to $87.15"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.87,
+        "current": 69.31,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.87% to $69.31"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3.65,
+        "current": 51.75,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3.65% to $51.75"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "A Warning To Seattle: Don't Become The Next Cleveland",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] A Warning To Seattle: Don't Become The Next Cleveland"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Inpex Warns Of Looming LNG Crunch in Asia",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Inpex Warns Of Looming LNG Crunch in Asia"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Microsoft AI CEO Warns Most White Collar Jobs Fully Automated \"Within Next 12-18 Months\"; Anthropic Fears Potential For 'Heinous Crimes'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Microsoft AI CEO Warns Most White Collar Jobs Fully Automated \"Within Next 12-18 Months\"; Anthropic Fears Potential For 'Heinous Crimes'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "US Strategy In Armenia And Azerbaijan Includes Nuclear And AI",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US Strategy In Armenia And Azerbaijan Includes Nuclear And AI"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.74,
+        "message": "Gold/Silver ratio: 63.74x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 451.39,
+        "previousClose": 467.63,
+        "high": 466.3799,
+        "low": 448.06,
+        "changePct": -3.47
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 67.73,
+        "previousClose": 76.56,
+        "high": 75.67,
+        "low": 67.355,
+        "changePct": -11.53
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 87.15,
+        "previousClose": 90.12,
+        "high": 91.57,
+        "low": 86.13,
+        "changePct": -3.3
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 69.31,
+        "previousClose": 72.1,
+        "high": 72.51,
+        "low": 68.45,
+        "changePct": -3.87
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 51.75,
+        "previousClose": 53.71,
+        "high": 54.24,
+        "low": 51.3301,
+        "changePct": -3.65
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 32.02,
+        "previousClose": 35.19,
+        "high": 34.95,
+        "low": 31.943,
+        "changePct": -9.01
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 53.98,
+        "previousClose": 54.98,
+        "high": 55.24,
+        "low": 53.76,
+        "changePct": -1.82
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.82,
+        "previousClose": 26.83,
+        "high": 26.855,
+        "low": 26.7701,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.23,
+        "previousClose": 88.06,
+        "high": 89.28,
+        "low": 88.355,
+        "changePct": 1.33
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 681.27,
+        "previousClose": 691.96,
+        "high": 695.35,
+        "low": 680.38,
+        "changePct": -1.54
+      }
+    },
+    "metals": {
+      "gold": 4993.8,
+      "silver": 78.35,
+      "copper": 5.76,
+      "platinum": 2035.6,
+      "crude": null,
+      "goldSilverRatio": 63.74
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4993.8,
+        "change": 45.399902,
+        "changePct": 0.92,
+        "previousClose": 4948.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 78.345,
+        "change": 2.663002,
+        "changePct": 3.52,
+        "previousClose": 75.682
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.7595,
+        "change": -0.026000023,
+        "changePct": -0.45,
+        "previousClose": 5.7855
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2035.6,
+        "change": 13.900024,
+        "changePct": 0.69,
+        "previousClose": 2021.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 62.95,
+        "change": 0.11000061,
+        "changePct": 0.18,
+        "previousClose": 62.84
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.52,
+        "previous": 3.45,
+        "change": 0.07,
+        "changeBps": 7,
+        "date": "2026-02-11"
+      },
+      "10Y": {
+        "current": 4.18,
+        "previous": 4.16,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-02-11"
+      },
+      "30Y": {
+        "current": 4.82,
+        "previous": 4.78,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-02-11"
+      },
+      "USD_BROAD": {
+        "current": 118.2407,
+        "previous": 118.5034,
+        "change": -0.26,
+        "changeBps": -26,
+        "date": "2026-02-06"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 25113,
+        "previous": 844041,
+        "change": -818928,
+        "period": "2026-02-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "US Strategy In Armenia And Azerbaijan Includes Nuclear And AI",
+        "link": "https://www.zerohedge.com/geopolitical/us-strategy-armenia-and-azerbaijan-includes-nuclear-and-ai",
+        "date": "2026-02-13T10:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Why silver prices cratered on a reported Russian proposal to re-dollarize",
+        "link": "https://www.marketwatch.com/story/why-silver-prices-cratered-on-a-reported-russian-proposal-to-re-dollarize-a81da84e?mod=mw_rss_topstories",
+        "date": "2026-02-13T09:36:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russian Oil To Slovakia Via Damaged Druzhba Pipeline Still Halted As Accusations Fly",
+        "link": "https://www.zerohedge.com/energy/russian-oil-slovakia-damaged-druzhba-pipeline-still-halted-accusations-fly",
+        "date": "2026-02-13T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Bye-Bye Data Center\": German Town Rejects Multi-Billion Euro Construction Project",
+        "link": "https://www.zerohedge.com/technology/bye-bye-data-center-german-town-rejects-multi-billion-euro-construction-project",
+        "date": "2026-02-13T07:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Member Of Trump's 'Religious Liberty Commission' Fired After Heated Israel Debate",
+        "link": "https://www.zerohedge.com/geopolitical/battle-over-anti-semitism-definition-erupts-white-house-religious-liberty-hearing",
+        "date": "2026-02-13T04:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "A Warning To Seattle: Don't Become The Next Cleveland",
+        "link": "https://www.zerohedge.com/political/warning-seattle-dont-become-next-cleveland",
+        "date": "2026-02-13T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Judge Boasberg Orders Government To Facilitate Return Of Deported Venezuelans",
+        "link": "https://www.zerohedge.com/political/judge-boasberg-orders-government-facilitate-return-deported-venezuelans",
+        "date": "2026-02-13T02:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Energy is the best-performing sector in the S&P 500 so far this year — and it’s not just because of the rise in oil prices",
+        "link": "https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories",
+        "date": "2026-02-13T02:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Goldman Sacks Ruemmler As Epstein Scandal Claims Obama's Former Lawyer",
+        "link": "https://www.zerohedge.com/political/goldman-sacks-ruemmler-epstein-scandal-claims-obamas-former-lawyer",
+        "date": "2026-02-13T01:52:17.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Everyone's Grandma Is Selling The Silver Chandelier, Forks, Knives\" As Scrap Volumes Overwhelm Refiners",
+        "link": "https://www.zerohedge.com/precious-metals/everyones-grandma-selling-silver-chandelier-forks-knives-scrap-volumes-overwhelm",
+        "date": "2026-02-13T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Inpex Warns Of Looming LNG Crunch in Asia",
+        "link": "https://www.zerohedge.com/commodities/inpex-warns-looming-lng-crunch-asia",
+        "date": "2026-02-13T01:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Two Israelis Arrested, Indicted After Using Classified Iran Info For Polymarket Bets",
+        "link": "https://www.zerohedge.com/geopolitical/two-israelis-arrested-indicted-using-classified-iran-info-polymarket-bets",
+        "date": "2026-02-13T00:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Microsoft AI CEO Warns Most White Collar Jobs Fully Automated \"Within Next 12-18 Months\"; Anthropic Fears Potential For 'Heinous Crimes'",
+        "link": "https://www.zerohedge.com/ai/microsoft-ai-ceo-warns-most-white-collar-jobs-will-be-fully-automated-within-next-12-18-months",
+        "date": "2026-02-13T00:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Confirmed: US Covertly Sent Thousands Of Starlink Terminals Into Iran Amid Unrest",
+        "link": "https://www.zerohedge.com/geopolitical/confirmed-us-covertly-sent-thousands-starlink-terminals-iran-amid-unrest",
+        "date": "2026-02-12T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India's Richest Man Sees Company Shares Dip After OFAC Request On Iranian LPG Allegations",
+        "link": "https://www.zerohedge.com/markets/adani-shares-dip-after-ofac-request-iranian-lpg-allegations",
+        "date": "2026-02-12T23:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-13T10:27:48.353Z"
+  }
+}
