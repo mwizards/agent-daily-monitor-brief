@@ -1,0 +1,374 @@
+{
+  "generatedAt": "2026-02-16T10:37:10.971Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 5.53,
+        "current": 33.79,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +5.53% to $33.79"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "'No Prospect' Of European Governments Preventing Civil War, Warns British Army Colonel",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] 'No Prospect' Of European Governments Preventing Civil War, Warns British Army Colonel"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "The great rotation: Why this fund manager is pivoting from the U.S. toward Europe",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] The great rotation: Why this fund manager is pivoting from the U.S. toward Europe"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The Biggest Bait-and-Switch War Of The Century",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The Biggest Bait-and-Switch War Of The Century"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Leftists Install Unauthorized Sirens Across LA To Warn Illegals Of ICE Raids",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Leftists Install Unauthorized Sirens Across LA To Warn Illegals Of ICE Raids"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 2.49,
+        "current": 462.62,
+        "direction": "UP",
+        "message": "Gold (GLD) +2.49% to $462.62"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.94,
+        "current": 69.72,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.94% to $69.72"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "30Y",
+        "current": 4.72,
+        "changeBps": -10,
+        "direction": "DOWN",
+        "message": "30Y yield -10bps to 4.72%"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "As Demand Grows, US Nuclear Energy Industry Faces Looming Crunch In Reactor Fuel Supply",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] As Demand Grows, US Nuclear Energy Industry Faces Looming Crunch In Reactor Fuel Supply"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 65.2,
+        "message": "Gold/Silver ratio: 65.2x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 462.62,
+        "previousClose": 451.39,
+        "high": 463.8399,
+        "low": 456.25,
+        "changePct": 2.49
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.72,
+        "previousClose": 67.73,
+        "high": 71.3199,
+        "low": 68.86,
+        "changePct": 2.94
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 87.94,
+        "previousClose": 87.15,
+        "high": 88.2381,
+        "low": 84.94,
+        "changePct": 0.91
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.96,
+        "previousClose": 69.31,
+        "high": 70.485,
+        "low": 67.21,
+        "changePct": -0.5
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 51.91,
+        "previousClose": 51.75,
+        "high": 52.6382,
+        "low": 50.3801,
+        "changePct": 0.31
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33.79,
+        "previousClose": 32.02,
+        "high": 34.0368,
+        "low": 32.49,
+        "changePct": 5.53
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 54.35,
+        "previousClose": 53.98,
+        "high": 54.575,
+        "low": 53.8108,
+        "changePct": 0.69
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.82,
+        "previousClose": 26.82,
+        "high": 26.885,
+        "low": 26.8,
+        "changePct": 0
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.7,
+        "previousClose": 89.25,
+        "high": 89.81,
+        "low": 89.5224,
+        "changePct": 0.5
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 681.75,
+        "previousClose": 681.27,
+        "high": 686.2799,
+        "low": 677.52,
+        "changePct": 0.07
+      }
+    },
+    "metals": {
+      "gold": 5029.6,
+      "silver": 77.14,
+      "copper": 5.78,
+      "platinum": 2038,
+      "crude": null,
+      "goldSilverRatio": 65.2
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5029.6,
+        "change": -16.699707,
+        "changePct": -0.33,
+        "previousClose": 5046.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 77.14,
+        "change": -0.8239975,
+        "changePct": -1.06,
+        "previousClose": 77.964
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.7765,
+        "change": -0.026499748,
+        "changePct": -0.46,
+        "previousClose": 5.803
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2038,
+        "change": -39.100098,
+        "changePct": -1.88,
+        "previousClose": 2077.1
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 62.72,
+        "change": -0.16999817,
+        "changePct": -0.27,
+        "previousClose": 62.89
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.47,
+        "previous": 3.52,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-02-12"
+      },
+      "10Y": {
+        "current": 4.09,
+        "previous": 4.18,
+        "change": -0.09,
+        "changeBps": -9,
+        "date": "2026-02-12"
+      },
+      "30Y": {
+        "current": 4.72,
+        "previous": 4.82,
+        "change": -0.1,
+        "changeBps": -10,
+        "date": "2026-02-12"
+      },
+      "USD_BROAD": {
+        "current": 118.2407,
+        "previous": 118.5034,
+        "change": -0.26,
+        "changeBps": -26,
+        "date": "2026-02-06"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 25113,
+        "previous": 844041,
+        "change": -818928,
+        "period": "2026-02-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "'No Prospect' Of European Governments Preventing Civil War, Warns British Army Colonel",
+        "link": "https://www.zerohedge.com/political/no-prospect-european-governments-preventing-civil-war-warns-british-army-colonel",
+        "date": "2026-02-16T10:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The great rotation: Why this fund manager is pivoting from the U.S. toward Europe",
+        "link": "https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories",
+        "date": "2026-02-16T08:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Biggest Bait-and-Switch War Of The Century",
+        "link": "https://www.zerohedge.com/geopolitical/biggest-bait-and-switch-war-century",
+        "date": "2026-02-16T03:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"You Ought To Be In Jail\": Senator Unloads On Minnesota AG Ellison Over Fraud Scandal",
+        "link": "https://www.zerohedge.com/political/you-ought-be-jail-senator-unloads-minnesota-ag-ellison-over-fraud-scandal",
+        "date": "2026-02-16T01:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Launches Investigation Into Texas's Muslim-Only Community Project",
+        "link": "https://www.zerohedge.com/political/trump-admin-launches-investigation-texass-muslim-only-community-project",
+        "date": "2026-02-15T22:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Leftists Install Unauthorized Sirens Across LA To Warn Illegals Of ICE Raids",
+        "link": "https://www.zerohedge.com/political/leftists-install-unauthorized-sirens-across-la-warn-illegals-ice-raids",
+        "date": "2026-02-15T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Gaming Out \"Sustained, Weeks-Long Military Campaign\" Against Iran Which Could Open Pandora's Box",
+        "link": "https://www.zerohedge.com/geopolitical/pentagon-gaming-out-sustained-weeks-long-military-campaign-against-iran-which-could",
+        "date": "2026-02-15T19:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "As Demand Grows, US Nuclear Energy Industry Faces Looming Crunch In Reactor Fuel Supply",
+        "link": "https://www.zerohedge.com/geopolitical/demand-grows-us-nuclear-energy-industry-faces-looming-crunch-reactor-fuel-supply",
+        "date": "2026-02-15T19:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Border Patrol Fired Army Lasers At Party Balloons, Forcing El Paso Air Traffic Shutdown",
+        "link": "https://www.zerohedge.com/geopolitical/border-patrol-fired-army-lasers-party-balloon-forcing-air-traffic-shutdown",
+        "date": "2026-02-15T18:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Seized A Dozen Ukrainian Villages In February: 'Expanding Security Zone'",
+        "link": "https://www.zerohedge.com/geopolitical/russia-seized-dozen-ukrainian-villages-february-expanding-security-zone",
+        "date": "2026-02-15T17:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Billion Dollar Movie In One Prompt\": AI Disruption Crosshairs Hone In On Hollywood Studios",
+        "link": "https://www.zerohedge.com/ai/billion-dollar-movie-one-prompt-ai-disruption-crosshairs-hone-hollywood-studios",
+        "date": "2026-02-15T16:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Weak Dollar Narrative",
+        "link": "https://www.zerohedge.com/markets/weak-dollar-narrative",
+        "date": "2026-02-15T15:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘I’m a loner’: I’m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?",
+        "link": "https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories",
+        "date": "2026-02-15T13:17:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-16T10:37:03.803Z"
+  }
+}
