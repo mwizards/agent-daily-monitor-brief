@@ -1,0 +1,388 @@
+{
+  "generatedAt": "2026-02-18T10:31:29.809Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.12,
+        "current": 448.2,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.12% to $448.2"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -4.8,
+        "current": 66.37,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -4.8% to $66.37"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.59,
+        "current": 84.78,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.59% to $84.78"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -4.62,
+        "current": 32.23,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -4.62% to $32.23"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "UK inflation cools markedly in January, boosting odds of Bank of England rate cut",
+        "keywords": [
+          "rate cut"
+        ],
+        "message": "[CNBC Economy] UK inflation cools markedly in January, boosting odds of Bank of England rate cut"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Google Warns Chinese And Russian Hackers Are Targeting US Defense Companies",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Google Warns Chinese And Russian Hackers Are Targeting US Defense Companies"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Threatens Iraq With Crippling Sanctions If Maliki Elected To 3rd Term As PM",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] Trump Threatens Iraq With Crippling Sanctions If Maliki Elected To 3rd Term As PM"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "China's Unprecedented Oil Stockpiling Sparks Questions If Beijing Is Preparing For War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] China's Unprecedented Oil Stockpiling Sparks Questions If Beijing Is Preparing For War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Kremlin Mocks European 'Illusions' For Wanting Own Nuclear Umbrella",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Kremlin Mocks European 'Illusions' For Wanting Own Nuclear Umbrella"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 65.12,
+        "message": "Gold/Silver ratio: 65.12x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 448.2,
+        "previousClose": 462.62,
+        "high": 451.36,
+        "low": 445.55,
+        "changePct": -3.12
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 66.37,
+        "previousClose": 69.72,
+        "high": 67.7,
+        "low": 65.16,
+        "changePct": -4.8
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 84.78,
+        "previousClose": 87.94,
+        "high": 85.02,
+        "low": 81.79,
+        "changePct": -3.59
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.22,
+        "previousClose": 68.96,
+        "high": 68.8,
+        "low": 66.01,
+        "changePct": -1.07
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 51.32,
+        "previousClose": 51.91,
+        "high": 51.77,
+        "low": 49.59,
+        "changePct": -1.14
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 32.23,
+        "previousClose": 33.79,
+        "high": 32.59,
+        "low": 30.99,
+        "changePct": -4.62
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 53.75,
+        "previousClose": 54.35,
+        "high": 54.9,
+        "low": 53.185,
+        "changePct": -1.1
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 26.91,
+        "previousClose": 26.82,
+        "high": 27.01,
+        "low": 26.8901,
+        "changePct": 0.34
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.87,
+        "previousClose": 89.7,
+        "high": 90.12,
+        "low": 89.76,
+        "changePct": 0.19
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 682.85,
+        "previousClose": 681.75,
+        "high": 684.94,
+        "low": 675.78,
+        "changePct": 0.16
+      }
+    },
+    "metals": {
+      "gold": 4940.1,
+      "silver": 75.86,
+      "copper": 5.72,
+      "platinum": 2051.4,
+      "crude": null,
+      "goldSilverRatio": 65.12
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4940.1,
+        "change": 34.200195,
+        "changePct": 0.7,
+        "previousClose": 4905.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 75.865,
+        "change": 2.324997,
+        "changePct": 3.16,
+        "previousClose": 73.54
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.7175,
+        "change": 0.075000286,
+        "changePct": 1.33,
+        "previousClose": 5.6425
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2051.4,
+        "change": 33.099854,
+        "changePct": 1.64,
+        "previousClose": 2018.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 62.48,
+        "change": 0.22000122,
+        "changePct": 0.35,
+        "previousClose": 62.26
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.4,
+        "previous": 3.47,
+        "change": -0.07,
+        "changeBps": -7,
+        "date": "2026-02-13"
+      },
+      "10Y": {
+        "current": 4.04,
+        "previous": 4.09,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-02-13"
+      },
+      "30Y": {
+        "current": 4.69,
+        "previous": 4.72,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-02-13"
+      },
+      "USD_BROAD": {
+        "current": 117.5258,
+        "previous": 117.5376,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 25113,
+        "previous": 844041,
+        "change": -818928,
+        "period": "2026-02-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Here’s how strong the S&P 500 performs when inflation is falling rather than rising",
+        "link": "https://www.marketwatch.com/story/heres-how-strong-the-s-p-500-performs-when-inflation-is-falling-rather-than-rising-2c849dfa?mod=mw_rss_topstories",
+        "date": "2026-02-18T10:06:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "German Public Broadcaster Ran Fake AI-Generated Clip Of 'ICE Troops' Arresting Migrant Family",
+        "link": "https://www.zerohedge.com/political/german-public-broadcaster-ran-fake-ai-generated-clip-ice-troops-arresting-migrant-family",
+        "date": "2026-02-18T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Kremlin Mocks European 'Illusions' For Wanting Own Nuclear Umbrella",
+        "link": "https://www.zerohedge.com/geopolitical/kremlin-mocks-european-illusions-wanting-their-own-nuclear-umbrella",
+        "date": "2026-02-18T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "White House Voices Strong Support For Hungary's Orban Ahead Of Elections",
+        "link": "https://www.zerohedge.com/geopolitical/white-house-voices-strong-support-hungarys-orban-ahead-elections",
+        "date": "2026-02-18T08:30:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "UK inflation cools markedly in January, boosting odds of Bank of England rate cut",
+        "link": "https://www.cnbc.com/2026/02/18/uk-inflation-cools-jan-2026-boe-cut.html",
+        "date": "2026-02-18T07:32:35.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Tesla dodges California license suspension after dropping misleading 'autopilot' marketing terms",
+        "link": "https://www.foxbusiness.com/economy/tesla-dodges-california-license-suspension-dropping-misleading-autopilot-marketing",
+        "date": "2026-02-18T06:36:14.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Google Warns Chinese And Russian Hackers Are Targeting US Defense Companies",
+        "link": "https://www.zerohedge.com/technology/google-warns-chinese-and-russian-hackers-are-targeting-us-defense-companies",
+        "date": "2026-02-18T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Winter Storm Fern Proved Coal Is Still the Power Grid's Reliable Backbone",
+        "link": "https://www.zerohedge.com/energy/winter-storm-fern-proved-coal-still-power-grids-reliable-backbone",
+        "date": "2026-02-18T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Military Blows Up 3 Alleged Drug Boats, Killing 11, After Lull Since January",
+        "link": "https://www.zerohedge.com/geopolitical/us-military-blows-3-alleged-drug-boats-killing-11-after-lull-january",
+        "date": "2026-02-18T00:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Zelensky Slams Trump Pressure As 'Not Fair' - Says Ukrainian Public Won't Let Him Cede Land",
+        "link": "https://www.zerohedge.com/geopolitical/zelensky-slams-trump-pressure-not-fair-says-ukrainian-public-wont-let-him-cede-land",
+        "date": "2026-02-17T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Threatens Iraq With Crippling Sanctions If Maliki Elected To 3rd Term As PM",
+        "link": "https://www.zerohedge.com/geopolitical/trump-threatens-iraq-crippling-sanctions-if-maliki-elected-3rd-term-pm",
+        "date": "2026-02-17T22:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's Unprecedented Oil Stockpiling Sparks Questions If Beijing Is Preparing For War",
+        "link": "https://www.zerohedge.com/markets/chinas-unprecedented-oil-stockpiling-sparks-questions-if-beijing-preparing-war",
+        "date": "2026-02-17T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Escalation: Iran, Russia, China To Hold Naval Drill In Flashpoint Strait Of Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/escalation-iran-russia-china-hold-naval-drill-flashpoint-strait-hormuz",
+        "date": "2026-02-17T21:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Trump touts potential 20% tax refunds from 'Big Beautiful Bill'",
+        "link": "https://www.foxbusiness.com/economy/trump-touts-potential-20-tax-refunds-ahead-2026-filing-season",
+        "date": "2026-02-17T19:59:41.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Goldman Sachs to drop DEI board standards as Trump's anti-woke campaign spreads across corporate America",
+        "link": "https://www.foxbusiness.com/economy/goldman-sachs-drop-dei-board-standards-trumps-anti-woke-campaign-spreads-across-corporate-america",
+        "date": "2026-02-17T12:00:05.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-18T10:31:21.007Z"
+  }
+}
