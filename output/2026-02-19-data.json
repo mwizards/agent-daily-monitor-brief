@@ -1,0 +1,420 @@
+{
+  "generatedAt": "2026-02-19T10:30:57.692Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 5.6,
+        "current": 70.09,
+        "direction": "UP",
+        "message": "Silver (SLV) +5.6% to $70.09"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 4.5,
+        "current": 71.29,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +4.5% to $71.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 3.25,
+        "current": 52.99,
+        "direction": "UP",
+        "message": "Uranium (URA) +3.25% to $52.99"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.72,
+        "current": 33.43,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.72% to $33.43"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "How A Water War Is Brewing Over A Drying Lake In Nevada",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] How A Water War Is Brewing Over A Drying Lake In Nevada"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Kevin Hassett says Fed economists should be 'disciplined' over tariff study",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] Kevin Hassett says Fed economists should be 'disciplined' over tariff study"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "CNN Issues Dire Warning To Democrats On 2026 Governors' Races",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] CNN Issues Dire Warning To Democrats On 2026 Governors' Races"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Withdrawing All Forces From Syria, Over A Year After Regime Change By Proxy War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] US Withdrawing All Forces From Syria, Over A Year After Regime Change By Proxy War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Fed dissent grows as some officials weigh return to interest rate hikes amid stubborn inflation",
+        "keywords": [
+          "rate hike"
+        ],
+        "message": "[Fox Biz Economy] Fed dissent grows as some officials weigh return to interest rate hikes amid stubborn inflation"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 2.25,
+        "current": 458.28,
+        "direction": "UP",
+        "message": "Gold (GLD) +2.25% to $458.28"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.22,
+        "current": 86.66,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.22% to $86.66"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Beijing Blasts Trump After US Releases New Details On Alleged 2020 Chinese Nuclear Test",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Beijing Blasts Trump After US Releases New Details On Alleged 2020 Chinese Nuclear Test"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.86,
+        "message": "Gold/Silver ratio: 63.86x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 12
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 458.28,
+        "previousClose": 448.2,
+        "high": 460.51,
+        "low": 455.324,
+        "changePct": 2.25
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 70.09,
+        "previousClose": 66.37,
+        "high": 70.97,
+        "low": 69.07,
+        "changePct": 5.6
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 86.66,
+        "previousClose": 84.78,
+        "high": 87.6,
+        "low": 85.935,
+        "changePct": 2.22
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 71.29,
+        "previousClose": 68.22,
+        "high": 72.2,
+        "low": 69.275,
+        "changePct": 4.5
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.99,
+        "previousClose": 51.32,
+        "high": 53.6499,
+        "low": 51.595,
+        "changePct": 3.25
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33.43,
+        "previousClose": 32.23,
+        "high": 33.935,
+        "low": 32.84,
+        "changePct": 3.72
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 54.78,
+        "previousClose": 53.75,
+        "high": 54.86,
+        "low": 54.22,
+        "changePct": 1.92
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.08,
+        "previousClose": 26.91,
+        "high": 27.08,
+        "low": 26.965,
+        "changePct": 0.63
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.53,
+        "previousClose": 89.87,
+        "high": 89.86,
+        "low": 89.47,
+        "changePct": -0.38
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 686.29,
+        "previousClose": 682.85,
+        "high": 689.15,
+        "low": 682.83,
+        "changePct": 0.5
+      }
+    },
+    "metals": {
+      "gold": 5009.7,
+      "silver": 78.45,
+      "copper": 5.76,
+      "platinum": 2091.8,
+      "crude": null,
+      "goldSilverRatio": 63.86
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5009.7,
+        "change": 0.20019531,
+        "changePct": 0,
+        "previousClose": 5009.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 78.45,
+        "change": 0.8519974,
+        "changePct": 1.1,
+        "previousClose": 77.598
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.757,
+        "change": -0.046000004,
+        "changePct": -0.79,
+        "previousClose": 5.803
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2091.8,
+        "change": -21.099854,
+        "changePct": -1,
+        "previousClose": 2112.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 65.79,
+        "change": 0.73999786,
+        "changePct": 1.14,
+        "previousClose": 65.05
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.43,
+        "previous": 3.4,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-02-17"
+      },
+      "10Y": {
+        "current": 4.05,
+        "previous": 4.04,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-02-17"
+      },
+      "30Y": {
+        "current": 4.68,
+        "previous": 4.69,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-17"
+      },
+      "USD_BROAD": {
+        "current": 117.5258,
+        "previous": 117.5376,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 25113,
+        "previous": 844041,
+        "change": -818928,
+        "period": "2026-02-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Beijing Blasts Trump After US Releases New Details On Alleged 2020 Chinese Nuclear Test",
+        "link": "https://www.zerohedge.com/geopolitical/us-releases-new-details-alleged-2020-chinese-nuclear-test",
+        "date": "2026-02-19T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Eni Considers Return To Oil Trading As Rivals Reap Billions",
+        "link": "https://www.zerohedge.com/energy/eni-considers-return-oil-trading-rivals-reap-billions",
+        "date": "2026-02-19T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Berlin Green Party Welcomes World's 'Climate Refugees', Despite Housing/Fiscal Crisis",
+        "link": "https://www.zerohedge.com/geopolitical/berlin-green-party-welcomes-worlds-climate-refugees-despite-housingfiscal-crisis",
+        "date": "2026-02-19T07:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Closes CDL Loophole That Let Illegal Immigrants Drive Big-Rigs",
+        "link": "https://www.zerohedge.com/political/trump-admin-closes-cdl-loophole-let-illegal-immigrants-drive-big-rigs",
+        "date": "2026-02-19T04:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "What oil hitting $70 a barrel would signal about rising U.S.-Iran tensions",
+        "link": "https://www.marketwatch.com/story/what-oil-hitting-70-a-barrel-would-signal-about-iran-and-u-s-tensions-cc026155?mod=mw_rss_topstories",
+        "date": "2026-02-19T03:48:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How A Water War Is Brewing Over A Drying Lake In Nevada",
+        "link": "https://www.zerohedge.com/personal-finance/how-water-war-brewing-over-drying-lake-nevada",
+        "date": "2026-02-19T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: Humanoid Robots In China Put On Jaw-Dropping Show",
+        "link": "https://www.zerohedge.com/technology/watch-humanoid-robots-china-put-jaw-dropping-show",
+        "date": "2026-02-19T02:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Kevin Hassett says Fed economists should be 'disciplined' over tariff study",
+        "link": "https://www.foxbusiness.com/economy/kevin-hassett-says-fed-economists-should-disciplined-over-tariff-study",
+        "date": "2026-02-19T01:44:29.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "CNN Issues Dire Warning To Democrats On 2026 Governors' Races",
+        "link": "https://www.zerohedge.com/political/cnn-issues-dire-warning-democrats-2026-governors-races",
+        "date": "2026-02-19T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "80% Plunge In Immigration Is Reshaping Labor Market Math, But AI Wildcard Looms: Goldman",
+        "link": "https://www.zerohedge.com/economics/80-plunge-immigration-reshaping-labor-market-math-ai-wildcard-looms-goldman",
+        "date": "2026-02-19T00:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Leans On Russia To Develop Oilfields",
+        "link": "https://www.zerohedge.com/energy/iran-leans-russia-develop-oilfields",
+        "date": "2026-02-19T00:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Withdrawing All Forces From Syria, Over A Year After Regime Change By Proxy War",
+        "link": "https://www.zerohedge.com/geopolitical/us-withdrawing-all-forces-syria-over-year-after-regime-change-proxy-war",
+        "date": "2026-02-18T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Japan's Top Toilet Maker Is 'Undervalued, Overlooked' AI Play Over 'Cryogenic Etching' Technology, Activist Investor Says",
+        "link": "https://www.zerohedge.com/political/japans-top-toilet-maker-undervalued-overlooked-ai-play-over-cryogenic-etching-technology",
+        "date": "2026-02-18T23:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "No 'Gentlemen's Agreement' With Russia To Continue Compliance With New Start Treaty: Top Official",
+        "link": "https://www.zerohedge.com/geopolitical/no-gentlemens-agreement-russia-continue-compliance-new-start-treaty-top-official",
+        "date": "2026-02-18T22:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fed dissent grows as some officials weigh return to interest rate hikes amid stubborn inflation",
+        "link": "https://www.foxbusiness.com/economy/fed-dissent-grows-some-officials-weigh-return-interest-rate-hikes-amid-stubborn-inflation",
+        "date": "2026-02-18T21:52:40.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-19T10:30:49.847Z"
+  }
+}
