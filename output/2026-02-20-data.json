@@ -1,0 +1,311 @@
+{
+  "generatedAt": "2026-02-20T10:24:29.317Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.44,
+        "current": 34.58,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.44% to $34.58"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "US businesses shift away from China under Trump tariffs",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] US businesses shift away from China under Trump tariffs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump's War Room Assesses The Midterms: It's The Economy, Stupid",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump's War Room Assesses The Midterms: It's The Economy, Stupid"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[CNBC Economy] U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.76,
+        "message": "Gold/Silver ratio: 62.76x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 4
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 459.56,
+        "previousClose": 458.28,
+        "high": 461.505,
+        "low": 456.08,
+        "changePct": 0.28
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 71.01,
+        "previousClose": 70.09,
+        "high": 71.67,
+        "low": 69.86,
+        "changePct": 1.31
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 86.12,
+        "previousClose": 86.66,
+        "high": 86.12,
+        "low": 83.81,
+        "changePct": -0.62
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 72.62,
+        "previousClose": 71.29,
+        "high": 73.41,
+        "low": 69.75,
+        "changePct": 1.87
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 53.92,
+        "previousClose": 52.99,
+        "high": 54.1699,
+        "low": 51.82,
+        "changePct": 1.76
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.58,
+        "previousClose": 33.43,
+        "high": 34.645,
+        "low": 33.03,
+        "changePct": 3.44
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.18,
+        "previousClose": 54.78,
+        "high": 55.88,
+        "low": 54.925,
+        "changePct": 0.73
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.12,
+        "previousClose": 27.08,
+        "high": 27.1694,
+        "low": 27.095,
+        "changePct": 0.15
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.62,
+        "previousClose": 89.53,
+        "high": 89.72,
+        "low": 89.365,
+        "changePct": 0.1
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 684.48,
+        "previousClose": 686.29,
+        "high": 686.18,
+        "low": 681.5475,
+        "changePct": -0.26
+      }
+    },
+    "metals": {
+      "gold": 5045.1,
+      "silver": 80.39,
+      "copper": 5.76,
+      "platinum": 2122.2,
+      "crude": null,
+      "goldSilverRatio": 62.76
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5045.1,
+        "change": 47.700195,
+        "changePct": 0.95,
+        "previousClose": 4997.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 80.39,
+        "change": 2.7559967,
+        "changePct": 3.55,
+        "previousClose": 77.634
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.759,
+        "change": 0.020499706,
+        "changePct": 0.36,
+        "previousClose": 5.7385
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2122.2,
+        "change": 53.5,
+        "changePct": 2.59,
+        "previousClose": 2068.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 65.92,
+        "change": -0.48000336,
+        "changePct": -0.72,
+        "previousClose": 66.4
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.47,
+        "previous": 3.43,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-02-18"
+      },
+      "10Y": {
+        "current": 4.09,
+        "previous": 4.05,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-02-18"
+      },
+      "30Y": {
+        "current": 4.71,
+        "previous": 4.68,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-02-18"
+      },
+      "USD_BROAD": {
+        "current": 117.5258,
+        "previous": 117.5376,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 106512,
+        "previous": 415441,
+        "change": -308929,
+        "period": "2026-02-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Guyana Fast-Tracks Gas Expansion As Oil Cash Piles Up",
+        "link": "https://www.zerohedge.com/energy/guyana-fast-tracks-gas-expansion-oil-cash-piles",
+        "date": "2026-02-20T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Plans Sprawling Base For 5,000 International Troops In Southern Gaza",
+        "link": "https://www.zerohedge.com/geopolitical/us-plans-sprawling-base-5000-international-troops-southern-gaza",
+        "date": "2026-02-20T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Danish Navy Intercepts, Detains Iran-Flagged Cargo Ship",
+        "link": "https://www.zerohedge.com/geopolitical/denmark-detains-iran-flagged-cargo-ship-under-us-sanctions",
+        "date": "2026-02-20T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ex-CIA Analyst Peels Back The US Information Operation In Iran",
+        "link": "https://www.zerohedge.com/geopolitical/ex-cia-analyst-peels-back-us-information-operation-iran",
+        "date": "2026-02-20T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How Bhattacharya's NIH Is Rethinking China, DEI, And High‑Risk Labs",
+        "link": "https://www.zerohedge.com/markets/how-bhattacharyas-nih-rethinking-china-dei-and-high-risk-labs",
+        "date": "2026-02-20T02:45:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "US businesses shift away from China under Trump tariffs",
+        "link": "https://www.foxbusiness.com/economy/us-businesses-shift-away-from-china-under-trump-tariffs",
+        "date": "2026-02-20T01:49:25.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Orders Release Of All Files Related To UFOs & Aliens",
+        "link": "https://www.zerohedge.com/political/trump-has-ufo-speech-ready-deliver",
+        "date": "2026-02-20T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: Iran, Russia, China Joint Drills Kick Off In Crowded Waters As NOTAM Issued",
+        "link": "https://www.zerohedge.com/geopolitical/watch-iran-russia-china-joint-drills-kick-crowded-waters-notam-issued",
+        "date": "2026-02-20T00:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump's War Room Assesses The Midterms: It's The Economy, Stupid",
+        "link": "https://www.zerohedge.com/political/trumps-war-room-assesses-midterms-its-economy-stupid",
+        "date": "2026-02-19T22:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Trump admin ramps up effort to revive coal industry as power demand surges",
+        "link": "https://www.foxbusiness.com/economy/trump-admin-ramps-up-effort-revive-coal-industry-power-demand-surges",
+        "date": "2026-02-19T20:32:55.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "U.S. trade deficit totaled $901 billion in 2025, barely budging despite Trump's tariffs",
+        "link": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html",
+        "date": "2026-02-19T18:47:02.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-20T10:24:18.189Z"
+  }
+}
