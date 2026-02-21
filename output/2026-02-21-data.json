@@ -1,0 +1,417 @@
+{
+  "generatedAt": "2026-02-21T10:13:04.714Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 7.9,
+        "current": 76.62,
+        "direction": "UP",
+        "message": "Silver (SLV) +7.9% to $76.62"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 3.45,
+        "current": 89.09,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +3.45% to $89.09"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 4.51,
+        "current": 36.14,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +4.51% to $36.14"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iranian Starlink Black Market Prices Soar As War Risks Rise",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iranian Starlink Black Market Prices Soar As War Risks Rise"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Don’t expect lower prices now that the Supreme Court has ruled against Trump’s tariffs",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[MarketWatch] Don’t expect lower prices now that the Supreme Court has ruled against Trump’s tariffs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel Reviews Wartime Hospital Readiness As Iran Retaliation Fears Mount",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel Reviews Wartime Hospital Readiness As Iran Retaliation Fears Mount"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "How should businesses approach tariff refunds?",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] How should businesses approach tariff refunds?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Trump’s tariffs get knocked out — but the hit to small business is just beginning",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[MarketWatch] Trump’s tariffs get knocked out — but the hit to small business is just beginning"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Will refunds be issued after Supreme Court ruling on Trump tariffs?",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] Will refunds be issued after Supreme Court ruling on Trump tariffs?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Will American companies get tariff refunds after the Supreme Court decision? What we know so far.",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[MarketWatch] Will American companies get tariff refunds after the Supreme Court decision? What we know so far."
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[CNBC Economy] With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Ford Carrier Group Enters Mediterranean To Join Biggest US Build-Up Since 2003 Iraq War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Ford Carrier Group Enters Mediterranean To Join Biggest US Build-Up Since 2003 Iraq War"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.7,
+        "message": "Gold/Silver ratio: 61.7x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 12
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 468.62,
+        "previousClose": 459.56,
+        "high": 468.62,
+        "low": 458.34,
+        "changePct": 1.97
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 76.62,
+        "previousClose": 71.01,
+        "high": 76.68,
+        "low": 72.26,
+        "changePct": 7.9
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 89.09,
+        "previousClose": 86.12,
+        "high": 89.34,
+        "low": 85.79,
+        "changePct": 3.45
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 73.49,
+        "previousClose": 72.62,
+        "high": 74.89,
+        "low": 71.55,
+        "changePct": 1.2
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.36,
+        "previousClose": 53.92,
+        "high": 55.37,
+        "low": 53.1,
+        "changePct": 0.82
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 36.14,
+        "previousClose": 34.58,
+        "high": 36.225,
+        "low": 34.1,
+        "changePct": 4.51
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 54.88,
+        "previousClose": 55.18,
+        "high": 55.28,
+        "low": 54.51,
+        "changePct": -0.54
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.09,
+        "previousClose": 27.12,
+        "high": 27.15,
+        "low": 27.0383,
+        "changePct": -0.11
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.41,
+        "previousClose": 89.62,
+        "high": 89.73,
+        "low": 88.935,
+        "changePct": -0.23
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 689.43,
+        "previousClose": 684.48,
+        "high": 690,
+        "low": 681.73,
+        "changePct": 0.72
+      }
+    },
+    "metals": {
+      "gold": 5080.9,
+      "silver": 82.34,
+      "copper": 5.84,
+      "platinum": 2176,
+      "crude": null,
+      "goldSilverRatio": 61.7
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5080.9,
+        "change": 83.5,
+        "changePct": 1.67,
+        "previousClose": 4997.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 82.343,
+        "change": 4.7089996,
+        "changePct": 6.07,
+        "previousClose": 77.634
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.839,
+        "change": 0.10050011,
+        "changePct": 1.75,
+        "previousClose": 5.7385
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2176,
+        "change": 107.30005,
+        "changePct": 5.19,
+        "previousClose": 2068.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 66.48,
+        "change": 0.08000183,
+        "changePct": 0.12,
+        "previousClose": 66.4
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.47,
+        "previous": 3.47,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-02-19"
+      },
+      "10Y": {
+        "current": 4.08,
+        "previous": 4.09,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-19"
+      },
+      "30Y": {
+        "current": 4.7,
+        "previous": 4.71,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-19"
+      },
+      "USD_BROAD": {
+        "current": 117.5258,
+        "previous": 117.5376,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-02-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 106512,
+        "previous": 415441,
+        "change": -308929,
+        "period": "2026-02-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Iranian Starlink Black Market Prices Soar As War Risks Rise",
+        "link": "https://www.zerohedge.com/technology/iranian-starlink-black-market-prices-soar-war-risks-rise",
+        "date": "2026-02-21T03:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "A Year Into Trump's 2nd Term: When Does Accountability For The Deep State Begin?",
+        "link": "https://www.zerohedge.com/political/year-trumps-2nd-term-when-does-accountability-deep-state-begin",
+        "date": "2026-02-21T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India Boosts Saudi Oil Imports, Slows Russian Buying, Amid US Pressure",
+        "link": "https://www.zerohedge.com/energy/india-boosts-saudi-oil-imports-eases-russian-crude-amid-us-pressure",
+        "date": "2026-02-21T01:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "FDA Dropping Requirement For 2 Studies For New Drug Approvals",
+        "link": "https://www.zerohedge.com/medical/fda-dropping-requirement-2-studies-new-drug-approvals",
+        "date": "2026-02-21T01:05:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Don’t expect lower prices now that the Supreme Court has ruled against Trump’s tariffs",
+        "link": "https://www.marketwatch.com/story/dont-expect-lower-prices-now-that-the-supreme-court-ruled-against-trumps-tariffs-7334f6c9?mod=mw_rss_topstories",
+        "date": "2026-02-21T01:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Reviews Wartime Hospital Readiness As Iran Retaliation Fears Mount",
+        "link": "https://www.zerohedge.com/geopolitical/israel-reviews-wartime-hospital-readiness-iran-retaliation-fears-mount",
+        "date": "2026-02-20T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Contradictory Reports Of US Evacuating Troops From Exposed Qatar, Bahrain Bases",
+        "link": "https://www.zerohedge.com/markets/us-evacuates-troops-exposed-qatar-bahrain-bases-weekend-strike-coming",
+        "date": "2026-02-20T23:00:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "How should businesses approach tariff refunds?",
+        "link": "https://www.foxbusiness.com/economy/how-should-businesses-approach-tariff-refunds",
+        "date": "2026-02-20T22:54:09.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump’s tariffs get knocked out — but the hit to small business is just beginning",
+        "link": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
+        "date": "2026-02-20T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Goldman Sachs The Latest Firm To Ditch DEI Hiring Criteria",
+        "link": "https://www.zerohedge.com/markets/goldman-sachs-latest-firm-ditch-dei-hiring-criteria",
+        "date": "2026-02-20T20:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Florida Lawmakers Approve Renaming Palm Beach Airport After Trump",
+        "link": "https://www.zerohedge.com/political/florida-lawmakers-approve-renaming-palm-beach-airport-after-trump",
+        "date": "2026-02-20T20:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Will refunds be issued after Supreme Court ruling on Trump tariffs?",
+        "link": "https://www.foxbusiness.com/economy/refunds-issued-after-supreme-court-ruling-trump-tariffs",
+        "date": "2026-02-20T20:01:14.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Will American companies get tariff refunds after the Supreme Court decision? What we know so far.",
+        "link": "https://www.marketwatch.com/story/will-the-u-s-give-tariff-refunds-after-the-supreme-court-decision-what-we-know-so-far-5d1bf6fb?mod=mw_rss_topstories",
+        "date": "2026-02-20T19:24:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "With Trump's 'reciprocal' tariffs struck down, here are the industries still facing higher rates",
+        "link": "https://www.cnbc.com/2026/02/20/trump-tariffs-supreme-court-ruling-industry-higher-rates.html",
+        "date": "2026-02-20T19:23:06.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ford Carrier Group Enters Mediterranean To Join Biggest US Build-Up Since 2003 Iraq War",
+        "link": "https://www.zerohedge.com/geopolitical/ford-carrier-enters-mediterranean-join-biggest-us-build-2003-iraq-war",
+        "date": "2026-02-20T19:15:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-21T10:12:56.982Z"
+  }
+}
