@@ -1,0 +1,364 @@
+{
+  "generatedAt": "2026-02-24T10:35:02.807Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 5.16,
+        "current": 80.57,
+        "direction": "UP",
+        "message": "Silver (SLV) +5.16% to $80.57"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Tariffs have peaked after Supreme Court ruling, says Morgan Stanley expert",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[MarketWatch] Tariffs have peaked after Supreme Court ruling, says Morgan Stanley expert"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "How this award-winning hedge fund manager is betting on a new era of capital scarcity",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] How this award-winning hedge fund manager is betting on a new era of capital scarcity"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "FedEx sues Trump administration for full tariff refunds after Supreme Court ruling on IEEPA",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] FedEx sues Trump administration for full tariff refunds after Supreme Court ruling on IEEPA"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Begins Evacuating Some Personnel From Beirut Embassy As Iran War Looms",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] US Begins Evacuating Some Personnel From Beirut Embassy As Iran War Looms"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "EU Says Trump's Tariff Workaround Violates Trade Deal",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] EU Says Trump's Tariff Workaround Violates Trade Deal"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[CNBC Economy] Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 2.7,
+        "current": 481.28,
+        "direction": "UP",
+        "message": "Gold (GLD) +2.7% to $481.28"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.79,
+        "message": "Gold/Silver ratio: 58.79x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 481.28,
+        "previousClose": 468.62,
+        "high": 481.46,
+        "low": 474.61,
+        "changePct": 2.7
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 80.57,
+        "previousClose": 76.62,
+        "high": 80.695,
+        "low": 77.91,
+        "changePct": 5.16
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 90.85,
+        "previousClose": 89.09,
+        "high": 91.16,
+        "low": 89.02,
+        "changePct": 1.98
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 72.06,
+        "previousClose": 73.49,
+        "high": 73.51,
+        "low": 71.0204,
+        "changePct": -1.95
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 53.44,
+        "previousClose": 54.36,
+        "high": 54.23,
+        "low": 52.7,
+        "changePct": -1.69
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 36.75,
+        "previousClose": 36.14,
+        "high": 37.45,
+        "low": 36.33,
+        "changePct": 1.69
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.15,
+        "previousClose": 54.88,
+        "high": 55.93,
+        "low": 54.865,
+        "changePct": 0.49
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.09,
+        "previousClose": 27.09,
+        "high": 27.09,
+        "low": 27.02,
+        "changePct": 0
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.74,
+        "previousClose": 89.41,
+        "high": 90,
+        "low": 89.53,
+        "changePct": 0.37
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 682.39,
+        "previousClose": 689.43,
+        "high": 690,
+        "low": 680.371,
+        "changePct": -1.02
+      }
+    },
+    "metals": {
+      "gold": 5200,
+      "silver": 88.45,
+      "copper": 5.92,
+      "platinum": 2173.2,
+      "crude": null,
+      "goldSilverRatio": 58.79
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5200,
+        "change": -25.600098,
+        "changePct": -0.49,
+        "previousClose": 5225.6
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 88.445,
+        "change": 1.8720016,
+        "changePct": 2.16,
+        "previousClose": 86.573
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.9235,
+        "change": 0.08249998,
+        "changePct": 1.41,
+        "previousClose": 5.841
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2173.2,
+        "change": 20.599854,
+        "changePct": 0.96,
+        "previousClose": 2152.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 66.45,
+        "change": 0.13999939,
+        "changePct": 0.21,
+        "previousClose": 66.31
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.48,
+        "previous": 3.47,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-02-20"
+      },
+      "10Y": {
+        "current": 4.08,
+        "previous": 4.08,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-02-20"
+      },
+      "30Y": {
+        "current": 4.72,
+        "previous": 4.7,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-02-20"
+      },
+      "USD_BROAD": {
+        "current": 117.9917,
+        "previous": 118.2354,
+        "change": -0.24,
+        "changeBps": -24,
+        "date": "2026-02-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 106512,
+        "previous": 415441,
+        "change": -308929,
+        "period": "2026-02-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Tariffs have peaked after Supreme Court ruling, says Morgan Stanley expert",
+        "link": "https://www.marketwatch.com/story/tariffs-have-peaked-after-supreme-court-ruling-says-morgan-stanley-expert-87f6677b?mod=mw_rss_topstories",
+        "date": "2026-02-24T10:32:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "How this award-winning hedge fund manager is betting on a new era of capital scarcity",
+        "link": "https://www.marketwatch.com/story/this-award-winning-hedge-fund-manager-is-betting-the-era-of-capital-abundance-becomes-one-of-capital-scarcity-fe6ae3c7?mod=mw_rss_topstories",
+        "date": "2026-02-24T09:41:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Critical Part Of Hungary & Slovakia's Russian Oil Flows Has Just Been Blown Up",
+        "link": "https://www.zerohedge.com/geopolitical/critical-part-hungary-slovakias-russian-oil-flows-has-just-been-blown",
+        "date": "2026-02-24T09:15:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "FedEx sues Trump administration for full tariff refunds after Supreme Court ruling on IEEPA",
+        "link": "https://www.foxbusiness.com/economy/fedex-sues-trump-administration-full-tariff-refunds-supreme-court-ruling-ieepa",
+        "date": "2026-02-24T03:25:27.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Necessary Evil: RFK Jr. Defends Trump's Glyphosate Order",
+        "link": "https://www.zerohedge.com/political/necessary-evil-rfk-jr-defends-trumps-glyphosate-order",
+        "date": "2026-02-24T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "President Trump 'Curious' Why Iran Hasn't 'Capitulated'",
+        "link": "https://www.zerohedge.com/geopolitical/president-trump-curious-why-iran-hasnt-capitulated",
+        "date": "2026-02-24T00:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Dominates Global Data Center Population",
+        "link": "https://www.zerohedge.com/technology/us-dominates-global-data-center-population",
+        "date": "2026-02-23T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Begins Evacuating Some Personnel From Beirut Embassy As Iran War Looms",
+        "link": "https://www.zerohedge.com/geopolitical/us-begins-evacuating-some-personnel-beirut-embassy-iran-war-looms",
+        "date": "2026-02-23T23:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is China Really Dumping US Treasuries?",
+        "link": "https://www.zerohedge.com/markets/china-really-dumping-us-treasuries",
+        "date": "2026-02-23T22:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "EU Says Trump's Tariff Workaround Violates Trade Deal",
+        "link": "https://www.zerohedge.com/economics/eu-freeze-trade-deal-us-after-supreme-court-overturns-trump-tariffs",
+        "date": "2026-02-23T22:17:36.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Strike Debate Erupts: Joint Chiefs Chair Allegedly Resists, Trump Fires Back",
+        "link": "https://www.zerohedge.com/military/iran-strike-debate-erupts-joint-chiefs-chair-allegedly-resists-trump-fires-back",
+        "date": "2026-02-23T21:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Trump Organization signs deal for billion-dollar skyscraper on Australia's Gold Coast",
+        "link": "https://www.foxbusiness.com/economy/trump-organization-signs-deal-billion-dollar-skyscraper-australias-gold-coast",
+        "date": "2026-02-23T16:01:09.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+        "link": "https://www.cnbc.com/2026/02/21/supreme-courts-trump-tariff-decision-five-takeaways.html",
+        "date": "2026-02-23T15:53:24.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-24T10:34:55.098Z"
+  }
+}
