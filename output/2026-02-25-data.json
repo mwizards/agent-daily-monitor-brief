@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2026-02-25T10:37:37.662Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 3.07,
+        "current": 74.27,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +3.07% to $74.27"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Surprisingly Abstains From UN Solidarity With Ukraine Vote On War Anniversary",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] US Surprisingly Abstains From UN Solidarity With Ukraine Vote On War Anniversary"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Maryland Sues To Stop DHS From Converting Empty Warehouse Into ICE Facility",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Maryland Sues To Stop DHS From Converting Empty Warehouse Into ICE Facility"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.77,
+        "current": 93.37,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.77% to $93.37"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 2.83,
+        "current": 54.95,
+        "direction": "UP",
+        "message": "Uranium (URA) +2.83% to $54.95"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.42,
+        "current": 37.64,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.42% to $37.64"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 57.07,
+        "message": "Gold/Silver ratio: 57.07x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 474.61,
+        "previousClose": 481.28,
+        "high": 475.44,
+        "low": 469.595,
+        "changePct": -1.39
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 79.08,
+        "previousClose": 80.57,
+        "high": 79.9399,
+        "low": 77.94,
+        "changePct": -1.85
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 93.37,
+        "previousClose": 90.85,
+        "high": 93.99,
+        "low": 89.73,
+        "changePct": 2.77
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 74.27,
+        "previousClose": 72.06,
+        "high": 74.4797,
+        "low": 69.78,
+        "changePct": 3.07
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.95,
+        "previousClose": 53.44,
+        "high": 54.99,
+        "low": 51.97,
+        "changePct": 2.83
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 37.64,
+        "previousClose": 36.75,
+        "high": 37.96,
+        "low": 35.6,
+        "changePct": 2.42
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.1,
+        "previousClose": 55.15,
+        "high": 55.22,
+        "low": 54.4,
+        "changePct": -0.09
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.11,
+        "previousClose": 27.09,
+        "high": 27.15,
+        "low": 27.085,
+        "changePct": 0.07
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.9,
+        "previousClose": 89.74,
+        "high": 90.05,
+        "low": 89.763,
+        "changePct": 0.18
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 687.35,
+        "previousClose": 682.39,
+        "high": 688.35,
+        "low": 680,
+        "changePct": 0.73
+      }
+    },
+    "metals": {
+      "gold": 5197.7,
+      "silver": 91.08,
+      "copper": 6.02,
+      "platinum": 2304.9,
+      "crude": null,
+      "goldSilverRatio": 57.07
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5197.7,
+        "change": 21.40039,
+        "changePct": 0.41,
+        "previousClose": 5176.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 91.08,
+        "change": 2.9500046,
+        "changePct": 3.35,
+        "previousClose": 88.13
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.019,
+        "change": 0.027500153,
+        "changePct": 0.46,
+        "previousClose": 5.9915
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2304.9,
+        "change": 117.59985,
+        "changePct": 5.38,
+        "previousClose": 2187.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 65.9,
+        "change": 0.27000427,
+        "changePct": 0.41,
+        "previousClose": 65.63
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.43,
+        "previous": 3.48,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-02-23"
+      },
+      "10Y": {
+        "current": 4.03,
+        "previous": 4.08,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-02-23"
+      },
+      "30Y": {
+        "current": 4.7,
+        "previous": 4.72,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-02-23"
+      },
+      "USD_BROAD": {
+        "current": 117.9917,
+        "previous": 118.2354,
+        "change": -0.24,
+        "changeBps": -24,
+        "date": "2026-02-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 106512,
+        "previous": 415441,
+        "change": -308929,
+        "period": "2026-02-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin To Launch New Free-Speech Site To Combat Censorship Abroad",
+        "link": "https://www.zerohedge.com/political/trump-admin-launch-new-free-speech-site-combat-censorship-abroad",
+        "date": "2026-02-25T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Report Details Russia's Shadowy Digital Pipeline Concealing $90BN In Crude Exports",
+        "link": "https://www.zerohedge.com/energy/report-details-russias-shadowy-digital-pipeline-concealing-90bn-crude-exports",
+        "date": "2026-02-25T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Another Migrant Sex Offender Granted Asylum In Britain Despite Skipping Bail In Europe",
+        "link": "https://www.zerohedge.com/geopolitical/another-migrant-sex-offender-granted-asylum-britain-despite-skipping-bail-europe",
+        "date": "2026-02-25T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Faces Five Geostrategic Challenges As The Special Operation Enters Its Fifth Year",
+        "link": "https://www.zerohedge.com/geopolitical/russia-faces-five-geostrategic-challenges-special-operation-enters-its-fifth-year",
+        "date": "2026-02-25T07:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "These are the ‘secret words’ Trump wants to hear as U.S., Iran prepare to meet this week",
+        "link": "https://www.marketwatch.com/story/these-are-the-secret-words-trump-wants-to-hear-as-u-s-iran-prepare-to-meet-this-week-3457d46c?mod=mw_rss_topstories",
+        "date": "2026-02-25T04:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran To Buy Chinese Supersonic Anti-Ship Missiles As US Carriers Near",
+        "link": "https://www.zerohedge.com/geopolitical/iran-buy-chinese-supersonic-anti-ship-missiles-us-carriers-near",
+        "date": "2026-02-25T04:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump backs stock-trade ban for Congress during State of the Union. Here’s where the effort stands.",
+        "link": "https://www.marketwatch.com/story/trump-backs-stock-trade-ban-for-congress-during-state-of-the-union-heres-where-the-effort-stands-6cd6fbd8?mod=mw_rss_topstories",
+        "date": "2026-02-25T04:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump announces 401(k) plans with $1,000 match for workers whose employers don’t offer them",
+        "link": "https://www.marketwatch.com/story/trump-401-k-the-president-could-announce-retirement-plans-for-people-whose-employers-dont-offer-them-0ad666ed?mod=mw_rss_topstories",
+        "date": "2026-02-25T03:56:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "CIA Tells Iranians: 'We Want To Help You' - As US Bombers Loom",
+        "link": "https://www.zerohedge.com/geopolitical/cia-tells-iranians-we-want-help-you-us-bombers-loom",
+        "date": "2026-02-25T02:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Talks Economy, Immigration, Taxes, And AI In State Of The Union Address",
+        "link": "https://www.zerohedge.com/political/5-things-watch-trumps-state-union-address-tonight",
+        "date": "2026-02-25T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "A Dozen US F-22 Stealth Jets Land In Israel As Iran Tensions Soar",
+        "link": "https://www.zerohedge.com/geopolitical/dozen-us-f-22-warplanes-land-israel-iran-tensions-soar",
+        "date": "2026-02-25T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Anthropic Accuses DeepSeek, Other China-Based AI Firms Of Free-Riding",
+        "link": "https://www.zerohedge.com/ai/anthropic-accuses-deepseek-other-china-based-ai-firms-free-riding",
+        "date": "2026-02-25T01:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: TDS-Riddled De Niro Sobs In Tears Over Trump",
+        "link": "https://www.zerohedge.com/political/watch-tds-riddled-de-niro-sobs-tears-over-trump",
+        "date": "2026-02-24T23:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Surprisingly Abstains From UN Solidarity With Ukraine Vote On War Anniversary",
+        "link": "https://www.zerohedge.com/geopolitical/us-surprisingly-abstains-un-solidary-ukraine-vote-war-anniversary",
+        "date": "2026-02-24T22:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Maryland Sues To Stop DHS From Converting Empty Warehouse Into ICE Facility",
+        "link": "https://www.zerohedge.com/political/maryland-sues-stop-dhs-converting-empty-warehouse-ice-facility",
+        "date": "2026-02-24T22:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-25T10:37:29.844Z"
+  }
+}
