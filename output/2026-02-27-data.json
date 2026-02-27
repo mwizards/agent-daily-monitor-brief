@@ -1,0 +1,365 @@
+{
+  "generatedAt": "2026-02-27T10:24:54.940Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.79,
+        "current": 39.42,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.79% to $39.42"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Paramount Wins Bidding War For Warner Bros. After Netflix Drops Out",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Paramount Wins Bidding War For Warner Bros. After Netflix Drops Out"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Tariff Rates To Hit 15% Or More For Some Nations Under New Strategy",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] US Tariff Rates To Hit 15% Or More For Some Nations Under New Strategy"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "FedEx says it will return any tariff refunds to customers, shippers who paid them",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] FedEx says it will return any tariff refunds to customers, shippers who paid them"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "The Brits & French Want Ukraine To Go Nuclear Out Of Desperation To Hold Onto Donbass",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] The Brits & French Want Ukraine To Go Nuclear Out Of Desperation To Hold Onto Donbass"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "As US Readies Iran Action, Kim Jong Un Vaunts 'Irreversible & Permanent' Nuclear Arsenal",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] As US Readies Iran Action, Kim Jong Un Vaunts 'Irreversible & Permanent' Nuclear Arsenal"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 57.74,
+        "message": "Gold/Silver ratio: 57.74x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 477.48,
+        "previousClose": 473.42,
+        "high": 477.83,
+        "low": 442.04,
+        "changePct": 0.86
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 80.45,
+        "previousClose": 80.04,
+        "high": 80.56,
+        "low": 72.5169,
+        "changePct": 0.51
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 94.45,
+        "previousClose": 95.06,
+        "high": 94.59,
+        "low": 91.5291,
+        "changePct": -0.64
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 72.31,
+        "previousClose": 73.49,
+        "high": 73.36,
+        "low": 69.7603,
+        "changePct": -1.61
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.87,
+        "previousClose": 55.19,
+        "high": 54.935,
+        "low": 52.95,
+        "changePct": -0.58
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 39.42,
+        "previousClose": 37.98,
+        "high": 39.45,
+        "low": 36.96,
+        "changePct": 3.79
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.05,
+        "previousClose": 54.87,
+        "high": 55.67,
+        "low": 54.12,
+        "changePct": 0.33
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.1,
+        "previousClose": 27.08,
+        "high": 27.17,
+        "low": 27.0601,
+        "changePct": 0.07
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 90.27,
+        "previousClose": 89.91,
+        "high": 90.32,
+        "low": 90.05,
+        "changePct": 0.4
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 689.3,
+        "previousClose": 693.15,
+        "high": 693.3,
+        "low": 684.36,
+        "changePct": -0.56
+      }
+    },
+    "metals": {
+      "gold": 5189,
+      "silver": 89.88,
+      "copper": 6.1,
+      "platinum": 2364.2,
+      "crude": null,
+      "goldSilverRatio": 57.74
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5189,
+        "change": -5.2001953,
+        "changePct": -0.1,
+        "previousClose": 5194.2
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 89.875,
+        "change": 2.2910004,
+        "changePct": 2.62,
+        "previousClose": 87.584
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.1045,
+        "change": 0.0994997,
+        "changePct": 1.66,
+        "previousClose": 6.005
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2364.2,
+        "change": 124.59985,
+        "changePct": 5.56,
+        "previousClose": 2239.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 66.45,
+        "change": 1.2399979,
+        "changePct": 1.9,
+        "previousClose": 65.21
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.45,
+        "previous": 3.43,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-02-25"
+      },
+      "10Y": {
+        "current": 4.05,
+        "previous": 4.04,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-02-25"
+      },
+      "30Y": {
+        "current": 4.7,
+        "previous": 4.7,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-02-25"
+      },
+      "USD_BROAD": {
+        "current": 117.9917,
+        "previous": 118.2354,
+        "change": -0.24,
+        "changeBps": -24,
+        "date": "2026-02-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415441,
+        "previous": 851245,
+        "change": -435804,
+        "period": "2026-02-20",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "UK Locks In Critical Minerals Deal With Kazakhstan To Cut Reliance On China",
+        "link": "https://www.zerohedge.com/economics/uk-locks-critical-minerals-deal-kazakhstan-cut-reliance-china",
+        "date": "2026-02-27T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Xi Purge Latest: China's Top Legislature Abruptly Sacks 9 Top Military Officials",
+        "link": "https://www.zerohedge.com/geopolitical/xi-purge-latest-chinas-top-legislature-abruptly-sacks-9-top-military-officials",
+        "date": "2026-02-27T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Brits & French Want Ukraine To Go Nuclear Out Of Desperation To Hold Onto Donbass",
+        "link": "https://www.zerohedge.com/geopolitical/brits-french-want-ukraine-go-nuclear-out-desperation-hold-donbass",
+        "date": "2026-02-27T07:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "My grandpa retired happily at 70 with $750K after working as a missionary. I know where most Americans go wrong.",
+        "link": "https://www.marketwatch.com/story/my-grandpa-retired-happy-at-70-with-750k-and-hes-doing-just-fine-i-know-where-most-americans-go-wrong-c5774943?mod=mw_rss_topstories",
+        "date": "2026-02-27T05:16:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out",
+        "link": "https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories",
+        "date": "2026-02-27T04:08:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Elite US Air Force Pilot Arrested For Training The Chinese Military",
+        "link": "https://www.zerohedge.com/military/elite-us-air-force-pilot-arrested-training-chinese-military",
+        "date": "2026-02-27T04:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Paramount Wins Bidding War For Warner Bros. After Netflix Drops Out",
+        "link": "https://www.zerohedge.com/markets/paramount-wins-bidding-war-warner-bros-after-netflix-drops-out",
+        "date": "2026-02-27T03:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "As US Readies Iran Action, Kim Jong Un Vaunts 'Irreversible & Permanent' Nuclear Arsenal",
+        "link": "https://www.zerohedge.com/geopolitical/us-readies-iran-action-kim-jong-un-declares-irreversible-permanent-nuclear-arsenal",
+        "date": "2026-02-27T03:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is The Trump Admin Planning To Use Banks To Enforce Immigration Laws?",
+        "link": "https://www.zerohedge.com/political/trump-admin-planning-use-banks-enforce-immigration-laws",
+        "date": "2026-02-27T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Calls Speedboat Shooting Incident Off Cuba An 'Aggressive US Provocation'",
+        "link": "https://www.zerohedge.com/geopolitical/russia-calls-speedboat-shooting-incident-cuba-aggressive-us-provocation",
+        "date": "2026-02-27T02:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Yes, consumers in China are consuming again. It’s just not their No. 1 priority these days.",
+        "link": "https://www.marketwatch.com/story/yes-consumers-in-china-are-consuming-again-its-just-not-their-no-1-priority-these-days-598c2c02?mod=mw_rss_topstories",
+        "date": "2026-02-27T02:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Tariff Rates To Hit 15% Or More For Some Nations Under New Strategy",
+        "link": "https://www.zerohedge.com/geopolitical/us-tariff-rates-hit-15-percent-or-more-some-nations-under-new-strategy",
+        "date": "2026-02-27T01:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Researchers Identify Chinese Influence Network That Targeted Trump, Japan Elections",
+        "link": "https://www.zerohedge.com/markets/researchers-identify-chinese-influence-network-targeted-trump-japan-elections",
+        "date": "2026-02-27T01:05:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "FedEx says it will return any tariff refunds to customers, shippers who paid them",
+        "link": "https://www.foxbusiness.com/economy/fedex-says-return-any-tariff-refunds-customers-shippers-who-paid-them",
+        "date": "2026-02-26T23:55:56.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Rushes To Load Oil Onto Ships In Anticipation Of US Strikes",
+        "link": "https://www.zerohedge.com/energy/iran-rushes-load-oil-ships-anticipation-us-strikes",
+        "date": "2026-02-26T22:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-02-27T10:24:46.916Z"
+  }
+}
