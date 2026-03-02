@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-03-02T10:33:31.512Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 5.64,
+        "current": 84.99,
+        "direction": "UP",
+        "message": "Silver (SLV) +5.64% to $84.99"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US-Israel War On Iran 'Decided ⁠Weeks Ago' Under Cover Of Nuclear Talks: Report",
+        "keywords": [
+          "war",
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US-Israel War On Iran 'Decided ⁠Weeks Ago' Under Cover Of Nuclear Talks: Report"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Admin Seeks Months-Long Pause For Tariff Refunds",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] Trump Admin Seeks Months-Long Pause For Tariff Refunds"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Mid-Atlantic Braces For Another Winter Blast Before A Spring Warmup",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Mid-Atlantic Braces For Another Winter Blast Before A Spring Warmup"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel Suffers Significant Casualties In Iran War Retaliation",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel Suffers Significant Casualties In Iran War Retaliation"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.23,
+        "current": 40.3,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.23% to $40.3"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 56.54,
+        "message": "Gold/Silver ratio: 56.54x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 483.75,
+        "previousClose": 477.48,
+        "high": 483.9,
+        "low": 479.11,
+        "changePct": 1.31
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 84.99,
+        "previousClose": 80.45,
+        "high": 85.27,
+        "low": 82.36,
+        "changePct": 5.64
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 95.7,
+        "previousClose": 94.45,
+        "high": 96.7,
+        "low": 94.59,
+        "changePct": 1.32
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 71.94,
+        "previousClose": 72.31,
+        "high": 72.41,
+        "low": 70.61,
+        "changePct": -0.51
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.34,
+        "previousClose": 54.87,
+        "high": 54.78,
+        "low": 53.509,
+        "changePct": -0.97
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 40.3,
+        "previousClose": 39.42,
+        "high": 40.3,
+        "low": 39.14,
+        "changePct": 2.23
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.92,
+        "previousClose": 55.05,
+        "high": 56.145,
+        "low": 54.925,
+        "changePct": 1.58
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.08,
+        "previousClose": 27.1,
+        "high": 27.1176,
+        "low": 27.05,
+        "changePct": -0.07
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 90.82,
+        "previousClose": 90.27,
+        "high": 90.86,
+        "low": 90.55,
+        "changePct": 0.61
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 685.99,
+        "previousClose": 689.3,
+        "high": 686.83,
+        "low": 681.65,
+        "changePct": -0.48
+      }
+    },
+    "metals": {
+      "gold": 5405.1,
+      "silver": 95.6,
+      "copper": 6.07,
+      "platinum": 2377.3,
+      "crude": null,
+      "goldSilverRatio": 56.54
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5405.1,
+        "change": 157.2002,
+        "changePct": 3,
+        "previousClose": 5247.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 95.595,
+        "change": 2.3040009,
+        "changePct": 2.47,
+        "previousClose": 93.291
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.0745,
+        "change": 0.0149998665,
+        "changePct": 0.25,
+        "previousClose": 6.0595
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2377.3,
+        "change": 3.8000488,
+        "changePct": 0.16,
+        "previousClose": 2373.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 71.91,
+        "change": 4.890007,
+        "changePct": 7.3,
+        "previousClose": 67.02
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.42,
+        "previous": 3.45,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-02-26"
+      },
+      "10Y": {
+        "current": 4.02,
+        "previous": 4.05,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-02-26"
+      },
+      "30Y": {
+        "current": 4.67,
+        "previous": 4.7,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-02-26"
+      },
+      "USD_BROAD": {
+        "current": 117.9917,
+        "previous": 118.2354,
+        "change": -0.24,
+        "changeBps": -24,
+        "date": "2026-02-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 107242,
+        "previous": 8310,
+        "change": 98932,
+        "period": "2026-02-20",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Iran conflicts just adds to wall of worry for U.S. stocks, says Citi strategist",
+        "link": "https://www.marketwatch.com/story/iran-conflicts-just-adds-to-wall-of-worry-for-u-s-stocks-says-citi-strategist-25c0d655?mod=mw_rss_topstories",
+        "date": "2026-03-02T10:26:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Gulf States Say They've Shot Down More Than 1,500 Iranian Missiles, Drones",
+        "link": "https://www.zerohedge.com/markets/gulf-states-say-theyve-shot-down-more-1500-iranian-missiles-drones",
+        "date": "2026-03-02T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UK, France, Germany Slam Iran For 'Reckless' Retaliation - Are Ready To Assist Israel And US",
+        "link": "https://www.zerohedge.com/geopolitical/uk-france-germany-slam-iran-reckless-retaliation-are-ready-assist-israel-and-us",
+        "date": "2026-03-02T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "When The Return Flight Is The Only Goal: Merz Ends China Trip",
+        "link": "https://www.zerohedge.com/markets/when-return-flight-only-goal-merz-ends-china-trip",
+        "date": "2026-03-02T07:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Iran conflict: Where things stand, global responses — and what comes next",
+        "link": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html",
+        "date": "2026-03-02T05:28:28.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is The US Military Campaign Against Iran Part Of Trump's Grand Strategy Against China?",
+        "link": "https://www.zerohedge.com/geopolitical/us-military-campaign-against-iran-part-trumps-grand-strategy-against-china",
+        "date": "2026-03-02T04:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US-Israel War On Iran 'Decided ⁠Weeks Ago' Under Cover Of Nuclear Talks: Report",
+        "link": "https://www.zerohedge.com/geopolitical/us-israel-war-iran-decided-weeks-ago-under-cover-nuclear-talks-report",
+        "date": "2026-03-02T03:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Oil prices surge after strikes kill Iran’s supreme leader, tankers hit near Strait of Hormuz",
+        "link": "https://www.foxbusiness.com/markets/oil-prices-jump-iran-supreme-leader-killed-hormuz-tanker-strikes",
+        "date": "2026-03-02T03:15:20.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Joe Biden Accuses Trump Of Planning To 'Steal' The Midterms, Claims Credit For Border Security",
+        "link": "https://www.zerohedge.com/political/joe-biden-accuses-trump-planning-steal-midterms-claims-credit-border-security",
+        "date": "2026-03-02T03:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Seeks Months-Long Pause For Tariff Refunds",
+        "link": "https://www.zerohedge.com/geopolitical/trump-admin-seeks-months-long-pause-tariff-refunds",
+        "date": "2026-03-02T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Iran Question Is All About China",
+        "link": "https://www.zerohedge.com/geopolitical/iran-question-all-about-china",
+        "date": "2026-03-02T01:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mid-Atlantic Braces For Another Winter Blast Before A Spring Warmup",
+        "link": "https://www.zerohedge.com/weather/arctic-clipper-sets-crosshairs-mid-atlantic",
+        "date": "2026-03-02T01:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Vows 'American Energy Dominance' In Texas Rally Ahead Of Primary Elections",
+        "link": "https://www.zerohedge.com/political/trump-vows-american-energy-dominance-texas-rally-ahead-primary-elections",
+        "date": "2026-03-02T00:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Suffers Significant Casualties In Iran War Retaliation",
+        "link": "https://www.zerohedge.com/geopolitical/israel-suffers-significant-casualties-iran-war-retaliation",
+        "date": "2026-03-02T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hot Headline, Cooler Reality: What The PPI Really Shows According To Peter Navarro",
+        "link": "https://www.zerohedge.com/economics/hot-headline-cooler-reality-what-ppi-really-shows-according-peter-navarro",
+        "date": "2026-03-02T00:10:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-02T10:33:22.562Z"
+  }
+}
