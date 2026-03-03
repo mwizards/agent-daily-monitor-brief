@@ -1,0 +1,399 @@
+{
+  "generatedAt": "2026-03-03T10:26:27.442Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 5.03,
+        "current": 75.56,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +5.03% to $75.56"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -4.02,
+        "current": 81.57,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -4.02% to $81.57"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 3.88,
+        "current": 56.45,
+        "direction": "UP",
+        "message": "Uranium (URA) +3.88% to $56.45"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "JPMorgan’s Jamie Dimon warns there’s too much complacency in markets",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] JPMorgan’s Jamie Dimon warns there’s too much complacency in markets"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "MongoDB’s stock sinks after earnings, signaling more tough times for the software sector",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] MongoDB’s stock sinks after earnings, signaling more tough times for the software sector"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Drone Impacts US Embassy In Riyadh After Rubio Warns Iran 'Hardest Hits Yet To Come'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Drone Impacts US Embassy In Riyadh After Rubio Warns Iran 'Hardest Hits Yet To Come'"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -2.19,
+        "current": 93.6,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -2.19% to $93.6"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2,
+        "current": 57.04,
+        "direction": "UP",
+        "message": "Energy (XLE) +2% to $57.04"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Macron Throws Out French Nuclear Policy Over Russia And China Threats",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Macron Throws Out French Nuclear Policy Over Russia And China Threats"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Bernie Sanders Goes Nuclear On Billionaires With Craziest Tax Proposal Yet",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Bernie Sanders Goes Nuclear On Billionaires With Craziest Tax Proposal Yet"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.94,
+        "message": "Gold/Silver ratio: 62.94x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 490,
+        "previousClose": 483.75,
+        "high": 492.15,
+        "low": 483.28,
+        "changePct": 1.29
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 81.57,
+        "previousClose": 84.99,
+        "high": 82.3738,
+        "low": 78.345,
+        "changePct": -4.02
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 93.6,
+        "previousClose": 95.7,
+        "high": 94.2316,
+        "low": 92.77,
+        "changePct": -2.19
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 75.56,
+        "previousClose": 71.94,
+        "high": 75.8,
+        "low": 71.32,
+        "changePct": 5.03
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 56.45,
+        "previousClose": 54.34,
+        "high": 56.665,
+        "low": 53.4,
+        "changePct": 3.88
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 39.95,
+        "previousClose": 40.3,
+        "high": 40.082,
+        "low": 38.3,
+        "changePct": -0.87
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.04,
+        "previousClose": 55.92,
+        "high": 57.88,
+        "low": 56.27,
+        "changePct": 2
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.33,
+        "previousClose": 27.08,
+        "high": 27.3999,
+        "low": 27.2775,
+        "changePct": 0.92
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.61,
+        "previousClose": 90.51936,
+        "high": 89.99,
+        "low": 89.355,
+        "changePct": -1
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 686.38,
+        "previousClose": 685.99,
+        "high": 688.62,
+        "low": 678.031,
+        "changePct": 0.06
+      }
+    },
+    "metals": {
+      "gold": 5284.8,
+      "silver": 83.97,
+      "copper": 5.81,
+      "platinum": 2143.1,
+      "crude": null,
+      "goldSilverRatio": 62.94
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5284.8,
+        "change": -26.800293,
+        "changePct": -0.5,
+        "previousClose": 5311.6
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 83.97,
+        "change": -4.8829956,
+        "changePct": -5.5,
+        "previousClose": 88.853
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8135,
+        "change": -0.13450003,
+        "changePct": -2.26,
+        "previousClose": 5.948
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2143.1,
+        "change": -171.7998,
+        "changePct": -7.42,
+        "previousClose": 2314.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 75.62,
+        "change": 4.3899994,
+        "changePct": 6.16,
+        "previousClose": 71.23
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.38,
+        "previous": 3.42,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-02-27"
+      },
+      "10Y": {
+        "current": 3.97,
+        "previous": 4.02,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-02-27"
+      },
+      "30Y": {
+        "current": 4.64,
+        "previous": 4.67,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-02-27"
+      },
+      "USD_BROAD": {
+        "current": 117.8223,
+        "previous": 117.9042,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-02-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 107242,
+        "previous": 8310,
+        "change": 98932,
+        "period": "2026-02-20",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "JPMorgan’s Jamie Dimon warns there’s too much complacency in markets",
+        "link": "https://www.marketwatch.com/story/jpmorgans-jamie-dimon-warns-theres-too-much-complacency-in-markets-98739bad?mod=mw_rss_topstories",
+        "date": "2026-03-03T10:04:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘No toilets’? Civil trial over renovation work plays out in L.A. over Kanye West’s stripped Malibu beach house",
+        "link": "https://www.marketwatch.com/story/no-toilets-civil-trial-over-renovation-work-plays-out-in-l-a-over-kanye-wests-stripped-malibu-beach-house-b7d885a6?mod=mw_rss_topstories",
+        "date": "2026-03-03T10:01:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Gold can be called many things — just don’t say it’s an inflation hedge",
+        "link": "https://www.marketwatch.com/story/gold-can-be-called-many-things-just-dont-say-its-an-inflation-hedge-468ef2b2?mod=mw_rss_topstories",
+        "date": "2026-03-03T09:37:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russian Guidance Chip With Western Parts Found In Iranian Drone That Hit UK Air Base In Cyprus",
+        "link": "https://www.zerohedge.com/military/russian-guidance-chip-western-parts-found-iranian-drones-hit-uk-air-base-cyprus",
+        "date": "2026-03-03T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Britain Reconsiders 78% North Sea Oil Tax As Investment Slows",
+        "link": "https://www.zerohedge.com/energy/britain-reconsiders-78-north-sea-oil-tax-investment-slows",
+        "date": "2026-03-03T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Macron Throws Out French Nuclear Policy Over Russia And China Threats",
+        "link": "https://www.zerohedge.com/geopolitical/macron-throws-out-french-nuclear-policy-over-russia-and-china-threats",
+        "date": "2026-03-03T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says He's 'Disappointed' by Starmer For Blocking Use Of Diego Garcia For Iran Strikes",
+        "link": "https://www.zerohedge.com/geopolitical/trump-says-hes-disappointed-starmer-blocking-use-diego-garcia-iran-strikes",
+        "date": "2026-03-03T07:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Why Iran should not count on allies Russia and China to come to its aid",
+        "link": "https://www.cnbc.com/2026/03/02/iran-china-russia-strikes-assistance-alliance-weapons-missiles-geopolitics-oil-prices-ukraine.html",
+        "date": "2026-03-03T06:11:17.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Telegram Has Reportedly Become A Pressing National Security Threat For Russia",
+        "link": "https://www.zerohedge.com/political/telegram-has-reportedly-become-pressing-national-security-threat-russia",
+        "date": "2026-03-03T04:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Box-Cutter Thug Gets 16.5 Years In Prison After Framing Immigrant With Fake Trump Death Threats",
+        "link": "https://www.zerohedge.com/political/box-cutter-thug-gets-165-years-prison-after-framing-immigrant-fake-trump-death-threats",
+        "date": "2026-03-03T04:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bernie Sanders Goes Nuclear On Billionaires With Craziest Tax Proposal Yet",
+        "link": "https://www.zerohedge.com/political/bernie-sanders-goes-nuclear-billionaires-craziest-tax-proposal-yet",
+        "date": "2026-03-03T03:10:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "MongoDB’s stock sinks after earnings, signaling more tough times for the software sector",
+        "link": "https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa?mod=mw_rss_topstories",
+        "date": "2026-03-03T02:23:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Conducts Patrol In South China Sea, Accuses Philippines Of Disturbing Regional Peace",
+        "link": "https://www.zerohedge.com/geopolitical/china-conducts-patrol-south-china-sea-accuses-philippines-disturbing-regional-peace",
+        "date": "2026-03-03T01:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Opposition Leader Maria Corina Machado Says She Will Return To Venezuela In Coming Weeks",
+        "link": "https://www.zerohedge.com/geopolitical/opposition-leader-maria-corina-machado-says-she-will-return-venezuela-coming-weeks",
+        "date": "2026-03-03T01:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Drone Impacts US Embassy In Riyadh After Rubio Warns Iran 'Hardest Hits Yet To Come'",
+        "link": "https://www.zerohedge.com/geopolitical/three-us-f-15s-downed-over-kuwait-iran-war-spirals-reports-paranoia-anxiety-pentagon",
+        "date": "2026-03-03T00:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-03T10:26:18.330Z"
+  }
+}
