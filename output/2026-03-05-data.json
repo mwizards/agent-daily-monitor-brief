@@ -1,0 +1,375 @@
+{
+  "generatedAt": "2026-03-05T10:26:11.091Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "How Likely Is It That Pakistan Joins The Third Gulf War In Support Of Its Saudi Ally?",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] How Likely Is It That Pakistan Joins The Third Gulf War In Support Of Its Saudi Ally?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The Iran War Exposes The Farce Of American \"Representative Democracy\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The Iran War Exposes The Farce Of American \"Representative Democracy\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel Officials Get Blunt On Iran Aims: 'If We Can Have A Civil War, Great'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel Officials Get Blunt On Iran Aims: 'If We Can Have A Civil War, Great'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Broadcom says AI is not disrupting its software business, and its stock climbs",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Broadcom says AI is not disrupting its software business, and its stock climbs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Visualizing Iran's Vast Size & Why Any Ground Invasion Means Years-Long Quagmire",
+        "keywords": [
+          "invasion"
+        ],
+        "message": "[ZeroHedge] Visualizing Iran's Vast Size & Why Any Ground Invasion Means Years-Long Quagmire"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 2.31,
+        "current": 70.97,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +2.31% to $70.97"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "In \"Historic Day For Nuclear Industry\", Novel Technology Reactor Gets First Federal Permit In A Decade To Start Building",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] In \"Historic Day For Nuclear Industry\", Novel Technology Reactor Gets First Federal Permit In A Decade To Start Building"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "The Global Race To Unlock Nuclear Fusion",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] The Global Race To Unlock Nuclear Fusion"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.26,
+        "message": "Gold/Silver ratio: 61.26x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 471.8,
+        "previousClose": 468.14,
+        "high": 476.415,
+        "low": 469.39,
+        "changePct": 0.78
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 75.34,
+        "previousClose": 74.68,
+        "high": 77.06,
+        "low": 74.41,
+        "changePct": 0.88
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 88.16,
+        "previousClose": 87.02,
+        "high": 88.61,
+        "low": 86.94,
+        "changePct": 1.31
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 70.97,
+        "previousClose": 69.37,
+        "high": 71.55,
+        "low": 68.1,
+        "changePct": 2.31
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.77,
+        "previousClose": 52,
+        "high": 53.21,
+        "low": 50.932,
+        "changePct": 1.48
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 36.51,
+        "previousClose": 36.07,
+        "high": 37.16,
+        "low": 35.8403,
+        "changePct": 1.22
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.19,
+        "previousClose": 56.52,
+        "high": 56.43,
+        "low": 55.325,
+        "changePct": -0.58
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.41,
+        "previousClose": 27.46,
+        "high": 27.455,
+        "low": 27.39,
+        "changePct": -0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.15,
+        "previousClose": 89.43,
+        "high": 89.435,
+        "low": 89.095,
+        "changePct": -0.31
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 685.13,
+        "previousClose": 680.33,
+        "high": 687.09,
+        "low": 679.62,
+        "changePct": 0.71
+      }
+    },
+    "metals": {
+      "gold": 5165.6,
+      "silver": 84.33,
+      "copper": 5.86,
+      "platinum": 2172.8,
+      "crude": null,
+      "goldSilverRatio": 61.26
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5165.6,
+        "change": 30.899902,
+        "changePct": 0.6,
+        "previousClose": 5134.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 84.325,
+        "change": 1.1409988,
+        "changePct": 1.37,
+        "previousClose": 83.184
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8645,
+        "change": -0.042999744,
+        "changePct": -0.73,
+        "previousClose": 5.9075
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2172.8,
+        "change": 18.800049,
+        "changePct": 0.87,
+        "previousClose": 2154
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 76.47,
+        "change": 1.8099976,
+        "changePct": 2.42,
+        "previousClose": 74.66
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.51,
+        "previous": 3.47,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-03-03"
+      },
+      "10Y": {
+        "current": 4.06,
+        "previous": 4.05,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-03-03"
+      },
+      "30Y": {
+        "current": 4.7,
+        "previous": 4.7,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-03-03"
+      },
+      "USD_BROAD": {
+        "current": 117.8223,
+        "previous": 117.9042,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-02-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108282,
+        "previous": 9081,
+        "change": 99201,
+        "period": "2026-02-27",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "US, Ecuador Launch Joint Military Operations Against Terrorist Organizations",
+        "link": "https://www.zerohedge.com/markets/us-ecuador-launch-joint-military-operations-against-terrorist-organizations",
+        "date": "2026-03-05T09:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How Likely Is It That Pakistan Joins The Third Gulf War In Support Of Its Saudi Ally?",
+        "link": "https://www.zerohedge.com/geopolitical/how-likely-it-pakistan-joins-third-gulf-war-support-its-saudi-ally",
+        "date": "2026-03-05T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Is Scrambling",
+        "link": "https://www.zerohedge.com/geopolitical/china-scrambling",
+        "date": "2026-03-05T07:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "In \"Historic Day For Nuclear Industry\", Novel Technology Reactor Gets First Federal Permit In A Decade To Start Building",
+        "link": "https://www.zerohedge.com/technology/historic-day-nuclear-industry-novel-technology-reactor-gets-first-federal-approval",
+        "date": "2026-03-05T04:41:06.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Under Beijing's Wing: Iran's Arsenal",
+        "link": "https://www.zerohedge.com/geopolitical/under-beijings-wing-irans-arsenal",
+        "date": "2026-03-05T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tanker Hit By \"Large Explosion\" In Waters Off Kuwait, Causing Oil Spill",
+        "link": "https://www.zerohedge.com/military/tanker-hit-large-explosion-waters-kuwait-causing-oil-spill",
+        "date": "2026-03-05T03:09:05.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China-Linked Bulk Carrier Exits Strait Of Hormuz Without Incident",
+        "link": "https://www.zerohedge.com/energy/china-linked-bulk-carrier-exits-strait-hormuz-without-incident",
+        "date": "2026-03-05T02:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Iran War Exposes The Farce Of American \"Representative Democracy\"",
+        "link": "https://www.zerohedge.com/geopolitical/iran-war-exposes-farce-american-representative-democracy",
+        "date": "2026-03-05T02:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
+        "link": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories",
+        "date": "2026-03-05T02:04:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Officials Get Blunt On Iran Aims: 'If We Can Have A Civil War, Great'",
+        "link": "https://www.zerohedge.com/geopolitical/israel-officials-get-blunt-iran-aims-if-we-can-have-civil-war-great",
+        "date": "2026-03-05T01:50:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Broadcom says AI is not disrupting its software business, and its stock climbs",
+        "link": "https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories",
+        "date": "2026-03-05T01:19:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Will Trump Seize Or Destroy Iran's Oil Export Island?",
+        "link": "https://www.zerohedge.com/energy/will-president-trump-destroy-or-seize-irans-oil-export-island",
+        "date": "2026-03-05T00:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Senate Rejects Measure Aimed at Blocking US Attacks on Iran",
+        "link": "https://www.zerohedge.com/political/sen-blumenthal-fearful-trump-will-put-troops-iran-congressional-votes-loom",
+        "date": "2026-03-04T23:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Global Race To Unlock Nuclear Fusion",
+        "link": "https://www.zerohedge.com/political/global-race-unlock-nuclear-fusion",
+        "date": "2026-03-04T22:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Visualizing Iran's Vast Size & Why Any Ground Invasion Means Years-Long Quagmire",
+        "link": "https://www.zerohedge.com/geopolitical/visualizing-irans-vast-size-why-any-ground-invasion-would-be-years-long-quagmire",
+        "date": "2026-03-04T21:50:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-05T10:26:03.622Z"
+  }
+}
