@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2026-03-07T10:11:59.039Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.8,
+        "current": 63.97,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.8% to $63.97"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Why'd The US Temporarily Waive Sanctions On India's Purchase Of Russian Oil?",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] Why'd The US Temporarily Waive Sanctions On India's Purchase Of Russian Oil?"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.25,
+        "current": 75.94,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.25% to $75.94"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -2.86,
+        "current": 79.95,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -2.86% to $79.95"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.56,
+        "current": 48.78,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.56% to $48.78"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "California May Flip 50-Year Nuclear Moratorium",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] California May Flip 50-Year Nuclear Moratorium"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.19,
+        "message": "Gold/Silver ratio: 61.19x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 473.51,
+        "previousClose": 466.13,
+        "high": 475.46,
+        "low": 467.07,
+        "changePct": 1.58
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 75.94,
+        "previousClose": 74.27,
+        "high": 76.97,
+        "low": 74.58,
+        "changePct": 2.25
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 79.95,
+        "previousClose": 82.3,
+        "high": 81.29,
+        "low": 79.11,
+        "changePct": -2.86
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.97,
+        "previousClose": 66.5,
+        "high": 66.86,
+        "low": 63.5401,
+        "changePct": -3.8
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.78,
+        "previousClose": 50.06,
+        "high": 50.58,
+        "low": 48.34,
+        "changePct": -2.56
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.02,
+        "previousClose": 34.42,
+        "high": 34.6481,
+        "low": 33.02,
+        "changePct": -1.16
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.57,
+        "previousClose": 56.48,
+        "high": 57.34,
+        "low": 56.18,
+        "changePct": 0.16
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.47,
+        "previousClose": 27.48,
+        "high": 27.59,
+        "low": 27.435,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 88.46,
+        "previousClose": 88.79,
+        "high": 88.9399,
+        "low": 88.0193,
+        "changePct": -0.37
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 672.38,
+        "previousClose": 681.31,
+        "high": 676.1,
+        "low": 669.78,
+        "changePct": -1.31
+      }
+    },
+    "metals": {
+      "gold": 5158.7,
+      "silver": 84.31,
+      "copper": 5.81,
+      "platinum": 2141.7,
+      "crude": null,
+      "goldSilverRatio": 61.19
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5158.7,
+        "change": 80,
+        "changePct": 1.58,
+        "previousClose": 5078.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 84.311,
+        "change": 2.1299973,
+        "changePct": 2.59,
+        "previousClose": 82.181
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.807,
+        "change": 0.0025000572,
+        "changePct": 0.04,
+        "previousClose": 5.8045
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2141.7,
+        "change": 12.399902,
+        "changePct": 0.58,
+        "previousClose": 2129.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.9,
+        "change": 9.889999,
+        "changePct": 12.21,
+        "previousClose": 81.01
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.57,
+        "previous": 3.54,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-05"
+      },
+      "10Y": {
+        "current": 4.13,
+        "previous": 4.09,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-03-05"
+      },
+      "30Y": {
+        "current": 4.74,
+        "previous": 4.72,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-03-05"
+      },
+      "USD_BROAD": {
+        "current": 117.8223,
+        "previous": 117.9042,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-02-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415441,
+        "previous": 854720,
+        "change": -439279,
+        "period": "2026-02-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Cement, Drugs, And Oil - How The Iran Conflict Could Disrupt Global Supply Chains",
+        "link": "https://www.zerohedge.com/commodities/cement-drugs-and-oil-how-iran-conflict-could-disrupt-global-supply-chains",
+        "date": "2026-03-07T04:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "California May Flip 50-Year Nuclear Moratorium",
+        "link": "https://www.zerohedge.com/energy/california-may-flip-50-year-nuclear-moratorium",
+        "date": "2026-03-07T03:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Why'd The US Temporarily Waive Sanctions On India's Purchase Of Russian Oil?",
+        "link": "https://www.zerohedge.com/geopolitical/whyd-us-temporarily-waive-sanctions-indias-purchase-russian-oil",
+        "date": "2026-03-07T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'Victory' In Iran Will Look Nothing Like 1945",
+        "link": "https://www.zerohedge.com/political/victory-iran-will-look-nothing-1945",
+        "date": "2026-03-07T01:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bessent Says US May \"Unsanction\" More Russian Oil Amid Energy Crisis",
+        "link": "https://www.zerohedge.com/energy/bessent-says-us-may-unsanction-more-russian-oil-amid-energy-crisis",
+        "date": "2026-03-07T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"We Have An Emergency\": Newsom's Climate Obsession Could Wreak Havoc California's Oil Industry",
+        "link": "https://www.zerohedge.com/political/newsoms-climate-obsession-could-wreak-havoc-californias-oil-industry-we-have-emergency",
+        "date": "2026-03-06T23:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bad Faith Noncompliance: Virginia Schools Flout Supreme Court And Trump With DEI 'Rebrand'",
+        "link": "https://www.zerohedge.com/political/bad-faith-noncompliance-virginia-schools-flout-supreme-court-and-trump-dei-rebrand",
+        "date": "2026-03-06T22:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mills: Trump Admin \"Reveling In The Carnage\" As Tehran Burns",
+        "link": "https://www.zerohedge.com/geopolitical/mills-israels-holy-grail-was-iran-trump-just-delivered-it",
+        "date": "2026-03-06T22:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "These stocks in the S&P 500 have dropped the most since the U.S. and Israel attacked Iran",
+        "link": "https://www.marketwatch.com/story/these-stocks-in-the-s-p-500-have-dropped-the-most-since-the-u-s-and-israel-attacked-iran-ee7d67da?mod=mw_rss_topstories",
+        "date": "2026-03-06T22:16:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Defense-tech stocks are the hot trade as Iran conflict widens",
+        "link": "https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c?mod=mw_rss_topstories",
+        "date": "2026-03-06T22:04:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "USPS Could Run Out Of Funds Within A Year Without Congressional Action: Postmaster General",
+        "link": "https://www.zerohedge.com/political/usps-could-run-out-funds-1-year-without-congressional-action-postmaster-general",
+        "date": "2026-03-06T22:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil surge sparks Treasury market’s worst weekly rout since ‘liberation day’ chaos",
+        "link": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories",
+        "date": "2026-03-06T21:53:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Defense companies agree to ramp up output after meeting with Trump",
+        "link": "https://www.marketwatch.com/story/defense-companies-are-meeting-trump-today-heres-what-hell-ask-for-after-demanding-irans-surrender-c84d34d3?mod=mw_rss_topstories",
+        "date": "2026-03-06T21:47:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Fog Of Oil",
+        "link": "https://www.zerohedge.com/markets/fog-oil",
+        "date": "2026-03-06T21:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices are surging. Will that help Tesla and others sell more EVs?",
+        "link": "https://www.marketwatch.com/story/oil-prices-are-surging-will-that-help-tesla-and-others-sell-more-evs-1f2f3856?mod=mw_rss_topstories",
+        "date": "2026-03-06T21:09:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-07T10:11:50.995Z"
+  }
+}
