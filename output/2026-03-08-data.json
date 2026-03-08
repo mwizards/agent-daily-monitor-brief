@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2026-03-08T10:12:39.000Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.8,
+        "current": 63.97,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.8% to $63.97"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Turkey Mulls F-16 Deployment To Turkish-Occupied Cyprus Amid Iran War Tensions",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Turkey Mulls F-16 Deployment To Turkish-Occupied Cyprus Amid Iran War Tensions"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "A 'War Of The Oil Refineries' Opens As Israel Bombs Key Tehran Sites, After Which Haifa Refinery Targeted",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] A 'War Of The Oil Refineries' Opens As Israel Bombs Key Tehran Sites, After Which Haifa Refinery Targeted"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.25,
+        "current": 75.94,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.25% to $75.94"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -2.86,
+        "current": 79.95,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -2.86% to $79.95"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.56,
+        "current": 48.78,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.56% to $48.78"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.19,
+        "message": "Gold/Silver ratio: 61.19x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 473.51,
+        "previousClose": 466.13,
+        "high": 475.46,
+        "low": 467.07,
+        "changePct": 1.58
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 75.94,
+        "previousClose": 74.27,
+        "high": 76.97,
+        "low": 74.58,
+        "changePct": 2.25
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 79.95,
+        "previousClose": 82.3,
+        "high": 81.29,
+        "low": 79.11,
+        "changePct": -2.86
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.97,
+        "previousClose": 66.5,
+        "high": 66.86,
+        "low": 63.5401,
+        "changePct": -3.8
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.78,
+        "previousClose": 50.06,
+        "high": 50.58,
+        "low": 48.34,
+        "changePct": -2.56
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.02,
+        "previousClose": 34.42,
+        "high": 34.6481,
+        "low": 33.02,
+        "changePct": -1.16
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.57,
+        "previousClose": 56.48,
+        "high": 57.34,
+        "low": 56.18,
+        "changePct": 0.16
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.47,
+        "previousClose": 27.48,
+        "high": 27.59,
+        "low": 27.435,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 88.46,
+        "previousClose": 88.79,
+        "high": 88.9399,
+        "low": 88.0193,
+        "changePct": -0.37
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 672.38,
+        "previousClose": 681.31,
+        "high": 676.1,
+        "low": 669.78,
+        "changePct": -1.31
+      }
+    },
+    "metals": {
+      "gold": 5158.7,
+      "silver": 84.31,
+      "copper": 5.81,
+      "platinum": 2141.7,
+      "crude": null,
+      "goldSilverRatio": 61.19
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5158.7,
+        "change": 80,
+        "changePct": 1.58,
+        "previousClose": 5078.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 84.311,
+        "change": 2.1299973,
+        "changePct": 2.59,
+        "previousClose": 82.181
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.807,
+        "change": 0.0025000572,
+        "changePct": 0.04,
+        "previousClose": 5.8045
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2141.7,
+        "change": 12.399902,
+        "changePct": 0.58,
+        "previousClose": 2129.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.9,
+        "change": 9.889999,
+        "changePct": 12.21,
+        "previousClose": 81.01
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.57,
+        "previous": 3.54,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-05"
+      },
+      "10Y": {
+        "current": 4.13,
+        "previous": 4.09,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-03-05"
+      },
+      "30Y": {
+        "current": 4.74,
+        "previous": 4.72,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-03-05"
+      },
+      "USD_BROAD": {
+        "current": 117.8223,
+        "previous": 117.9042,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-02-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415441,
+        "previous": 854720,
+        "change": -439279,
+        "period": "2026-02-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "US Intelligence Community Assessed That Massive US Attack 'Unlikely' To Oust Iranian Regime: WaPo",
+        "link": "https://www.zerohedge.com/geopolitical/us-intelligence-community-assessed-massive-us-attack-unlikely-oust-iranian-regime-wapo",
+        "date": "2026-03-08T04:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Sidesteps Solar Targets In New Five-Year Plan",
+        "link": "https://www.zerohedge.com/markets/china-sidesteps-solar-targets-new-five-year-plan",
+        "date": "2026-03-08T02:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Turkey Mulls F-16 Deployment To Turkish-Occupied Cyprus Amid Iran War Tensions",
+        "link": "https://www.zerohedge.com/geopolitical/turkey-mulls-f-16-deployment-turkish-occupied-cyprus-amid-iran-war-tensions",
+        "date": "2026-03-08T00:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "PJM Market Monitor Opposes Maryland Coal Plant Sale To Data Center Company",
+        "link": "https://www.zerohedge.com/energy/pjm-market-monitor-opposes-maryland-coal-plant-sale-data-center-company",
+        "date": "2026-03-08T00:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Venezuela's Gas Potential Could Overshadow Its Famous Oil Reserves",
+        "link": "https://www.zerohedge.com/energy/venezuelas-gas-potential-could-overshadow-its-famous-oil-reserves",
+        "date": "2026-03-07T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Announces Military Coalition With Latin American Leaders To Eradicate Cartels",
+        "link": "https://www.zerohedge.com/geopolitical/trump-announces-military-coalition-latin-american-leaders-eradicate-cartels",
+        "date": "2026-03-07T21:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "A 'War Of The Oil Refineries' Opens As Israel Bombs Key Tehran Sites, After Which Haifa Refinery Targeted",
+        "link": "https://www.zerohedge.com/geopolitical/trump-vows-hit-loser-iran-very-hard-pezeshkian-apologizes-gulf-even-irgc-attacks",
+        "date": "2026-03-07T20:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Stablecoins And The Rebasement Of The Dollar",
+        "link": "https://www.zerohedge.com/markets/stablecoins-and-rebasement-dollar",
+        "date": "2026-03-07T20:15:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+        "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+        "date": "2026-03-07T20:09:03.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran's New Supreme Leader To Be Chosen Within 24 Hours: State Media",
+        "link": "https://www.zerohedge.com/geopolitical/irans-new-supreme-leader-be-chosen-within-24-hours-state-media-saturday",
+        "date": "2026-03-07T19:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Stagflation? $150 oil? That doesn’t mean everyone’s 401(k) is losing money.",
+        "link": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
+        "date": "2026-03-07T19:41:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline",
+        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
+        "date": "2026-03-07T19:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Companies Report Raging Inflation, Except In Wages & Rents",
+        "link": "https://www.zerohedge.com/economics/companies-report-raging-inflation-except-wages-rents",
+        "date": "2026-03-07T18:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Foreign Minister Claims U.S. Attacked Water Desalination Plant",
+        "link": "https://www.zerohedge.com/military/iran-foreign-minister-claims-us-attacked-desalination-plant",
+        "date": "2026-03-07T17:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Urges Iranian Diplomats To Seek Asylum, Describes What He Wants In A New Ruler",
+        "link": "https://www.zerohedge.com/geopolitical/trump-urges-iranian-diplomats-seek-asylum-describes-what-he-wants-new-ruler",
+        "date": "2026-03-07T17:15:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-08T10:12:31.358Z"
+  }
+}
