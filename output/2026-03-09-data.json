@@ -1,0 +1,368 @@
+{
+  "generatedAt": "2026-03-09T10:32:52.206Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.8,
+        "current": 63.97,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.8% to $63.97"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Xi Hints At More Top Purges, Issues Warning To 'Corrupt Elements' In Chinese Army",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Xi Hints At More Top Purges, Issues Warning To 'Corrupt Elements' In Chinese Army"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.25,
+        "current": 75.94,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.25% to $75.94"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -2.86,
+        "current": 79.95,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -2.86% to $79.95"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.56,
+        "current": 48.78,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.56% to $48.78"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Why Nuclear Energy Is More Vital Than Ever",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Why Nuclear Energy Is More Vital Than Ever"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "'Dems Want Net-Zero... This Is It': Secretary Wright Urges Indian Point Nuclear Plant Restart",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] 'Dems Want Net-Zero... This Is It': Secretary Wright Urges Indian Point Nuclear Plant Restart"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.64,
+        "message": "Gold/Silver ratio: 60.64x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 473.51,
+        "previousClose": 466.13,
+        "high": 475.46,
+        "low": 467.07,
+        "changePct": 1.58
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 75.94,
+        "previousClose": 74.27,
+        "high": 76.97,
+        "low": 74.58,
+        "changePct": 2.25
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 79.95,
+        "previousClose": 82.3,
+        "high": 81.29,
+        "low": 79.11,
+        "changePct": -2.86
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.97,
+        "previousClose": 66.5,
+        "high": 66.86,
+        "low": 63.5401,
+        "changePct": -3.8
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.78,
+        "previousClose": 50.06,
+        "high": 50.58,
+        "low": 48.34,
+        "changePct": -2.56
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.02,
+        "previousClose": 34.42,
+        "high": 34.6481,
+        "low": 33.02,
+        "changePct": -1.16
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.57,
+        "previousClose": 56.48,
+        "high": 57.34,
+        "low": 56.18,
+        "changePct": 0.16
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.47,
+        "previousClose": 27.48,
+        "high": 27.59,
+        "low": 27.435,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 88.46,
+        "previousClose": 88.79,
+        "high": 88.9399,
+        "low": 88.0193,
+        "changePct": -0.37
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 672.38,
+        "previousClose": 681.31,
+        "high": 676.1,
+        "low": 669.78,
+        "changePct": -1.31
+      }
+    },
+    "metals": {
+      "gold": 5112.9,
+      "silver": 84.31,
+      "copper": 5.77,
+      "platinum": 2116.5,
+      "crude": null,
+      "goldSilverRatio": 60.64
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5112.9,
+        "change": -45.800293,
+        "changePct": -0.89,
+        "previousClose": 5158.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 84.31,
+        "change": -0.0009994507,
+        "changePct": 0,
+        "previousClose": 84.311
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.7745,
+        "change": -0.032500267,
+        "changePct": -0.56,
+        "previousClose": 5.807
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2116.5,
+        "change": -25.199951,
+        "changePct": -1.18,
+        "previousClose": 2141.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.76,
+        "change": 10.860001,
+        "changePct": 11.95,
+        "previousClose": 90.9
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.57,
+        "previous": 3.54,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-05"
+      },
+      "10Y": {
+        "current": 4.13,
+        "previous": 4.09,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-03-05"
+      },
+      "30Y": {
+        "current": 4.74,
+        "previous": 4.72,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-03-05"
+      },
+      "USD_BROAD": {
+        "current": 117.8223,
+        "previous": 117.9042,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-02-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415441,
+        "previous": 854720,
+        "change": -439279,
+        "period": "2026-02-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "G-7 scrambles emergency meeting and could deploy unprecedented oil reserves as prices soar: report",
+        "link": "https://www.marketwatch.com/story/g-7-scrambles-emergency-meeting-and-could-deploy-unprecedented-oil-reserves-as-prices-soar-report-1a5aa206?mod=mw_rss_topstories",
+        "date": "2026-03-09T10:26:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Why Nuclear Energy Is More Vital Than Ever",
+        "link": "https://www.zerohedge.com/energy/why-nuclear-energy-more-vital-ever",
+        "date": "2026-03-09T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil shatters $100 ceiling, hitting levels not seen since 2022 as Iran conflict escalates",
+        "link": "https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories",
+        "date": "2026-03-09T08:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India To US: We Don't Need Permission To Buy Russian Oil",
+        "link": "https://www.zerohedge.com/energy/india-us-we-dont-need-permission-buy-russian-oil",
+        "date": "2026-03-09T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hungary Detains Ukrainians Transporting 10s Of Millions In Cash & Gold",
+        "link": "https://www.zerohedge.com/political/hungary-detains-ukrainians-transporting-10s-millions-cash-gold",
+        "date": "2026-03-09T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Kurds Do Not 'Trust' US To Use Them As Proxy Force Against Iran",
+        "link": "https://www.zerohedge.com/geopolitical/kurds-do-not-trust-us-use-them-proxy-force-against-iran",
+        "date": "2026-03-09T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Martyrdom, Maps, & Munitions: Jim Rickards' Most Surprising Iran Takes",
+        "link": "https://www.zerohedge.com/geopolitical/martyrdom-maps-munitions-jim-rickards-most-surprising-iran-takes",
+        "date": "2026-03-09T06:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories",
+        "date": "2026-03-09T05:57:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Price Controls Arrive: South Korea, Taiwan Impose Fuel Price Cap",
+        "link": "https://www.zerohedge.com/markets/price-controls-arrive-south-korea-taiwan-impose-fuel-price-cap",
+        "date": "2026-03-09T03:30:03.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+        "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+        "date": "2026-03-09T03:08:29.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'Small Price To Pay': Trump Says Surging Oil Prices Will 'Drop Rapidly' Once Iran Nuke Threat Over",
+        "link": "https://www.zerohedge.com/markets/trump-team-downplays-treasury-role-oil-futures-market",
+        "date": "2026-03-09T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Oil Island That Could Break Iran",
+        "link": "https://www.zerohedge.com/geopolitical/oil-island-could-break-iran",
+        "date": "2026-03-09T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'Dems Want Net-Zero... This Is It': Secretary Wright Urges Indian Point Nuclear Plant Restart",
+        "link": "https://www.zerohedge.com/energy/secretary-wright-calls-indian-point-nuclear-restart",
+        "date": "2026-03-09T00:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices are the No. 1 thing investors are watching right now. Here’s why.",
+        "link": "https://www.marketwatch.com/story/oil-prices-are-the-no-1-thing-investors-are-watching-right-now-heres-why-171942dc?mod=mw_rss_topstories",
+        "date": "2026-03-08T22:27:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Xi Hints At More Top Purges, Issues Warning To 'Corrupt Elements' In Chinese Army",
+        "link": "https://www.zerohedge.com/geopolitical/xi-hints-more-top-purges-issues-warning-corrupt-elements-chinese-army",
+        "date": "2026-03-08T22:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-09T10:32:42.771Z"
+  }
+}
