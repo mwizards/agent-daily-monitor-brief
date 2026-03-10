@@ -1,0 +1,379 @@
+{
+  "generatedAt": "2026-03-10T10:26:20.061Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 3.06,
+        "current": 78.26,
+        "direction": "UP",
+        "message": "Silver (SLV) +3.06% to $78.26"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 4.27,
+        "current": 66.7,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +4.27% to $66.7"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 4.69,
+        "current": 51.07,
+        "direction": "UP",
+        "message": "Uranium (URA) +4.69% to $51.07"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
+        "keywords": [
+          "war",
+          "sanctions"
+        ],
+        "message": "[MarketWatch] Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "With World Seemingly At War, DARPA Finds Time To Unveil The X-76",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] With World Seemingly At War, DARPA Finds Time To Unveil The X-76"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Legacy Of Imbeciles\": Corpus Christi Careens Toward Water-Shortage Catastrophe",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"Legacy Of Imbeciles\": Corpus Christi Careens Toward Water-Shortage Catastrophe"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Goldman's Global Affairs Chief Warns Of Middle East Spillover Threats",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Goldman's Global Affairs Chief Warns Of Middle East Spillover Threats"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.86,
+        "current": 82.24,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.86% to $82.24"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.24,
+        "message": "Gold/Silver ratio: 58.24x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 472.53,
+        "previousClose": 473.51,
+        "high": 472.66,
+        "low": 464.79,
+        "changePct": -0.21
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 78.26,
+        "previousClose": 75.94,
+        "high": 78.56,
+        "low": 75.2375,
+        "changePct": 3.06
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.24,
+        "previousClose": 79.95,
+        "high": 82.24,
+        "low": 76.19,
+        "changePct": 2.86
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 66.7,
+        "previousClose": 63.97,
+        "high": 66.81,
+        "low": 62,
+        "changePct": 4.27
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 51.07,
+        "previousClose": 48.78,
+        "high": 51.0807,
+        "low": 47.45,
+        "changePct": 4.69
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.44,
+        "previousClose": 34.02,
+        "high": 34.51,
+        "low": 31.88,
+        "changePct": 1.23
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.32,
+        "previousClose": 56.57,
+        "high": 57.15,
+        "low": 55.94,
+        "changePct": -0.44
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.46,
+        "previousClose": 27.47,
+        "high": 27.59,
+        "low": 27.4101,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 89.23,
+        "previousClose": 88.46,
+        "high": 89.315,
+        "low": 88.205,
+        "changePct": 0.87
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 678.27,
+        "previousClose": 672.38,
+        "high": 679.92,
+        "low": 662.39,
+        "changePct": 0.88
+      }
+    },
+    "metals": {
+      "gold": 5190.3,
+      "silver": 89.13,
+      "copper": 5.93,
+      "platinum": 2216.6,
+      "crude": null,
+      "goldSilverRatio": 58.24
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5190.3,
+        "change": 86.59961,
+        "changePct": 1.7,
+        "previousClose": 5103.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 89.125,
+        "change": 4.6019974,
+        "changePct": 5.44,
+        "previousClose": 84.523
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.927,
+        "change": 0.07850027,
+        "changePct": 1.34,
+        "previousClose": 5.8485
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2216.6,
+        "change": 47.700195,
+        "changePct": 2.2,
+        "previousClose": 2168.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 88.56,
+        "change": -6.209999,
+        "changePct": -6.55,
+        "previousClose": 94.77
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.56,
+        "previous": 3.57,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-03-06"
+      },
+      "10Y": {
+        "current": 4.15,
+        "previous": 4.13,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-03-06"
+      },
+      "30Y": {
+        "current": 4.77,
+        "previous": 4.74,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-06"
+      },
+      "USD_BROAD": {
+        "current": 119.491,
+        "previous": 119.5683,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-03-06"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415441,
+        "previous": 854720,
+        "change": -439279,
+        "period": "2026-02-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Threatens Harder Strikes If Iran Hits Global Oil Supply, Pledges US 'Excursion' Nearly Complete",
+        "link": "https://www.zerohedge.com/geopolitical/iran-says-no-room-talks-us-seeks-partition-country-take-oil-new-hardline-ayatollah",
+        "date": "2026-03-10T10:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "European bonds join Treasury rally as lower oil prices ease inflation fears",
+        "link": "https://www.marketwatch.com/story/european-bonds-join-treasury-rally-as-lower-oil-prices-ease-inflation-fears-c317b735?mod=mw_rss_topstories",
+        "date": "2026-03-10T09:32:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
+        "link": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
+        "date": "2026-03-10T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Suspected Missile Fuel Precursor Materials Sail From China To Iran, Even As US Bombs Fall",
+        "link": "https://www.zerohedge.com/geopolitical/suspected-missile-fuel-precursor-materials-sail-china-iran-even-us-bombs-fall",
+        "date": "2026-03-10T02:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "22 Pounds: The Weight Of A Million Dollars",
+        "link": "https://www.zerohedge.com/personal-finance/22-pounds-weight-million-dollars",
+        "date": "2026-03-10T02:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "With World Seemingly At War, DARPA Finds Time To Unveil The X-76",
+        "link": "https://www.zerohedge.com/military/world-seemingly-war-darpa-finds-time-unveil-x-76",
+        "date": "2026-03-10T01:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Legacy Of Imbeciles\": Corpus Christi Careens Toward Water-Shortage Catastrophe",
+        "link": "https://www.zerohedge.com/energy/legacy-imbeciles-corpus-christi-careens-toward-water-shortage-catastrophe",
+        "date": "2026-03-10T01:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Five Iran Women Soccer Players Defect In Australia, Trump Urges Immediate Asylum",
+        "link": "https://www.zerohedge.com/geopolitical/five-iran-women-soccer-players-defect-australia-trumps-urges-immediate-asylum",
+        "date": "2026-03-10T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Security Fears Suddenly Emerge Over Trump's Visit To China",
+        "link": "https://www.zerohedge.com/geopolitical/security-fears-suddenly-emerge-over-trumps-visit-china",
+        "date": "2026-03-10T00:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Jesse Jackson's Son Rips Obama, Biden For Hijacking Father's Memorial To Attack Trump",
+        "link": "https://www.zerohedge.com/political/jesse-jacksons-son-rips-obama-biden-hijacking-fathers-memorial-attack-trump",
+        "date": "2026-03-09T23:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fed officials closely monitor Iran conflict for potential inflation impact",
+        "link": "https://www.foxbusiness.com/economy/fed-officials-closely-monitor-iran-conflict-potential-inflation-impact",
+        "date": "2026-03-09T22:43:37.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Investigation Suggests US Navy Likely Behind Attack That Killed 150 Schoolgirls In Iran",
+        "link": "https://www.zerohedge.com/geopolitical/global-force-good-us-navy-likely-slaughtered-150-schoolgirls-iran",
+        "date": "2026-03-09T22:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Identity Politics Trumps Public Safety On The Chicago Transit Authority",
+        "link": "https://www.zerohedge.com/political/identity-politics-trumps-public-safety-chicago-transit-authority",
+        "date": "2026-03-09T22:05:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "An already chaotic spring travel season is colliding with effects of Iran conflict",
+        "link": "https://www.marketwatch.com/story/an-already-chaotic-spring-travel-season-is-colliding-with-effects-of-iran-conflict-5201b5b4?mod=mw_rss_topstories",
+        "date": "2026-03-09T21:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Goldman's Global Affairs Chief Warns Of Middle East Spillover Threats",
+        "link": "https://www.zerohedge.com/geopolitical/they-could-hit-embassy-goldmans-global-affairs-chief-warns-iranian-attacks-could-spill",
+        "date": "2026-03-09T20:50:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-10T10:26:07.951Z"
+  }
+}
