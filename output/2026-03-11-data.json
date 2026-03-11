@@ -1,0 +1,419 @@
+{
+  "generatedAt": "2026-03-11T10:26:30.488Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "European Taxpayers Warn Against Eurobonds: A Looming Fiscal Trap",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] European Taxpayers Warn Against Eurobonds: A Looming Fiscal Trap"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Millennial Men Face Low Testosterone Crisis, Doctors Warn",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Millennial Men Face Low Testosterone Crisis, Doctors Warn"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Oil spike fades as markets reassess Iran war supply risks",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Oil spike fades as markets reassess Iran war supply risks"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Rand Paul Warns Of \"Disastrous\" Midterms For GOP If Iran War Continues",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Rand Paul Warns Of \"Disastrous\" Midterms For GOP If Iran War Continues"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "How the Iran war could hit Americans’ grocery bills",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] How the Iran war could hit Americans’ grocery bills"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair",
+        "keywords": [
+          "fed chair",
+          "war"
+        ],
+        "message": "[CNBC Economy] Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.34,
+        "current": 80.09,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.34% to $80.09"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 2.97,
+        "current": 68.68,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +2.97% to $68.68"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 2.43,
+        "current": 52.31,
+        "direction": "UP",
+        "message": "Uranium (URA) +2.43% to $52.31"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.82,
+        "current": 35.41,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.82% to $35.41"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.58,
+        "message": "Gold/Silver ratio: 59.58x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 12
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 477.86,
+        "previousClose": 472.53,
+        "high": 481.2933,
+        "low": 474.26,
+        "changePct": 1.13
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 80.09,
+        "previousClose": 78.26,
+        "high": 81.2788,
+        "low": 78.7312,
+        "changePct": 2.34
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.06,
+        "previousClose": 82.24,
+        "high": 84.86,
+        "low": 82.73,
+        "changePct": 1
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.68,
+        "previousClose": 66.7,
+        "high": 70.7,
+        "low": 67.225,
+        "changePct": 2.97
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.31,
+        "previousClose": 51.07,
+        "high": 53.691,
+        "low": 51.26,
+        "changePct": 2.43
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 35.41,
+        "previousClose": 34.44,
+        "high": 36.31,
+        "low": 35.04,
+        "changePct": 2.82
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.6,
+        "previousClose": 56.32,
+        "high": 56.46,
+        "low": 55.365,
+        "changePct": -1.28
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.45,
+        "previousClose": 27.46,
+        "high": 27.475,
+        "low": 27.34,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 88.28,
+        "previousClose": 89.23,
+        "high": 88.95,
+        "low": 88.27,
+        "changePct": -1.06
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 677.18,
+        "previousClose": 678.27,
+        "high": 683.36,
+        "low": 674.7608,
+        "changePct": -0.16
+      }
+    },
+    "metals": {
+      "gold": 5200.6,
+      "silver": 87.29,
+      "copper": 5.87,
+      "platinum": 2180.2,
+      "crude": null,
+      "goldSilverRatio": 59.58
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5200.6,
+        "change": -41.5,
+        "changePct": -0.79,
+        "previousClose": 5242.1
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 87.285,
+        "change": -2.3069992,
+        "changePct": -2.58,
+        "previousClose": 89.592
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8675,
+        "change": -0.08450031,
+        "changePct": -1.42,
+        "previousClose": 5.952
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2180.2,
+        "change": -54.100098,
+        "changePct": -2.42,
+        "previousClose": 2234.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 86.51,
+        "change": 3.0600052,
+        "changePct": 3.67,
+        "previousClose": 83.45
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.56,
+        "previous": 3.56,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-03-09"
+      },
+      "10Y": {
+        "current": 4.12,
+        "previous": 4.15,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-03-09"
+      },
+      "30Y": {
+        "current": 4.72,
+        "previous": 4.77,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-09"
+      },
+      "USD_BROAD": {
+        "current": 119.491,
+        "previous": 119.5683,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-03-06"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415441,
+        "previous": 854720,
+        "change": -439279,
+        "period": "2026-02-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Why European Central Bank officials are weighing hiking interest rates into a supply shock",
+        "link": "https://www.marketwatch.com/story/rate-hike-expectations-are-increasing-after-european-officials-say-iran-war-inflation-may-spur-them-into-action-4d79dbc9?mod=mw_rss_topstories",
+        "date": "2026-03-11T10:22:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
+        "link": "https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html",
+        "date": "2026-03-11T07:04:12.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Dozens Of Oil Tankers Divert To Red Sea As Saudis Reroute Crude Flows From Hormuz Chokepoint",
+        "link": "https://www.zerohedge.com/geopolitical/oil-tankers-divert-red-sea-saudis-divert-hormuz-chokepoint",
+        "date": "2026-03-11T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "European Taxpayers Warn Against Eurobonds: A Looming Fiscal Trap",
+        "link": "https://www.zerohedge.com/economics/european-taxpayers-warn-against-eurobonds-looming-fiscal-trap",
+        "date": "2026-03-11T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Willing To Kill New Ayatollah If He Doesn't Cede To US Demands",
+        "link": "https://www.zerohedge.com/geopolitical/trump-willing-kill-new-ayatollah-if-he-doesnt-cede-us-demands",
+        "date": "2026-03-11T02:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Millennial Men Face Low Testosterone Crisis, Doctors Warn",
+        "link": "https://www.zerohedge.com/political/millennial-men-face-low-testosterone-crisis-doctors-warn",
+        "date": "2026-03-11T01:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "What’s next for crude-oil prices as wealthy nations consider a release of their reserves",
+        "link": "https://www.marketwatch.com/story/whats-next-for-crude-oil-prices-as-wealthy-nations-consider-a-release-of-their-reserves-d46cba38?mod=mw_rss_topstories",
+        "date": "2026-03-11T01:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Judicial Sabotage? Obama Judge Blocks Trump Efficiency Reforms For Deportation Appeals",
+        "link": "https://www.zerohedge.com/political/judicial-sabotage-obama-judge-blocks-trump-efficiency-reforms-deportation-appeals",
+        "date": "2026-03-11T00:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Fani Spanked Again: Judge Allows Trump And Co-Defendants To Pursue $17 Million In Legal Fees",
+        "link": "https://www.zerohedge.com/political/fani-spanked-again-judge-allows-trump-and-co-defendants-pursue-17-million-legal-fees",
+        "date": "2026-03-10T23:10:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Oil spike fades as markets reassess Iran war supply risks",
+        "link": "https://www.foxbusiness.com/economy/oil-spike-fades-markets-reassess-iran-war-supply-risks",
+        "date": "2026-03-10T22:50:14.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Rand Paul Warns Of \"Disastrous\" Midterms For GOP If Iran War Continues",
+        "link": "https://www.zerohedge.com/political/rand-paul-warns-disastrous-midterms-gop-if-iran-war-continues",
+        "date": "2026-03-10T21:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Threatens 'Unprecedented Military Consequences' As Iran Reportedly Starts Mining The Strait Of Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/irgc-says-iran-not-us-will-determine-wars-end-trump-threatens-strikes-20-times-harder",
+        "date": "2026-03-10T19:55:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "How the Iran war could hit Americans’ grocery bills",
+        "link": "https://www.foxbusiness.com/economy/how-iran-war-could-hit-americans-grocery-bills",
+        "date": "2026-03-10T19:35:04.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair",
+        "link": "https://www.cnbc.com/2026/03/10/kevin-warsh-faces-economic-perfect-storm-as-he-waits-to-take-over-as-fed-chair.html",
+        "date": "2026-03-10T18:56:36.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war",
+        "link": "https://www.cnbc.com/2026/03/10/aaa-gas-prices-iran-affordability-trump.html",
+        "date": "2026-03-10T17:02:06.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-11T10:26:20.213Z"
+  }
+}
