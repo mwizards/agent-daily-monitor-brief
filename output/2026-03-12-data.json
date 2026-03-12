@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-03-12T10:26:35.806Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Goldman warns of $150 oil peak as it hikes price target for second time in a week",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Goldman warns of $150 oil peak as it hikes price target for second time in a week"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -2.72,
+        "current": 77.91,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -2.72% to $77.91"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.99,
+        "current": 34.35,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.99% to $34.35"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.48,
+        "current": 56.98,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.48% to $56.98"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "The next 7 days in Iran will determine if we face stagflation or a total global recession",
+        "keywords": [
+          "recession"
+        ],
+        "message": "[MarketWatch] The next 7 days in Iran will determine if we face stagflation or a total global recession"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "February Snapshot Of The Global Nuclear Industry",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] February Snapshot Of The Global Nuclear Industry"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.59,
+        "message": "Gold/Silver ratio: 59.59x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 476.24,
+        "previousClose": 477.86,
+        "high": 477.44,
+        "low": 473.14,
+        "changePct": -0.34
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 77.91,
+        "previousClose": 80.09,
+        "high": 78.0636,
+        "low": 76.45,
+        "changePct": -2.72
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.29,
+        "previousClose": 83.06,
+        "high": 83.28,
+        "low": 81.1,
+        "changePct": -0.93
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 67.5,
+        "previousClose": 68.68,
+        "high": 69.31,
+        "low": 66.855,
+        "changePct": -1.72
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 51.36,
+        "previousClose": 52.31,
+        "high": 52.5699,
+        "low": 50.79,
+        "changePct": -1.82
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.35,
+        "previousClose": 35.41,
+        "high": 34.805,
+        "low": 33.45,
+        "changePct": -2.99
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.98,
+        "previousClose": 55.6,
+        "high": 57.04,
+        "low": 55.54,
+        "changePct": 2.48
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.55,
+        "previousClose": 27.45,
+        "high": 27.57,
+        "low": 27.465,
+        "changePct": 0.36
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.14,
+        "previousClose": 88.28,
+        "high": 87.81,
+        "low": 87.075,
+        "changePct": -1.29
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 676.33,
+        "previousClose": 677.18,
+        "high": 680.08,
+        "low": 673.34,
+        "changePct": -0.13
+      }
+    },
+    "metals": {
+      "gold": 5192,
+      "silver": 87.14,
+      "copper": 5.89,
+      "platinum": 2192.4,
+      "crude": null,
+      "goldSilverRatio": 59.59
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5192,
+        "change": 12.899902,
+        "changePct": 0.25,
+        "previousClose": 5179.1
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 87.135,
+        "change": 1.5999985,
+        "changePct": 1.87,
+        "previousClose": 85.535
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8935,
+        "change": 0.001999855,
+        "changePct": 0.03,
+        "previousClose": 5.8915
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2192.4,
+        "change": -11.9001465,
+        "changePct": -0.54,
+        "previousClose": 2204.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 91.44,
+        "change": 4.1900024,
+        "changePct": 4.8,
+        "previousClose": 87.25
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.57,
+        "previous": 3.56,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-03-10"
+      },
+      "10Y": {
+        "current": 4.15,
+        "previous": 4.12,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-10"
+      },
+      "30Y": {
+        "current": 4.78,
+        "previous": 4.72,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-03-10"
+      },
+      "USD_BROAD": {
+        "current": 119.491,
+        "previous": 119.5683,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-03-06"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 858545,
+        "change": -443103,
+        "period": "2026-03-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Goldman warns of $150 oil peak as it hikes price target for second time in a week",
+        "link": "https://www.marketwatch.com/story/goldman-warns-of-150-oil-peak-as-it-hikes-price-target-for-second-time-in-a-week-55f85285?mod=mw_rss_topstories",
+        "date": "2026-03-12T09:59:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Trump raises the stakes on China with Section 301 trade probe, weeks before Beijing summit",
+        "link": "https://www.cnbc.com/2026/03/12/section-301-trade-probe-china-trump-xi-beijing-summit.html",
+        "date": "2026-03-12T09:35:13.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Investors trying to make money on the Iran conflict are gambling blind. Don’t even try.",
+        "link": "https://www.marketwatch.com/story/investors-trying-to-make-money-on-the-iran-conflict-are-gambling-blind-dont-even-try-dd0dd00b?mod=mw_rss_topstories",
+        "date": "2026-03-12T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany's Commuters Bear The Cost Of The Iran Crisis And Tax State",
+        "link": "https://www.zerohedge.com/markets/germanys-commuters-bear-cost-iran-crisis-and-tax-state",
+        "date": "2026-03-12T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Middle East Conflict Tightens LNG Supply, Redirects Cargoes To Asia",
+        "link": "https://www.zerohedge.com/markets/middle-east-conflict-tightens-lng-supply-redirects-cargoes-asia",
+        "date": "2026-03-12T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Greek Shipping Billionaire Capitalizing On Tanker Demand Surge, Deploying Five Vessels To Strait Of Hormuz",
+        "link": "https://www.zerohedge.com/markets/greek-shipping-billionaire-capitalizing-tanker-demand-surge-deploying-five-vessels-strait",
+        "date": "2026-03-12T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's De-Dollarization Push Meets Washington's Defense Of The Dollar",
+        "link": "https://www.zerohedge.com/markets/chinas-de-dollarization-push-meets-washingtons-defense-dollar",
+        "date": "2026-03-12T03:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Dow futures down more than 500 points as Brent crude again tops $100 a barrel",
+        "link": "https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories",
+        "date": "2026-03-12T03:04:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
+        "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
+        "date": "2026-03-12T02:54:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "AG Bondi Moves To Secure Military Housing After Threats, Joining Other Trump Officials",
+        "link": "https://www.zerohedge.com/political/ag-bondi-moves-secure-military-housing-after-threats-joining-other-trump-officials",
+        "date": "2026-03-12T02:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The next 7 days in Iran will determine if we face stagflation or a total global recession",
+        "link": "https://www.marketwatch.com/story/the-70-odds-that-say-your-portfolio-isnt-ready-for-the-iran-conflicts-escalation-2546b93a?mod=mw_rss_topstories",
+        "date": "2026-03-12T01:31:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Iran threatens $200 oil barrels as US prepares massive release of emergency petroleum reserves",
+        "link": "https://www.foxbusiness.com/economy/iran-threatens-200-oil-barrels-us-prepares-massive-release-emergency-petroleum-reserves",
+        "date": "2026-03-12T01:25:47.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "No, New York Times, Climate Change Isn't Driving Inflation",
+        "link": "https://www.zerohedge.com/economics/no-new-york-times-climate-change-isnt-driving-inflation",
+        "date": "2026-03-12T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "February Snapshot Of The Global Nuclear Industry",
+        "link": "https://www.zerohedge.com/markets/goldmans-nuclear-nuggets-february-snapshot-global-nuclear-industry",
+        "date": "2026-03-11T23:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump–Xi Summit Preview: What's At Stake",
+        "link": "https://www.zerohedge.com/geopolitical/trump-xi-summit-preview-whats-stake",
+        "date": "2026-03-11T23:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-12T10:26:26.588Z"
+  }
+}
