@@ -1,0 +1,376 @@
+{
+  "generatedAt": "2026-03-13T10:22:46.152Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.1,
+        "current": 79.74,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.1% to $79.74"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pro-War Republican Senator Apologizes For Iran Girls' School Massacre After Trump Blames Tehran",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pro-War Republican Senator Apologizes For Iran Girls' School Massacre After Trump Blames Tehran"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Senate Republicans On Iran War Ending: Sooner The Better",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Senate Republicans On Iran War Ending: Sooner The Better"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Large US Refueling Aircraft Down In Western Iraq In First Of Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Large US Refueling Aircraft Down In Western Iraq In First Of Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Shoppers seeking a tariff refund from retailers are likely out of luck",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[MarketWatch] Shoppers seeking a tariff refund from retailers are likely out of luck"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Western Leaders Pivot To Blaming \"Putin's Hidden Hand\" As Iran War Not Going To Plan",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Western Leaders Pivot To Blaming \"Putin's Hidden Hand\" As Iran War Not Going To Plan"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Costco sued by customer seeking refunds for tariff payments",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] Costco sued by customer seeking refunds for tariff payments"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.85,
+        "current": 33.37,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.85% to $33.37"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.27,
+        "message": "Gold/Silver ratio: 61.27x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 466.88,
+        "previousClose": 476.24,
+        "high": 475.02,
+        "low": 466.6,
+        "changePct": -1.97
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 76.48,
+        "previousClose": 77.91,
+        "high": 78.54,
+        "low": 76.36,
+        "changePct": -1.84
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 79.74,
+        "previousClose": 82.29,
+        "high": 81.1797,
+        "low": 78.9725,
+        "changePct": -3.1
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 67.11,
+        "previousClose": 67.5,
+        "high": 67.85,
+        "low": 65.0649,
+        "changePct": -0.58
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.77,
+        "previousClose": 51.36,
+        "high": 51.4,
+        "low": 49.6535,
+        "changePct": -1.15
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33.37,
+        "previousClose": 34.35,
+        "high": 34.42,
+        "low": 32.87,
+        "changePct": -2.85
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.51,
+        "previousClose": 56.98,
+        "high": 58.215,
+        "low": 57.065,
+        "changePct": 0.93
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.68,
+        "previousClose": 27.55,
+        "high": 27.71,
+        "low": 27.622,
+        "changePct": 0.47
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.97,
+        "previousClose": 87.14,
+        "high": 87.245,
+        "low": 86.775,
+        "changePct": -0.2
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 666.06,
+        "previousClose": 676.33,
+        "high": 671.65,
+        "low": 665.88,
+        "changePct": -1.52
+      }
+    },
+    "metals": {
+      "gold": 5094.1,
+      "silver": 83.14,
+      "copper": 5.81,
+      "platinum": 2077.7,
+      "crude": null,
+      "goldSilverRatio": 61.27
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5094.1,
+        "change": -31.699707,
+        "changePct": -0.62,
+        "previousClose": 5125.8
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 83.14,
+        "change": -1.9720001,
+        "changePct": -2.32,
+        "previousClose": 85.112
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.808,
+        "change": -0.059999943,
+        "changePct": -1.02,
+        "previousClose": 5.868
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2077.7,
+        "change": -87.80005,
+        "changePct": -4.05,
+        "previousClose": 2165.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 95.23,
+        "change": -0.5,
+        "changePct": -0.52,
+        "previousClose": 95.73
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.64,
+        "previous": 3.57,
+        "change": 0.07,
+        "changeBps": 7,
+        "date": "2026-03-11"
+      },
+      "10Y": {
+        "current": 4.21,
+        "previous": 4.15,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-03-11"
+      },
+      "30Y": {
+        "current": 4.86,
+        "previous": 4.78,
+        "change": 0.08,
+        "changeBps": 8,
+        "date": "2026-03-11"
+      },
+      "USD_BROAD": {
+        "current": 119.491,
+        "previous": 119.5683,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-03-06"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 858545,
+        "change": -443103,
+        "period": "2026-03-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "\"Consumer Sentiment Going Down\": EU Auto Heads Begin Blaming Iran Conflict For Industry Woes",
+        "link": "https://www.zerohedge.com/markets/consumer-sentiment-going-down-eu-auto-heads-begin-blaming-iran-conflict-industry-woes",
+        "date": "2026-03-13T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Saudi Aramco To Buy Ukrainian Interceptor Drones To Defend Oil Fields",
+        "link": "https://www.zerohedge.com/technology/saudi-aramco-buy-ukrainian-interceptor-drones-defend-oil-fields",
+        "date": "2026-03-13T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pro-War Republican Senator Apologizes For Iran Girls' School Massacre After Trump Blames Tehran",
+        "link": "https://www.zerohedge.com/geopolitical/pro-war-republican-senator-apologizes-iran-girls-school-massacre-after-trump-blames",
+        "date": "2026-03-13T03:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Indian H1B Scammers Found Guilty In Multi-Million Dollar Fraud In Pennsylvania",
+        "link": "https://www.zerohedge.com/political/indian-h1b-scammers-found-guilty-multi-million-dollar-fraud-pennsylvania",
+        "date": "2026-03-13T03:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran's Hormuz Naval Mines: A Powerful Asymmetric Weapon Paralyzing Tanker Traffic",
+        "link": "https://www.zerohedge.com/energy/irans-hormuz-naval-mines-power-asymmetric-weapon-paralyzing-tanker-traffic",
+        "date": "2026-03-13T02:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Senate Republicans On Iran War Ending: Sooner The Better",
+        "link": "https://www.zerohedge.com/geopolitical/senate-republicans-iran-war-ending-sooner-better",
+        "date": "2026-03-13T00:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "White House Disputes ABC Report Claiming Iran Wants To Launch Drones At West Coast",
+        "link": "https://www.zerohedge.com/political/white-house-disputes-abc-report-claiming-iran-wants-launch-drones-west-coast",
+        "date": "2026-03-12T23:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Large US Refueling Aircraft Down In Western Iraq In First Of Iran War",
+        "link": "https://www.zerohedge.com/geopolitical/two-more-tankers-hit-bringing-total-six-ships-oil-tops-100-after-trump-declares-we-won",
+        "date": "2026-03-12T23:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Shoppers seeking a tariff refund from retailers are likely out of luck",
+        "link": "https://www.marketwatch.com/story/shoppers-seeking-a-tariff-refund-from-retailers-are-likely-out-of-luck-5aacf5f4?mod=mw_rss_topstories",
+        "date": "2026-03-12T22:59:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Centrus Partners With Palantir As Wright Pushes End To Russian Imports",
+        "link": "https://www.zerohedge.com/energy/centrus-partners-palantir-wright-pushes-end-russian-imports",
+        "date": "2026-03-12T22:55:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one answer.",
+        "link": "https://www.marketwatch.com/story/trump-is-scrambling-to-quell-the-rise-of-100-oil-but-the-market-keeps-circling-one-answer-bf9abf20?mod=mw_rss_topstories",
+        "date": "2026-03-12T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Crypto Whale Beached, Loses Nearly $50 Million Swapping USDT For AAVE",
+        "link": "https://www.zerohedge.com/crypto/crypto-whale-beached-loses-nearly-50-million-swapping-usdt-aave",
+        "date": "2026-03-12T22:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Western Leaders Pivot To Blaming \"Putin's Hidden Hand\" As Iran War Not Going To Plan",
+        "link": "https://www.zerohedge.com/geopolitical/western-leaders-pivot-blaming-putins-hidden-hand-iran-war-not-going-plan",
+        "date": "2026-03-12T22:05:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Costco sued by customer seeking refunds for tariff payments",
+        "link": "https://www.foxbusiness.com/economy/costco-sued-customer-seeking-refunds-tariff-payments",
+        "date": "2026-03-12T22:00:49.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fuel crisis forces airlines to announce major fare increases, flight cancellations as Iran conflict escalates",
+        "link": "https://www.foxbusiness.com/economy/fuel-crisis-forces-airlines-announce-major-fare-increases-flight-cancellations-iran-conflict-escalates",
+        "date": "2026-03-12T19:26:17.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-13T10:22:35.037Z"
+  }
+}
