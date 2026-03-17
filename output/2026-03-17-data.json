@@ -1,0 +1,355 @@
+{
+  "generatedAt": "2026-03-17T10:37:44.812Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Veteran strategist highlights how China is coming out on top of the Iranian war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Veteran strategist highlights how China is coming out on top of the Iranian war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"I Am Extremely Disappointed In Donald Trump\" – AfD Co-Leader Warns Of WWIII",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"I Am Extremely Disappointed In Donald Trump\" – AfD Co-Leader Warns Of WWIII"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Jerusalem Braces For Unrest After Wartime Closure Of Al-Aqsa Mosque Through Ramadan",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Jerusalem Braces For Unrest After Wartime Closure Of Al-Aqsa Mosque Through Ramadan"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "China Directly Mediating Between Pakistan & Afghanistan After Weeks Of War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] China Directly Mediating Between Pakistan & Afghanistan After Weeks Of War"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.97,
+        "current": 78.66,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.97% to $78.66"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks",
+        "keywords": [
+          "recession"
+        ],
+        "message": "[MarketWatch] Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.16,
+        "message": "Gold/Silver ratio: 62.16x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 460.43,
+        "previousClose": 460.84,
+        "high": 462.8,
+        "low": 456.92,
+        "changePct": -0.09
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 73.22,
+        "previousClose": 72.69,
+        "high": 73.96,
+        "low": 72.01,
+        "changePct": 0.73
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 78.66,
+        "previousClose": 76.39,
+        "high": 78.855,
+        "low": 76.94,
+        "changePct": 2.97
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.18,
+        "previousClose": 63.82,
+        "high": 64.79,
+        "low": 62.5317,
+        "changePct": 0.56
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 49.95,
+        "previousClose": 49.29,
+        "high": 50.32,
+        "low": 48.84,
+        "changePct": 1.34
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.76,
+        "previousClose": 31.45,
+        "high": 32.33,
+        "low": 30.785,
+        "changePct": 0.99
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.9,
+        "previousClose": 57.7,
+        "high": 58.1,
+        "low": 57.27,
+        "changePct": 0.35
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.73,
+        "previousClose": 27.89,
+        "high": 27.78,
+        "low": 27.68,
+        "changePct": -0.57
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.21,
+        "previousClose": 86.54,
+        "high": 87.335,
+        "low": 86.9603,
+        "changePct": 0.77
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 669.03,
+        "previousClose": 662.29,
+        "high": 672.05,
+        "low": 667.12,
+        "changePct": 1.02
+      }
+    },
+    "metals": {
+      "gold": 5012.7,
+      "silver": 80.65,
+      "copper": 5.76,
+      "platinum": 2131.8,
+      "crude": null,
+      "goldSilverRatio": 62.16
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 5012.7,
+        "change": 10.5,
+        "changePct": 0.21,
+        "previousClose": 5002.2
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 80.645,
+        "change": -0.037002563,
+        "changePct": -0.05,
+        "previousClose": 80.682
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.7595,
+        "change": -0.07200003,
+        "changePct": -1.23,
+        "previousClose": 5.8315
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2131.8,
+        "change": 36.900146,
+        "changePct": 1.76,
+        "previousClose": 2094.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 96.05,
+        "change": 3.590004,
+        "changePct": 3.88,
+        "previousClose": 92.46
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.73,
+        "previous": 3.76,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-03-13"
+      },
+      "10Y": {
+        "current": 4.28,
+        "previous": 4.27,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-03-13"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.88,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-03-13"
+      },
+      "USD_BROAD": {
+        "current": 120.5518,
+        "previous": 119.8227,
+        "change": 0.73,
+        "changeBps": 73,
+        "date": "2026-03-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 858545,
+        "change": -443103,
+        "period": "2026-03-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Veteran strategist highlights how China is coming out on top of the Iranian war",
+        "link": "https://www.marketwatch.com/story/veteran-strategist-highlights-how-china-is-coming-out-on-top-of-the-iranian-war-d1e67667?mod=mw_rss_topstories",
+        "date": "2026-03-17T09:47:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Ivana Trump’s N.Y. townhouse finally sells after more than 3 years on the market—at a big discount",
+        "link": "https://www.marketwatch.com/story/ivana-trumps-n-y-townhouse-finally-sells-after-more-than-3-years-on-the-marketat-a-big-discount-c77bcd4d?mod=mw_rss_topstories",
+        "date": "2026-03-17T09:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "European Nations Pull Their 'Anti-ISIS' Mission Troops Out Of Iraq",
+        "link": "https://www.zerohedge.com/military/european-nations-pull-their-anti-isis-mission-troops-out-iraq",
+        "date": "2026-03-17T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"I Am Extremely Disappointed In Donald Trump\" – AfD Co-Leader Warns Of WWIII",
+        "link": "https://www.zerohedge.com/geopolitical/i-am-extremely-disappointed-donald-trump-afd-co-leader-warns-wwiii",
+        "date": "2026-03-17T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Jerusalem Braces For Unrest After Wartime Closure Of Al-Aqsa Mosque Through Ramadan",
+        "link": "https://www.zerohedge.com/geopolitical/jerusalem-braces-unrest-after-wartime-closure-al-aqsa-mosque-through-ramadan",
+        "date": "2026-03-17T03:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Directly Mediating Between Pakistan & Afghanistan After Weeks Of War",
+        "link": "https://www.zerohedge.com/geopolitical/china-directly-mediating-between-pakistan-afghanistan-after-weeks-war",
+        "date": "2026-03-17T03:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Longtime Oil Exec Worked For CIA, Helped Oust Maduro: Report",
+        "link": "https://www.zerohedge.com/political/longtime-oil-exec-worked-cia-helped-oust-maduro-report",
+        "date": "2026-03-17T02:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Voter ID Has Massive Public Support: Why Is Congress Standing In The Way?",
+        "link": "https://www.zerohedge.com/political/voter-id-has-massive-public-support-why-congress-standing-way",
+        "date": "2026-03-17T02:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "DOE Unleashes $500M To Break China's Grip On Critical Materials",
+        "link": "https://www.zerohedge.com/precious-metals/doe-unleashes-500m-break-chinas-grip-critical-materials",
+        "date": "2026-03-17T01:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia's Rumored Telegram Block Appears Underway As Outage Reports Surge",
+        "link": "https://www.zerohedge.com/geopolitical/russias-long-anticipated-telegram-block-appears-underway-outage-reports-surge",
+        "date": "2026-03-16T23:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Biden-Appointed Judge Blocks RFK Jr's Appointees To Vaccine Panel",
+        "link": "https://www.zerohedge.com/political/biden-appointed-judge-blocks-rfk-jrs-appointees-vaccine-panel",
+        "date": "2026-03-16T23:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Cruise lines face fuel cost surge as oil prices jump on Iran tensions",
+        "link": "https://www.foxbusiness.com/economy/cruise-lines-face-fuel-cost-surge-oil-prices-jump-iran-tensions",
+        "date": "2026-03-16T22:16:40.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks",
+        "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories",
+        "date": "2026-03-16T22:01:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts?",
+        "link": "https://www.marketwatch.com/story/u-s-stocks-have-been-surprisingly-resilient-as-the-iran-conflict-threatens-global-economic-disruption-thank-industry-analysts-fba3b2ca?mod=mw_rss_topstories",
+        "date": "2026-03-16T21:28:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Greatest Risk For The Global Economy Is Stagflation Driven By Governments, Not Oil",
+        "link": "https://www.zerohedge.com/economics/greatest-risk-global-economy-stagflation-driven-governments-not-oil",
+        "date": "2026-03-16T21:15:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-17T10:37:35.370Z"
+  }
+}
