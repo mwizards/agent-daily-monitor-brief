@@ -1,0 +1,345 @@
+{
+  "generatedAt": "2026-03-18T10:38:37.554Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "From Economic Engine To Military Machine: Berlin's Quiet Pivot To War Economy A Challenge To EU",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] From Economic Engine To Military Machine: Berlin's Quiet Pivot To War Economy A Challenge To EU"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Democrats Claim Thwarted Terror Attack Proves That Americans Don't Need Guns",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Democrats Claim Thwarted Terror Attack Proves That Americans Don't Need Guns"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Amazon Accelerates Last-Mile Delivery War With New 1-Hour Option",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Amazon Accelerates Last-Mile Delivery War With New 1-Hour Option"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"We're At War\": Ecuador Deploys 75,000 Troops, Launches Anti-Cartel Missile Strikes; Colombia Warns \"We're Being Bombed\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"We're At War\": Ecuador Deploys 75,000 Troops, Launches Anti-Cartel Missile Strikes; Colombia Warns \"We're Being Bombed\""
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -2.13,
+        "current": 71.66,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -2.13% to $71.66"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.45,
+        "message": "Gold/Silver ratio: 62.45x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 5
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 459.27,
+        "previousClose": 460.43,
+        "high": 462.21,
+        "low": 456.89,
+        "changePct": -0.25
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 71.66,
+        "previousClose": 73.22,
+        "high": 73.71,
+        "low": 70.8484,
+        "changePct": -2.13
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 77.91,
+        "previousClose": 78.66,
+        "high": 78.915,
+        "low": 77.3301,
+        "changePct": -0.95
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 65.05,
+        "previousClose": 64.18,
+        "high": 66.08,
+        "low": 64.06,
+        "changePct": 1.36
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.52,
+        "previousClose": 49.95,
+        "high": 51.28,
+        "low": 49.755,
+        "changePct": 1.14
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.53,
+        "previousClose": 31.76,
+        "high": 32.48,
+        "low": 31.22,
+        "changePct": -0.72
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.51,
+        "previousClose": 57.9,
+        "high": 59.0494,
+        "low": 57.98,
+        "changePct": 1.05
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.68,
+        "previousClose": 27.73,
+        "high": 27.705,
+        "low": 27.64,
+        "changePct": -0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.45,
+        "previousClose": 87.21,
+        "high": 87.57,
+        "low": 87.315,
+        "changePct": 0.28
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 670.79,
+        "previousClose": 669.03,
+        "high": 674.44,
+        "low": 669.85,
+        "changePct": 0.26
+      }
+    },
+    "metals": {
+      "gold": 4990.8,
+      "silver": 79.92,
+      "copper": 5.74,
+      "platinum": 2101.5,
+      "crude": null,
+      "goldSilverRatio": 62.45
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4990.8,
+        "change": -17.40039,
+        "changePct": -0.35,
+        "previousClose": 5008.2
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 79.92,
+        "change": -0.0009994507,
+        "changePct": 0,
+        "previousClose": 79.921
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.737,
+        "change": -0.03000021,
+        "changePct": -0.52,
+        "previousClose": 5.767
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2101.5,
+        "change": -35,
+        "changePct": -1.64,
+        "previousClose": 2136.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 94.2,
+        "change": -1.3300018,
+        "changePct": -1.39,
+        "previousClose": 95.53
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.68,
+        "previous": 3.73,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-16"
+      },
+      "10Y": {
+        "current": 4.23,
+        "previous": 4.28,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-16"
+      },
+      "30Y": {
+        "current": 4.86,
+        "previous": 4.9,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-03-16"
+      },
+      "USD_BROAD": {
+        "current": 120.5518,
+        "previous": 119.8227,
+        "change": 0.73,
+        "changeBps": 73,
+        "date": "2026-03-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 858545,
+        "change": -443103,
+        "period": "2026-03-06",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Instead of shopping they’re quietly stockpiling cash — ‘shadow saving’ — and it could short-circuit the global economy",
+        "link": "https://www.marketwatch.com/story/instead-of-shopping-theyre-quietly-stockpiling-cash-shadow-saving-and-it-could-short-circuit-the-global-economy-5ebc81a6?mod=mw_rss_topstories",
+        "date": "2026-03-18T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Zelensky Confirms 200 Ukrainian Drone Operatives Are In Mideast Assisting Against Iran",
+        "link": "https://www.zerohedge.com/geopolitical/zelensky-confirms-200-ukrainian-drone-operatives-are-mideast-assisting-against-iran",
+        "date": "2026-03-18T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Country music star Miranda Lambert lists Texas estate that includes her childhood home for $1.6 million",
+        "link": "https://www.marketwatch.com/story/country-music-star-miranda-lambert-lists-texas-estate-that-includes-her-childhood-home-for-1-6-million-338e258b?mod=mw_rss_topstories",
+        "date": "2026-03-18T08:58:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Crewless Russian Fuel Tanker A 'Ticking Time Bomb' In Mediterranean After Likely Ukrainian Attack",
+        "link": "https://www.zerohedge.com/energy/crewless-russian-fuel-tanker-ticking-time-bomb-mediterranean-after-likely-ukrainian-attack",
+        "date": "2026-03-18T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Touts Capture Of A Dozen Ukrainian Settlements In Opening Weeks Of March",
+        "link": "https://www.zerohedge.com/geopolitical/russia-touts-capture-dozen-ukrainian-settlements-opening-weeks-march",
+        "date": "2026-03-18T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "From Economic Engine To Military Machine: Berlin's Quiet Pivot To War Economy A Challenge To EU",
+        "link": "https://www.zerohedge.com/geopolitical/economic-engine-military-machine-berlins-quiet-pivot-war-economy-challenge-eu",
+        "date": "2026-03-18T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Footage Appears To Show China Mass-Producing Iranian-Style Kamikaze Drones",
+        "link": "https://www.zerohedge.com/military/footage-appears-show-china-mass-producing-iranian-style-kamikaze-drones",
+        "date": "2026-03-18T03:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The ‘smart money’ on Wall Street hates these bonds — but they may be a golden buying opportunity for you",
+        "link": "https://www.marketwatch.com/story/the-smart-money-on-wall-street-hates-these-bonds-but-they-may-be-a-golden-buying-opportunity-for-you-ae48d8d8?mod=mw_rss_topstories",
+        "date": "2026-03-18T01:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Democrats Claim Thwarted Terror Attack Proves That Americans Don't Need Guns",
+        "link": "https://www.zerohedge.com/political/democrats-claim-thwarted-terror-attack-proves-americans-dont-need-guns",
+        "date": "2026-03-18T00:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tulsi Too? GOP Hits Back After Counterterrorism Chief Quits; Says Iran Threat To Americans Was 'Imminent'",
+        "link": "https://www.zerohedge.com/political/trump-appointed-nctc-director-joe-kent-resigns-protest-over-us-war-iran",
+        "date": "2026-03-17T23:02:34.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Confirms Death Of Ali Larijani In Another Key Loss Of Leadership",
+        "link": "https://www.zerohedge.com/geopolitical/not-our-war-allies-shun-trump-coalition-iran-security-chief-alleged-killed-oil",
+        "date": "2026-03-17T22:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"That Wasn't Public\": Trump Stuns Johnson By Blurting Out GOP Rep.'s Dire Medical Condition",
+        "link": "https://www.zerohedge.com/political/wasnt-public-trump-stuns-johnson-blurting-out-gop-reps-dire-medical-condition",
+        "date": "2026-03-17T22:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Seeks Alternative Fertilizer Supplies",
+        "link": "https://www.zerohedge.com/commodities/trump-administration-seeks-alternative-fertilizer-supplies",
+        "date": "2026-03-17T22:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Amazon Accelerates Last-Mile Delivery War With New 1-Hour Option",
+        "link": "https://www.zerohedge.com/technology/amazon-accelerates-last-mile-delivery-wr",
+        "date": "2026-03-17T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"We're At War\": Ecuador Deploys 75,000 Troops, Launches Anti-Cartel Missile Strikes; Colombia Warns \"We're Being Bombed\"",
+        "link": "https://www.zerohedge.com/geopolitical/were-war-ecuador-deploys-75000-troops-launches-anti-cartel-missile-strikes-colombia",
+        "date": "2026-03-17T20:40:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-18T10:38:29.107Z"
+  }
+}
