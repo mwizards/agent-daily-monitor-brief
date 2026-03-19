@@ -1,0 +1,430 @@
+{
+  "generatedAt": "2026-03-19T10:28:00.092Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -7.2,
+        "current": 29.26,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -7.2% to $29.26"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.16,
+        "current": 444.74,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.16% to $444.74"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -4.13,
+        "current": 68.7,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -4.13% to $68.7"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.82,
+        "current": 74.93,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.82% to $74.93"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.84,
+        "current": 62.55,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.84% to $62.55"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "The Iran war is adding to Europe's central banks rate-decision headaches",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] The Iran war is adding to Europe's central banks rate-decision headaches"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "AI Insiders Warn Of Dangers Of 'Emergent Strategic Behavior'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] AI Insiders Warn Of Dangers Of 'Emergent Strategic Behavior'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Will the Federal Reserve cut interest rates in 2026?",
+        "keywords": [
+          "federal reserve"
+        ],
+        "message": "[Fox Biz Economy] Will the Federal Reserve cut interest rates in 2026?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "How The Iran War Could Trigger A Global Credit Crunch",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] How The Iran War Could Trigger A Global Credit Crunch"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Car dealers warned by FTC about deceptive pricing practices, hidden fees",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Car dealers warned by FTC about deceptive pricing practices, hidden fees"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Ready For War? New B-21 Raider Activity Spotted Over Mojave Desert",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Ready For War? New B-21 Raider Activity Spotted Over Mojave Desert"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Schiff: This War Is \"Going To Cost A Lot Of Money We Don't Have\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Schiff: This War Is \"Going To Cost A Lot Of Money We Don't Have\""
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.87,
+        "current": 49.07,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.87% to $49.07"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Former Air Force Officer Claims UFOs Disabled Nuclear Missiles",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Former Air Force Officer Claims UFOs Disabled Nuclear Missiles"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 65.6,
+        "message": "Gold/Silver ratio: 65.6x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 14
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 444.74,
+        "previousClose": 459.27,
+        "high": 450.05,
+        "low": 444.39,
+        "changePct": -3.16
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.7,
+        "previousClose": 71.66,
+        "high": 70.55,
+        "low": 68.66,
+        "changePct": -4.13
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 74.93,
+        "previousClose": 77.91,
+        "high": 76.835,
+        "low": 74.74,
+        "changePct": -3.82
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 62.55,
+        "previousClose": 65.05,
+        "high": 64.17,
+        "low": 62.425,
+        "changePct": -3.84
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 49.07,
+        "previousClose": 50.52,
+        "high": 50.33,
+        "low": 49.04,
+        "changePct": -2.87
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.26,
+        "previousClose": 31.53,
+        "high": 30.33,
+        "low": 29.16,
+        "changePct": -7.2
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.43,
+        "previousClose": 58.51,
+        "high": 58.97,
+        "low": 58.43,
+        "changePct": -0.14
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.85,
+        "previousClose": 27.68,
+        "high": 27.85,
+        "low": 27.704,
+        "changePct": 0.61
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.955,
+        "previousClose": 87.45,
+        "high": 87.48,
+        "low": 86.93,
+        "changePct": -0.57
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 661.43,
+        "previousClose": 670.79,
+        "high": 669.72,
+        "low": 661.23,
+        "changePct": -1.4
+      }
+    },
+    "metals": {
+      "gold": 4700.9,
+      "silver": 71.66,
+      "copper": 5.45,
+      "platinum": 1937.8,
+      "crude": null,
+      "goldSilverRatio": 65.6
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4700.9,
+        "change": -195.3003,
+        "changePct": -3.99,
+        "previousClose": 4896.2
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 71.655,
+        "change": -5.937004,
+        "changePct": -7.65,
+        "previousClose": 77.592
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.451,
+        "change": -0.14299965,
+        "changePct": -2.56,
+        "previousClose": 5.594
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1937.8,
+        "change": -118.80005,
+        "changePct": -5.78,
+        "previousClose": 2056.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 95.54,
+        "change": 0.08000183,
+        "changePct": 0.08,
+        "previousClose": 95.46
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.68,
+        "previous": 3.68,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-03-17"
+      },
+      "10Y": {
+        "current": 4.2,
+        "previous": 4.23,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-03-17"
+      },
+      "30Y": {
+        "current": 4.85,
+        "previous": 4.86,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-03-17"
+      },
+      "USD_BROAD": {
+        "current": 120.5518,
+        "previous": 119.8227,
+        "change": 0.73,
+        "changeBps": 73,
+        "date": "2026-03-13"
+      }
+    },
+    "eia": null,
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices surge after Iran attacks Middle East energy facilities",
+        "link": "https://www.marketwatch.com/story/oil-prices-surge-after-iran-attacks-middle-east-energy-facilities-c43c7d1e?mod=mw_rss_topstories",
+        "date": "2026-03-19T09:22:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "The Iran war is adding to Europe's central banks rate-decision headaches",
+        "link": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+        "date": "2026-03-19T09:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Former Air Force Officer Claims UFOs Disabled Nuclear Missiles",
+        "link": "https://www.zerohedge.com/markets/former-air-force-officer-claims-ufos-disabled-nuclear-missiles",
+        "date": "2026-03-19T02:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "AI Insiders Warn Of Dangers Of 'Emergent Strategic Behavior'",
+        "link": "https://www.zerohedge.com/ai/ai-insiders-warn-dangers-emergent-strategic-behavior",
+        "date": "2026-03-19T01:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Australia Has One Month Before Energy Crisis And Fuel Rationing",
+        "link": "https://www.zerohedge.com/geopolitical/australia-has-one-month-energy-crisis-and-fuel-rationing",
+        "date": "2026-03-19T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Qatar Expels Iranian Diplomats After Strike On LNG Hub; Israel Attacks Iran's Navy In Caspian Sea",
+        "link": "https://www.zerohedge.com/energy/gulf-energy-reroute-iraq-restarts-ceyhan-pipeline-exports-iran-pushes-new-hormuz-transit",
+        "date": "2026-03-19T00:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Fully Stretched\": Some US Airports Face Possible Closure If Government Shutdown Prolongs",
+        "link": "https://www.zerohedge.com/political/fully-stretched-some-us-airports-face-possible-closure-if-government-shutdown-prolongs",
+        "date": "2026-03-19T00:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "200,000 Immigrant Truck Drivers Begin Losing Licenses Under New Trump Admin Rule",
+        "link": "https://www.zerohedge.com/markets/200000-immigrant-truck-drivers-begin-losing-licenses-under-new-trump-admin-rule",
+        "date": "2026-03-19T00:10:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Social media is eroding young people’s happiness. Low-income teens may be most at risk.",
+        "link": "https://www.marketwatch.com/story/social-media-is-eroding-young-peoples-happiness-low-income-teens-may-be-most-at-risk-446a0965?mod=mw_rss_topstories",
+        "date": "2026-03-19T00:01:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Will the Federal Reserve cut interest rates in 2026?",
+        "link": "https://www.foxbusiness.com/economy/federal-reserve-cut-interest-rates-2026",
+        "date": "2026-03-18T23:55:14.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How The Iran War Could Trigger A Global Credit Crunch",
+        "link": "https://www.zerohedge.com/political/how-iran-war-could-trigger-global-credit-crunch",
+        "date": "2026-03-18T23:45:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Car dealers warned by FTC about deceptive pricing practices, hidden fees",
+        "link": "https://www.foxbusiness.com/economy/car-dealers-warned-ftc-about-deceptive-pricing-practices-hidden-fees",
+        "date": "2026-03-18T21:08:58.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ready For War? New B-21 Raider Activity Spotted Over Mojave Desert",
+        "link": "https://www.zerohedge.com/military/ready-war-new-b-21-raider-activity-spotted-over-mojave-desert",
+        "date": "2026-03-18T20:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Did US Intel Agencies Hide Chinese Interference In 2020 Election From 'Vulgarian' Trump?",
+        "link": "https://www.zerohedge.com/political/did-us-intel-agencies-hide-chinese-interference-2020-election-vulgarian-trump",
+        "date": "2026-03-18T20:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Schiff: This War Is \"Going To Cost A Lot Of Money We Don't Have\"",
+        "link": "https://www.zerohedge.com/geopolitical/schiff-war-going-cost-lot-money-we-dont-have",
+        "date": "2026-03-18T19:45:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-19T10:27:45.363Z"
+  }
+}
