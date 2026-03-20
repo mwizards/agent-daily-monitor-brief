@@ -1,0 +1,399 @@
+{
+  "generatedAt": "2026-03-20T10:25:36.260Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -6.32,
+        "current": 27.41,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -6.32% to $27.41"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -4.12,
+        "current": 426.41,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -4.12% to $426.41"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -4.4,
+        "current": 65.68,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -4.4% to $65.68"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.4,
+        "current": 72.38,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.4% to $72.38"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Russia Benefiting From US-Iran War While Impacts On China Are 'Complicated': Analysts",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Russia Benefiting From US-Iran War While Impacts On China Are 'Complicated': Analysts"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "SoCal Heat-Wave Prompts Health Warning Of High Bacteria Levels At Los Angeles Beaches",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] SoCal Heat-Wave Prompts Health Warning Of High Bacteria Levels At Los Angeles Beaches"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+        "keywords": [
+          "rate cut"
+        ],
+        "message": "[CNBC Economy] Traders now see little chance of an interest rate cut this year following Fed decision"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -2.64,
+        "current": 60.9,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -2.64% to $60.9"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[MarketWatch] ‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Netanyahu Declares Iran's Nuclear Program & Missile Production \"Destroyed\" - Denies Israel Influenced Trump",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Netanyahu Declares Iran's Nuclear Program & Missile Production \"Destroyed\" - Denies Israel Influenced Trump"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.95,
+        "message": "Gold/Silver ratio: 64.95x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 426.41,
+        "previousClose": 444.74,
+        "high": 428.2677,
+        "low": 416.84,
+        "changePct": -4.12
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 65.68,
+        "previousClose": 68.7,
+        "high": 65.74,
+        "low": 60.8501,
+        "changePct": -4.4
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 72.38,
+        "previousClose": 74.93,
+        "high": 73.0364,
+        "low": 68.55,
+        "changePct": -3.4
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 60.9,
+        "previousClose": 62.55,
+        "high": 61.46,
+        "low": 58.3,
+        "changePct": -2.64
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.27,
+        "previousClose": 49.07,
+        "high": 48.72,
+        "low": 46.31,
+        "changePct": -1.63
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 27.41,
+        "previousClose": 29.26,
+        "high": 27.67,
+        "low": 26.085,
+        "changePct": -6.32
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.36,
+        "previousClose": 58.43,
+        "high": 59.72,
+        "low": 58.52,
+        "changePct": 1.59
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.58,
+        "previousClose": 27.85,
+        "high": 27.8101,
+        "low": 27.5,
+        "changePct": -0.97
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.49,
+        "previousClose": 86.955,
+        "high": 87.725,
+        "low": 86.9701,
+        "changePct": 0.62
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 659.8,
+        "previousClose": 661.43,
+        "high": 662.98,
+        "low": 655.17,
+        "changePct": -0.25
+      }
+    },
+    "metals": {
+      "gold": 4663.5,
+      "silver": 71.81,
+      "copper": 5.45,
+      "platinum": 1953.4,
+      "crude": null,
+      "goldSilverRatio": 64.95
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4663.5,
+        "change": 57.799805,
+        "changePct": 1.25,
+        "previousClose": 4605.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 71.805,
+        "change": 0.59000397,
+        "changePct": 0.83,
+        "previousClose": 71.215
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.45,
+        "change": -0.019000053,
+        "changePct": -0.35,
+        "previousClose": 5.469
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1953.4,
+        "change": 9.700073,
+        "changePct": 0.5,
+        "previousClose": 1943.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 95.95,
+        "change": 0.3999939,
+        "changePct": 0.42,
+        "previousClose": 95.55
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.76,
+        "previous": 3.68,
+        "change": 0.08,
+        "changeBps": 8,
+        "date": "2026-03-18"
+      },
+      "10Y": {
+        "current": 4.26,
+        "previous": 4.2,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-03-18"
+      },
+      "30Y": {
+        "current": 4.88,
+        "previous": 4.85,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-18"
+      },
+      "USD_BROAD": {
+        "current": 120.5518,
+        "previous": 119.8227,
+        "change": 0.73,
+        "changeBps": 73,
+        "date": "2026-03-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 864701,
+        "change": -449259,
+        "period": "2026-03-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+        "link": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
+        "date": "2026-03-20T09:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Super Micro co-founder engaged in backdoor scheme to divert Nvidia chips to China, U.S. government says",
+        "link": "https://www.marketwatch.com/story/super-micro-cofounder-engaged-in-backdoor-scheme-to-divert-nvidia-chips-to-china-u-s-government-says-5efbea7a?mod=mw_rss_topstories",
+        "date": "2026-03-20T08:53:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Orban Announces Will Block All EU Measures For Ukraine Until Oil Transit Restored",
+        "link": "https://www.zerohedge.com/geopolitical/orban-announces-will-block-all-eu-measures-ukraine-until-oil-transit-restored",
+        "date": "2026-03-20T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Benefiting From US-Iran War While Impacts On China Are 'Complicated': Analysts",
+        "link": "https://www.zerohedge.com/markets/russia-benefiting-us-iran-war-while-impacts-china-are-complicated-analysts",
+        "date": "2026-03-20T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Comey Subpoenaed For Alleged 'Grand Conspiracy' Against Trump",
+        "link": "https://www.zerohedge.com/political/comey-subpoenaed-grand-conspiracy-investigation-against-trump",
+        "date": "2026-03-20T02:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Netanyahu Declares Iran's Nuclear Program & Missile Production \"Destroyed\" - Denies Israel Influenced Trump",
+        "link": "https://www.zerohedge.com/geopolitical/trump-threatens-blow-worlds-largest-gas-field-distances-us-israeli-actions-macron",
+        "date": "2026-03-20T01:31:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Kent Tells Tucker: 'Imminent Threat' Was From Israel, Not Iran; Ordered To Halt Charlie Kirk Investigation",
+        "link": "https://www.zerohedge.com/political/kent-tells-tucker-imminent-threat-was-israel-not-iran-ordered-halt-charlie-kirk",
+        "date": "2026-03-20T01:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "SoCal Heat-Wave Prompts Health Warning Of High Bacteria Levels At Los Angeles Beaches",
+        "link": "https://www.zerohedge.com/weather/socal-heat-wave-prompts-warning-high-bacteria-levels-los-angeles-beaches",
+        "date": "2026-03-20T01:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "This is Jeff Bezos’s plan to rival Elon Musk in the race for space-based data centers",
+        "link": "https://www.marketwatch.com/story/this-is-jeff-bezoss-plan-to-rival-elon-musk-in-the-race-for-space-based-data-centers-77f46b25?mod=mw_rss_topstories",
+        "date": "2026-03-20T01:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The Trump administration just greenlit the TV megamerger at the center of Jimmy Kimmel’s suspension. It still may not be legal.",
+        "link": "https://www.marketwatch.com/story/the-tv-megamerger-that-knocked-jimmy-kimmel-off-the-air-is-illegal-state-officials-say-974176e3?mod=mw_rss_topstories",
+        "date": "2026-03-20T00:53:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "FedEx is upbeat about shipping demand despite surging fuel costs — and the stock is rallying",
+        "link": "https://www.marketwatch.com/story/fedex-is-getting-more-upbeat-about-the-year-despite-surging-fuel-costs-6b48ed2e?mod=mw_rss_topstories",
+        "date": "2026-03-20T00:28:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Fast-Tracks Billions In 'Emergency' Arms Sales To Gulf, Bypassing Congress",
+        "link": "https://www.zerohedge.com/geopolitical/us-fast-tracks-billions-emergency-arms-sales-gulf-bypassing-congress",
+        "date": "2026-03-19T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "All This Fuss About A Fiat Dollar",
+        "link": "https://www.zerohedge.com/political/all-fuss-about-fiat-dollar",
+        "date": "2026-03-19T21:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Iranian strikes cut 17% of Qatar LNG output, threatening global supply",
+        "link": "https://www.foxbusiness.com/economy/iranian-strikes-cut-17-qatar-lng-output-threatening-global-supply",
+        "date": "2026-03-19T18:33:29.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+        "link": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
+        "date": "2026-03-19T17:05:52.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-20T10:25:26.575Z"
+  }
+}
