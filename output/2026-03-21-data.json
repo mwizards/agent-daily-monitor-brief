@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-03-21T10:14:02.389Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -6.33,
+        "current": 61.52,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -6.33% to $61.52"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.06,
+        "current": 413.38,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.06% to $413.38"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -4.56,
+        "current": 69.08,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -4.56% to $69.08"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -4.55,
+        "current": 58.13,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -4.55% to $58.13"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3.79,
+        "current": 46.44,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3.79% to $46.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -4.01,
+        "current": 26.31,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -4.01% to $26.31"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Inside Iran's Internet Access Black Market Amid 3-Week Wartime Blackout",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Inside Iran's Internet Access Black Market Amid 3-Week Wartime Blackout"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Fed’s Bowman says she’s written in 3 interest rate cuts before year-end",
+        "keywords": [
+          "rate cut"
+        ],
+        "message": "[Fox Biz Economy] Fed’s Bowman says she’s written in 3 interest rate cuts before year-end"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[MarketWatch] ‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 65.67,
+        "message": "Gold/Silver ratio: 65.67x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 413.38,
+        "previousClose": 426.41,
+        "high": 428.59,
+        "low": 411.27,
+        "changePct": -3.06
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 61.52,
+        "previousClose": 65.68,
+        "high": 64.95,
+        "low": 61.25,
+        "changePct": -6.33
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 69.08,
+        "previousClose": 72.38,
+        "high": 72.26,
+        "low": 68.49,
+        "changePct": -4.56
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.13,
+        "previousClose": 60.9,
+        "high": 61.428,
+        "low": 57.24,
+        "changePct": -4.55
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 46.44,
+        "previousClose": 48.27,
+        "high": 48.88,
+        "low": 45.77,
+        "changePct": -3.79
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.31,
+        "previousClose": 27.41,
+        "high": 27.5,
+        "low": 25.805,
+        "changePct": -4.01
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.31,
+        "previousClose": 59.36,
+        "high": 60.32,
+        "low": 59.28,
+        "changePct": -0.08
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.68,
+        "previousClose": 27.58,
+        "high": 27.75,
+        "low": 27.655,
+        "changePct": 0.36
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.83,
+        "previousClose": 87.49,
+        "high": 86.86,
+        "low": 85.76,
+        "changePct": -1.9
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 648.57,
+        "previousClose": 658.003,
+        "high": 656.69,
+        "low": 644.72,
+        "changePct": -1.43
+      }
+    },
+    "metals": {
+      "gold": 4574.9,
+      "silver": 69.66,
+      "copper": 5.37,
+      "platinum": 1970.5,
+      "crude": null,
+      "goldSilverRatio": 65.67
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4574.9,
+        "change": -30.800293,
+        "changePct": -0.67,
+        "previousClose": 4605.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 69.664,
+        "change": -1.5509949,
+        "changePct": -2.18,
+        "previousClose": 71.215
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.3745,
+        "change": -0.094500065,
+        "changePct": -1.73,
+        "previousClose": 5.469
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1970.5,
+        "change": 26.800049,
+        "changePct": 1.38,
+        "previousClose": 1943.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 98.23,
+        "change": 2.6800003,
+        "changePct": 2.8,
+        "previousClose": 95.55
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.76,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-19"
+      },
+      "10Y": {
+        "current": 4.25,
+        "previous": 4.26,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-03-19"
+      },
+      "30Y": {
+        "current": 4.83,
+        "previous": 4.88,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-19"
+      },
+      "USD_BROAD": {
+        "current": 120.5518,
+        "previous": 119.8227,
+        "change": 0.73,
+        "changeBps": 73,
+        "date": "2026-03-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 864701,
+        "change": -449259,
+        "period": "2026-03-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: China Claims Cyborg Breakthrough To Build An \"Army Of Centaurs\"",
+        "link": "https://www.zerohedge.com/technology/watch-china-claims-cyborg-breakthrough-build-army-centaurs",
+        "date": "2026-03-21T02:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Inside Iran's Internet Access Black Market Amid 3-Week Wartime Blackout",
+        "link": "https://www.zerohedge.com/geopolitical/inside-irans-internet-access-black-market-amid-3-week-blackout",
+        "date": "2026-03-21T02:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "IDF Iron Dome Operator Arrested, Charged With Spying For Iran",
+        "link": "https://www.zerohedge.com/geopolitical/idf-iron-dome-operator-arrested-charged-spying-iran",
+        "date": "2026-03-21T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Murphy: \"If The Dollar Starts Sinking, It's Gonna Be Fast\"",
+        "link": "https://www.zerohedge.com/economics/murphy-if-dollar-starts-sinking-its-gonna-be-fast",
+        "date": "2026-03-20T23:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Qatar Dethroned As 'LNG King' As U.S. Seizes Throne, Reshaping Future Of Gas",
+        "link": "https://www.zerohedge.com/energy/qatar-dethroned-lng-king-us-seizes-throne-reshaping-future-gas",
+        "date": "2026-03-20T22:55:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+        "link": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
+        "date": "2026-03-20T21:37:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Chuck Norris never dies: How a meme made the actor a cultural icon and multimillion-dollar brand",
+        "link": "https://www.marketwatch.com/story/chuck-norris-never-dies-how-a-meme-made-him-a-cultural-icon-and-multimillion-dollar-brand-5dbcd6e4?mod=mw_rss_topstories",
+        "date": "2026-03-20T21:29:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"I Think We've Won\" Trump Says As Iran Refuses Hormuz Talks, Houthis Threaten Red Sea Strait",
+        "link": "https://www.zerohedge.com/geopolitical/hormuz-showdown-begins-us-warplanes-apaches-launch-sea-lane-offensive-trump-eyes-high",
+        "date": "2026-03-20T20:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Global oil prices climb for 5th straight week as U.S. sends more military might into Middle East",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-as-trump-reportedly-mulls-new-measures-for-kharg-island-97ab0727?mod=mw_rss_topstories",
+        "date": "2026-03-20T19:57:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "March 27 looks like a make-or-break day for American travelers and the partial government shutdown",
+        "link": "https://www.marketwatch.com/story/march-27-looks-like-a-make-or-break-day-for-american-travelers-and-the-partial-government-shutdown-3d8dae0b?mod=mw_rss_topstories",
+        "date": "2026-03-20T19:56:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Putin Reportedly Offers To Cut Iran Intel-Sharing If US Does Same In Ukraine",
+        "link": "https://www.zerohedge.com/geopolitical/putin-reportedly-offers-cut-iran-intel-sharing-if-us-does-same-ukraine",
+        "date": "2026-03-20T19:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'TRUMP AMERICA AI Act' Repeals Section 230, Expands Liability, & Establishes Centralized Federal Control Over AI Systems",
+        "link": "https://www.zerohedge.com/political/trump-america-ai-act-repeals-section-230-expands-liability-and-establishes-centralized",
+        "date": "2026-03-20T18:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "These Seven Allies Concocted A 'Hormuz Coalition' Statement To Placate Trump, Which Failed",
+        "link": "https://www.zerohedge.com/geopolitical/these-seven-allies-concocted-hormuz-coalition-statement-placate-trump-which-failed",
+        "date": "2026-03-20T16:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fed’s Bowman says she’s written in 3 interest rate cuts before year-end",
+        "link": "https://www.foxbusiness.com/economy/feds-bowman-says-shes-written-3-interest-rate-cuts-before-year-end",
+        "date": "2026-03-20T15:38:44.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+        "link": "https://www.cnbc.com/2026/03/20/elizabeth-warren-demands-answers-on-costs-economic-impact-of-illegal-and-reckless-war.html",
+        "date": "2026-03-20T15:33:25.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-21T10:13:48.893Z"
+  }
+}
