@@ -1,0 +1,420 @@
+{
+  "generatedAt": "2026-03-22T10:15:48.173Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -6.33,
+        "current": 61.52,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -6.33% to $61.52"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.06,
+        "current": 413.38,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.06% to $413.38"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -4.56,
+        "current": 69.08,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -4.56% to $69.08"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -4.55,
+        "current": 58.13,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -4.55% to $58.13"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3.79,
+        "current": 46.44,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3.79% to $46.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -4.01,
+        "current": 26.31,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -4.01% to $26.31"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "McGlinchey: America Throws Its Service Members Into An Unjust War For Israel",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] McGlinchey: America Throws Its Service Members Into An Unjust War For Israel"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The State Will Always Socialize The Cost Of War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The State Will Always Socialize The Cost Of War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Removes Sanctions On Iranian Oil Stranded At Sea To Boost Overall Supply",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] US Removes Sanctions On Iranian Oil Stranded At Sea To Boost Overall Supply"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "United Airlines slashes flights as Iran war sends fuel prices soaring",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] United Airlines slashes flights as Iran war sends fuel prices soaring"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[MarketWatch] ‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 65.67,
+        "message": "Gold/Silver ratio: 65.67x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 13
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 413.38,
+        "previousClose": 426.41,
+        "high": 428.59,
+        "low": 411.27,
+        "changePct": -3.06
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 61.52,
+        "previousClose": 65.68,
+        "high": 64.95,
+        "low": 61.25,
+        "changePct": -6.33
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 69.08,
+        "previousClose": 72.38,
+        "high": 72.26,
+        "low": 68.49,
+        "changePct": -4.56
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.13,
+        "previousClose": 60.9,
+        "high": 61.428,
+        "low": 57.24,
+        "changePct": -4.55
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 46.44,
+        "previousClose": 48.27,
+        "high": 48.88,
+        "low": 45.77,
+        "changePct": -3.79
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.31,
+        "previousClose": 27.41,
+        "high": 27.5,
+        "low": 25.805,
+        "changePct": -4.01
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.31,
+        "previousClose": 59.36,
+        "high": 60.32,
+        "low": 59.28,
+        "changePct": -0.08
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.68,
+        "previousClose": 27.58,
+        "high": 27.75,
+        "low": 27.655,
+        "changePct": 0.36
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.83,
+        "previousClose": 87.49,
+        "high": 86.86,
+        "low": 85.76,
+        "changePct": -1.9
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 648.57,
+        "previousClose": 658.003,
+        "high": 656.69,
+        "low": 644.72,
+        "changePct": -1.43
+      }
+    },
+    "metals": {
+      "gold": 4574.9,
+      "silver": 69.66,
+      "copper": 5.37,
+      "platinum": 1970.5,
+      "crude": null,
+      "goldSilverRatio": 65.67
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4574.9,
+        "change": -30.800293,
+        "changePct": -0.67,
+        "previousClose": 4605.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 69.664,
+        "change": -1.5509949,
+        "changePct": -2.18,
+        "previousClose": 71.215
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.3745,
+        "change": -0.094500065,
+        "changePct": -1.73,
+        "previousClose": 5.469
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1970.5,
+        "change": 26.800049,
+        "changePct": 1.38,
+        "previousClose": 1943.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 98.23,
+        "change": 2.6800003,
+        "changePct": 2.8,
+        "previousClose": 95.55
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.76,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-19"
+      },
+      "10Y": {
+        "current": 4.25,
+        "previous": 4.26,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-03-19"
+      },
+      "30Y": {
+        "current": 4.83,
+        "previous": 4.88,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-19"
+      },
+      "USD_BROAD": {
+        "current": 120.5518,
+        "previous": 119.8227,
+        "change": 0.73,
+        "changeBps": 73,
+        "date": "2026-03-13"
+      }
+    },
+    "eia": null,
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "‘I find that advice questionable’: Is it time to rethink the rule of tapping your Roth last — after your 401(k) and IRA?",
+        "link": "https://www.marketwatch.com/story/i-find-that-advice-questionable-is-it-time-to-rethink-the-myth-of-tapping-your-roth-last-before-your-401-k-and-ira-2975ac61?mod=mw_rss_topstories",
+        "date": "2026-03-22T09:29:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "McGlinchey: America Throws Its Service Members Into An Unjust War For Israel",
+        "link": "https://www.zerohedge.com/geopolitical/has-america-thrown-its-service-members-another-unjust-war-israels-benefit",
+        "date": "2026-03-22T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The State Will Always Socialize The Cost Of War",
+        "link": "https://www.zerohedge.com/markets/state-will-always-socialize-cost-war",
+        "date": "2026-03-22T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran's First Use Of ICBMs Raises Serious Questions About Remaining Arsenal",
+        "link": "https://www.zerohedge.com/geopolitical/iran-fires-ballistic-missiles-far-diego-garcia-military-base",
+        "date": "2026-03-22T00:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes",
+        "link": "https://www.zerohedge.com/geopolitical/irans-longest-range-missile-strike-fails-diego-garcia-natanz-nuclear-facility-bombed",
+        "date": "2026-03-22T00:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Phantom Ayatollah? Iran's New Supreme Leader Has Never Been Seen Since Taking Office",
+        "link": "https://www.zerohedge.com/geopolitical/phantom-ayatollah-irans-new-supreme-leader-has-never-been-seen-taking-office",
+        "date": "2026-03-21T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Ready To Let Japanese Ships Use Hormuz As Chinese, Indian Tankers Already Allowed Passage",
+        "link": "https://www.zerohedge.com/markets/iran-ready-let-japanese-ships-use-hormuz-chinese-indian-tankers-already-allowed-passage",
+        "date": "2026-03-21T20:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Musk Offers To Pay TSA Salaries, Trump Threatens To Deploy ICE As Democrats Hold Paychecks Hostage",
+        "link": "https://www.zerohedge.com/political/id-pay-their-salaries-elon-musk-offers-lifeline-tsa-agents-democrats-hold-paychecks",
+        "date": "2026-03-21T20:51:50.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+        "link": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
+        "date": "2026-03-21T20:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Major Trade Group Releases Framework For Tokenized Gold",
+        "link": "https://www.zerohedge.com/crypto/major-trade-group-releases-framework-tokenized-gold",
+        "date": "2026-03-21T19:10:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The stock market actually doesn’t care as much about oil prices as you think",
+        "link": "https://www.marketwatch.com/story/the-stock-market-actually-doesnt-care-as-much-about-oil-prices-as-you-think-ead59ede?mod=mw_rss_topstories",
+        "date": "2026-03-21T18:48:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Robert Mueller Dies; Trump: 'Good, I'm Glad He's Dead'",
+        "link": "https://www.zerohedge.com/political/robert-mueller-dies-trump-good-im-glad-hes-dead",
+        "date": "2026-03-21T18:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war'",
+        "link": "https://www.cnbc.com/2026/03/20/elizabeth-warren-demands-answers-on-costs-economic-impact-of-illegal-and-reckless-war.html",
+        "date": "2026-03-21T17:28:42.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Removes Sanctions On Iranian Oil Stranded At Sea To Boost Overall Supply",
+        "link": "https://www.zerohedge.com/markets/us-removes-sanctions-iranian-oil-stranded-sea-boost-overall-supply",
+        "date": "2026-03-21T16:15:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "United Airlines slashes flights as Iran war sends fuel prices soaring",
+        "link": "https://www.foxbusiness.com/economy/united-airlines-slashes-flights-as-iran-war-sends-fuel-prices-soaring",
+        "date": "2026-03-21T15:10:20.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-22T10:15:38.145Z"
+  }
+}
