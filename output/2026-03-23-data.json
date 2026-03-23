@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-03-23T10:41:59.880Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -6.33,
+        "current": 61.52,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -6.33% to $61.52"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.06,
+        "current": 413.38,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.06% to $413.38"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -4.56,
+        "current": 69.08,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -4.56% to $69.08"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -4.55,
+        "current": 58.13,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -4.55% to $58.13"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3.79,
+        "current": 46.44,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3.79% to $46.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -4.01,
+        "current": 26.31,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -4.01% to $26.31"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Gold flirts with bear-market territory as Iran war takes its toll",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Gold flirts with bear-market territory as Iran war takes its toll"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Countdown Begins: Former Central Bank Advisor Warns Food-Price Shock Could Hit \"Within 6 To 9 Months\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Countdown Begins: Former Central Bank Advisor Warns Food-Price Shock Could Hit \"Within 6 To 9 Months\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "One War & Five Scenarios To End It",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] One War & Five Scenarios To End It"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Oil & Stocks Mixed To Start Week As War Escalates & Gamma Unclenches",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Oil & Stocks Mixed To Start Week As War Escalates & Gamma Unclenches"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 66.69,
+        "message": "Gold/Silver ratio: 66.69x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 413.38,
+        "previousClose": 426.41,
+        "high": 428.59,
+        "low": 411.27,
+        "changePct": -3.06
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 61.52,
+        "previousClose": 65.68,
+        "high": 64.95,
+        "low": 61.25,
+        "changePct": -6.33
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 69.08,
+        "previousClose": 72.38,
+        "high": 72.26,
+        "low": 68.49,
+        "changePct": -4.56
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.13,
+        "previousClose": 60.9,
+        "high": 61.428,
+        "low": 57.24,
+        "changePct": -4.55
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 46.44,
+        "previousClose": 48.27,
+        "high": 48.88,
+        "low": 45.77,
+        "changePct": -3.79
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.31,
+        "previousClose": 27.41,
+        "high": 27.5,
+        "low": 25.805,
+        "changePct": -4.01
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.31,
+        "previousClose": 59.36,
+        "high": 60.32,
+        "low": 59.28,
+        "changePct": -0.08
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.68,
+        "previousClose": 27.58,
+        "high": 27.75,
+        "low": 27.655,
+        "changePct": 0.36
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.83,
+        "previousClose": 87.490005,
+        "high": 86.86,
+        "low": 85.76,
+        "changePct": -1.9
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 648.57,
+        "previousClose": 658.003,
+        "high": 656.69,
+        "low": 644.72,
+        "changePct": -1.43
+      }
+    },
+    "metals": {
+      "gold": 4270,
+      "silver": 64.03,
+      "copper": 5.31,
+      "platinum": 1777.8,
+      "crude": null,
+      "goldSilverRatio": 66.69
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4270,
+        "change": -304.8999,
+        "changePct": -6.66,
+        "previousClose": 4574.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 64.025,
+        "change": -5.639,
+        "changePct": -8.09,
+        "previousClose": 69.664
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.309,
+        "change": -0.06549978,
+        "changePct": -1.22,
+        "previousClose": 5.3745
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1777.8,
+        "change": -192.69995,
+        "changePct": -9.78,
+        "previousClose": 1970.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 99.15,
+        "change": 0.91999817,
+        "changePct": 0.94,
+        "previousClose": 98.23
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.76,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-19"
+      },
+      "10Y": {
+        "current": 4.25,
+        "previous": 4.26,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-03-19"
+      },
+      "30Y": {
+        "current": 4.83,
+        "previous": 4.88,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-19"
+      },
+      "USD_BROAD": {
+        "current": 120.5518,
+        "previous": 119.8227,
+        "change": 0.73,
+        "changeBps": 73,
+        "date": "2026-03-13"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 864701,
+        "change": -449259,
+        "period": "2026-03-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil climbs after Trump issues Iran 48-hour ultimatum",
+        "link": "https://www.marketwatch.com/story/oil-climbs-after-trump-issues-iran-48-hour-ultimatum-e1e0f002?mod=mw_rss_topstories",
+        "date": "2026-03-23T09:44:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Gold flirts with bear-market territory as Iran war takes its toll",
+        "link": "https://www.marketwatch.com/story/gold-flirts-with-bear-market-territory-as-iran-war-takes-its-toll-d3312aad?mod=mw_rss_topstories",
+        "date": "2026-03-23T09:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Joe Kent Makes Genuine Plea To Trump: \"Address The Israeli Issue\"",
+        "link": "https://www.zerohedge.com/geopolitical/joe-kent-makes-genuine-plea-trump-address-israeli-issue",
+        "date": "2026-03-23T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Countdown Begins: Former Central Bank Advisor Warns Food-Price Shock Could Hit \"Within 6 To 9 Months\"",
+        "link": "https://www.zerohedge.com/food/countdown-begins-former-central-bank-advisor-warns-food-price-shock-could-hit-within-6-9",
+        "date": "2026-03-23T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "One War & Five Scenarios To End It",
+        "link": "https://www.zerohedge.com/geopolitical/one-war-five-scenarios-end-it",
+        "date": "2026-03-23T06:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "U.S. stock futures flat as Trump and Iran trade threats against civilian infrastructure",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-as-trump-and-iran-trade-threats-against-civilian-infrastructure-baae06ba?mod=mw_rss_topstories",
+        "date": "2026-03-23T03:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump HHS Launches Probe Into 13 States Over Abortion Coverage Mandates",
+        "link": "https://www.zerohedge.com/political/trump-hhs-launches-probe-13-states-over-abortion-coverage-mandates",
+        "date": "2026-03-23T02:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "March 27 looks like a make-or-break day for American travelers and the partial government shutdown",
+        "link": "https://www.marketwatch.com/story/march-27-looks-like-a-make-or-break-day-for-american-travelers-and-the-partial-government-shutdown-3d8dae0b?mod=mw_rss_topstories",
+        "date": "2026-03-23T01:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Oil & Stocks Mixed To Start Week As War Escalates & Gamma Unclenches",
+        "link": "https://www.zerohedge.com/markets/oil-stocks-down-start-week-war-escalates-gamma-unclenches",
+        "date": "2026-03-22T23:48:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tanker Carrying Fuel Bound For Cuba Diverts, While Another Russian Tanker Is Set To Challenge US Blockade",
+        "link": "https://www.zerohedge.com/markets/tanker-carrying-fuel-bound-cuba-diverts-while-another-russian-tanker-set-challenge-us",
+        "date": "2026-03-22T23:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Treasury To Partner With Education Department To Collect Student Loan Debt",
+        "link": "https://www.zerohedge.com/personal-finance/us-treasury-partner-education-department-collect-student-loan-debt",
+        "date": "2026-03-22T23:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Clinton-Appointed Federal Judge Blocks Trump's Pentagon Media Access Restrictions",
+        "link": "https://www.zerohedge.com/political/federal-judge-blocks-trumps-pentagon-media-access-restrictions",
+        "date": "2026-03-22T21:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Our Military Is Prepared\": Havana Communists See Writing On The Wall After Trump's Iran Bombing",
+        "link": "https://www.zerohedge.com/political/our-military-prepared-havana-communists-see-writing-wall-after-trumps-iran-bombing",
+        "date": "2026-03-22T20:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Issues 10 Million Rial Banknote Amid Soaring Inflation",
+        "link": "https://www.zerohedge.com/economics/iran-issues-10-million-rial-banknote-amid-soaring-inflation",
+        "date": "2026-03-22T19:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Threatens To Destroy Region-Wide Infrastructure As Trump's 48-Hour Ultimatum Ticks Down, Mass Casualties In Southern Israel",
+        "link": "https://www.zerohedge.com/geopolitical/iran-threatens-region-wide-infrastructure-obliteration-trumps-48-hour-ultimatum-ticks",
+        "date": "2026-03-22T19:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-23T10:41:51.839Z"
+  }
+}
