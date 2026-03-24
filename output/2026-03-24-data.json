@@ -1,0 +1,401 @@
+{
+  "generatedAt": "2026-03-24T10:38:03.105Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 6.47,
+        "current": 73.55,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +6.47% to $73.55"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 3.47,
+        "current": 60.15,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +3.47% to $60.15"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 3.68,
+        "current": 48.15,
+        "direction": "UP",
+        "message": "Uranium (URA) +3.68% to $48.15"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 4.45,
+        "current": 27.48,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +4.45% to $27.48"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil rises as Saudi Arabia and UAE reportedly weigh joining Iran war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Oil rises as Saudi Arabia and UAE reportedly weigh joining Iran war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "America's Top War Unicorn To Begin Combat Drone Production As Next-Gen Startups Challenge Big Defense Primes",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] America's Top War Unicorn To Begin Combat Drone Production As Next-Gen Startups Challenge Big Defense Primes"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"This Is Election Interference\": ChatGPT Safety Warnings Target WinRed Links But Spare ActBlue",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"This Is Election Interference\": ChatGPT Safety Warnings Target WinRed Links But Spare ActBlue"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -2.26,
+        "current": 404.04,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -2.26% to $404.04"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "10Y",
+        "current": 4.39,
+        "changeBps": 14,
+        "direction": "UP",
+        "message": "10Y yield +14bps to 4.39%"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "30Y",
+        "current": 4.96,
+        "changeBps": 13,
+        "direction": "UP",
+        "message": "30Y yield +13bps to 4.96%"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "How the economy would weather private-credit defaults rising to financial crisis-like levels",
+        "keywords": [
+          "default"
+        ],
+        "message": "[MarketWatch] How the economy would weather private-credit defaults rising to financial crisis-like levels"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.09,
+        "message": "Gold/Silver ratio: 63.09x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 11
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 404.04,
+        "previousClose": 413.38,
+        "high": 414.5291,
+        "low": 399.6401,
+        "changePct": -2.26
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 62.47,
+        "previousClose": 61.52,
+        "high": 64.11,
+        "low": 60.98,
+        "changePct": 1.54
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 73.55,
+        "previousClose": 69.08,
+        "high": 74.21,
+        "low": 71.55,
+        "changePct": 6.47
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 60.15,
+        "previousClose": 58.13,
+        "high": 61.22,
+        "low": 58.8,
+        "changePct": 3.47
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.15,
+        "previousClose": 46.44,
+        "high": 48.82,
+        "low": 46.935,
+        "changePct": 3.68
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 27.48,
+        "previousClose": 26.31,
+        "high": 28.115,
+        "low": 26.48,
+        "changePct": 4.45
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.63,
+        "previousClose": 58.9248,
+        "high": 59.84,
+        "low": 57.66,
+        "changePct": 1.2
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.56,
+        "previousClose": 27.68,
+        "high": 27.6399,
+        "low": 27.48,
+        "changePct": -0.43
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.385,
+        "previousClose": 85.83,
+        "high": 86.72,
+        "low": 85.935,
+        "changePct": 0.65
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 655.38,
+        "previousClose": 648.57,
+        "high": 662.615,
+        "low": 653.94,
+        "changePct": 1.05
+      }
+    },
+    "metals": {
+      "gold": 4425.6,
+      "silver": 70.15,
+      "copper": 5.42,
+      "platinum": 1899.5,
+      "crude": null,
+      "goldSilverRatio": 63.09
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4425.6,
+        "change": 18.300293,
+        "changePct": 0.42,
+        "previousClose": 4407.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 70.145,
+        "change": 0.7899933,
+        "changePct": 1.14,
+        "previousClose": 69.355
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.415,
+        "change": -0.057499886,
+        "changePct": -1.05,
+        "previousClose": 5.4725
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1899.5,
+        "change": 35.80005,
+        "changePct": 1.92,
+        "previousClose": 1863.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90,
+        "change": 1.8700027,
+        "changePct": 2.12,
+        "previousClose": 88.13
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.88,
+        "previous": 3.79,
+        "change": 0.09,
+        "changeBps": 9,
+        "date": "2026-03-20"
+      },
+      "10Y": {
+        "current": 4.39,
+        "previous": 4.25,
+        "change": 0.14,
+        "changeBps": 14,
+        "date": "2026-03-20"
+      },
+      "30Y": {
+        "current": 4.96,
+        "previous": 4.83,
+        "change": 0.13,
+        "changeBps": 13,
+        "date": "2026-03-20"
+      },
+      "USD_BROAD": {
+        "current": 120.2757,
+        "previous": 120.1802,
+        "change": 0.1,
+        "changeBps": 10,
+        "date": "2026-03-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 864701,
+        "change": -449259,
+        "period": "2026-03-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil rises as Saudi Arabia and UAE reportedly weigh joining Iran war",
+        "link": "https://www.marketwatch.com/story/oil-rises-as-saudi-arabia-and-uae-reportedly-weigh-joining-iran-war-d1236604?mod=mw_rss_topstories",
+        "date": "2026-03-24T10:23:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "America's Top War Unicorn To Begin Combat Drone Production As Next-Gen Startups Challenge Big Defense Primes",
+        "link": "https://www.zerohedge.com/military/americas-top-war-unicorn-begin-combat-drone-production-next-gen-startups-challenge-big",
+        "date": "2026-03-24T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "How the economy would weather private-credit defaults rising to financial crisis-like levels",
+        "link": "https://www.marketwatch.com/story/how-the-economy-would-weather-private-credit-defaults-rising-to-financial-crisis-like-levels-f07ef114?mod=mw_rss_topstories",
+        "date": "2026-03-24T09:34:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia-Linked Arms Trafficker, Corrupt African Officials Tried To Supply Mexican Cartel With Surface-To-Air Missiles",
+        "link": "https://www.zerohedge.com/military/russian-linked-arms-trafficker-corrupt-african-officials-tried-supply-mexican-cartel",
+        "date": "2026-03-24T07:30:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
+        "link": "https://www.cnbc.com/2026/03/24/us-to-pay-totalenergies-1-billion-to-kill-east-coast-wind-projects.html",
+        "date": "2026-03-24T07:26:02.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Chinese Containership Is First To Pay Iran For \"Safe Passage\" Through Strait As Iraqi Tanker Crosses With Signal Off",
+        "link": "https://www.zerohedge.com/markets/chinese-containership-first-pay-iran-safe-passage-through-strait-hormuz-iraqi-tanker",
+        "date": "2026-03-24T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel, US Strike Gas Facilities In Iran's Isfahan, Possibly Triggering Retaliation Against Gulf",
+        "link": "https://www.zerohedge.com/markets/oil-plunges-stocks-spike-after-trumps-comments-iran",
+        "date": "2026-03-24T03:55:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Brent oil prices claw back losses to top $100 again after hours",
+        "link": "https://www.marketwatch.com/story/brent-oil-prices-claw-back-losses-to-top-100-again-after-hours-06c4f67f?mod=mw_rss_topstories",
+        "date": "2026-03-24T03:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Oil Jumps After Explosion And Massive Fire At One Of The Largest US Oil Refineries",
+        "link": "https://www.zerohedge.com/energy/oil-jumps-after-explosion-and-massive-fire-one-largest-us-oil-refineries",
+        "date": "2026-03-24T03:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel's Mossad Promised It Could Ignite Regime Change In Iran: Report",
+        "link": "https://www.zerohedge.com/geopolitical/israels-mossad-promised-it-could-ignite-regime-change-iran-report",
+        "date": "2026-03-24T03:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Strikes Deal With Energy Firm To Nix Offshore Wind Plans",
+        "link": "https://www.zerohedge.com/political/trump-admin-strikes-deal-energy-firm-nix-offshore-wind-plans",
+        "date": "2026-03-23T23:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "White House Reaches Tentative Crypto Regulatory Agreement: Report",
+        "link": "https://www.zerohedge.com/crypto/white-house-reaches-tentative-crypto-regulatory-agreement-report",
+        "date": "2026-03-23T22:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"This Is Election Interference\": ChatGPT Safety Warnings Target WinRed Links But Spare ActBlue",
+        "link": "https://www.zerohedge.com/political/election-interference-chatgpt-safety-warnings-target-winred-links-spare-actblue",
+        "date": "2026-03-23T21:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Weighs Deployment Of Elite Airborne Troops As Hawks Push Kharg Island Takeover",
+        "link": "https://www.zerohedge.com/geopolitical/us-weighs-deployment-elite-airborne-troops-hawks-push-kharg-island-takeover",
+        "date": "2026-03-23T20:50:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-24T10:37:55.049Z"
+  }
+}
