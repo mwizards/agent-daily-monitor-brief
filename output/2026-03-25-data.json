@@ -1,0 +1,395 @@
+{
+  "generatedAt": "2026-03-25T10:35:52.416Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "How the Iranian war may lead to  the last days of the petrodollar",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] How the Iranian war may lead to  the last days of the petrodollar"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Volkswagen May Convert German Auto Plant Into Iron Dome War Factory",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Volkswagen May Convert German Auto Plant Into Iron Dome War Factory"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Don't be fooled by the UK's pre-war inflation print — a 'brutal' surge could be coming",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Don't be fooled by the UK's pre-war inflation print — a 'brutal' surge could be coming"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Being A Pedophile Now Not Enough To Warrant Deportation",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Being A Pedophile Now Not Enough To Warrant Deportation"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "7 software stocks set to thrive in the face of AI uncertainty",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] 7 software stocks set to thrive in the face of AI uncertainty"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Elizabeth Warren raises concerns over MrBeast’s teen banking app — and its connection to a troubled bank",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Elizabeth Warren raises concerns over MrBeast’s teen banking app — and its connection to a troubled bank"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "A bad Treasury auction is offering a glimpse into the anxiety on Wall Street over the Iran war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] A bad Treasury auction is offering a glimpse into the anxiety on Wall Street over the Iran war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Software stocks fall as fear of AI disruption is back in full force",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Software stocks fall as fear of AI disruption is back in full force"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.03,
+        "current": 60.84,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.03% to $60.84"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "CNBC Economy",
+        "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+        "keywords": [
+          "recession"
+        ],
+        "message": "[CNBC Economy] Recession odds climb on Wall Street as economy shows cracks beneath the surface"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.6,
+        "message": "Gold/Silver ratio: 62.6x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 404.13,
+        "previousClose": 404.04,
+        "high": 407.28,
+        "low": 399.34,
+        "changePct": 0.02
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 62.95,
+        "previousClose": 62.47,
+        "high": 63.69,
+        "low": 61.269,
+        "changePct": 0.77
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 73,
+        "previousClose": 73.55,
+        "high": 73.29,
+        "low": 70.8525,
+        "changePct": -0.75
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 61.01,
+        "previousClose": 60.15,
+        "high": 61.2,
+        "low": 58.48,
+        "changePct": 1.43
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.19,
+        "previousClose": 48.15,
+        "high": 48.305,
+        "low": 46.6,
+        "changePct": 0.08
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 27.91,
+        "previousClose": 27.48,
+        "high": 28.08,
+        "low": 26.76,
+        "changePct": 1.56
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 60.84,
+        "previousClose": 59.63,
+        "high": 61.47,
+        "low": 59.77,
+        "changePct": 2.03
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.65,
+        "previousClose": 27.56,
+        "high": 27.71,
+        "low": 27.58,
+        "changePct": 0.33
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.01,
+        "previousClose": 86.385,
+        "high": 86.28,
+        "low": 85.56,
+        "changePct": -0.43
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 653.18,
+        "previousClose": 655.38,
+        "high": 657.02,
+        "low": 649.88,
+        "changePct": -0.34
+      }
+    },
+    "metals": {
+      "gold": 4553.5,
+      "silver": 72.74,
+      "copper": 5.53,
+      "platinum": 1955.3,
+      "crude": null,
+      "goldSilverRatio": 62.6
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4553.5,
+        "change": 151.5,
+        "changePct": 3.44,
+        "previousClose": 4402
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 72.735,
+        "change": 3.1660004,
+        "changePct": 4.55,
+        "previousClose": 69.569
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.5305,
+        "change": 0.07550001,
+        "changePct": 1.38,
+        "previousClose": 5.455
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1955.3,
+        "change": 62.700073,
+        "changePct": 3.31,
+        "previousClose": 1892.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 87.56,
+        "change": -4.790001,
+        "changePct": -5.19,
+        "previousClose": 92.35
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.83,
+        "previous": 3.88,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-23"
+      },
+      "10Y": {
+        "current": 4.34,
+        "previous": 4.39,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-23"
+      },
+      "30Y": {
+        "current": 4.91,
+        "previous": 4.96,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-23"
+      },
+      "USD_BROAD": {
+        "current": 120.2757,
+        "previous": 120.1802,
+        "change": 0.1,
+        "changeBps": 10,
+        "date": "2026-03-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 864701,
+        "change": -449259,
+        "period": "2026-03-13",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "How the Iranian war may lead to  the last days of the petrodollar",
+        "link": "https://www.marketwatch.com/story/how-the-iranian-war-may-lead-to-the-last-days-of-the-petrodollar-f60fa41b?mod=mw_rss_topstories",
+        "date": "2026-03-25T10:15:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+        "link": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
+        "date": "2026-03-25T10:07:58.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Volkswagen May Convert German Auto Plant Into Iron Dome War Factory",
+        "link": "https://www.zerohedge.com/military/volkswagen-may-convert-german-auto-plant-iron-dome-war-factory",
+        "date": "2026-03-25T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices fall on reports of a U.S. ceasefire proposal with Iran",
+        "link": "https://www.marketwatch.com/story/oil-prices-fall-on-reports-of-a-u-s-ceasefire-proposal-with-iran-454c28ee?mod=mw_rss_topstories",
+        "date": "2026-03-25T09:39:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "My Paypal account received money from the Philippines with two phone numbers listed. I called them. Big mistake.",
+        "link": "https://www.marketwatch.com/story/my-paypal-account-received-money-from-the-philippines-with-two-phone-numbers-listed-i-called-them-big-mistake-5cd4cd47?mod=mw_rss_topstories",
+        "date": "2026-03-25T09:15:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Don't be fooled by the UK's pre-war inflation print — a 'brutal' surge could be coming",
+        "link": "https://www.cnbc.com/2026/03/25/uk-inflation-february-2026-iran-war-energy-prices-cpi.html",
+        "date": "2026-03-25T08:30:52.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Being A Pedophile Now Not Enough To Warrant Deportation",
+        "link": "https://www.zerohedge.com/political/being-pedophile-now-not-enough-warrant-deportation",
+        "date": "2026-03-25T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Seeks To Disrupt Russian-Iranian Arms Transfer Route In The Caspian Sea",
+        "link": "https://www.zerohedge.com/geopolitical/israel-seeks-disrupt-russian-iranian-arms-transfer-route-caspian-sea",
+        "date": "2026-03-25T06:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices fall, stock futures climb on reports U.S. has proposed a cease-fire to Iran",
+        "link": "https://www.marketwatch.com/story/oil-prices-fall-stock-futures-climb-on-reports-u-s-has-proposed-a-cease-fire-to-iran-c6594893?mod=mw_rss_topstories",
+        "date": "2026-03-25T03:01:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "New Details: US Pilot Suffered Shrapnel Wounds After 'Unkillable' F-35 Was Struck By Iran",
+        "link": "https://www.zerohedge.com/geopolitical/new-details-us-pilot-suffered-shrapnel-wounds-after-unkillable-f-35-was-struck-iran",
+        "date": "2026-03-25T01:50:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "7 software stocks set to thrive in the face of AI uncertainty",
+        "link": "https://www.marketwatch.com/story/7-software-stocks-set-to-thrive-in-the-face-of-ai-uncertainty-d810b6d1?mod=mw_rss_topstories",
+        "date": "2026-03-25T00:44:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Elizabeth Warren raises concerns over MrBeast’s teen banking app — and its connection to a troubled bank",
+        "link": "https://www.marketwatch.com/story/elizabeth-warren-raises-alarm-over-mrbeasts-teen-banking-app-encouraging-risky-investments-ce7f58a4?mod=mw_rss_topstories",
+        "date": "2026-03-24T22:32:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "A bad Treasury auction is offering a glimpse into the anxiety on Wall Street over the Iran war",
+        "link": "https://www.marketwatch.com/story/a-bad-treasury-auction-is-offering-a-glimpse-into-the-anxiety-on-wall-street-over-the-iran-war-fd17f7a6?mod=mw_rss_topstories",
+        "date": "2026-03-24T22:19:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Software stocks fall as fear of AI disruption is back in full force",
+        "link": "https://www.marketwatch.com/story/software-stocks-fall-as-fear-of-ai-disruption-is-back-in-full-force-c5cdf640?mod=mw_rss_topstories",
+        "date": "2026-03-24T22:09:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Removes Press Offices After Federal Judge Blocks Trump Restrictions",
+        "link": "https://www.zerohedge.com/political/pentagon-removes-press-offices-after-federal-judge-blocks-restrictions",
+        "date": "2026-03-24T21:40:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-25T10:35:43.509Z"
+  }
+}
