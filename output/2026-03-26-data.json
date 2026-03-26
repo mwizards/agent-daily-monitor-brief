@@ -1,0 +1,431 @@
+{
+  "generatedAt": "2026-03-26T10:39:51.078Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.01,
+        "current": 416.29,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.01% to $416.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 3.59,
+        "current": 65.21,
+        "direction": "UP",
+        "message": "Silver (SLV) +3.59% to $65.21"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 3.62,
+        "current": 75.64,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +3.62% to $75.64"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Forget the war headlines: Market fundamentals will win the long game, these strategists say",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Forget the war headlines: Market fundamentals will win the long game, these strategists say"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Global oil prices near $100 as Iran war nears one-month mark",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Global oil prices near $100 as Iran war nears one-month mark"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Saudis Bypass Hormuz As Oil Exports From Yanbu Surge Toward 5 Million Target",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Saudis Bypass Hormuz As Oil Exports From Yanbu Surge Toward 5 Million Target"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Chevron Warns California Facing Historic Fuel Crisis As Diesel Hits Record $7",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Chevron Warns California Facing Historic Fuel Crisis As Diesel Hits Record $7"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Musk Seeks To Remove Delaware Judge From His Cases After She \"Liked\" A Post About His Trial Loss",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Musk Seeks To Remove Delaware Judge From His Cases After She \"Liked\" A Post About His Trial Loss"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "San Francisco Judge Voices Concerns Over War Department's Ban Of Anthropic",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] San Francisco Judge Voices Concerns Over War Department's Ban Of Anthropic"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Report Alleges Trump's Daily Military Briefing Scrubs Out Iran War Setbacks",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Report Alleges Trump's Daily Military Briefing Scrubs Out Iran War Setbacks"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 2.74,
+        "current": 62.68,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +2.74% to $62.68"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.36,
+        "current": 28.57,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.36% to $28.57"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "CNBC Economy",
+        "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+        "keywords": [
+          "recession"
+        ],
+        "message": "[CNBC Economy] Recession odds climb on Wall Street as economy shows cracks beneath the surface"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.85,
+        "message": "Gold/Silver ratio: 64.85x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 15
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 416.29,
+        "previousClose": 404.13,
+        "high": 420.66,
+        "low": 412.25,
+        "changePct": 3.01
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 65.21,
+        "previousClose": 62.95,
+        "high": 66.4,
+        "low": 64.48,
+        "changePct": 3.59
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 75.64,
+        "previousClose": 73,
+        "high": 76.37,
+        "low": 74.62,
+        "changePct": 3.62
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 62.68,
+        "previousClose": 61.01,
+        "high": 64.355,
+        "low": 62.3009,
+        "changePct": 2.74
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.95,
+        "previousClose": 48.19,
+        "high": 50.14,
+        "low": 48.735,
+        "changePct": 1.58
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 28.57,
+        "previousClose": 27.91,
+        "high": 29.48,
+        "low": 28.31,
+        "changePct": 2.36
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 60.57,
+        "previousClose": 60.84,
+        "high": 61,
+        "low": 60.26,
+        "changePct": -0.44
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.7,
+        "previousClose": 27.65,
+        "high": 27.715,
+        "low": 27.6301,
+        "changePct": 0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.84,
+        "previousClose": 86.01,
+        "high": 86.875,
+        "low": 86.48,
+        "changePct": 0.96
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 656.82,
+        "previousClose": 653.18,
+        "high": 660.89,
+        "low": 654.24,
+        "changePct": 0.56
+      }
+    },
+    "metals": {
+      "gold": 4442.6,
+      "silver": 68.51,
+      "copper": 5.53,
+      "platinum": 1872.4,
+      "crude": null,
+      "goldSilverRatio": 64.85
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4442.6,
+        "change": -109.69971,
+        "changePct": -2.41,
+        "previousClose": 4552.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 68.51,
+        "change": -4.1309967,
+        "changePct": -5.69,
+        "previousClose": 72.641
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.531,
+        "change": -0.029999733,
+        "changePct": -0.54,
+        "previousClose": 5.561
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1872.4,
+        "change": -53.400024,
+        "changePct": -2.77,
+        "previousClose": 1925.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 92.89,
+        "change": 2.5699997,
+        "changePct": 2.85,
+        "previousClose": 90.32
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.9,
+        "previous": 3.83,
+        "change": 0.07,
+        "changeBps": 7,
+        "date": "2026-03-24"
+      },
+      "10Y": {
+        "current": 4.39,
+        "previous": 4.34,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-03-24"
+      },
+      "30Y": {
+        "current": 4.94,
+        "previous": 4.91,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-03-24"
+      },
+      "USD_BROAD": {
+        "current": 120.2757,
+        "previous": 120.1802,
+        "change": 0.1,
+        "changeBps": 10,
+        "date": "2026-03-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 871627,
+        "change": -456185,
+        "period": "2026-03-20",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Forget the war headlines: Market fundamentals will win the long game, these strategists say",
+        "link": "https://www.marketwatch.com/story/forget-the-war-headlines-market-fundamentals-will-win-the-long-game-these-strategists-say-059af1a8?mod=mw_rss_topstories",
+        "date": "2026-03-26T10:02:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Global oil prices near $100 as Iran war nears one-month mark",
+        "link": "https://www.marketwatch.com/story/global-oil-prices-near-100-as-iran-war-nears-one-month-mark-4c93716c?mod=mw_rss_topstories",
+        "date": "2026-03-26T09:29:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘We love real estate’ — Kurt Russell and Goldie Hawn’s colorful past and passion for log homes",
+        "link": "https://www.marketwatch.com/story/we-love-real-estate-kurt-russell-and-goldie-hawns-colorful-past-and-passion-for-log-homes-7114e0f1?mod=mw_rss_topstories",
+        "date": "2026-03-26T09:04:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Saudis Bypass Hormuz As Oil Exports From Yanbu Surge Toward 5 Million Target",
+        "link": "https://www.zerohedge.com/markets/saudis-bypass-hormuz-oil-exports-yanbu-surge-toward-5-million-target",
+        "date": "2026-03-26T03:43:35.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On",
+        "link": "https://www.zerohedge.com/markets/russia-launches-springtime-offensive-ukraine-other-war-drags",
+        "date": "2026-03-26T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Chevron Warns California Facing Historic Fuel Crisis As Diesel Hits Record $7",
+        "link": "https://www.zerohedge.com/energy/chevron-warns-california-facing-historic-fuel-crisis-diesel-hits-record-7",
+        "date": "2026-03-26T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Musk Seeks To Remove Delaware Judge From His Cases After She \"Liked\" A Post About His Trial Loss",
+        "link": "https://www.zerohedge.com/markets/musk-seeks-remove-delaware-judge-his-cases-after-she-liked-post-about-his-trial-loss",
+        "date": "2026-03-26T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "San Francisco Judge Voices Concerns Over War Department's Ban Of Anthropic",
+        "link": "https://www.zerohedge.com/political/democrat-judge-voices-concerns-over-war-departments-ban-anthropic",
+        "date": "2026-03-26T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "More Than 450 TSA Agents Have Quit During DHS Shutdown",
+        "link": "https://www.zerohedge.com/political/more-450-tsa-agents-have-quit-during-dhs-shutdown",
+        "date": "2026-03-25T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Report Alleges Trump's Daily Military Briefing Scrubs Out Iran War Setbacks",
+        "link": "https://www.zerohedge.com/geopolitical/us-officials-allege-trumps-daily-military-briefing-scrubs-out-iran-war-setbacks",
+        "date": "2026-03-25T21:20:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+        "link": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
+        "date": "2026-03-25T13:22:06.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+        "link": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
+        "date": "2026-03-25T11:21:28.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-26T10:39:42.827Z"
+  }
+}
