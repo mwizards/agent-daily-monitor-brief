@@ -1,0 +1,390 @@
+{
+  "generatedAt": "2026-03-27T10:35:15.601Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -6.81,
+        "current": 60.77,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -6.81% to $60.77"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -6.28,
+        "current": 70.89,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -6.28% to $70.89"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -5.49,
+        "current": 59.24,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -5.49% to $59.24"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -6.58,
+        "current": 26.69,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -6.58% to $26.69"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.76,
+        "current": 400.64,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.76% to $400.64"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -4.6,
+        "current": 46.7,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -4.6% to $46.7"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "A Turning Point For Europe: Historic EU Parliament Votes Signal Rightward Realignment On Migration, Privacy, And Transatlantic Ties",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] A Turning Point For Europe: Historic EU Parliament Votes Signal Rightward Realignment On Migration, Privacy, And Transatlantic Ties"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Eurasia Energy War?",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Eurasia Energy War?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "'Changes Everything': The A-10 'Warthog' Proves Its Worth Again Over The Strait Of Hormuz",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] 'Changes Everything': The A-10 'Warthog' Proves Its Worth Again Over The Strait Of Hormuz"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.68,
+        "message": "Gold/Silver ratio: 64.68x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 400.64,
+        "previousClose": 416.29,
+        "high": 411.37,
+        "low": 400.26,
+        "changePct": -3.76
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 60.77,
+        "previousClose": 65.21,
+        "high": 63.135,
+        "low": 60.38,
+        "changePct": -6.81
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 70.89,
+        "previousClose": 75.64,
+        "high": 73.285,
+        "low": 70.755,
+        "changePct": -6.28
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 59.24,
+        "previousClose": 62.68,
+        "high": 61.735,
+        "low": 59.15,
+        "changePct": -5.49
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 46.7,
+        "previousClose": 48.95,
+        "high": 48.44,
+        "low": 46.65,
+        "changePct": -4.6
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.69,
+        "previousClose": 28.57,
+        "high": 28.12,
+        "low": 26.6525,
+        "changePct": -6.58
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 61.52,
+        "previousClose": 60.57,
+        "high": 61.86,
+        "low": 60.59,
+        "changePct": 1.57
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.81,
+        "previousClose": 27.7,
+        "high": 27.81,
+        "low": 27.72,
+        "changePct": 0.4
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.11,
+        "previousClose": 86.84,
+        "high": 86.61,
+        "low": 85.93,
+        "changePct": -0.84
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 645.09,
+        "previousClose": 656.82,
+        "high": 654.85,
+        "low": 644.83,
+        "changePct": -1.79
+      }
+    },
+    "metals": {
+      "gold": 4456.8,
+      "silver": 68.91,
+      "copper": 5.48,
+      "platinum": 1870.2,
+      "crude": null,
+      "goldSilverRatio": 64.68
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4456.8,
+        "change": 47.799805,
+        "changePct": 1.08,
+        "previousClose": 4409
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 68.905,
+        "change": 0.9710007,
+        "changePct": 1.43,
+        "previousClose": 67.934
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.4845,
+        "change": 0.007499695,
+        "changePct": 0.14,
+        "previousClose": 5.477
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1870.2,
+        "change": 12.899902,
+        "changePct": 0.69,
+        "previousClose": 1857.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 96.31,
+        "change": 1.8299942,
+        "changePct": 1.94,
+        "previousClose": 94.48
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.84,
+        "previous": 3.9,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-03-25"
+      },
+      "10Y": {
+        "current": 4.33,
+        "previous": 4.39,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-03-25"
+      },
+      "30Y": {
+        "current": 4.89,
+        "previous": 4.94,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-25"
+      },
+      "USD_BROAD": {
+        "current": 120.2757,
+        "previous": 120.1802,
+        "change": 0.1,
+        "changeBps": 10,
+        "date": "2026-03-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 871627,
+        "change": -456185,
+        "period": "2026-03-20",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Why investors should put 10% of their money in gold, says this strategist",
+        "link": "https://www.marketwatch.com/story/why-investors-should-put-10-of-their-money-in-gold-says-this-strategist-3caeb8ca?mod=mw_rss_topstories",
+        "date": "2026-03-27T09:59:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "There’s a clear path for U.S. stocks to rise next month after institutional deleveraging, say Goldman analysts",
+        "link": "https://www.marketwatch.com/story/theres-a-clear-path-for-u-s-stocks-to-rise-next-month-after-institutional-deleveraging-say-goldman-analysts-699ba534?mod=mw_rss_topstories",
+        "date": "2026-03-27T09:28:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "EU Accuses Hungary Of 'Pro-Russian Espionage'",
+        "link": "https://www.zerohedge.com/geopolitical/eu-accuses-hungary-pro-russian-espionage",
+        "date": "2026-03-27T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Conflict Drives Surge In China EV Demand",
+        "link": "https://www.zerohedge.com/markets/iran-conflict-drives-surge-china-ev-demand",
+        "date": "2026-03-27T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Key Russian Baltic Oil Port Of Primorsk Resumes Loading After Ukraine Attack",
+        "link": "https://www.zerohedge.com/energy/key-russian-baltic-oil-port-primorsk-resumes-loading-after-ukraine-attack",
+        "date": "2026-03-27T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "A Turning Point For Europe: Historic EU Parliament Votes Signal Rightward Realignment On Migration, Privacy, And Transatlantic Ties",
+        "link": "https://www.zerohedge.com/geopolitical/turning-point-europe-historic-eu-parliament-votes-signal-rightward-realignment",
+        "date": "2026-03-27T06:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+        "link": "https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html",
+        "date": "2026-03-27T04:40:22.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Eurasia Energy War?",
+        "link": "https://www.zerohedge.com/energy/eurasia-energy-war",
+        "date": "2026-03-27T03:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'Changes Everything': The A-10 'Warthog' Proves Its Worth Again Over The Strait Of Hormuz",
+        "link": "https://www.zerohedge.com/military/changes-everything-10-warthog-proves-its-worth-again-over-strait-hormuz",
+        "date": "2026-03-27T02:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Trump pauses plans to attack Iranian energy infrastructure, as Nasdaq falls into a correction",
+        "link": "https://www.marketwatch.com/story/nasdaq-falls-into-correction-territory-and-trump-pauses-plans-to-attack-iranian-energy-infrastructure-27732ce3?mod=mw_rss_topstories",
+        "date": "2026-03-27T02:36:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Judge Blocks Trump Admin's 'Orwellian' Supply Chain Risk Label On Anthropic - For Now",
+        "link": "https://www.zerohedge.com/political/judge-shreds-anthropic-supply-chain-risk-label-slams-trump-admins-orwellian-blacklisting",
+        "date": "2026-03-27T02:24:53.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Former Taiwanese Presidential Candidate Sentenced To 17 Years In Corruption Case",
+        "link": "https://www.zerohedge.com/geopolitical/former-taiwanese-presidential-candidate-sentenced-17-years-corruption-case",
+        "date": "2026-03-27T01:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump To Sign Order To Pay TSA Agents",
+        "link": "https://www.zerohedge.com/political/trump-sign-order-pay-tsa-agents",
+        "date": "2026-03-27T00:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Philippines Declares State Of Emergency As Energy Crisis Looms",
+        "link": "https://www.zerohedge.com/geopolitical/philippines-declares-state-emergency-energy-crisis-looms",
+        "date": "2026-03-26T22:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iranian TV Declares 'One Million' Soldiers Have Mobilized To Create 'Hell For American Forces'",
+        "link": "https://www.zerohedge.com/military/iranian-tv-declares-one-million-soldiers-have-mobilized-create-hell-american-forces",
+        "date": "2026-03-26T22:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-27T10:35:01.119Z"
+  }
+}
