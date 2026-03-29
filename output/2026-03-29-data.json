@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-03-29T10:20:10.910Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.51,
+        "current": 414.7,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.51% to $414.7"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 4.39,
+        "current": 63.44,
+        "direction": "UP",
+        "message": "Silver (SLV) +4.39% to $63.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 4.35,
+        "current": 27.85,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +4.35% to $27.85"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Over 3,500 US Troops Arrive In Middle East As Houthis Enter War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Over 3,500 US Troops Arrive In Middle East As Houthis Enter War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Russia Warns Situation At Bushehr Nuclear Plant Deteriorating After 3rd Airstrike In Ten Days",
+        "keywords": [
+          "war",
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Russia Warns Situation At Bushehr Nuclear Plant Deteriorating After 3rd Airstrike In Ten Days"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Maersk Slaps Emergency Fuel Surcharge As War Upends Marine Supply Chains",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Maersk Slaps Emergency Fuel Surcharge As War Upends Marine Supply Chains"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "2Y",
+        "current": 3.96,
+        "changeBps": 12,
+        "direction": "UP",
+        "message": "2Y yield +12bps to 3.96%"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "Big Tech’s AI fantasy hits a nuclear wall: No fuel, no welders — and no Plan B",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[MarketWatch] Big Tech’s AI fantasy hits a nuclear wall: No fuel, no welders — and no Plan B"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.82,
+        "message": "Gold/Silver ratio: 64.82x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 414.7,
+        "previousClose": 400.64,
+        "high": 418.34,
+        "low": 405.41,
+        "changePct": 3.51
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 63.44,
+        "previousClose": 60.77,
+        "high": 64.875,
+        "low": 61.22,
+        "changePct": 4.39
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 71.61,
+        "previousClose": 70.89,
+        "high": 72.87,
+        "low": 70.52,
+        "changePct": 1.02
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 59.78,
+        "previousClose": 59.24,
+        "high": 60.68,
+        "low": 58.31,
+        "changePct": 0.91
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 46.63,
+        "previousClose": 46.7,
+        "high": 47.42,
+        "low": 45.97,
+        "changePct": -0.15
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 27.85,
+        "previousClose": 26.69,
+        "high": 28.328,
+        "low": 26.56,
+        "changePct": 4.35
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 62.56,
+        "previousClose": 61.52,
+        "high": 62.79,
+        "low": 61.26,
+        "changePct": 1.69
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.84,
+        "previousClose": 27.81,
+        "high": 27.88,
+        "low": 27.775,
+        "changePct": 0.11
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.64,
+        "previousClose": 86.11,
+        "high": 86.1,
+        "low": 85.45,
+        "changePct": -0.55
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 634.09,
+        "previousClose": 645.09,
+        "high": 642.66,
+        "low": 633.105,
+        "changePct": -1.71
+      }
+    },
+    "metals": {
+      "gold": 4524.3,
+      "silver": 69.8,
+      "copper": 5.49,
+      "platinum": 1887.1,
+      "crude": null,
+      "goldSilverRatio": 64.82
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4524.3,
+        "change": 115.299805,
+        "changePct": 2.62,
+        "previousClose": 4409
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 69.796,
+        "change": 1.8619995,
+        "changePct": 2.74,
+        "previousClose": 67.934
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.4945,
+        "change": 0.017499924,
+        "changePct": 0.32,
+        "previousClose": 5.477
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1887.1,
+        "change": 29.799927,
+        "changePct": 1.6,
+        "previousClose": 1857.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 99.64,
+        "change": 5.159996,
+        "changePct": 5.46,
+        "previousClose": 94.48
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.96,
+        "previous": 3.84,
+        "change": 0.12,
+        "changeBps": 12,
+        "date": "2026-03-26"
+      },
+      "10Y": {
+        "current": 4.42,
+        "previous": 4.33,
+        "change": 0.09,
+        "changeBps": 9,
+        "date": "2026-03-26"
+      },
+      "30Y": {
+        "current": 4.93,
+        "previous": 4.89,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-03-26"
+      },
+      "USD_BROAD": {
+        "current": 120.2757,
+        "previous": 120.1802,
+        "change": 0.1,
+        "changeBps": 10,
+        "date": "2026-03-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 871627,
+        "change": -456185,
+        "period": "2026-03-20",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Escobar: The Long And Winding Petro-Gold Road",
+        "link": "https://www.zerohedge.com/geopolitical/escobar-long-and-winding-petro-gold-road",
+        "date": "2026-03-29T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Ready To Take US Arms For Ukraine & Divert Them To Middle East",
+        "link": "https://www.zerohedge.com/geopolitical/trump-signals-move-take-us-arms-ukraine-divert-them-middle-east",
+        "date": "2026-03-29T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Over 3,500 US Troops Arrive In Middle East As Houthis Enter War",
+        "link": "https://www.zerohedge.com/geopolitical/many-us-troops-wounded-iranian-strike-saudi-base-houthis-open-new-front-missile",
+        "date": "2026-03-29T02:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "6 Things To Know As Iran Conflict Hits 1-Month Mark",
+        "link": "https://www.zerohedge.com/geopolitical/6-things-know-iran-conflict-hits-1-month-mark",
+        "date": "2026-03-29T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Monitoring Surge In China's Detention Of Panama-Flagged Vessels",
+        "link": "https://www.zerohedge.com/geopolitical/us-monitoring-surge-chinas-detention-panama-flagged-vessels",
+        "date": "2026-03-28T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Secret Service Agent Assigned To Jill Biden Shoots Himself In The Leg At Philadelphia Airport",
+        "link": "https://www.zerohedge.com/markets/secret-service-agent-assigned-jill-biden-shoots-himself-leg-philadelphia-airport",
+        "date": "2026-03-28T22:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Alarming West Texas Oil Theft Emerges As National Security Threat",
+        "link": "https://www.zerohedge.com/energy/alarming-west-texas-oil-theft-emerges-national-security-threat",
+        "date": "2026-03-28T19:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US 'Only Certain Of Having Destroyed A Third' Of Iran's Missiles",
+        "link": "https://www.zerohedge.com/military/us-only-certain-having-destroyed-third-irans-missiles",
+        "date": "2026-03-28T19:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Why Is The Trump DOJ Still Enforcing The Biden Pistol Brace Rule?",
+        "link": "https://www.zerohedge.com/political/why-trump-doj-still-enforcing-biden-pistol-brace-rule",
+        "date": "2026-03-28T18:05:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Big Tech’s AI fantasy hits a nuclear wall: No fuel, no welders — and no Plan B",
+        "link": "https://www.marketwatch.com/story/americas-nuclear-renaissance-has-everything-except-uranium-welders-and-a-plan-0851782d?mod=mw_rss_topstories",
+        "date": "2026-03-28T17:03:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hormuz Bypasses Maxed Out: Saudi East-West Pipeline Hits Record 7 MMb/d, As UAE Fujairah Crude Loadings Reach Capacity",
+        "link": "https://www.zerohedge.com/energy/hormuz-bypasses-maxed-out-saudi-east-west-pipeline-hits-record-7-mmbd-uae-fujairah-crude",
+        "date": "2026-03-28T16:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "French Police Foil Overnight Terror Plot: Suspect Caught Trying To Ignite Bomb Outside BofA Headquarters In Paris",
+        "link": "https://www.zerohedge.com/geopolitical/french-police-foil-terror-plot-suspect-caught-trying-ignite-bomb-outside-bofa",
+        "date": "2026-03-28T15:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Warns Situation At Bushehr Nuclear Plant Deteriorating After 3rd Airstrike In Ten Days",
+        "link": "https://www.zerohedge.com/geopolitical/russia-warns-situation-bushehr-nuclear-plant-deteriorating-after-3rd-airstrike-ten",
+        "date": "2026-03-28T15:05:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Oil has surged since the Iran conflict, but gas prices may not be done rising",
+        "link": "https://www.foxbusiness.com/economy/oil-has-surged-since-iran-conflict-gas-prices-may-not-done-rising",
+        "date": "2026-03-28T15:00:46.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Maersk Slaps Emergency Fuel Surcharge As War Upends Marine Supply Chains",
+        "link": "https://www.zerohedge.com/markets/maersk-slaps-emergency-fuel-surcharge-war-upends-marine-supply-chains",
+        "date": "2026-03-28T14:30:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-29T10:20:00.622Z"
+  }
+}
