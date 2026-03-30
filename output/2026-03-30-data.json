@@ -1,0 +1,416 @@
+{
+  "generatedAt": "2026-03-30T10:51:56.416Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.51,
+        "current": 414.7,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.51% to $414.7"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 4.39,
+        "current": 63.44,
+        "direction": "UP",
+        "message": "Silver (SLV) +4.39% to $63.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 4.35,
+        "current": 27.85,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +4.35% to $27.85"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil prices head towards highest close in four years as Iran conflict shows no sign of ending",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Oil prices head towards highest close in four years as Iran conflict shows no sign of ending"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Watch: EU Parliament Told Continent Is \"On Track For Civil War\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Watch: EU Parliament Told Continent Is \"On Track For Civil War\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "UAE Unveils Jet-Powered Kamikaze Drone As War Gets A Lot Scarier",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] UAE Unveils Jet-Powered Kamikaze Drone As War Gets A Lot Scarier"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Green-Dot Sunday\" Is Non-Negotiable: Oil Up, Stocks Down As War Begins 2nd Month",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"Green-Dot Sunday\" Is Non-Negotiable: Oil Up, Stocks Down As War Begins 2nd Month"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Sophisticated Drone Swarms Disrupt Operations At Barksdale Air Force Base",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Sophisticated Drone Swarms Disrupt Operations At Barksdale Air Force Base"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Bigger Isn't Better: A Case For Downsizing The Federal Reserve",
+        "keywords": [
+          "federal reserve"
+        ],
+        "message": "[ZeroHedge] Bigger Isn't Better: A Case For Downsizing The Federal Reserve"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Over 3,500 US Troops Arrive In Middle East As Houthis Enter War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Over 3,500 US Troops Arrive In Middle East As Houthis Enter War"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "2Y",
+        "current": 3.96,
+        "changeBps": 12,
+        "direction": "UP",
+        "message": "2Y yield +12bps to 3.96%"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.36,
+        "message": "Gold/Silver ratio: 64.36x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 12
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 414.7,
+        "previousClose": 400.64,
+        "high": 418.34,
+        "low": 405.41,
+        "changePct": 3.51
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 63.44,
+        "previousClose": 60.77,
+        "high": 64.875,
+        "low": 61.22,
+        "changePct": 4.39
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 71.61,
+        "previousClose": 70.89,
+        "high": 72.87,
+        "low": 70.52,
+        "changePct": 1.02
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 59.78,
+        "previousClose": 59.24,
+        "high": 60.68,
+        "low": 58.31,
+        "changePct": 0.91
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 46.63,
+        "previousClose": 46.7,
+        "high": 47.42,
+        "low": 45.97,
+        "changePct": -0.15
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 27.85,
+        "previousClose": 26.69,
+        "high": 28.328,
+        "low": 26.56,
+        "changePct": 4.35
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 62.56,
+        "previousClose": 61.52,
+        "high": 62.79,
+        "low": 61.26,
+        "changePct": 1.69
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.84,
+        "previousClose": 27.81,
+        "high": 27.88,
+        "low": 27.775,
+        "changePct": 0.11
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.64,
+        "previousClose": 86.11,
+        "high": 86.1,
+        "low": 85.45,
+        "changePct": -0.55
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 634.09,
+        "previousClose": 645.09,
+        "high": 642.66,
+        "low": 633.105,
+        "changePct": -1.71
+      }
+    },
+    "metals": {
+      "gold": 4560.5,
+      "silver": 70.86,
+      "copper": 5.51,
+      "platinum": 1919.4,
+      "crude": null,
+      "goldSilverRatio": 64.36
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4560.5,
+        "change": 36.200195,
+        "changePct": 0.8,
+        "previousClose": 4524.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 70.86,
+        "change": 1.064003,
+        "changePct": 1.52,
+        "previousClose": 69.796
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.513,
+        "change": 0.018499851,
+        "changePct": 0.34,
+        "previousClose": 5.4945
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1919.4,
+        "change": 32.30005,
+        "changePct": 1.71,
+        "previousClose": 1887.1
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.83,
+        "change": 2.1900024,
+        "changePct": 2.2,
+        "previousClose": 99.64
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.96,
+        "previous": 3.84,
+        "change": 0.12,
+        "changeBps": 12,
+        "date": "2026-03-26"
+      },
+      "10Y": {
+        "current": 4.42,
+        "previous": 4.33,
+        "change": 0.09,
+        "changeBps": 9,
+        "date": "2026-03-26"
+      },
+      "30Y": {
+        "current": 4.93,
+        "previous": 4.89,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-03-26"
+      },
+      "USD_BROAD": {
+        "current": 120.2757,
+        "previous": 120.1802,
+        "change": 0.1,
+        "changeBps": 10,
+        "date": "2026-03-20"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112451,
+        "previous": 8683,
+        "change": 103768,
+        "period": "2026-03-20",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices head towards highest close in four years as Iran conflict shows no sign of ending",
+        "link": "https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories",
+        "date": "2026-03-30T09:49:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: EU Parliament Told Continent Is \"On Track For Civil War\"",
+        "link": "https://www.zerohedge.com/political/watch-eu-parliament-told-continent-track-civil-war",
+        "date": "2026-03-30T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UAE Unveils Jet-Powered Kamikaze Drone As War Gets A Lot Scarier",
+        "link": "https://www.zerohedge.com/military/uae-unveils-jet-powered-kamikaze-drone-war-gets-lot-scarier",
+        "date": "2026-03-30T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Senators Seek To Sanction Hungary Over Obstructing Ukraine Aid",
+        "link": "https://www.zerohedge.com/political/us-senators-seek-sanction-hungary-over-obstrucing-ukraine-aid",
+        "date": "2026-03-30T06:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories",
+        "date": "2026-03-30T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "LNG Crisis From Bad To Worse As Storm Damage Adds Weeks To Restart Of Chevron Wheatstone Plant",
+        "link": "https://www.zerohedge.com/markets/lng-crisis-bad-worse-storm-damage-adds-weeks-restart-chevron-wheatstone-plant",
+        "date": "2026-03-30T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US To Let Russian Oil Tanker Deliver Fuel To Cuba: Report",
+        "link": "https://www.zerohedge.com/geopolitical/us-let-russian-oil-tanker-deliver-fuel-cuba",
+        "date": "2026-03-30T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Green-Dot Sunday\" Is Non-Negotiable: Oil Up, Stocks Down As War Begins 2nd Month",
+        "link": "https://www.zerohedge.com/markets/green-dot-sunday-non-negotiable-oil-stocks-down-war-begins-2nd-month",
+        "date": "2026-03-29T22:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Sophisticated Drone Swarms Disrupt Operations At Barksdale Air Force Base",
+        "link": "https://www.zerohedge.com/political/sophisticated-drone-swarms-disrupt-operations-barksdale-air-force-base",
+        "date": "2026-03-29T20:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bigger Isn't Better: A Case For Downsizing The Federal Reserve",
+        "link": "https://www.zerohedge.com/political/bigger-isnt-better-case-downsizing-federal-reserve",
+        "date": "2026-03-29T20:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Allowing 20 More Ships Through Strait Of Hormuz, Pakistan Says",
+        "link": "https://www.zerohedge.com/geopolitical/iran-allowing-20-more-ships-through-strait-hormuz-pakistan-says",
+        "date": "2026-03-29T19:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "From Market Economist To Military Strategist",
+        "link": "https://www.zerohedge.com/geopolitical/market-economist-military-strategist",
+        "date": "2026-03-29T18:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "DHS Shutdown Now The Longest In US History",
+        "link": "https://www.zerohedge.com/political/dhs-shutdown-now-longest-us-history",
+        "date": "2026-03-29T16:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Eyes 'Weeks' Of Ground Operations In Iran As IRGC Threatens Tit-For-Tat Strikes On Universities",
+        "link": "https://www.zerohedge.com/geopolitical/pentagon-eyes-weeks-ground-operations-iran-irgc-threatens-tit-tat-strikes-universities",
+        "date": "2026-03-29T15:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Over 3,500 US Troops Arrive In Middle East As Houthis Enter War",
+        "link": "https://www.zerohedge.com/geopolitical/many-us-troops-wounded-iranian-strike-saudi-base-houthis-open-new-front-missile",
+        "date": "2026-03-29T14:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-30T10:51:49.391Z"
+  }
+}
