@@ -1,0 +1,366 @@
+{
+  "generatedAt": "2026-03-31T10:41:43.340Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "China's Quiet Gains During US-Israel War On Iran",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] China's Quiet Gains During US-Israel War On Iran"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Hegseth’s reported interest in buying a defense fund highlights just how poorly contractors have traded since the war began",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Hegseth’s reported interest in buying a defense fund highlights just how poorly contractors have traded since the war began"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Stock futures jump, oil prices retreat on report Trump willing to end war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Stock futures jump, oil prices retreat on report Trump willing to end war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Even Erik Prince Warns Iran Will \"Burn It Down\" - Boots On The Ground Could Mean \"Burning American Warships\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Even Erik Prince Warns Iran Will \"Burn It Down\" - Boots On The Ground Could Mean \"Burning American Warships\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Oil Slides As Trump Reportedly Told Aides He's Willing To End War Without Reopening Hormuz",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Oil Slides As Trump Reportedly Told Aides He's Willing To End War Without Reopening Hormuz"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -2.24,
+        "current": 58.44,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -2.24% to $58.44"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.87,
+        "current": 45.29,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.87% to $45.29"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.88,
+        "message": "Gold/Silver ratio: 62.88x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 414.58,
+        "previousClose": 414.7,
+        "high": 420.1,
+        "low": 412.66,
+        "changePct": -0.03
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 63.52,
+        "previousClose": 63.44,
+        "high": 64.63,
+        "low": 63.02,
+        "changePct": 0.13
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 70.75,
+        "previousClose": 71.61,
+        "high": 73.47,
+        "low": 70.16,
+        "changePct": -1.2
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.44,
+        "previousClose": 59.78,
+        "high": 60.75,
+        "low": 57.67,
+        "changePct": -2.24
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 45.29,
+        "previousClose": 46.63,
+        "high": 47.25,
+        "low": 44.76,
+        "changePct": -2.87
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 27.31,
+        "previousClose": 27.85,
+        "high": 28.63,
+        "low": 26.85,
+        "changePct": -1.94
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 61.96,
+        "previousClose": 62.56,
+        "high": 63.46,
+        "low": 61.78,
+        "changePct": -0.96
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.98,
+        "previousClose": 27.84,
+        "high": 28,
+        "low": 27.91,
+        "changePct": 0.5
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.78,
+        "previousClose": 85.64,
+        "high": 86.95,
+        "low": 86.485,
+        "changePct": 1.33
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 631.97,
+        "previousClose": 634.09,
+        "high": 640.37,
+        "low": 629.29,
+        "changePct": -0.33
+      }
+    },
+    "metals": {
+      "gold": 4590,
+      "silver": 73,
+      "copper": 5.51,
+      "platinum": 1923.9,
+      "crude": null,
+      "goldSilverRatio": 62.88
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4590,
+        "change": 32.5,
+        "changePct": 0.71,
+        "previousClose": 4557.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 72.995,
+        "change": 2.4260025,
+        "changePct": 3.44,
+        "previousClose": 70.569
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.513,
+        "change": 0.011000156,
+        "changePct": 0.2,
+        "previousClose": 5.502
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1923.9,
+        "change": 18.300049,
+        "changePct": 0.96,
+        "previousClose": 1905.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 104.32,
+        "change": 1.4400024,
+        "changePct": 1.4,
+        "previousClose": 102.88
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.88,
+        "previous": 3.96,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-03-27"
+      },
+      "10Y": {
+        "current": 4.44,
+        "previous": 4.42,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-03-27"
+      },
+      "30Y": {
+        "current": 4.98,
+        "previous": 4.93,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-03-27"
+      },
+      "USD_BROAD": {
+        "current": 120.8851,
+        "previous": 120.389,
+        "change": 0.5,
+        "changeBps": 50,
+        "date": "2026-03-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 871627,
+        "change": -456185,
+        "period": "2026-03-20",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "China's Quiet Gains During US-Israel War On Iran",
+        "link": "https://www.zerohedge.com/geopolitical/chinas-quiet-gains-during-us-israel-war-iran",
+        "date": "2026-03-31T10:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Gold’s bull run could be nearing its finish line, says UBS strategist",
+        "link": "https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories",
+        "date": "2026-03-31T10:19:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Must Boost Domestic Uranium Enrichment To Counter Proliferation Risks",
+        "link": "https://www.zerohedge.com/markets/us-must-boost-domestic-uranium-enrichment-counter-proliferation-risks",
+        "date": "2026-03-31T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Hegseth’s reported interest in buying a defense fund highlights just how poorly contractors have traded since the war began",
+        "link": "https://www.marketwatch.com/story/hegseths-reported-interest-in-buying-a-defense-fund-highlights-just-how-poorly-contractors-have-traded-since-the-war-began-e86c5117?mod=mw_rss_topstories",
+        "date": "2026-03-31T09:09:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil holds near four-year high on unclear plan for future reopening of Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/oil-holds-near-four-year-high-on-unclear-plan-for-future-reopening-of-strait-of-hormuz-82db1c21?mod=mw_rss_topstories",
+        "date": "2026-03-31T09:04:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Should Start Removing Its Troops From Germany, Proposes AfD Co-Leader Chrupalla",
+        "link": "https://www.zerohedge.com/geopolitical/us-should-start-removing-its-troops-germany-proposes-afd-co-leader-chrupalla",
+        "date": "2026-03-31T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Global Energy Crisis Or Iranian Surrender In Five Weeks?",
+        "link": "https://www.zerohedge.com/geopolitical/global-energy-crisis-or-iranian-surrender-five-weeks",
+        "date": "2026-03-31T03:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "White House Intervenes After Israel Closed Church Of The Holy Sepulchre Ahead Of Easter",
+        "link": "https://www.zerohedge.com/geopolitical/white-house-intervenes-after-israel-closed-church-holy-sephulchre-ahead-easter",
+        "date": "2026-03-31T02:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Stock futures jump, oil prices retreat on report Trump willing to end war",
+        "link": "https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49?mod=mw_rss_topstories",
+        "date": "2026-03-31T01:57:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Zelensky Calls For Easter Truce Amid Nightly Russian Drone Assaults",
+        "link": "https://www.zerohedge.com/geopolitical/zelensky-calls-easter-truce-russia-amid-nightly-ratcheted-drone-assaults",
+        "date": "2026-03-31T01:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's Breakthrough Lithium Battery Could Double EV Range To 600+ Miles, Survive -94°F Temp",
+        "link": "https://www.zerohedge.com/technology/chinas-breakthrough-lithium-battery-could-double-ev-range-600-miles-survive-94degf-temp",
+        "date": "2026-03-31T00:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Even Erik Prince Warns Iran Will \"Burn It Down\" - Boots On The Ground Could Mean \"Burning American Warships\"",
+        "link": "https://www.zerohedge.com/political/even-erik-prince-warns-iran-will-burn-it-down-boots-ground-could-mean-burning-american",
+        "date": "2026-03-31T00:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Biden-Appointed Judge Tosses DOJ Lawsuit Challenging Minnesota's In-State Tuition For Illegal Immigrants",
+        "link": "https://www.zerohedge.com/markets/biden-appointed-judge-tosses-doj-lawsuit-challenging-minnesotas-state-tuition-illegal",
+        "date": "2026-03-30T23:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's EV Giant BYD Misses Earnings, Enters Brutal New Phase Of Competition",
+        "link": "https://www.zerohedge.com/markets/chinas-ev-giant-byd-misses-earnings-enters-brutal-new-phase-competition",
+        "date": "2026-03-30T23:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Oil Slides As Trump Reportedly Told Aides He's Willing To End War Without Reopening Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/trump-cites-progress-dealing-more-reasonable-regime-while-mulling-ground-operation",
+        "date": "2026-03-30T23:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-03-31T10:41:34.111Z"
+  }
+}
