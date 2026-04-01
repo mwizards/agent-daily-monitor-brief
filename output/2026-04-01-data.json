@@ -1,0 +1,429 @@
+{
+  "generatedAt": "2026-04-01T10:43:56.155Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 7.27,
+        "current": 68.14,
+        "direction": "UP",
+        "message": "Silver (SLV) +7.27% to $68.14"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 7.92,
+        "current": 76.35,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +7.92% to $76.35"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 8.06,
+        "current": 63.15,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +8.06% to $63.15"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 6.93,
+        "current": 48.43,
+        "direction": "UP",
+        "message": "Uranium (URA) +6.93% to $48.43"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 8.82,
+        "current": 29.72,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +8.82% to $29.72"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.79,
+        "current": 430.29,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.79% to $430.29"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel Halts Arms Purchases From France In Rebuke For Iran War Stance",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel Halts Arms Purchases From France In Rebuke For Iran War Stance"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Asia Burns More Coal As Middle East War Sends LNG Prices to 3-Year Highs",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Asia Burns More Coal As Middle East War Sends LNG Prices to 3-Year Highs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Markets",
+        "title": "Mercedes-Benz to pour $4B into Alabama plant as Trump tariffs reshape US auto strategy",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Markets] Mercedes-Benz to pour $4B into Alabama plant as Trump tariffs reshape US auto strategy"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran Says 'Prepared To End War' If Security Guarantees Offered, But Still No Direct Negotiations - Just 'Messages'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iran Says 'Prepared To End War' If Security Guarantees Offered, But Still No Direct Negotiations - Just 'Messages'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
+        "keywords": [
+          "rate hike"
+        ],
+        "message": "[CNBC Economy] Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SPY",
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "changePct": 2.91,
+        "current": 650.34,
+        "direction": "UP",
+        "message": "S&P 500 (SPY) +2.91% to $650.34"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Trump Signs Executive Order To Crack Down On 'Legendary' Cheating With Lists For Mail-In Voting",
+        "keywords": [
+          "executive order"
+        ],
+        "message": "[ZeroHedge] Trump Signs Executive Order To Crack Down On 'Legendary' Cheating With Lists For Mail-In Voting"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.6,
+        "message": "Gold/Silver ratio: 63.6x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 14
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 430.29,
+        "previousClose": 414.58,
+        "high": 430.57,
+        "low": 419.59,
+        "changePct": 3.79
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.14,
+        "previousClose": 63.52,
+        "high": 68.2,
+        "low": 65.69,
+        "changePct": 7.27
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 76.35,
+        "previousClose": 70.75,
+        "high": 76.38,
+        "low": 72.7,
+        "changePct": 7.92
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.15,
+        "previousClose": 58.44,
+        "high": 63.1938,
+        "low": 59.8417,
+        "changePct": 8.06
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.43,
+        "previousClose": 45.29,
+        "high": 48.44,
+        "low": 46.01,
+        "changePct": 6.93
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.72,
+        "previousClose": 27.31,
+        "high": 29.745,
+        "low": 27.88,
+        "changePct": 8.82
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 61.26,
+        "previousClose": 61.96,
+        "high": 62.83,
+        "low": 60.035,
+        "changePct": -1.13
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.78,
+        "previousClose": 27.98,
+        "high": 27.89,
+        "low": 27.7701,
+        "changePct": -0.71
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.69,
+        "previousClose": 86.78,
+        "high": 87.16,
+        "low": 86.57,
+        "changePct": -0.1
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 650.34,
+        "previousClose": 631.97,
+        "high": 651.53,
+        "low": 637.98,
+        "changePct": 2.91
+      }
+    },
+    "metals": {
+      "gold": 4756,
+      "silver": 74.78,
+      "copper": 5.61,
+      "platinum": 1967.9,
+      "crude": null,
+      "goldSilverRatio": 63.6
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4756,
+        "change": 77.3999,
+        "changePct": 1.65,
+        "previousClose": 4678.6
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 74.775,
+        "change": -0.14399719,
+        "changePct": -0.19,
+        "previousClose": 74.919
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.613,
+        "change": -0.0009999275,
+        "changePct": -0.02,
+        "previousClose": 5.614
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1967.9,
+        "change": -2.2999268,
+        "changePct": -0.12,
+        "previousClose": 1970.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 100.26,
+        "change": -1.1199951,
+        "changePct": -1.1,
+        "previousClose": 101.38
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.82,
+        "previous": 3.88,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-03-30"
+      },
+      "10Y": {
+        "current": 4.35,
+        "previous": 4.44,
+        "change": -0.09,
+        "changeBps": -9,
+        "date": "2026-03-30"
+      },
+      "30Y": {
+        "current": 4.91,
+        "previous": 4.98,
+        "change": -0.07,
+        "changeBps": -7,
+        "date": "2026-03-30"
+      },
+      "USD_BROAD": {
+        "current": 120.8851,
+        "previous": 120.389,
+        "change": 0.5,
+        "changeBps": 50,
+        "date": "2026-03-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415442,
+        "previous": 871627,
+        "change": -456185,
+        "period": "2026-03-20",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "US Senators Unveil 'Mined In America Act' To Reshore BTC Mining, Codify Bitcoin Strategic Reserve",
+        "link": "https://www.zerohedge.com/crypto/us-senators-unveil-mined-america-act-reshore-btc-mining-codify-bitcoin-strategic-reserve",
+        "date": "2026-04-01T10:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?",
+        "link": "https://www.marketwatch.com/story/my-wife-and-i-buy-promotional-cds-with-our-tax-refund-check-is-now-a-bad-time-to-switch-to-treasurys-e19841aa?mod=mw_rss_topstories",
+        "date": "2026-04-01T10:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Brent oil futures fall as low as $98 ahead of Trump’s address on Iran war",
+        "link": "https://www.marketwatch.com/story/brent-oil-futures-fall-as-low-as-98-ahead-of-trumps-address-on-iran-war-02590d56?mod=mw_rss_topstories",
+        "date": "2026-04-01T08:44:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Stock markets bottom in the early stages of military conflict, says Tom Lee. Here’s what the strategist expects now.",
+        "link": "https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories",
+        "date": "2026-04-01T08:27:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Halts Arms Purchases From France In Rebuke For Iran War Stance",
+        "link": "https://www.zerohedge.com/geopolitical/israel-halts-arms-purchases-france-rebuke-iran-war-stance",
+        "date": "2026-04-01T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Beyond Cheap Fish Oil: How A 5:1 DHA Ratio Powers Brain Health & Vision",
+        "link": "https://www.zerohedge.com/medical/beyond-cheap-fish-oil-how-51-dha-ratio-powers-brain-health-vision",
+        "date": "2026-04-01T02:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Signs Executive Order To Crack Down On 'Legendary' Cheating With Lists For Mail-In Voting",
+        "link": "https://www.zerohedge.com/political/trump-signs-executive-order-crack-down-legendary-cheating-lists-mail-voting",
+        "date": "2026-04-01T02:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Federal Judges Rule Against White House Ballroom, Defunding NPR And PBS",
+        "link": "https://www.zerohedge.com/political/federal-judges-rule-against-white-house-ballroom-defunding-npr-and-pbs",
+        "date": "2026-04-01T01:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Asia Burns More Coal As Middle East War Sends LNG Prices to 3-Year Highs",
+        "link": "https://www.zerohedge.com/energy/asia-burns-more-coal-middle-east-war-sends-lng-prices-3-year-highs",
+        "date": "2026-03-31T22:55:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Mercedes-Benz to pour $4B into Alabama plant as Trump tariffs reshape US auto strategy",
+        "link": "https://www.foxbusiness.com/markets/mercedes-benz-pour-4b-alabama-plant-trump-tariffs-reshape-us-auto-strategy",
+        "date": "2026-03-31T21:12:06.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Says 'Prepared To End War' If Security Guarantees Offered, But Still No Direct Negotiations - Just 'Messages'",
+        "link": "https://www.zerohedge.com/markets/ramp-imminent-trump-tells-world-go-get-your-own-oil-strait-after-decimating-iran",
+        "date": "2026-03-31T20:05:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
+        "link": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html",
+        "date": "2026-03-31T18:35:23.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "US gas tops $4 a gallon as Iran conflict drives sharp rise in fuel costs",
+        "link": "https://www.foxbusiness.com/economy/us-gas-prices-4-dollars-iran-conflict-oil-surge",
+        "date": "2026-03-31T11:33:16.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-01T10:43:46.154Z"
+  }
+}
