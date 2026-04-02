@@ -1,0 +1,367 @@
+{
+  "generatedAt": "2026-04-02T10:39:38.866Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.67,
+        "current": 30.81,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.67% to $30.81"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -3.74,
+        "current": 58.97,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -3.74% to $58.97"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil prices rise over 7% as Trump speech leads to uncertainty on Iran war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Oil prices rise over 7% as Trump speech leads to uncertainty on Iran war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"He Ran On No Wars - Now We Have One\": Michael Savage Breaks With Trump Over Iran",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"He Ran On No Wars - Now We Have One\": Michael Savage Breaks With Trump Over Iran"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Expect Electricity Prices To Rise Further, Analysts Warn",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Expect Electricity Prices To Rise Further, Analysts Warn"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pentagon Prepares A-10 Warthog Surge As Mideast Fleet Set To Double",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pentagon Prepares A-10 Warthog Surge As Mideast Fleet Set To Double"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.36,
+        "current": 78.15,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.36% to $78.15"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 65.58,
+        "message": "Gold/Silver ratio: 65.58x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 437.82,
+        "previousClose": 430.29,
+        "high": 440.19,
+        "low": 433.78,
+        "changePct": 1.75
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.14,
+        "previousClose": 68.14,
+        "high": 68.905,
+        "low": 67.375,
+        "changePct": 0
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 78.15,
+        "previousClose": 76.35,
+        "high": 79.525,
+        "low": 77.3342,
+        "changePct": 2.36
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.87,
+        "previousClose": 63.15,
+        "high": 66.2,
+        "low": 63.73,
+        "changePct": 1.14
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 49.26,
+        "previousClose": 48.43,
+        "high": 50.83,
+        "low": 49.06,
+        "changePct": 1.71
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.81,
+        "previousClose": 29.72,
+        "high": 31.63,
+        "low": 30.12,
+        "changePct": 3.67
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.97,
+        "previousClose": 61.26,
+        "high": 60.62,
+        "low": 58.355,
+        "changePct": -3.74
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.73,
+        "previousClose": 27.78,
+        "high": 27.74,
+        "low": 27.625,
+        "changePct": -0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.26,
+        "previousClose": 86.34522,
+        "high": 86.705,
+        "low": 86.23,
+        "changePct": -0.1
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 655.24,
+        "previousClose": 650.34,
+        "high": 658.52,
+        "low": 653,
+        "changePct": 0.75
+      }
+    },
+    "metals": {
+      "gold": 4643.7,
+      "silver": 70.81,
+      "copper": 5.55,
+      "platinum": 1913.6,
+      "crude": null,
+      "goldSilverRatio": 65.58
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4643.7,
+        "change": -169.3999,
+        "changePct": -3.52,
+        "previousClose": 4813.1
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 70.81,
+        "change": -5.2680054,
+        "changePct": -6.92,
+        "previousClose": 76.078
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.5475,
+        "change": -0.09899998,
+        "changePct": -1.75,
+        "previousClose": 5.6465
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1913.6,
+        "change": -76.099976,
+        "changePct": -3.82,
+        "previousClose": 1989.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 108.03,
+        "change": 7.909996,
+        "changePct": 7.9,
+        "previousClose": 100.12
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.82,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-03-31"
+      },
+      "10Y": {
+        "current": 4.3,
+        "previous": 4.35,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-03-31"
+      },
+      "30Y": {
+        "current": 4.88,
+        "previous": 4.91,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-03-31"
+      },
+      "USD_BROAD": {
+        "current": 120.8851,
+        "previous": 120.389,
+        "change": 0.5,
+        "changeBps": 50,
+        "date": "2026-03-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415064,
+        "previous": 876700,
+        "change": -461636,
+        "period": "2026-03-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Colonial Restarts Largest U.S. Gasoline Pipeline After Georgia Damage",
+        "link": "https://www.zerohedge.com/energy/first-valero-refinery-now-largest-us-gasoline-pipeline-damaged-georgia",
+        "date": "2026-04-02T10:32:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is Trump About To Crush The Cartels In Ecuador?",
+        "link": "https://www.zerohedge.com/geopolitical/trump-about-crush-cartels-ecuador",
+        "date": "2026-04-02T10:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices rise over 7% as Trump speech leads to uncertainty on Iran war",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories",
+        "date": "2026-04-02T09:37:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Gold is again falling sharply, with the stock market. Why it’s not behaving the way it used to during a crisis.",
+        "link": "https://www.marketwatch.com/story/gold-is-again-falling-sharply-with-the-stock-market-why-its-not-behaving-the-way-it-used-to-during-a-crisis-d40dfa60?mod=mw_rss_topstories",
+        "date": "2026-04-02T09:10:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Stock futures sink as Trump says U.S. on track to complete Iran objectives ‘very shortly’",
+        "link": "https://www.marketwatch.com/story/stock-futures-sink-as-trump-says-u-s-on-track-to-complete-iran-objectives-very-shortly-83d76b47?mod=mw_rss_topstories",
+        "date": "2026-04-02T03:02:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Tests World's Heaviest 7-Ton Cargo Drone With 1,850-Mile Range For Recon Ops",
+        "link": "https://www.zerohedge.com/military/china-tests-worlds-heaviest-7-ton-cargo-drone-1850-mile-range-recon-ops",
+        "date": "2026-04-02T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Senators Plan Taiwan Trip Ahead Of Trump's Summit With Xi Jinping",
+        "link": "https://www.zerohedge.com/geopolitical/senators-plan-taiwan-trip-ahead-trumps-summit-xi-jinping",
+        "date": "2026-04-02T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Oil Spikes As Trump Vows To Hit Iran \"Extremely Hard Over Next 2-3 Weeks\", Threatens To Send It \"Back To The Stone Ages\"",
+        "link": "https://www.zerohedge.com/geopolitical/uae-poised-join-anti-iran-operations-trump-rips-nato-paper-tiger-says-exit-beyond",
+        "date": "2026-04-02T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: President Trump Addresses The Nation About Iran",
+        "link": "https://www.zerohedge.com/political/trump-address-nation-important-update-iran-war-what-will-he-say",
+        "date": "2026-04-02T00:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"He Ran On No Wars - Now We Have One\": Michael Savage Breaks With Trump Over Iran",
+        "link": "https://www.zerohedge.com/political/he-ran-no-wars-now-we-have-one-michael-savage-breaks-trump-over-iran",
+        "date": "2026-04-02T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Dubai Crackdown Hits Iran's Economic Lifeline, Squeezes IRGC Networks",
+        "link": "https://www.zerohedge.com/markets/dubai-crackdown-hits-irans-economic-lifeline-squeezes-irgc-networks",
+        "date": "2026-04-01T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Expect Electricity Prices To Rise Further, Analysts Warn",
+        "link": "https://www.zerohedge.com/markets/expect-electricity-prices-rise-further-analysts-warn",
+        "date": "2026-04-01T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Prepares A-10 Warthog Surge As Mideast Fleet Set To Double",
+        "link": "https://www.zerohedge.com/military/pentagon-prepares-10-warthog-surge-mideast-fleet-set-double",
+        "date": "2026-04-01T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Beyond Cheap Fish Oil: How A 5:1 DHA Ratio Powers Brain Health & Vision",
+        "link": "https://www.zerohedge.com/medical/beyond-cheap-fish-oil-how-51-dha-ratio-powers-brain-health-vision",
+        "date": "2026-04-01T22:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "America's Half-Trillion-Dollar Sewage Problem",
+        "link": "https://www.zerohedge.com/medical/americas-half-trillion-dollar-sewage-problem",
+        "date": "2026-04-01T22:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-02T10:39:29.422Z"
+  }
+}
