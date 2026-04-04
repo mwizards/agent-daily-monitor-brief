@@ -1,0 +1,375 @@
+{
+  "generatedAt": "2026-04-04T10:21:26.686Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -3.45,
+        "current": 65.79,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -3.45% to $65.79"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Second US Warplane Lost: A-10 Warthog Crashes Near Hormuz Shortly After F-15 Shootdown",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Second US Warplane Lost: A-10 Warthog Crashes Near Hormuz Shortly After F-15 Shootdown"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Jobs data, Iran war add to inflation fears for retirees",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Jobs data, Iran war add to inflation fears for retirees"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Proposes $1.5 Trillion In War Spending, 'Largest In Decades'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump Proposes $1.5 Trillion In War Spending, 'Largest In Decades'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Markets",
+        "title": "US taps millions more barrels from strategic reserve as critics warn drawdown could fuel vulnerabilities",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Markets] US taps millions more barrels from strategic reserve as critics warn drawdown could fuel vulnerabilities"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Poison Ivey: Chicago Bulls Release Forward After He Speaks Out Against Pride Month",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Poison Ivey: Chicago Bulls Release Forward After He Speaks Out Against Pride Month"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Hegseth Ousts Chief Of The Army As Iran War Persists",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Hegseth Ousts Chief Of The Army As Iran War Persists"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Oil Shocks & Recessionary Outcomes",
+        "keywords": [
+          "recession"
+        ],
+        "message": "[ZeroHedge] Oil Shocks & Recessionary Outcomes"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.27,
+        "message": "Gold/Silver ratio: 64.27x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 429.41,
+        "previousClose": 437.82,
+        "high": 431.66,
+        "low": 421.18,
+        "changePct": -1.92
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 65.79,
+        "previousClose": 68.14,
+        "high": 66.2226,
+        "low": 63.5,
+        "changePct": -3.45
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 76.86,
+        "previousClose": 78.15,
+        "high": 77.43,
+        "low": 73.86,
+        "changePct": -1.65
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.41,
+        "previousClose": 63.87,
+        "high": 63.68,
+        "low": 60.71,
+        "changePct": -0.72
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.9,
+        "previousClose": 49.26,
+        "high": 49.16,
+        "low": 46.542,
+        "changePct": -0.73
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.61,
+        "previousClose": 30.81,
+        "high": 30.94,
+        "low": 28.73,
+        "changePct": -0.65
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.25,
+        "previousClose": 58.97,
+        "high": 61.01,
+        "low": 58.98,
+        "changePct": 0.47
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.86,
+        "previousClose": 27.73,
+        "high": 27.89,
+        "low": 27.7801,
+        "changePct": 0.47
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.79,
+        "previousClose": 86.26,
+        "high": 86.85,
+        "low": 86.1507,
+        "changePct": 0.61
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 655.83,
+        "previousClose": 655.24,
+        "high": 657.92,
+        "low": 645.11,
+        "changePct": 0.09
+      }
+    },
+    "metals": {
+      "gold": 4702.7,
+      "silver": 73.17,
+      "copper": 5.68,
+      "platinum": 1999.9,
+      "crude": null,
+      "goldSilverRatio": 64.27
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4702.7,
+        "change": 23,
+        "changePct": 0.49,
+        "previousClose": 4679.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.17,
+        "change": 0.24599457,
+        "changePct": 0.34,
+        "previousClose": 72.924
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.6815,
+        "change": 0.09800005,
+        "changePct": 1.76,
+        "previousClose": 5.5835
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1999.9,
+        "change": 16.700073,
+        "changePct": 0.84,
+        "previousClose": 1983.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 112.06,
+        "change": 0.51999664,
+        "changePct": 0.47,
+        "previousClose": 111.54
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.81,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-02"
+      },
+      "10Y": {
+        "current": 4.31,
+        "previous": 4.33,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-02"
+      },
+      "30Y": {
+        "current": 4.88,
+        "previous": 4.91,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-04-02"
+      },
+      "USD_BROAD": {
+        "current": 120.8851,
+        "previous": 120.389,
+        "change": 0.5,
+        "changeBps": 50,
+        "date": "2026-03-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415064,
+        "previous": 876700,
+        "change": -461636,
+        "period": "2026-03-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Micro AI Sentry Guns May Be Next Layer Of Defense For Data Centers Against Kamikaze Drones",
+        "link": "https://www.zerohedge.com/military/micro-ai-sentry-guns-may-be-next-layer-defense-data-centers-against-kamikaze-drones",
+        "date": "2026-04-04T00:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?",
+        "link": "https://www.marketwatch.com/story/my-wife-and-i-buy-promotional-cds-with-our-tax-refund-check-is-now-a-bad-time-to-switch-to-treasurys-e19841aa?mod=mw_rss_topstories",
+        "date": "2026-04-03T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tiger Woods Flexes Call With Trump Before DUI Arrest; Pardon Odds Remain Low",
+        "link": "https://www.zerohedge.com/political/tiger-woods-flexes-call-trump-dui-arrest-pardon-odds-remain-low",
+        "date": "2026-04-03T20:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Second US Warplane Lost: A-10 Warthog Crashes Near Hormuz Shortly After F-15 Shootdown",
+        "link": "https://www.zerohedge.com/geopolitical/us-fighter-jet-downed-iran-large-aerial-search-underway-crew",
+        "date": "2026-04-03T19:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hegseth: Military Bases Are No Longer Gun-Free Zones",
+        "link": "https://www.zerohedge.com/military/hegseth-military-bases-are-no-longer-gun-free-zones",
+        "date": "2026-04-03T19:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Jobs data, Iran war add to inflation fears for retirees",
+        "link": "https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories",
+        "date": "2026-04-03T18:54:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Proposes $1.5 Trillion In War Spending, 'Largest In Decades'",
+        "link": "https://www.zerohedge.com/military/trump-proposes-15-trillion-war-spending-largest-decades",
+        "date": "2026-04-03T18:10:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "US taps millions more barrels from strategic reserve as critics warn drawdown could fuel vulnerabilities",
+        "link": "https://www.foxbusiness.com/markets/us-taps-millions-more-barrels-from-strategic-reserve-critics-warn-drawdown-could-fuel-vulnerabilities",
+        "date": "2026-04-03T16:51:29.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Amazon adds seller surcharge as oil spike from Iran tensions drives logistics costs higher",
+        "link": "https://www.foxbusiness.com/economy/amazon-seller-surcharge-oil-prices-logistics-costs",
+        "date": "2026-04-03T16:50:45.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Oil Shocks & Recessionary Outcomes",
+        "link": "https://www.zerohedge.com/markets/oil-shocks-recessionary-outcomes",
+        "date": "2026-04-03T16:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Senior Iranian Official Involved In Reaching Out To Vance Severely Wounded In Airstrike",
+        "link": "https://www.zerohedge.com/geopolitical/senior-iranian-official-involved-reaching-out-vance-severely-wounded-airstrike",
+        "date": "2026-04-03T16:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Poison Ivey: Chicago Bulls Release Forward After He Speaks Out Against Pride Month",
+        "link": "https://www.zerohedge.com/political/poison-ivey-chicago-bulls-release-forward-after-he-speaks-out-against-pride-month",
+        "date": "2026-04-03T15:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hegseth Ousts Chief Of The Army As Iran War Persists",
+        "link": "https://www.zerohedge.com/military/hegseth-ousts-chief-army-iran-war-persists",
+        "date": "2026-04-03T13:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Cash Is King, Dowd Sees $10,000 Gold As The Credit Market \"Is Starting To End The Party\"",
+        "link": "https://www.zerohedge.com/markets/cash-king-dowd-sees-10000-gold-credit-market-starting-end-party",
+        "date": "2026-04-03T13:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Unwilling To Meet US Negotiators In Pakistan, Talks At 'Dead End', As Trump Says 'A Little More Time' To Open Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/trump-says-little-more-time-needed-open-hormuz-take-oil-make-fortune-israel-hit-hard",
+        "date": "2026-04-03T12:45:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-04T10:21:16.706Z"
+  }
+}
