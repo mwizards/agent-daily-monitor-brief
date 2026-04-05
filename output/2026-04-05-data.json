@@ -1,0 +1,299 @@
+{
+  "generatedAt": "2026-04-05T10:20:18.438Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -3.45,
+        "current": 65.79,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -3.45% to $65.79"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "GOP Senator Opposes More Than 60 Days Of War On Iran Without War Declaration",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] GOP Senator Opposes More Than 60 Days Of War On Iran Without War Declaration"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran Allows Iraqi Ships To Use Strait Of Hormuz As Total Weekly Transits Reach Highest Since War Began",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iran Allows Iraqi Ships To Use Strait Of Hormuz As Total Weekly Transits Reach Highest Since War Began"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The Real Threat From The Iran War Hits Farmers, Not Fuel Pumps",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The Real Threat From The Iran War Hits Farmers, Not Fuel Pumps"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.27,
+        "message": "Gold/Silver ratio: 64.27x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 4
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 429.41,
+        "previousClose": 437.82,
+        "high": 431.66,
+        "low": 421.18,
+        "changePct": -1.92
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 65.79,
+        "previousClose": 68.14,
+        "high": 66.2226,
+        "low": 63.5,
+        "changePct": -3.45
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 76.86,
+        "previousClose": 78.15,
+        "high": 77.43,
+        "low": 73.86,
+        "changePct": -1.65
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.41,
+        "previousClose": 63.87,
+        "high": 63.68,
+        "low": 60.71,
+        "changePct": -0.72
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.9,
+        "previousClose": 49.26,
+        "high": 49.16,
+        "low": 46.542,
+        "changePct": -0.73
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.61,
+        "previousClose": 30.81,
+        "high": 30.94,
+        "low": 28.73,
+        "changePct": -0.65
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.25,
+        "previousClose": 58.97,
+        "high": 61.01,
+        "low": 58.98,
+        "changePct": 0.47
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.86,
+        "previousClose": 27.73,
+        "high": 27.89,
+        "low": 27.7801,
+        "changePct": 0.47
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.79,
+        "previousClose": 86.26,
+        "high": 86.85,
+        "low": 86.1507,
+        "changePct": 0.61
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 655.83,
+        "previousClose": 655.24,
+        "high": 657.92,
+        "low": 645.11,
+        "changePct": 0.09
+      }
+    },
+    "metals": {
+      "gold": 4702.7,
+      "silver": 73.17,
+      "copper": 5.68,
+      "platinum": 1999.9,
+      "crude": null,
+      "goldSilverRatio": 64.27
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4702.7,
+        "change": 23,
+        "changePct": 0.49,
+        "previousClose": 4679.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.17,
+        "change": 0.24599457,
+        "changePct": 0.34,
+        "previousClose": 72.924
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.6815,
+        "change": 0.09800005,
+        "changePct": 1.76,
+        "previousClose": 5.5835
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1999.9,
+        "change": 16.700073,
+        "changePct": 0.84,
+        "previousClose": 1983.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 112.06,
+        "change": 0.51999664,
+        "changePct": 0.47,
+        "previousClose": 111.54
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.81,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-02"
+      },
+      "10Y": {
+        "current": 4.31,
+        "previous": 4.33,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-02"
+      },
+      "30Y": {
+        "current": 4.88,
+        "previous": 4.91,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-04-02"
+      },
+      "USD_BROAD": {
+        "current": 120.8851,
+        "previous": 120.389,
+        "change": 0.5,
+        "changeBps": 50,
+        "date": "2026-03-27"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415064,
+        "previous": 876700,
+        "change": -461636,
+        "period": "2026-03-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "\"WE GOT HIM!\": Trump Says As 2nd Downed Pilot Recovered In High Risk Iran Special Forces Raid After 'Dicey' Firefight",
+        "link": "https://www.zerohedge.com/geopolitical/us-search-operations-missing-pilot-continue-israel-launches-new-strikes",
+        "date": "2026-04-05T04:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ex-CIA Analyst: Trump's Claim About Obliterated Iranian Air Defenses Was Premature",
+        "link": "https://www.zerohedge.com/geopolitical/ex-cia-analyst-trumps-claim-about-obliterated-iranian-air-defenses-was-premature",
+        "date": "2026-04-05T03:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "GOP Senator Opposes More Than 60 Days Of War On Iran Without War Declaration",
+        "link": "https://www.zerohedge.com/geopolitical/gop-senator-opposes-more-60-days-war-iran-without-war-declaration",
+        "date": "2026-04-05T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Allows Iraqi Ships To Use Strait Of Hormuz As Total Weekly Transits Reach Highest Since War Began",
+        "link": "https://www.zerohedge.com/energy/iran-allows-iraqi-ships-use-strait-hormuz-total-weekly-transits-reach-highest-war-began",
+        "date": "2026-04-05T01:57:13.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "In Charts: US Does Not Rely On Strait Of Hormuz Oil While Asia Stands To Lose",
+        "link": "https://www.zerohedge.com/energy/charts-us-does-not-rely-strait-hormuz-oil-while-asia-stands-lose",
+        "date": "2026-04-05T01:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Real Threat From The Iran War Hits Farmers, Not Fuel Pumps",
+        "link": "https://www.zerohedge.com/food/real-threat-iran-war-hits-farmers-not-fuel-pumps",
+        "date": "2026-04-05T00:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ex-NYC Mayor de Blasio Joins China-Linked Far-Left Group At Anti-U.S. \"Emergency Meeting\" In Colombia",
+        "link": "https://www.zerohedge.com/political/ex-nyc-mayor-de-blasio-joins-china-linked-far-left-group-anti-us-emergency-meeting",
+        "date": "2026-04-04T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Scrambling To Restore Bombed Missile Bunkers Within Hours After Being Struck",
+        "link": "https://www.zerohedge.com/geopolitical/iran-scrambling-restore-bombed-missile-bunkers-within-hours-after-being-struck",
+        "date": "2026-04-04T19:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Netanyahu Boasts 70% Of Iran's Steel Production Capacity Destroyed",
+        "link": "https://www.zerohedge.com/geopolitical/netanyahu-boasts-70-irans-steel-production-capacity-destroyed",
+        "date": "2026-04-04T12:45:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-05T10:20:08.731Z"
+  }
+}
