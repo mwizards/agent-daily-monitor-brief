@@ -1,0 +1,306 @@
+{
+  "generatedAt": "2026-04-07T10:44:05.992Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Toyota recalls 73K hybrid vehicles over pedestrian warning sound issue",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Toyota recalls 73K hybrid vehicles over pedestrian warning sound issue"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Secretly Repositions Bulk Of Stealth Cruise Missiles For Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] US Secretly Repositions Bulk Of Stealth Cruise Missiles For Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Jamie Dimon warns Iran war could drive inflation, interest rates higher",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Jamie Dimon warns Iran war could drive inflation, interest rates higher"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.75,
+        "message": "Gold/Silver ratio: 64.75x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 3
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 427.65,
+        "previousClose": 429.41,
+        "high": 431.49,
+        "low": 426.73,
+        "changePct": -0.41
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 66.09,
+        "previousClose": 65.79,
+        "high": 66.29,
+        "low": 65.24,
+        "changePct": 0.46
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 76.72,
+        "previousClose": 76.86,
+        "high": 77.49,
+        "low": 76.02,
+        "changePct": -0.18
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 62.92,
+        "previousClose": 63.41,
+        "high": 64.29,
+        "low": 61.88,
+        "changePct": -0.77
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.61,
+        "previousClose": 48.9,
+        "high": 49.43,
+        "low": 47.99,
+        "changePct": -0.59
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.43,
+        "previousClose": 30.61,
+        "high": 30.81,
+        "low": 30.08,
+        "changePct": -0.59
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.68,
+        "previousClose": 59.25,
+        "high": 59.69,
+        "low": 58.891,
+        "changePct": 0.73
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.83,
+        "previousClose": 27.86,
+        "high": 27.87,
+        "low": 27.77,
+        "changePct": -0.11
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.65,
+        "previousClose": 86.79,
+        "high": 86.85,
+        "low": 86.39,
+        "changePct": -0.16
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 658.93,
+        "previousClose": 655.83,
+        "high": 659.72,
+        "low": 655.52,
+        "changePct": 0.47
+      }
+    },
+    "metals": {
+      "gold": 4694.2,
+      "silver": 72.5,
+      "copper": 5.6,
+      "platinum": 1961,
+      "crude": null,
+      "goldSilverRatio": 64.75
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4694.2,
+        "change": 9.5,
+        "changePct": 0.2,
+        "previousClose": 4684.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 72.5,
+        "change": -0.34700012,
+        "changePct": -0.48,
+        "previousClose": 72.847
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.6035,
+        "change": 0.0025000572,
+        "changePct": 0.04,
+        "previousClose": 5.601
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1961,
+        "change": -16.5,
+        "changePct": -0.83,
+        "previousClose": 1977.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 113.81,
+        "change": 1.3999939,
+        "changePct": 1.25,
+        "previousClose": 112.41
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.84,
+        "previous": 3.79,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-04-03"
+      },
+      "10Y": {
+        "current": 4.35,
+        "previous": 4.31,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-03"
+      },
+      "30Y": {
+        "current": 4.91,
+        "previous": 4.88,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-04-03"
+      },
+      "USD_BROAD": {
+        "current": 120.6565,
+        "previous": 120.503,
+        "change": 0.15,
+        "changeBps": 15,
+        "date": "2026-04-03"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415064,
+        "previous": 876700,
+        "change": -461636,
+        "period": "2026-03-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Iranian Kurdish Groups Deny Receiving US Arms After Trump's 'Guns For Protesters' Remark",
+        "link": "https://www.zerohedge.com/geopolitical/iranian-kurdish-groups-deny-receiving-us-arms-after-trumps-guns-protesters-remark",
+        "date": "2026-04-07T09:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Crude-oil futures rise into Trump’s deadline as SocGen sees chance prices could top $200",
+        "link": "https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories",
+        "date": "2026-04-07T08:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Introduces Pistol-Like Coil-Gun Based On Electromagnetic-Launch Systems",
+        "link": "https://www.zerohedge.com/technology/china-introduces-pistol-coil-gun-based-electromagnetic-launch-systems",
+        "date": "2026-04-07T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Oil Premiums Hit Record High As World Scrambles For Crude",
+        "link": "https://www.zerohedge.com/markets/us-oil-premiums-hit-record-high-world-scrambles-crude",
+        "date": "2026-04-07T02:10:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Toyota recalls 73K hybrid vehicles over pedestrian warning sound issue",
+        "link": "https://www.foxbusiness.com/economy/toyota-recalls-73k-hybrid-vehicles-over-pedestrian-warning-sound-issue",
+        "date": "2026-04-07T01:26:39.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "North Korea Keeping Iran At Arm's Length, Hoping To Improve Ties With Trump",
+        "link": "https://www.zerohedge.com/geopolitical/north-korea-keeping-iran-arms-length-hoping-improve-ties-trump",
+        "date": "2026-04-07T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tech Bros Sound Alarm As AI Data Centers Poll Worse Than ICE Agents",
+        "link": "https://www.zerohedge.com/ai/tech-bros-sound-alarm-ai-data-center-poll-worse-ice-agents",
+        "date": "2026-04-07T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Secretly Repositions Bulk Of Stealth Cruise Missiles For Iran War",
+        "link": "https://www.zerohedge.com/military/us-secretly-repositions-bulk-stealth-cruise-missiles-iran-war",
+        "date": "2026-04-06T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Top University Dubbed 'MIT Of Iran' Bombed Along With Several Airports",
+        "link": "https://www.zerohedge.com/geopolitical/top-university-dubbed-mit-iran-bombed-along-several-airports",
+        "date": "2026-04-06T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ex-CIA Analyst: What The Hell Happened With The Pilot Rescue Op In Iran?",
+        "link": "https://www.zerohedge.com/geopolitical/ex-cia-analyst-what-hell-happened-rescued-pilot-op-iran",
+        "date": "2026-04-06T20:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UBS: Trump's Historic Military Budget Request Could Boost Beaten-Down Defense Stocks",
+        "link": "https://www.zerohedge.com/military/ubs-trumps-historic-military-budget-request-could-boost-beaten-down-defense-stocks",
+        "date": "2026-04-06T19:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Jamie Dimon warns Iran war could drive inflation, interest rates higher",
+        "link": "https://www.foxbusiness.com/economy/jamie-dimon-warns-iran-war-could-drive-inflation-interest-rates-higher",
+        "date": "2026-04-06T16:13:50.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-07T10:43:58.293Z"
+  }
+}
