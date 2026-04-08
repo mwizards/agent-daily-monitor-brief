@@ -1,0 +1,281 @@
+{
+  "generatedAt": "2026-04-08T10:45:30.298Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "War Unicorn Hermeus Raises $350 Million For Unmanned Supersonic Fighter Jets",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] War Unicorn Hermeus Raises $350 Million For Unmanned Supersonic Fighter Jets"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Lowe’s CEO warns AI can’t climb a ladder as company makes $250M bet on blue-collar future",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Lowe’s CEO warns AI can’t climb a ladder as company makes $250M bet on blue-collar future"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Russia Ferries 175 Russian Nuclear Scientists Out Of Iran Via Land Border With Armenia",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Russia Ferries 175 Russian Nuclear Scientists Out Of Iran Via Land Border With Armenia"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.5,
+        "message": "Gold/Silver ratio: 62.5x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 3
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 431.81,
+        "previousClose": 427.65,
+        "high": 433.41,
+        "low": 423.13,
+        "changePct": 0.97
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 65.94,
+        "previousClose": 66.09,
+        "high": 66.19,
+        "low": 63.2,
+        "changePct": -0.23
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 76.74,
+        "previousClose": 76.72,
+        "high": 76.9,
+        "low": 74.87,
+        "changePct": 0.03
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 61.69,
+        "previousClose": 62.92,
+        "high": 62.6,
+        "low": 60.37,
+        "changePct": -1.95
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 47.95,
+        "previousClose": 48.61,
+        "high": 48.46,
+        "low": 46.84,
+        "changePct": -1.36
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.6,
+        "previousClose": 30.43,
+        "high": 30.64,
+        "low": 29.41,
+        "changePct": 0.56
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 60.16,
+        "previousClose": 59.68,
+        "high": 60.765,
+        "low": 59.79,
+        "changePct": 0.8
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.75,
+        "previousClose": 27.83,
+        "high": 27.8401,
+        "low": 27.73,
+        "changePct": -0.29
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.64,
+        "previousClose": 86.65,
+        "high": 86.675,
+        "low": 85.91,
+        "changePct": -0.01
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 659.22,
+        "previousClose": 658.93,
+        "high": 659.59,
+        "low": 651.06,
+        "changePct": 0.04
+      }
+    },
+    "metals": {
+      "gold": 4808.9,
+      "silver": 76.94,
+      "copper": 5.75,
+      "platinum": 2049.9,
+      "crude": null,
+      "goldSilverRatio": 62.5
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4808.9,
+        "change": 124.19971,
+        "changePct": 2.65,
+        "previousClose": 4684.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.94,
+        "change": 4.953003,
+        "changePct": 6.88,
+        "previousClose": 71.987
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.747,
+        "change": 0.18400002,
+        "changePct": 3.31,
+        "previousClose": 5.563
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2049.9,
+        "change": 101.99988,
+        "changePct": 5.24,
+        "previousClose": 1947.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 94.56,
+        "change": -18.39,
+        "changePct": -16.28,
+        "previousClose": 112.95
+      }
+    },
+    "yields": {
+      "10Y": {
+        "current": 4.34,
+        "previous": 4.35,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-06"
+      },
+      "30Y": {
+        "current": 4.89,
+        "previous": 4.91,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-06"
+      },
+      "USD_BROAD": {
+        "current": 120.6565,
+        "previous": 120.503,
+        "change": 0.15,
+        "changeBps": 15,
+        "date": "2026-04-03"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 415064,
+        "previous": 876700,
+        "change": -461636,
+        "period": "2026-03-27",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices see biggest drop in six years after two-week cease-fire reached",
+        "link": "https://www.marketwatch.com/story/oil-prices-drop-sharply-after-two-week-cease-fire-reached-c0bc90ed?mod=mw_rss_topstories",
+        "date": "2026-04-08T09:16:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "A fragile U.S.-Iran ceasefire sparks market relief — but no clear path to lasting peace",
+        "link": "https://www.cnbc.com/2026/04/08/us-iran-war-ceasefire-middle-east-strait-of-hormuz-oil-markets.html",
+        "date": "2026-04-08T08:55:12.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Ferries 175 Russian Nuclear Scientists Out Of Iran Via Land Border With Armenia",
+        "link": "https://www.zerohedge.com/geopolitical/russia-ferries-175-russian-nuclear-scientists-out-iran-land-border-armenia",
+        "date": "2026-04-08T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "War Unicorn Hermeus Raises $350 Million For Unmanned Supersonic Fighter Jets",
+        "link": "https://www.zerohedge.com/military/war-unicorn-hermeus-raises-350-million-unmanned-supersonic-fighter-jets",
+        "date": "2026-04-08T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Why Military Bases Should Never Have Been Gun-Free Zones",
+        "link": "https://www.zerohedge.com/military/why-military-bases-should-never-have-been-gun-free-zones",
+        "date": "2026-04-08T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US, Iran, Israel Agree To 2-Week Ceasefire; Tehran Will Allow Safe Passage Via Hormuz For Two Weeks",
+        "link": "https://www.zerohedge.com/energy/75-gulf-energy-assets-damaged-us-iran-war-supply-shock-intensifies",
+        "date": "2026-04-07T22:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Container Ship Sinks In Hormuz After Iranian Strike Last Month; UBS Gives Latest Strait Update",
+        "link": "https://www.zerohedge.com/markets/container-ship-sinks-hormuz-after-iranian-strike-last-month-ubs-gives-latest-strait-update",
+        "date": "2026-04-07T21:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Goldman Sachs completes Innovator Capital acquisition, lifting ETF assets to $90B",
+        "link": "https://www.foxbusiness.com/markets/goldman-sachs-completes-innovator-capital-acquisition-lifting-etf-assets-90b",
+        "date": "2026-04-07T21:05:08.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Lowe’s CEO warns AI can’t climb a ladder as company makes $250M bet on blue-collar future",
+        "link": "https://www.foxbusiness.com/economy/lowes-ceo-warns-ai-cant-climb-ladder-company-makes-250m-bet-blue-collar-future",
+        "date": "2026-04-07T15:32:19.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-08T10:45:22.021Z"
+  }
+}
