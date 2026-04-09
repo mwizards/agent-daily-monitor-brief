@@ -1,0 +1,453 @@
+{
+  "generatedAt": "2026-04-09T10:50:36.069Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 6.89,
+        "current": 82.03,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +6.89% to $82.03"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 7.2,
+        "current": 51.4,
+        "direction": "UP",
+        "message": "Uranium (URA) +7.2% to $51.4"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 4.94,
+        "current": 64.74,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +4.94% to $64.74"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -3.51,
+        "current": 58.05,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -3.51% to $58.05"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Meteorologists Warn About Super El Nino Event",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Meteorologists Warn About Super El Nino Event"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Vance Warns Iranians Ahead Of Pakistan Talks: US \"Has All The Cards\" & \"We Want The Nuclear Fuel\"",
+        "keywords": [
+          "war",
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Vance Warns Iranians Ahead Of Pakistan Talks: US \"Has All The Cards\" & \"We Want The Nuclear Fuel\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"There Goes Your Inventory\": Disgruntled Worker Sets Fire To Million-Square-Foot Toilet Paper Warehouse",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"There Goes Your Inventory\": Disgruntled Worker Sets Fire To Million-Square-Foot Toilet Paper Warehouse"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Exxon Warns Of $6.5 Billion Hit From Iran War As Q1 Earnings Set To Print Slightly Below Consensus",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Exxon Warns Of $6.5 Billion Hit From Iran War As Q1 Earnings Set To Print Slightly Below Consensus"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Sen. Graham Urges Congressional Iran Vote...On Approving Peace, Not War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Sen. Graham Urges Congressional Iran Vote...On Approving Peace, Not War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The New Financial Iron Curtain: Taxes, Capital Controls, & The War On Your Wealth",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The New Financial Iron Curtain: Taxes, Capital Controls, & The War On Your Wealth"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+        "keywords": [
+          "rate cut",
+          "war"
+        ],
+        "message": "[CNBC Economy] Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.32,
+        "current": 67.47,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.32% to $67.47"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.52,
+        "current": 31.37,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.52% to $31.37"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SPY",
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "changePct": 2.55,
+        "current": 676.01,
+        "direction": "UP",
+        "message": "S&P 500 (SPY) +2.55% to $676.01"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.23,
+        "message": "Gold/Silver ratio: 64.23x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 15
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 434.53,
+        "previousClose": 431.81,
+        "high": 440.4296,
+        "low": 431.31,
+        "changePct": 0.63
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 67.47,
+        "previousClose": 65.94,
+        "high": 69.93,
+        "low": 66.52,
+        "changePct": 2.32
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.03,
+        "previousClose": 76.74,
+        "high": 84.22,
+        "low": 81.0153,
+        "changePct": 6.89
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.74,
+        "previousClose": 61.69,
+        "high": 66.7,
+        "low": 63.88,
+        "changePct": 4.94
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 51.4,
+        "previousClose": 47.95,
+        "high": 52.8,
+        "low": 50.57,
+        "changePct": 7.2
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.37,
+        "previousClose": 30.6,
+        "high": 33.1,
+        "low": 30.87,
+        "changePct": 2.52
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.05,
+        "previousClose": 60.16,
+        "high": 58.19,
+        "low": 56.18,
+        "changePct": -3.51
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.53,
+        "previousClose": 27.75,
+        "high": 27.61,
+        "low": 27.45,
+        "changePct": -0.79
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.92,
+        "previousClose": 86.64,
+        "high": 87.355,
+        "low": 86.73,
+        "changePct": 0.32
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 676.01,
+        "previousClose": 659.22,
+        "high": 677.08,
+        "low": 671.5,
+        "changePct": 2.55
+      }
+    },
+    "metals": {
+      "gold": 4765,
+      "silver": 74.19,
+      "copper": 5.7,
+      "platinum": 2045.2,
+      "crude": null,
+      "goldSilverRatio": 64.23
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4765,
+        "change": -12.200195,
+        "changePct": -0.26,
+        "previousClose": 4777.2
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 74.19,
+        "change": -1.1949997,
+        "changePct": -1.59,
+        "previousClose": 75.385
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.703,
+        "change": -0.07399988,
+        "changePct": -1.28,
+        "previousClose": 5.777
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2045.2,
+        "change": -22.300049,
+        "changePct": -1.08,
+        "previousClose": 2067.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 99.07,
+        "change": 4.659996,
+        "changePct": 4.94,
+        "previousClose": 94.41
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.81,
+        "previous": 3.84,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-04-07"
+      },
+      "10Y": {
+        "current": 4.33,
+        "previous": 4.34,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-07"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.89,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-07"
+      },
+      "USD_BROAD": {
+        "current": 120.6565,
+        "previous": 120.503,
+        "change": 0.15,
+        "changeBps": 15,
+        "date": "2026-04-03"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 413325,
+        "previous": 878042,
+        "change": -464717,
+        "period": "2026-04-03",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Is The Dollar Collapsing? 8 Key Indicators You Can't Ignore",
+        "link": "https://www.zerohedge.com/personal-finance/dollar-collapsing-8-key-indicators-you-cant-ignore",
+        "date": "2026-04-09T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Meteorologists Warn About Super El Nino Event",
+        "link": "https://www.zerohedge.com/weather/meteorologists-warn-about-super-el-nino-event",
+        "date": "2026-04-09T09:45:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
+        "link": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html",
+        "date": "2026-04-09T09:26:43.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Vance Warns Iranians Ahead Of Pakistan Talks: US \"Has All The Cards\" & \"We Want The Nuclear Fuel\"",
+        "link": "https://www.zerohedge.com/geopolitical/watch-live-hegseth-declares-victory-fragile-iran-ceasefire-hailed-internationally",
+        "date": "2026-04-09T09:10:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices rise as concerns about ‘fragile’ cease-fire see Goldman warn of $115 crude by end of the year",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories",
+        "date": "2026-04-09T08:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany's Energy Crisis And The National-Conservative Turn",
+        "link": "https://www.zerohedge.com/markets/germanys-energy-crisis-and-national-conservative-turn",
+        "date": "2026-04-09T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Produces \"Baby Shahed\" Kamikaze Drones For $500",
+        "link": "https://www.zerohedge.com/military/china-produces-baby-shahed-kamikaze-drones-500",
+        "date": "2026-04-09T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"There Goes Your Inventory\": Disgruntled Worker Sets Fire To Million-Square-Foot Toilet Paper Warehouse",
+        "link": "https://www.zerohedge.com/personal-finance/there-goes-your-inventory-disgruntled-worker-sets-fire-million-square-foot-toilet",
+        "date": "2026-04-08T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Mulls Punishing NATO Allies By Pulling US Troops Over Lack Of Iran Help",
+        "link": "https://www.zerohedge.com/geopolitical/trump-mulls-punishing-nato-allies-pulling-us-troops-over-lack-iran-help",
+        "date": "2026-04-08T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Exxon Warns Of $6.5 Billion Hit From Iran War As Q1 Earnings Set To Print Slightly Below Consensus",
+        "link": "https://www.zerohedge.com/energy/exxon-warns-65-billion-hit-iran-war-q1-earnings-set-print-slightly-below-consensus",
+        "date": "2026-04-08T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Justice Department Counters Russian Military Intelligence Unit Attack On US Targets",
+        "link": "https://www.zerohedge.com/political/justice-department-counters-russian-military-intelligence-unit-attack-us-targets",
+        "date": "2026-04-08T21:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘They essentially have a blackmail card up their sleeve’: A look at Iran’s plan to charge tankers to use the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories",
+        "date": "2026-04-08T21:26:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Sen. Graham Urges Congressional Iran Vote...On Approving Peace, Not War",
+        "link": "https://www.zerohedge.com/geopolitical/sen-graham-urges-congressional-iran-vote-peace-not-war",
+        "date": "2026-04-08T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The New Financial Iron Curtain: Taxes, Capital Controls, & The War On Your Wealth",
+        "link": "https://www.zerohedge.com/personal-finance/new-financial-iron-curtain-taxes-capital-controls-war-your-wealth",
+        "date": "2026-04-08T21:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+        "link": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
+        "date": "2026-04-08T16:40:10.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-09T10:50:26.303Z"
+  }
+}
