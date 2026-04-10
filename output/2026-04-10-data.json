@@ -1,0 +1,354 @@
+{
+  "generatedAt": "2026-04-10T10:41:26.071Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Indiana Suspends Gas Sales Tax Amid US–Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Indiana Suspends Gas Sales Tax Amid US–Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "War On The Shore: Maryland Dem Officials Freak Out At Journalists Ahead Of Exposé On Governor",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] War On The Shore: Maryland Dem Officials Freak Out At Journalists Ahead Of Exposé On Governor"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation.",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation."
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pentagon Seeks Stunning 243x Budget Surge For Drone Warfare Unit As Eurasian Wars Reshape Combat",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pentagon Seeks Stunning 243x Budget Surge For Drone Warfare Unit As Eurasian Wars Reshape Combat"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "USPS halts pension contributions after warning of looming cash crisis",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] USPS halts pension contributions after warning of looming cash crisis"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The Economic Destruction Of Trump's War Goes Far Beyond High Gas Prices",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The Economic Destruction Of Trump's War Goes Far Beyond High Gas Prices"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.26,
+        "message": "Gold/Silver ratio: 63.26x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 437.91,
+        "previousClose": 434.53,
+        "high": 440.905,
+        "low": 435.875,
+        "changePct": 0.78
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.39,
+        "previousClose": 67.47,
+        "high": 69.34,
+        "low": 67.17,
+        "changePct": 1.36
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 81.56,
+        "previousClose": 82.03,
+        "high": 82.62,
+        "low": 80.57,
+        "changePct": -0.57
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.61,
+        "previousClose": 64.74,
+        "high": 65.28,
+        "low": 63.2628,
+        "changePct": -0.2
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.93,
+        "previousClose": 51.4,
+        "high": 51.62,
+        "low": 50.075,
+        "changePct": -0.91
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.4,
+        "previousClose": 31.37,
+        "high": 32.08,
+        "low": 30.65,
+        "changePct": 0.1
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.33,
+        "previousClose": 58.05,
+        "high": 59.02,
+        "low": 57.12,
+        "changePct": -1.24
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.48,
+        "previousClose": 27.53,
+        "high": 27.5599,
+        "low": 27.44,
+        "changePct": -0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.7,
+        "previousClose": 86.92,
+        "high": 87.1301,
+        "low": 86.3924,
+        "changePct": -0.25
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 679.91,
+        "previousClose": 676.01,
+        "high": 681.15,
+        "low": 673.77,
+        "changePct": 0.58
+      }
+    },
+    "metals": {
+      "gold": 4780.6,
+      "silver": 75.57,
+      "copper": 5.81,
+      "platinum": 2062.2,
+      "crude": null,
+      "goldSilverRatio": 63.26
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4780.6,
+        "change": -37.399902,
+        "changePct": -0.78,
+        "previousClose": 4818
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 75.57,
+        "change": -0.86800385,
+        "changePct": -1.14,
+        "previousClose": 76.438
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.81,
+        "change": 0.0454998,
+        "changePct": 0.79,
+        "previousClose": 5.7645
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2062.2,
+        "change": -49.900146,
+        "changePct": -2.36,
+        "previousClose": 2112.1
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 98.54,
+        "change": 0.66999817,
+        "changePct": 0.68,
+        "previousClose": 97.87
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.81,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-08"
+      },
+      "10Y": {
+        "current": 4.29,
+        "previous": 4.33,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-08"
+      },
+      "30Y": {
+        "current": 4.89,
+        "previous": 4.9,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-08"
+      },
+      "USD_BROAD": {
+        "current": 120.6565,
+        "previous": 120.503,
+        "change": 0.15,
+        "changeBps": 15,
+        "date": "2026-04-03"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 413325,
+        "previous": 878042,
+        "change": -464717,
+        "period": "2026-04-03",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Ceasefire Allows For Netanyahu's Corruption Trial To Finally Resume",
+        "link": "https://www.zerohedge.com/geopolitical/iran-ceasefire-allows-netanyahus-corruption-trial-finally-resume",
+        "date": "2026-04-10T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany Restricts Emigration To Prevent Young Men From Escaping The Military Draft",
+        "link": "https://www.zerohedge.com/political/germany-restricts-emigration-prevent-young-men-escaping-military-draft",
+        "date": "2026-04-10T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's Debt Surpasses Europe For The First Time",
+        "link": "https://www.zerohedge.com/geopolitical/chinas-debt-surpasses-europe-first-time",
+        "date": "2026-04-10T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Some Jaded Shah Supporters Express Regret After Scale Of US Bombing On Iran Revealed",
+        "link": "https://www.zerohedge.com/geopolitical/jaded-shah-supporters-express-regret-after-scale-us-bombing-iran-revealed",
+        "date": "2026-04-10T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Indiana Suspends Gas Sales Tax Amid US–Iran War",
+        "link": "https://www.zerohedge.com/political/indiana-suspends-gas-sales-tax-amid-us-iran-war",
+        "date": "2026-04-10T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "War On The Shore: Maryland Dem Officials Freak Out At Journalists Ahead Of Exposé On Governor",
+        "link": "https://www.zerohedge.com/political/war-shore-maryland-dem-officials-freak-out-journalists-ahead-expose-governor",
+        "date": "2026-04-10T00:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation.",
+        "link": "https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories",
+        "date": "2026-04-10T00:29:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Seeks Stunning 243x Budget Surge For Drone Warfare Unit As Eurasian Wars Reshape Combat",
+        "link": "https://www.zerohedge.com/military/pentagon-seeks-stunning-243x-budget-surge-drone-warfare-unit-eurasian-wars-reshape-combat",
+        "date": "2026-04-09T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"That Is Not The Agreement We Have!\" President Trump Slams Aya-TOLL-Ah Charging Fees For Hormuz Transit",
+        "link": "https://www.zerohedge.com/geopolitical/trump-warns-action-if-iran-fails-uphold-real-ceasefire-optimism-persists-bombing",
+        "date": "2026-04-09T22:45:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "USPS halts pension contributions after warning of looming cash crisis",
+        "link": "https://www.foxbusiness.com/economy/usps-halts-pension-contributions-warning-looming-cash-crisis",
+        "date": "2026-04-09T22:37:49.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season",
+        "link": "https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories",
+        "date": "2026-04-09T21:59:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Massachusetts Governor Uses Donut Holes To Explain The State Energy Crisis She Caused",
+        "link": "https://www.zerohedge.com/energy/massachusetts-governor-uses-donut-holes-explain-state-energy-crisis-she-caused",
+        "date": "2026-04-09T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Economic Destruction Of Trump's War Goes Far Beyond High Gas Prices",
+        "link": "https://www.zerohedge.com/political/economic-destruction-trumps-war-goes-far-beyond-high-gas-prices",
+        "date": "2026-04-09T20:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Mortgage rates fall for first time in weeks after US-Iran ceasefire",
+        "link": "https://www.foxbusiness.com/economy/mortgage-rates-april-9-2026",
+        "date": "2026-04-09T16:23:59.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Amazon disrupting itself, rebuilding customer shopping experience around AI from ground up",
+        "link": "https://www.foxbusiness.com/economy/amazon-disrupting-itself-rebuilding-customer-shopping-experience-around-ai-from-ground-up",
+        "date": "2026-04-09T15:39:53.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-10T10:41:16.089Z"
+  }
+}
