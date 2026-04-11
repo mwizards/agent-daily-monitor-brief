@@ -1,0 +1,355 @@
+{
+  "generatedAt": "2026-04-11T10:21:09.705Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Beware of these tax scams as the filing deadline approaches, Congress warns",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Beware of these tax scams as the filing deadline approaches, Congress warns"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "White House Warns Staff As Iran Bets Add To Growing Insider-Trading Concerns",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] White House Warns Staff As Iran Bets Add To Growing Insider-Trading Concerns"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation.",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation."
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.4,
+        "current": 83.52,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.4% to $83.52"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "US Nuclear Fusion Startup To Build Radioactive Batteries For Use In Space",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US Nuclear Fusion Startup To Build Radioactive Batteries For Use In Space"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.6,
+        "message": "Gold/Silver ratio: 62.6x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 437.13,
+        "previousClose": 437.91,
+        "high": 440.33,
+        "low": 436,
+        "changePct": -0.18
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.08,
+        "previousClose": 68.39,
+        "high": 69.5499,
+        "low": 68.57,
+        "changePct": 1.01
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.52,
+        "previousClose": 81.56,
+        "high": 84.04,
+        "low": 82.7516,
+        "changePct": 2.4
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.44,
+        "previousClose": 64.61,
+        "high": 66.1,
+        "low": 64.34,
+        "changePct": -0.26
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.96,
+        "previousClose": 50.93,
+        "high": 52.09,
+        "low": 50.85,
+        "changePct": 0.06
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.41,
+        "previousClose": 31.4,
+        "high": 32.1051,
+        "low": 31.22,
+        "changePct": 0.03
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.94,
+        "previousClose": 57.33,
+        "high": 57.475,
+        "low": 56.4,
+        "changePct": -0.68
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.44,
+        "previousClose": 27.48,
+        "high": 27.4893,
+        "low": 27.42,
+        "changePct": -0.15
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.49,
+        "previousClose": 86.7,
+        "high": 86.68,
+        "low": 86.33,
+        "changePct": -0.24
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 679.46,
+        "previousClose": 679.91,
+        "high": 682.03,
+        "low": 678.45,
+        "changePct": -0.07
+      }
+    },
+    "metals": {
+      "gold": 4787.4,
+      "silver": 76.48,
+      "copper": 5.89,
+      "platinum": 2065.2,
+      "crude": null,
+      "goldSilverRatio": 62.6
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4787.4,
+        "change": -30.600098,
+        "changePct": -0.64,
+        "previousClose": 4818
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.48,
+        "change": 0.041999817,
+        "changePct": 0.05,
+        "previousClose": 76.438
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.886,
+        "change": 0.121500015,
+        "changePct": 2.11,
+        "previousClose": 5.7645
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2065.2,
+        "change": -46.900146,
+        "changePct": -2.22,
+        "previousClose": 2112.1
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 96.57,
+        "change": -1.300003,
+        "changePct": -1.33,
+        "previousClose": 97.87
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.79,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-09"
+      },
+      "10Y": {
+        "current": 4.29,
+        "previous": 4.29,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-09"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.89,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-09"
+      },
+      "USD_BROAD": {
+        "current": 120.6565,
+        "previous": 120.503,
+        "change": 0.15,
+        "changeBps": 15,
+        "date": "2026-04-03"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 413325,
+        "previous": 878042,
+        "change": -464717,
+        "period": "2026-04-03",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "The US Separation From Europe And NATO Is Long Overdue",
+        "link": "https://www.zerohedge.com/geopolitical/us-separation-europe-and-nato-long-overdue",
+        "date": "2026-04-11T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Zelensky's Interceptor Drones Deployed Across Eurasia, Now Shooting Down Iranian Shaheds",
+        "link": "https://www.zerohedge.com/military/zelenskys-interceptor-drones-deployed-across-eurasia-now-shooting-down-iranian-shaheds",
+        "date": "2026-04-11T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Nuclear Fusion Startup To Build Radioactive Batteries For Use In Space",
+        "link": "https://www.zerohedge.com/technology/us-nuclear-fusion-startup-build-radioactive-batteries-use-space",
+        "date": "2026-04-11T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'She Was Too Drunk To Consent' (Twice): Swalwell Odds Crater After Sexual Assault Allegations Rock California Gubernatorial Race",
+        "link": "https://www.zerohedge.com/political/she-was-too-drunk-consent-twice-swalwell-odds-crater-after-sexual-assault-allegations",
+        "date": "2026-04-10T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Terrifies Billionaire Class\": Pro-China Party Of Socialism & Liberation Plans General Strike On U.S. Economy",
+        "link": "https://www.zerohedge.com/political/terrifies-billionaire-class-pro-china-party-socialism-liberation-plans-crash-us-economy",
+        "date": "2026-04-10T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mainstream Media Claims Roger Stone Persuaded Trump Not To Fire Tulsi Gabbard",
+        "link": "https://www.zerohedge.com/political/mainstream-media-claims-roger-stone-persuaded-trump-not-fire-tulsi-gabbard",
+        "date": "2026-04-10T21:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in",
+        "link": "https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories",
+        "date": "2026-04-10T21:36:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Xi Hosts Taiwan Opposition Leader In Rare Meeting: 'We Will Not Become A Chessboard For External Intervention'",
+        "link": "https://www.zerohedge.com/geopolitical/xi-hosts-taiwan-opposition-leader-rare-meeting-we-will-not-become-chessboard-external",
+        "date": "2026-04-10T21:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Investors are gloomy about inflation and risk-taking ahead of Saturday’s Iran talks",
+        "link": "https://www.marketwatch.com/story/investors-are-gloomy-about-inflation-and-risk-taking-ahead-of-saturdays-iran-talks-eeb8552d?mod=mw_rss_topstories",
+        "date": "2026-04-10T21:07:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Beware of these tax scams as the filing deadline approaches, Congress warns",
+        "link": "https://www.foxbusiness.com/economy/beware-tax-scams-filing-deadline-approaches-congress-warns",
+        "date": "2026-04-10T21:02:27.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "White House Warns Staff As Iran Bets Add To Growing Insider-Trading Concerns",
+        "link": "https://www.zerohedge.com/political/white-house-warns-staff-iran-bets-add-growing-insider-trading-concerns",
+        "date": "2026-04-10T21:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation.",
+        "link": "https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories",
+        "date": "2026-04-10T20:57:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Half-Way Into Fiscal 2026, US Budget Deficit Is 11% Lower Than 2025, But It's About To Get Much Worse",
+        "link": "https://www.zerohedge.com/markets/half-way-fiscal-2026-us-budget-deficit-11-lower-2025-its-about-get-much-worse",
+        "date": "2026-04-10T20:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Rebukes Carlson, Kelly, Owens, & Jones Over Iran Comments",
+        "link": "https://www.zerohedge.com/political/trump-rebukes-carlson-kelly-owens-and-jones-over-iran-comments",
+        "date": "2026-04-10T19:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hunter Biden Challenges Trump Brothers To Cage Match",
+        "link": "https://www.zerohedge.com/political/hunter-biden-challenges-trump-brothers-cage-match",
+        "date": "2026-04-10T19:40:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-11T10:21:01.750Z"
+  }
+}
