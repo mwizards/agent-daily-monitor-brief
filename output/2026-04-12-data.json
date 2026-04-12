@@ -1,0 +1,345 @@
+{
+  "generatedAt": "2026-04-12T10:26:12.782Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pakistani Warplanes Land In Saudi Arabia For Start Of Mutual Defense Pact",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pakistani Warplanes Land In Saudi Arabia For Start Of Mutual Defense Pact"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "United Airlines wants even higher ticket prices. It’ll get them — with or without the Iran war.",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] United Airlines wants even higher ticket prices. It’ll get them — with or without the Iran war."
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Orban Warns \"We Could Now Lose Everything\": Sunday's Hungarian Elections Have Profound Implications For Europe",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Orban Warns \"We Could Now Lose Everything\": Sunday's Hungarian Elections Have Profound Implications For Europe"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "IMF Warns Iran War Will Slow Global Growth, Raise Inflation, And Worsen Food Insecurity",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] IMF Warns Iran War Will Slow Global Growth, Raise Inflation, And Worsen Food Insecurity"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.4,
+        "current": 83.52,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.4% to $83.52"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.6,
+        "message": "Gold/Silver ratio: 62.6x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 5
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 437.13,
+        "previousClose": 437.91,
+        "high": 440.33,
+        "low": 436.42,
+        "changePct": -0.18
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.08,
+        "previousClose": 68.39,
+        "high": 69.5499,
+        "low": 68.58,
+        "changePct": 1.01
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.52,
+        "previousClose": 81.56,
+        "high": 84.04,
+        "low": 82.7516,
+        "changePct": 2.4
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.44,
+        "previousClose": 64.61,
+        "high": 66.1,
+        "low": 64.34,
+        "changePct": -0.26
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.96,
+        "previousClose": 50.93,
+        "high": 52.09,
+        "low": 50.85,
+        "changePct": 0.06
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.41,
+        "previousClose": 31.4,
+        "high": 32.1051,
+        "low": 31.22,
+        "changePct": 0.03
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.94,
+        "previousClose": 57.33,
+        "high": 57.475,
+        "low": 56.4,
+        "changePct": -0.68
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.44,
+        "previousClose": 27.48,
+        "high": 27.4893,
+        "low": 27.42,
+        "changePct": -0.15
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.49,
+        "previousClose": 86.7,
+        "high": 86.68,
+        "low": 86.33,
+        "changePct": -0.24
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 679.46,
+        "previousClose": 679.91,
+        "high": 682.03,
+        "low": 678.45,
+        "changePct": -0.07
+      }
+    },
+    "metals": {
+      "gold": 4787.4,
+      "silver": 76.48,
+      "copper": 5.89,
+      "platinum": 2065.2,
+      "crude": null,
+      "goldSilverRatio": 62.6
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4787.4,
+        "change": -30.600098,
+        "changePct": -0.64,
+        "previousClose": 4818
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.48,
+        "change": 0.041999817,
+        "changePct": 0.05,
+        "previousClose": 76.438
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.886,
+        "change": 0.121500015,
+        "changePct": 2.11,
+        "previousClose": 5.7645
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2065.2,
+        "change": -46.900146,
+        "changePct": -2.22,
+        "previousClose": 2112.1
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 96.57,
+        "change": -1.300003,
+        "changePct": -1.33,
+        "previousClose": 97.87
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.79,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-09"
+      },
+      "10Y": {
+        "current": 4.29,
+        "previous": 4.29,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-09"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.89,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-09"
+      },
+      "USD_BROAD": {
+        "current": 120.6565,
+        "previous": 120.503,
+        "change": 0.15,
+        "changeBps": 15,
+        "date": "2026-04-03"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 413325,
+        "previous": 878042,
+        "change": -464717,
+        "period": "2026-04-03",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "'No Deal': Vance Leaves Islamabad As Iran Talks Stall Over Nukes; US Starts Mine-Clearing Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/several-us-warships-reportedly-transit-strait-hormuz-pakistan-talks-led-vance-start",
+        "date": "2026-04-12T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "New Iran Leadership More Extreme, Israeli Intelligence Concludes",
+        "link": "https://www.zerohedge.com/geopolitical/new-iran-leadership-more-extreme-israeli-intelligence-concludes",
+        "date": "2026-04-12T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pakistani Warplanes Land In Saudi Arabia For Start Of Mutual Defense Pact",
+        "link": "https://www.zerohedge.com/geopolitical/pakistani-warplanes-land-saudi-arabia-start-mutual-defense-pact",
+        "date": "2026-04-12T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's BYD Introduces 3.9-Second 0-60 Electric SUV With Massive Range",
+        "link": "https://www.zerohedge.com/technology/chinas-byd-introduces-39-second-electric-suv-massive-range",
+        "date": "2026-04-12T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Car-Shopping Websites Report Uptick In EV Interest Following Gasoline Price Shock",
+        "link": "https://www.zerohedge.com/markets/car-shopping-websites-report-uptick-ev-interest-following-gasoline-price-shock",
+        "date": "2026-04-11T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Netanyahu Says Israel Will Continue To Fight Iran & Proxies, Unlike Appeaser Erdogan",
+        "link": "https://www.zerohedge.com/geopolitical/netanyahu-says-israel-will-continue-fight-iran-proxies-unlike-appeaser-erdogan",
+        "date": "2026-04-11T20:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Three Supertankers Carrying Iraqi And Saudi Crude Sail Through The Strait Of Hormuz",
+        "link": "https://www.zerohedge.com/energy/three-supertankers-carrying-iraqi-and-saudi-crude-exit-strait-hormuz",
+        "date": "2026-04-11T19:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "United Airlines wants even higher ticket prices. It’ll get them — with or without the Iran war.",
+        "link": "https://www.marketwatch.com/story/united-airlines-wants-even-higher-ticket-prices-itll-get-them-with-or-without-the-iran-war-4833e1d1?mod=mw_rss_topstories",
+        "date": "2026-04-11T18:42:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Mortgage rates dip following Iran cease-fire. Why that’s great timing for people selling a home.",
+        "link": "https://www.marketwatch.com/story/mortgage-rates-dip-following-iran-cease-fire-why-thats-great-timing-for-people-selling-a-home-be81ad97?mod=mw_rss_topstories",
+        "date": "2026-04-11T18:35:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Here’s when gas prices and airfares could go down if the Iran cease-fire holds",
+        "link": "https://www.marketwatch.com/story/heres-when-gas-prices-and-airfares-could-go-down-if-the-iran-cease-fire-holds-4b0f775b?mod=mw_rss_topstories",
+        "date": "2026-04-11T18:03:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Why Is China's Embassy In D.C. Hardening Security Perimeter With Barbed Wire",
+        "link": "https://www.zerohedge.com/political/why-chinas-embassy-dc-hardening-security-perimeter-barbed-wire",
+        "date": "2026-04-11T17:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'Next Step Mars': Trump Congratulates Artemis II Astronauts On Historic Lunar Mission",
+        "link": "https://www.zerohedge.com/technology/next-step-mars-trump-congratulates-artemis-ii-astronauts-historic-lunar-mission",
+        "date": "2026-04-11T16:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Orban Warns \"We Could Now Lose Everything\": Sunday's Hungarian Elections Have Profound Implications For Europe",
+        "link": "https://www.zerohedge.com/geopolitical/orban-warns-we-could-now-lose-everything-sundays-hungarian-elections-have-profound",
+        "date": "2026-04-11T16:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "IMF Warns Iran War Will Slow Global Growth, Raise Inflation, And Worsen Food Insecurity",
+        "link": "https://www.zerohedge.com/markets/imf-warns-iran-war-will-slow-global-growth-raise-inflation-and-worsen-food-insecurity",
+        "date": "2026-04-11T14:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Novorossiysk Restarts Oil Loadings At Reduced Capacity After Drone Strike",
+        "link": "https://www.zerohedge.com/energy/novorossiysk-restarts-oil-loadings-reduced-capacity-after-drone-strike",
+        "date": "2026-04-11T13:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-12T10:26:03.307Z"
+  }
+}
