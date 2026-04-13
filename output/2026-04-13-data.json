@@ -1,0 +1,329 @@
+{
+  "generatedAt": "2026-04-13T11:06:26.250Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "‘It feels awkward’: I gave my friend’s daughter cash for her wedding. Silence. Do I say something?",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] ‘It feels awkward’: I gave my friend’s daughter cash for her wedding. Silence. Do I say something?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Populism lost in Hungary but still may win the war, one strategist argues",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Populism lost in Hungary but still may win the war, one strategist argues"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil prices rise as failed deal between U.S. and Iran raises risk of prolonged war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Oil prices rise as failed deal between U.S. and Iran raises risk of prolonged war"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.4,
+        "current": 83.52,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.4% to $83.52"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.71,
+        "message": "Gold/Silver ratio: 63.71x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 4
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 437.13,
+        "previousClose": 437.91,
+        "high": 440.33,
+        "low": 436.42,
+        "changePct": -0.18
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.08,
+        "previousClose": 68.39,
+        "high": 69.5499,
+        "low": 68.58,
+        "changePct": 1.01
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.52,
+        "previousClose": 81.56,
+        "high": 84.04,
+        "low": 82.7516,
+        "changePct": 2.4
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.44,
+        "previousClose": 64.61,
+        "high": 66.1,
+        "low": 64.34,
+        "changePct": -0.26
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.96,
+        "previousClose": 50.93,
+        "high": 52.09,
+        "low": 50.85,
+        "changePct": 0.06
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.41,
+        "previousClose": 31.4,
+        "high": 32.1051,
+        "low": 31.22,
+        "changePct": 0.03
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.94,
+        "previousClose": 57.33,
+        "high": 57.475,
+        "low": 56.4,
+        "changePct": -0.68
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.44,
+        "previousClose": 27.48,
+        "high": 27.4893,
+        "low": 27.42,
+        "changePct": -0.15
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.49,
+        "previousClose": 86.7,
+        "high": 86.68,
+        "low": 86.33,
+        "changePct": -0.24
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 679.46,
+        "previousClose": 679.91,
+        "high": 682.03,
+        "low": 678.45,
+        "changePct": -0.07
+      }
+    },
+    "metals": {
+      "gold": 4742.6,
+      "silver": 74.44,
+      "copper": 5.86,
+      "platinum": 2040.9,
+      "crude": null,
+      "goldSilverRatio": 63.71
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4742.6,
+        "change": -44.799805,
+        "changePct": -0.94,
+        "previousClose": 4787.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 74.44,
+        "change": -2.040001,
+        "changePct": -2.67,
+        "previousClose": 76.48
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.8585,
+        "change": -0.027500153,
+        "changePct": -0.47,
+        "previousClose": 5.886
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2040.9,
+        "change": -24.299927,
+        "changePct": -1.18,
+        "previousClose": 2065.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 103.97,
+        "change": 7.4000015,
+        "changePct": 7.66,
+        "previousClose": 96.57
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.79,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-09"
+      },
+      "10Y": {
+        "current": 4.29,
+        "previous": 4.29,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-09"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.89,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-09"
+      },
+      "USD_BROAD": {
+        "current": 120.6565,
+        "previous": 120.503,
+        "change": 0.15,
+        "changeBps": 15,
+        "date": "2026-04-03"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 413325,
+        "previous": 878042,
+        "change": -464717,
+        "period": "2026-04-03",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Why ‘Rule of 10’ stocks like Nvidia and Meta are now poised for a comeback, according to Goldman Sachs",
+        "link": "https://www.marketwatch.com/story/why-rule-of-10-stocks-like-nvidia-and-meta-are-now-poised-for-a-comeback-according-to-goldman-sachs-349b5531?mod=mw_rss_topstories",
+        "date": "2026-04-13T11:02:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Reportedly Planning Mass Pardons Of Administration Officials Before Leaving Office",
+        "link": "https://www.zerohedge.com/political/trump-reportedly-planning-mass-pardons-administration-officials-leaving-office",
+        "date": "2026-04-13T10:55:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘It feels awkward’: I gave my friend’s daughter cash for her wedding. Silence. Do I say something?",
+        "link": "https://www.marketwatch.com/story/it-feels-awkward-i-gave-my-friends-daughter-cash-for-her-wedding-silence-do-i-say-something-2d4c9562?mod=mw_rss_topstories",
+        "date": "2026-04-13T10:01:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Populism lost in Hungary but still may win the war, one strategist argues",
+        "link": "https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories",
+        "date": "2026-04-13T09:47:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "PJM Targets 15 Gigawatts Of New Power To Feed Data Center Boom",
+        "link": "https://www.zerohedge.com/markets/pjm-targets-15-gigawatts-new-power-feed-data-center-boom",
+        "date": "2026-04-13T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices rise as failed deal between U.S. and Iran raises risk of prolonged war",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories",
+        "date": "2026-04-13T09:09:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Mariah Carey lists ‘MTV Cribs’ penthouse in New York City for a whopping $27 million",
+        "link": "https://www.marketwatch.com/story/mariah-carey-lists-mtv-cribs-penthouse-in-new-york-city-for-a-whopping-27-million-902f19c3?mod=mw_rss_topstories",
+        "date": "2026-04-13T09:02:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
+        "link": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html",
+        "date": "2026-04-13T07:08:45.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Half Of US Data Centers Scheduled To Start In 2026, Will Be Canceled Or Delayed",
+        "link": "https://www.zerohedge.com/technology/half-us-data-centers-are-set-be-canceled-or-delayed-2026",
+        "date": "2026-04-13T02:38:42.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Treasury, IRS Propose Rules For 1 Percent Remittance Tax On Some Money Sent To Foreign Countries",
+        "link": "https://www.zerohedge.com/political/treasury-irs-propose-rules-1-percent-remittance-tax-some-money-sent-foreign-countries",
+        "date": "2026-04-12T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Eyes Limited Iran Strikes, Hormuz Blockade After Peace Talks Collapse",
+        "link": "https://www.zerohedge.com/energy/uae-oil-chief-warns-world-cant-allow-hormuz-closure-2-tankers-u-turn-and-us-emerges-last",
+        "date": "2026-04-12T23:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Oil Jumps, Stocks Dump As Peace Talks Fail, Hormuz Blockade Looms",
+        "link": "https://www.zerohedge.com/markets/oil-jumps-stocks-dump-peace-talks-fail-hormuz-blockade-looms",
+        "date": "2026-04-12T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "President Trump Faces Renewed Backlash As Trump-Linked Tokens Crash",
+        "link": "https://www.zerohedge.com/crypto/president-trump-faces-renewed-backlash-trump-linked-tokens-crash",
+        "date": "2026-04-12T18:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "More Than Just Iran",
+        "link": "https://www.zerohedge.com/markets/more-just-iran",
+        "date": "2026-04-12T16:50:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-13T11:06:17.813Z"
+  }
+}
