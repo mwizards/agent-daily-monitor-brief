@@ -1,0 +1,314 @@
+{
+  "generatedAt": "2026-04-14T10:53:35.830Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pope Leo Says 'I Am Not Afraid Of Trump' - Amid War Of Words Over Iran Conflict",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pope Leo Says 'I Am Not Afraid Of Trump' - Amid War Of Words Over Iran Conflict"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 2.27,
+        "current": 65.9,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +2.27% to $65.9"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 2.39,
+        "current": 52.18,
+        "direction": "UP",
+        "message": "Uranium (URA) +2.39% to $52.18"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.67,
+        "message": "Gold/Silver ratio: 61.67x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 3
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 435.36,
+        "previousClose": 437.13,
+        "high": 436.2,
+        "low": 431.6501,
+        "changePct": -0.4
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.28,
+        "previousClose": 69.08,
+        "high": 68.68,
+        "low": 66.58,
+        "changePct": -1.16
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 84.87,
+        "previousClose": 83.52,
+        "high": 85.075,
+        "low": 82.24,
+        "changePct": 1.62
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 65.9,
+        "previousClose": 64.44,
+        "high": 65.91,
+        "low": 62.88,
+        "changePct": 2.27
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.18,
+        "previousClose": 50.96,
+        "high": 52.18,
+        "low": 49.77,
+        "changePct": 2.39
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.64,
+        "previousClose": 31.41,
+        "high": 31.7997,
+        "low": 30.77,
+        "changePct": 0.73
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.11,
+        "previousClose": 56.94,
+        "high": 57.72,
+        "low": 56.645,
+        "changePct": 0.3
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.38,
+        "previousClose": 27.44,
+        "high": 27.54,
+        "low": 27.38,
+        "changePct": -0.22
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.75,
+        "previousClose": 86.49,
+        "high": 86.8,
+        "low": 86.25,
+        "changePct": 0.3
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 686.1,
+        "previousClose": 679.46,
+        "high": 686.295,
+        "low": 676.58,
+        "changePct": 0.98
+      }
+    },
+    "metals": {
+      "gold": 4784.2,
+      "silver": 77.58,
+      "copper": 6.04,
+      "platinum": 2086.8,
+      "crude": null,
+      "goldSilverRatio": 61.67
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4784.2,
+        "change": 16.800293,
+        "changePct": 0.35,
+        "previousClose": 4767.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 77.575,
+        "change": 1.909996,
+        "changePct": 2.52,
+        "previousClose": 75.665
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.0435,
+        "change": 0.052999973,
+        "changePct": 0.88,
+        "previousClose": 5.9905
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2086.8,
+        "change": 8.800049,
+        "changePct": 0.42,
+        "previousClose": 2078
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 97.4,
+        "change": -1.6800003,
+        "changePct": -1.7,
+        "previousClose": 99.08
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.81,
+        "previous": 3.78,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-04-10"
+      },
+      "10Y": {
+        "current": 4.31,
+        "previous": 4.29,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-04-10"
+      },
+      "30Y": {
+        "current": 4.91,
+        "previous": 4.9,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-10"
+      },
+      "USD_BROAD": {
+        "current": 118.8552,
+        "previous": 118.8998,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-10"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 413325,
+        "previous": 878042,
+        "change": -464717,
+        "period": "2026-04-03",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil futures fall further below $100 on hopes of peace deal",
+        "link": "https://www.marketwatch.com/story/oil-futures-fall-further-below-100-on-hopes-of-peace-deal-74c90f5b?mod=mw_rss_topstories",
+        "date": "2026-04-14T09:55:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "March saw the largest increase in global energy inflation in 25 years",
+        "link": "https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories",
+        "date": "2026-04-14T09:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "France Plans €10 Billion Push To Cut Reliance On Gas and Oil",
+        "link": "https://www.zerohedge.com/markets/france-plans-eu10-billion-push-cut-reliance-gas-and-oil",
+        "date": "2026-04-14T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US-Sanctioned Tanker Signaling Chinese Ownerships Test Trump Blockade With Hormuz Crossing",
+        "link": "https://www.zerohedge.com/markets/us-sanctioned-tanker-signaling-chinese-ownerships-tests-trump-blockade-hormuz-crossing",
+        "date": "2026-04-14T03:28:10.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How Iran's Mosaic Doctrine Is Fracturing",
+        "link": "https://www.zerohedge.com/geopolitical/how-irans-mosaic-doctrine-fracturing",
+        "date": "2026-04-14T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hong Kong And The Quiet Rewiring Of The Dollar System",
+        "link": "https://www.zerohedge.com/economics/hong-kong-and-quiet-rewiring-dollar-system",
+        "date": "2026-04-14T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Federal Judge Dismisses Trump's Defamation Lawsuit Against The Wall Street Journal Over Epstein Birthday Letter Report",
+        "link": "https://www.zerohedge.com/political/federal-judge-dismisses-trumps-defamation-lawsuit-against-wall-street-journal-over",
+        "date": "2026-04-13T23:40:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
+        "link": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html",
+        "date": "2026-04-13T23:20:53.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Biden FDA Knew About COVID Vaccine Stroke Risk And Kept Americans In The Dark",
+        "link": "https://www.zerohedge.com/medical/biden-fda-knew-about-covid-vaccine-stroke-risk-and-kept-americans-dark",
+        "date": "2026-04-13T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Swalwell Admits \"Mistakes\", Plans To Resign From Congress",
+        "link": "https://www.zerohedge.com/political/she-was-too-drunk-consent-twice-swalwell-odds-crater-after-sexual-assault-allegations",
+        "date": "2026-04-13T22:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "YouTube Removes Pro-Iran Channel Producing Anti-Trump Videos",
+        "link": "https://www.zerohedge.com/geopolitical/youtube-removes-pro-iran-channel-producing-anti-trump-videos",
+        "date": "2026-04-13T21:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pope Leo Says 'I Am Not Afraid Of Trump' - Amid War Of Words Over Iran Conflict",
+        "link": "https://www.zerohedge.com/geopolitical/pope-leo-says-i-am-not-afraid-trump-amid-war-words-over-iran-conflict",
+        "date": "2026-04-13T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Buried For 7 Years: Declassified Transcripts Blow Up Trump Impeachment Story",
+        "link": "https://www.zerohedge.com/political/buried-7-years-declassified-transcripts-blow-trump-impeachment-story",
+        "date": "2026-04-13T20:58:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-14T10:53:26.706Z"
+  }
+}
