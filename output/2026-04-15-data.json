@@ -1,0 +1,379 @@
+{
+  "generatedAt": "2026-04-15T10:49:40.581Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 5.51,
+        "current": 72.04,
+        "direction": "UP",
+        "message": "Silver (SLV) +5.51% to $72.04"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.26,
+        "current": 32.67,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.26% to $32.67"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "After Orbán Loss, Polish MEP Warns EU Set To \"Subjugate Everything And Everyone\" As VDL Moves Quickly To Abolish Veto Power",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] After Orbán Loss, Polish MEP Warns EU Set To \"Subjugate Everything And Everyone\" As VDL Moves Quickly To Abolish Veto Power"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Virginia Governor Pushes Amendments On Gun Legislation Amid DOJ Warning",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Virginia Governor Pushes Amendments On Gun Legislation Amid DOJ Warning"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Fed Chair Nominee Kevin Warsh Reveals Assets Worth Over $190 Million",
+        "keywords": [
+          "fed chair",
+          "war"
+        ],
+        "message": "[ZeroHedge] Fed Chair Nominee Kevin Warsh Reveals Assets Worth Over $190 Million"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 2.23,
+        "current": 445.09,
+        "direction": "UP",
+        "message": "Gold (GLD) +2.23% to $445.09"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -2.03,
+        "current": 55.95,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -2.03% to $55.95"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Rolls-Royce 470-Megawatt Nuclear Reactors To Power 3 Million UK Homes For 60 Years",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Rolls-Royce 470-Megawatt Nuclear Reactors To Power 3 Million UK Homes For 60 Years"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.28,
+        "message": "Gold/Silver ratio: 61.28x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 445.09,
+        "previousClose": 435.36,
+        "high": 445.18,
+        "low": 439.02,
+        "changePct": 2.23
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 72.04,
+        "previousClose": 68.28,
+        "high": 72.065,
+        "low": 70.27,
+        "changePct": 5.51
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 86.43,
+        "previousClose": 84.87,
+        "high": 86.49,
+        "low": 85.551,
+        "changePct": 1.84
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 66.43,
+        "previousClose": 65.9,
+        "high": 67.49,
+        "low": 66.0534,
+        "changePct": 0.8
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.84,
+        "previousClose": 52.18,
+        "high": 53.27,
+        "low": 52.3,
+        "changePct": 1.26
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 32.67,
+        "previousClose": 31.64,
+        "high": 32.88,
+        "low": 32.19,
+        "changePct": 3.26
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.95,
+        "previousClose": 57.11,
+        "high": 56.5,
+        "low": 55.405,
+        "changePct": -2.03
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.32,
+        "previousClose": 27.38,
+        "high": 27.325,
+        "low": 27.27,
+        "changePct": -0.22
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.21,
+        "previousClose": 86.75,
+        "high": 87.24,
+        "low": 86.63,
+        "changePct": 0.53
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 694.46,
+        "previousClose": 686.1,
+        "high": 694.58,
+        "low": 687.66,
+        "changePct": 1.22
+      }
+    },
+    "metals": {
+      "gold": 4817.8,
+      "silver": 78.61,
+      "copper": 6.07,
+      "platinum": 2109.5,
+      "crude": null,
+      "goldSilverRatio": 61.28
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4817.8,
+        "change": -32.300293,
+        "changePct": -0.67,
+        "previousClose": 4850.1
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 78.615,
+        "change": -0.91799927,
+        "changePct": -1.15,
+        "previousClose": 79.533
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.071,
+        "change": -0.012499809,
+        "changePct": -0.21,
+        "previousClose": 6.0835
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2109.5,
+        "change": 8.800049,
+        "changePct": 0.42,
+        "previousClose": 2100.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 93.13,
+        "change": 1.8499985,
+        "changePct": 2.03,
+        "previousClose": 91.28
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.81,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-04-13"
+      },
+      "10Y": {
+        "current": 4.3,
+        "previous": 4.31,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-13"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.91,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-13"
+      },
+      "USD_BROAD": {
+        "current": 118.8552,
+        "previous": 118.8998,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-10"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 413325,
+        "previous": 878042,
+        "change": -464717,
+        "period": "2026-04-03",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil futures hold to tight range as hopes of peace deal between U.S. and Iran grow",
+        "link": "https://www.marketwatch.com/story/oil-futures-hold-to-tight-range-as-hopes-of-peace-deal-between-u-s-and-iran-grow-2d8733b4?mod=mw_rss_topstories",
+        "date": "2026-04-15T09:33:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Rolls-Royce 470-Megawatt Nuclear Reactors To Power 3 Million UK Homes For 60 Years",
+        "link": "https://www.zerohedge.com/energy/rolls-royce-470-megawatt-nuclear-reactors-power-3-million-uk-homes-60-years",
+        "date": "2026-04-15T09:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Hermes and Gucci sales fall short on Middle East turmoil. Investors were surprised.",
+        "link": "https://www.marketwatch.com/story/hermes-and-gucci-sales-fall-short-on-middle-east-turmoil-investors-were-surprised-12ac51fc?mod=mw_rss_topstories",
+        "date": "2026-04-15T08:51:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
+        "link": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html",
+        "date": "2026-04-15T07:01:54.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "After Orbán Loss, Polish MEP Warns EU Set To \"Subjugate Everything And Everyone\" As VDL Moves Quickly To Abolish Veto Power",
+        "link": "https://www.zerohedge.com/geopolitical/after-orban-loss-polish-mep-warns-eu-set-subjugate-everything-and-everyone-vdl-moves",
+        "date": "2026-04-15T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Virginia Governor Pushes Amendments On Gun Legislation Amid DOJ Warning",
+        "link": "https://www.zerohedge.com/political/virginia-governor-pushes-amendments-gun-legislation-amid-doj-warning",
+        "date": "2026-04-15T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Swalwell Resigns From Congress - Effective TODAY, After Fresh Rape Allegation And Corroborating Campaign Records",
+        "link": "https://www.zerohedge.com/political/swalwell-resigns-congress-effective-today-after-fresh-rape-allegation-and-corroborating",
+        "date": "2026-04-15T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Netanyahu Boasts: Trump Admin Briefs Me Every Day On Iran",
+        "link": "https://www.zerohedge.com/geopolitical/netanyahu-boasts-trump-admin-briefs-me-every-day-iran-negotiations",
+        "date": "2026-04-15T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tesla China CEO Says Shanghai Gigafactory Is \"Golden Key\" To Optimus Robot Production",
+        "link": "https://www.zerohedge.com/technology/tesla-china-ceo-says-shanghai-gigafactory-golden-key-optimus-robot-production",
+        "date": "2026-04-15T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mossad Chief Declares Mission In Iran Not Over Until Regime Falls",
+        "link": "https://www.zerohedge.com/geopolitical/mossad-chief-declares-mission-iran-not-over-until-regime-falls",
+        "date": "2026-04-14T23:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "White House study says DEI policies cost US economy by promoting unqualified managers",
+        "link": "https://www.foxbusiness.com/economy/white-house-study-claims-dei-policies-cost-us-economy-promoting-unqualified-managers",
+        "date": "2026-04-14T21:08:28.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Biden Prosecutors Withheld Key Evidence Against Abortion Clinic Protesters: DOJ",
+        "link": "https://www.zerohedge.com/political/biden-prosecutors-withheld-key-evidence-against-abortion-clinic-protesters-doj",
+        "date": "2026-04-14T20:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Chinese Firm Claims It Tracked US Jets Over Iran During Operation Epic Fury",
+        "link": "https://www.zerohedge.com/political/chinese-firm-claims-it-tracked-us-jets-over-iran-during-operation-epic-fury",
+        "date": "2026-04-14T20:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Over 20 US-Approved Ships Pass Through Hormuz, As Trump Eyes Jump-Starting Next Pakistan Peace Talks",
+        "link": "https://www.zerohedge.com/geopolitical/iran-mulls-hormuz-shipping-pause-preserve-talks-avoid-trump-blockade-showdown-us",
+        "date": "2026-04-14T19:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Fed Chair Nominee Kevin Warsh Reveals Assets Worth Over $190 Million",
+        "link": "https://www.zerohedge.com/economics/fed-chair-nominee-kevin-warsh-reveals-assets-worth-over-190-million",
+        "date": "2026-04-14T19:45:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-15T10:49:27.657Z"
+  }
+}
