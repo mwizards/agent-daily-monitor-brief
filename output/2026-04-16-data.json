@@ -1,0 +1,367 @@
+{
+  "generatedAt": "2026-04-16T10:52:55.352Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 3.7,
+        "current": 68.89,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +3.7% to $68.89"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 3.79,
+        "current": 54.84,
+        "direction": "UP",
+        "message": "Uranium (URA) +3.79% to $54.84"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Zelensky Goes Full \"Lord Of War\" As Ukraine Pitches Battle-Tested War Robots To Highest Bidder",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Zelensky Goes Full \"Lord Of War\" As Ukraine Pitches Battle-Tested War Robots To Highest Bidder"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "IMF Warns US Treasury Market Prone To \"Sudden Repricing\" Due To Soaring Debt, Overreliance On Bills",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] IMF Warns US Treasury Market Prone To \"Sudden Repricing\" Due To Soaring Debt, Overreliance On Bills"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Here are all the ways the Iran war has affected the U.S. economy so far"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.39,
+        "current": 31.89,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.39% to $31.89"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Speculation Explodes Following Disappearance Of 10th Expert With UFO And Nuclear Secrets",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Speculation Explodes Following Disappearance Of 10th Expert With UFO And Nuclear Secrets"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.57,
+        "message": "Gold/Silver ratio: 60.57x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 440.46,
+        "previousClose": 445.09,
+        "high": 443.74,
+        "low": 439.6,
+        "changePct": -1.04
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 71.84,
+        "previousClose": 72.04,
+        "high": 72.9,
+        "low": 71.35,
+        "changePct": -0.28
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 86.08,
+        "previousClose": 86.43,
+        "high": 86.755,
+        "low": 85.44,
+        "changePct": -0.4
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.89,
+        "previousClose": 66.43,
+        "high": 69.73,
+        "low": 66.51,
+        "changePct": 3.7
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.84,
+        "previousClose": 52.84,
+        "high": 55.47,
+        "low": 53.32,
+        "changePct": 3.79
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.89,
+        "previousClose": 32.67,
+        "high": 32.75,
+        "low": 31.735,
+        "changePct": -2.39
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.76,
+        "previousClose": 55.95,
+        "high": 56.21,
+        "low": 55.27,
+        "changePct": -0.34
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.29,
+        "previousClose": 27.32,
+        "high": 27.34,
+        "low": 27.2801,
+        "changePct": -0.11
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.83,
+        "previousClose": 87.21,
+        "high": 87.0699,
+        "low": 86.725,
+        "changePct": -0.44
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 699.94,
+        "previousClose": 694.46,
+        "high": 700.28,
+        "low": 694.2801,
+        "changePct": 0.79
+      }
+    },
+    "metals": {
+      "gold": 4832.4,
+      "silver": 79.78,
+      "copper": 6.08,
+      "platinum": 2154.8,
+      "crude": null,
+      "goldSilverRatio": 60.57
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4832.4,
+        "change": 8.799805,
+        "changePct": 0.18,
+        "previousClose": 4823.6
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 79.78,
+        "change": 0.15200043,
+        "changePct": 0.19,
+        "previousClose": 79.628
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.079,
+        "change": -0.006000042,
+        "changePct": -0.1,
+        "previousClose": 6.085
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2154.8,
+        "change": 24.300049,
+        "changePct": 1.14,
+        "previousClose": 2130.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 89.28,
+        "change": 1.1500015,
+        "changePct": 1.3,
+        "previousClose": 88.13
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.76,
+        "previous": 3.78,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-14"
+      },
+      "10Y": {
+        "current": 4.26,
+        "previous": 4.3,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-14"
+      },
+      "30Y": {
+        "current": 4.87,
+        "previous": 4.9,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-04-14"
+      },
+      "USD_BROAD": {
+        "current": 118.8552,
+        "previous": 118.8998,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-10"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 409181,
+        "previous": 872985,
+        "change": -463804,
+        "period": "2026-04-10",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Speculation Explodes Following Disappearance Of 10th Expert With UFO And Nuclear Secrets",
+        "link": "https://www.zerohedge.com/political/speculation-explodes-following-disappearance-10th-expert-ufo-and-nuclear-secrets",
+        "date": "2026-04-16T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Zelensky Goes Full \"Lord Of War\" As Ukraine Pitches Battle-Tested War Robots To Highest Bidder",
+        "link": "https://www.zerohedge.com/military/zelensky-goes-full-lord-war-ukraine-pitches-battle-tested-war-robots-highest-bidder",
+        "date": "2026-04-16T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Boasts It Is Fast Rebuilding Bridges & Rail Lines After US Wrought Destruction",
+        "link": "https://www.zerohedge.com/geopolitical/iran-boasts-it-fast-rebuilding-bridges-rail-lines-after-us-wrought-destruction",
+        "date": "2026-04-16T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Halts All Petrochem Exports While Official Signals Compromise Strait Passage Opening, As Negotiators Cite 'Progress'",
+        "link": "https://www.zerohedge.com/geopolitical/war-very-close-over-trump-says-iran-ceasefire-extension-reportedly-advances-more-us",
+        "date": "2026-04-16T07:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump's Blockade Is Breaking Iran... And European Elites Are Angry",
+        "link": "https://www.zerohedge.com/geopolitical/trumps-blockade-breaking-iran-and-european-elites-are-angry",
+        "date": "2026-04-16T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Can Only Imagine What FCC Has To Say\": Open Source Military Radar Plans Appear Online",
+        "link": "https://www.zerohedge.com/military/can-only-imagine-what-fcc-has-say-open-source-military-radar-plans-appear-online",
+        "date": "2026-04-16T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Gabbard Sends Criminal Referrals For 2019 Trump Impeachment Whistleblower, IG Coverup",
+        "link": "https://www.zerohedge.com/political/gabbard-sends-criminal-referrals-2019-trump-impeachment-whistleblower-ig-cover",
+        "date": "2026-04-16T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bessent Keeps Running Tally Of China As \"Unreliable Global Partner\" - Count Now Stands At Three",
+        "link": "https://www.zerohedge.com/energy/bessent-keeps-running-tally-china-unreliable-global-partner-count-now-stands-three",
+        "date": "2026-04-16T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's Unitree Unveils Robot With \"Human-Like Physique\" That Can Outrun Most People",
+        "link": "https://www.zerohedge.com/technology/chinas-unitree-unveils-humanoid-robot-human-physique-can-outrun-most-people",
+        "date": "2026-04-15T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Accused Of Cover-Up After Missing Deadline On 46 Military UAP Videos",
+        "link": "https://www.zerohedge.com/political/pentagon-accused-cover-after-missing-deadline-46-military-uap-videos",
+        "date": "2026-04-15T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "IMF Warns US Treasury Market Prone To \"Sudden Repricing\" Due To Soaring Debt, Overreliance On Bills",
+        "link": "https://www.zerohedge.com/economics/imf-warns-us-treasury-market-prone-sudden-repricing-due-soaring-supply-overreliance-bills",
+        "date": "2026-04-15T21:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Average monthly mortgage payment hits new high, topping $2K for first time ever",
+        "link": "https://www.foxbusiness.com/economy/average-monthly-mortgage-payment-hits-new-high-topping-2000-first-time-ever",
+        "date": "2026-04-15T21:01:26.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Treasury Secretary Says Order On Citizenship Proof For Banking Is 'In Process'",
+        "link": "https://www.zerohedge.com/political/treasury-secretary-says-order-citizenship-proof-banking-process",
+        "date": "2026-04-15T21:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mullin Blasts Biden Admin After DHS Employee Killed By Naturalized Felon",
+        "link": "https://www.zerohedge.com/political/mullin-blasts-biden-admin-after-dhs-employee-killed-naturalized-felon",
+        "date": "2026-04-15T20:40:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+        "link": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html",
+        "date": "2026-04-15T17:13:37.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-16T10:52:46.367Z"
+  }
+}
