@@ -1,0 +1,335 @@
+{
+  "generatedAt": "2026-04-18T10:28:42.932Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 3.35,
+        "current": 73.63,
+        "direction": "UP",
+        "message": "Silver (SLV) +3.35% to $73.63"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.55,
+        "current": 33,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.55% to $33"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -2.76,
+        "current": 55.02,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -2.76% to $55.02"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Is America On The Verge Of A Nuclear Renaissance?",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Is America On The Verge Of A Nuclear Renaissance?"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.62,
+        "message": "Gold/Silver ratio: 59.62x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 5
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 445.93,
+        "previousClose": 440.08,
+        "high": 448.7,
+        "low": 445.32,
+        "changePct": 1.33
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 73.63,
+        "previousClose": 71.24,
+        "high": 75.16,
+        "low": 73.42,
+        "changePct": 3.35
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 87.19,
+        "previousClose": 86.21,
+        "high": 89.01,
+        "low": 86.81,
+        "changePct": 1.14
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 69.43,
+        "previousClose": 69.52,
+        "high": 71.4,
+        "low": 69.01,
+        "changePct": -0.13
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.86,
+        "previousClose": 55.27,
+        "high": 57.29,
+        "low": 55.08,
+        "changePct": 1.07
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33,
+        "previousClose": 31.87,
+        "high": 34.0801,
+        "low": 32.945,
+        "changePct": 3.55
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.02,
+        "previousClose": 56.58,
+        "high": 55.15,
+        "low": 53.41,
+        "changePct": -2.76
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.36,
+        "previousClose": 27.37,
+        "high": 27.36,
+        "low": 27.2,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.07,
+        "previousClose": 86.28,
+        "high": 87.21,
+        "low": 86.89,
+        "changePct": 0.92
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 710.14,
+        "previousClose": 701.66,
+        "high": 712.36,
+        "low": 705.77,
+        "changePct": 1.21
+      }
+    },
+    "metals": {
+      "gold": 4879.6,
+      "silver": 81.84,
+      "copper": 6.11,
+      "platinum": 2141.7,
+      "crude": null,
+      "goldSilverRatio": 59.62
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4879.6,
+        "change": 71.30029,
+        "changePct": 1.48,
+        "previousClose": 4808.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 81.842,
+        "change": 3.1320038,
+        "changePct": 3.98,
+        "previousClose": 78.71
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.1145,
+        "change": 0.038000107,
+        "changePct": 0.63,
+        "previousClose": 6.0765
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2141.7,
+        "change": 29.5,
+        "changePct": 1.4,
+        "previousClose": 2112.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 82.59,
+        "change": -8.580002,
+        "changePct": -9.41,
+        "previousClose": 91.17
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.76,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-04-16"
+      },
+      "10Y": {
+        "current": 4.32,
+        "previous": 4.29,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-04-16"
+      },
+      "30Y": {
+        "current": 4.93,
+        "previous": 4.89,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-16"
+      },
+      "USD_BROAD": {
+        "current": 118.8552,
+        "previous": 118.8998,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-10"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 409181,
+        "previous": 872985,
+        "change": -463804,
+        "period": "2026-04-10",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "CNBC Economy",
+        "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+        "link": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html",
+        "date": "2026-04-18T10:24:36.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Spillover Conflict Still Raging In Iraq: Three Iranian Kurds Killed",
+        "link": "https://www.zerohedge.com/geopolitical/spillover-conflict-still-raging-iraq-three-iranian-kurds-killed",
+        "date": "2026-04-18T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Xi Jinping Refocuses On Taiwan With Renewed Political Outreach",
+        "link": "https://www.zerohedge.com/markets/xi-jinping-refocuses-taiwan-renewed-political-outreach",
+        "date": "2026-04-18T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Turns The Screws On Israel In Biggest Pressure Move To Reign In Bibi Yet",
+        "link": "https://www.zerohedge.com/geopolitical/trump-turns-screws-israel-biggest-pressure-move-reign-bibi-yet",
+        "date": "2026-04-17T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is America On The Verge Of A Nuclear Renaissance?",
+        "link": "https://www.zerohedge.com/political/america-verge-nuclear-renaissance",
+        "date": "2026-04-17T23:15:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "TV shopping empire behind QVC, HSN files for bankruptcy amid mounting losses",
+        "link": "https://www.foxbusiness.com/markets/shopping-tv-empire-behind-qvc-hsn-files-bankruptcy-amid-mounting-losses",
+        "date": "2026-04-17T21:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "No SAVE Act? Congress Still Holds The Trump Card",
+        "link": "https://www.zerohedge.com/political/no-save-act-congress-still-holds-trump-card",
+        "date": "2026-04-17T21:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Former Congressman Blows The Whistle On Blackmail And Honeypots In Congress",
+        "link": "https://www.zerohedge.com/political/former-congressman-blows-whistle-blackmail-and-honeypots-congress",
+        "date": "2026-04-17T20:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Does Trump Know Something We Don't About Potential SCOTUS Vacancies?",
+        "link": "https://www.zerohedge.com/political/does-trump-know-something-we-dont-about-potential-scotus-vacancies",
+        "date": "2026-04-17T19:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The End Of Oil Volatility As A Weapon",
+        "link": "https://www.zerohedge.com/geopolitical/end-oil-volatility-weapon",
+        "date": "2026-04-17T19:10:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+        "link": "https://www.cnbc.com/2026/04/17/fed-governor-waller-says-iran-war-and-labor-market-risks-are-keeping-central-bank-on-hold.html",
+        "date": "2026-04-17T19:00:13.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tanker Armada Races For Hormuz After Iran Says Strait Is Open",
+        "link": "https://www.zerohedge.com/geopolitical/persian-gulf-tanker-armada-races-hormuz-after-iran-says-strait-open",
+        "date": "2026-04-17T18:50:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Oil prices plunge after Iran says Strait of Hormuz open for commercial shipping traffic",
+        "link": "https://www.foxbusiness.com/economy/oil-prices-plunge-after-iran-says-strait-hormuz-open-commercial-shipping-traffic",
+        "date": "2026-04-17T14:28:08.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-18T10:28:33.268Z"
+  }
+}
