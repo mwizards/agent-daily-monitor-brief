@@ -1,0 +1,307 @@
+{
+  "generatedAt": "2026-04-19T10:27:26.277Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 3.35,
+        "current": 73.63,
+        "direction": "UP",
+        "message": "Silver (SLV) +3.35% to $73.63"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.55,
+        "current": 33,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.55% to $33"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pro-Life Dad Awarded Million-Dollar Settlement Over Biden-Era FBI Raid",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pro-Life Dad Awarded Million-Dollar Settlement Over Biden-Era FBI Raid"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -2.76,
+        "current": 55.02,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -2.76% to $55.02"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.62,
+        "message": "Gold/Silver ratio: 59.62x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 4
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 445.93,
+        "previousClose": 440.08,
+        "high": 448.7,
+        "low": 445.32,
+        "changePct": 1.33
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 73.63,
+        "previousClose": 71.24,
+        "high": 75.16,
+        "low": 73.42,
+        "changePct": 3.35
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 87.19,
+        "previousClose": 86.21,
+        "high": 89.01,
+        "low": 86.81,
+        "changePct": 1.14
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 69.43,
+        "previousClose": 69.52,
+        "high": 71.4,
+        "low": 69.01,
+        "changePct": -0.13
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.86,
+        "previousClose": 55.27,
+        "high": 57.29,
+        "low": 55.08,
+        "changePct": 1.07
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33,
+        "previousClose": 31.87,
+        "high": 34.0801,
+        "low": 32.945,
+        "changePct": 3.55
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.02,
+        "previousClose": 56.58,
+        "high": 55.15,
+        "low": 53.41,
+        "changePct": -2.76
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.36,
+        "previousClose": 27.37,
+        "high": 27.36,
+        "low": 27.2,
+        "changePct": -0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.07,
+        "previousClose": 86.28,
+        "high": 87.21,
+        "low": 86.89,
+        "changePct": 0.92
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 710.14,
+        "previousClose": 701.66,
+        "high": 712.36,
+        "low": 705.77,
+        "changePct": 1.21
+      }
+    },
+    "metals": {
+      "gold": 4879.6,
+      "silver": 81.84,
+      "copper": 6.11,
+      "platinum": 2141.7,
+      "crude": null,
+      "goldSilverRatio": 59.62
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4879.6,
+        "change": 71.30029,
+        "changePct": 1.48,
+        "previousClose": 4808.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 81.842,
+        "change": 3.1320038,
+        "changePct": 3.98,
+        "previousClose": 78.71
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.1145,
+        "change": 0.038000107,
+        "changePct": 0.63,
+        "previousClose": 6.0765
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2141.7,
+        "change": 29.5,
+        "changePct": 1.4,
+        "previousClose": 2112.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 82.59,
+        "change": -8.580002,
+        "changePct": -9.41,
+        "previousClose": 91.17
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.76,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-04-16"
+      },
+      "10Y": {
+        "current": 4.32,
+        "previous": 4.29,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-04-16"
+      },
+      "30Y": {
+        "current": 4.93,
+        "previous": 4.89,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-16"
+      },
+      "USD_BROAD": {
+        "current": 118.8552,
+        "previous": 118.8998,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-10"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 409181,
+        "previous": 872985,
+        "change": -463804,
+        "period": "2026-04-10",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Netanyahu Left 'Personally Stunned' By Trump Rhetoric Prohibiting Lebanon Strikes",
+        "link": "https://www.zerohedge.com/geopolitical/netanyahu-left-personally-stunned-trump-rhetoric-prohibiting-lebanon-strikes",
+        "date": "2026-04-19T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pro-Life Dad Awarded Million-Dollar Settlement Over Biden-Era FBI Raid",
+        "link": "https://www.zerohedge.com/political/pro-life-dad-awarded-million-dollar-settlement-over-biden-era-fbi-raid",
+        "date": "2026-04-19T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says First Releases Of UFO Documents Will Begin 'Very, Very Soon'",
+        "link": "https://www.zerohedge.com/political/trump-says-first-releases-ufo-documents-will-begin-very-very-soon",
+        "date": "2026-04-18T21:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Senate Bill Wants Commercial Reactors On Federal Land",
+        "link": "https://www.zerohedge.com/energy/senate-bill-wants-commercial-reactors-federal-land",
+        "date": "2026-04-18T20:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "White House Working With FBI To Probe Cases Of Missing Scientists",
+        "link": "https://www.zerohedge.com/political/white-house-working-fbi-probe-cases-missing-scientists",
+        "date": "2026-04-18T20:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "This ‘hidden’ price of oil is going to hit your electric bill next",
+        "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
+        "date": "2026-04-18T19:16:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Treasury Extends Russian Crude Waiver Amid Supply Disruptions",
+        "link": "https://www.zerohedge.com/geopolitical/us-treasury-extends-russian-crude-waiver-amid-supply-disruptions",
+        "date": "2026-04-18T19:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Prepares To Board Iran-Linked Ships Globally Following Iranian Gunboat Attack On Tanker In Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/bit-chaos-hormuz-reportedly-shuts-agains-ships-make-u-turn",
+        "date": "2026-04-18T16:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Looking For Lifeline\": Spirit Airlines Asks Trump Admin For Emergency Bailout",
+        "link": "https://www.zerohedge.com/markets/looking-lifeline-spirit-airlines-asks-trump-admin-emergency-bailout",
+        "date": "2026-04-18T13:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ukraine Urges Israel To Act Against Russian Ship Carrying 'Stolen' Grain To Haifa Port",
+        "link": "https://www.zerohedge.com/geopolitical/ukraine-israel-act-against-russian-ship-carrying-stolen-grain-haifa-port",
+        "date": "2026-04-18T11:50:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-19T10:27:17.422Z"
+  }
+}
