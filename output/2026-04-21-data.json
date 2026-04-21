@@ -1,0 +1,367 @@
+{
+  "generatedAt": "2026-04-21T10:56:14.327Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "How The Iranian Regime Destroyed Its Economy... Long Before The War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] How The Iranian Regime Destroyed Its Economy... Long Before The War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "How does Fed chair nominee Kevin Warsh view the central bank's inflation goal?",
+        "keywords": [
+          "fed chair",
+          "war"
+        ],
+        "message": "[Fox Biz Economy] How does Fed chair nominee Kevin Warsh view the central bank's inflation goal?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Who is Kevin Warsh, Trump's pick to succeed Jerome Powell as Fed chair?",
+        "keywords": [
+          "fed chair",
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Who is Kevin Warsh, Trump's pick to succeed Jerome Powell as Fed chair?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "China To Import Record Amount Of US Ethane As Iran War Chokes Off Naphtha, LPG Supplies",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] China To Import Record Amount Of US Ethane As Iran War Chokes Off Naphtha, LPG Supplies"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "World's Biggest Physical Oil Trader Warns Of Months Of Price Volatility",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] World's Biggest Physical Oil Trader Warns Of Months Of Price Volatility"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -2.01,
+        "current": 72.15,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -2.01% to $72.15"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.8,
+        "message": "Gold/Silver ratio: 60.8x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 442.09,
+        "previousClose": 445.93,
+        "high": 443.42,
+        "low": 440.09,
+        "changePct": -0.86
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 72.15,
+        "previousClose": 73.63,
+        "high": 72.815,
+        "low": 71.83,
+        "changePct": -2.01
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 86.25,
+        "previousClose": 87.19,
+        "high": 86.72,
+        "low": 85.4334,
+        "changePct": -1.08
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 70.41,
+        "previousClose": 69.43,
+        "high": 70.49,
+        "low": 67.51,
+        "changePct": 1.41
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 56.05,
+        "previousClose": 55.86,
+        "high": 56.12,
+        "low": 54.16,
+        "changePct": 0.34
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 32.69,
+        "previousClose": 33,
+        "high": 32.8087,
+        "low": 32.112,
+        "changePct": -0.94
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.07,
+        "previousClose": 55.02,
+        "high": 55.715,
+        "low": 54.8,
+        "changePct": 0.09
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.32,
+        "previousClose": 27.36,
+        "high": 27.375,
+        "low": 27.3,
+        "changePct": -0.15
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 87.05,
+        "previousClose": 87.07,
+        "high": 87.125,
+        "low": 86.71,
+        "changePct": -0.02
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 708.72,
+        "previousClose": 710.14,
+        "high": 709.91,
+        "low": 706.14,
+        "changePct": -0.2
+      }
+    },
+    "metals": {
+      "gold": 4806.1,
+      "silver": 79.05,
+      "copper": 6.05,
+      "platinum": 2083.5,
+      "crude": null,
+      "goldSilverRatio": 60.8
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4806.1,
+        "change": -22.699707,
+        "changePct": -0.47,
+        "previousClose": 4828.8
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 79.045,
+        "change": -0.99300385,
+        "changePct": -1.24,
+        "previousClose": 80.038
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.047,
+        "change": 0.0009999275,
+        "changePct": 0.02,
+        "previousClose": 6.046
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2083.5,
+        "change": -3.6999512,
+        "changePct": -0.18,
+        "previousClose": 2087.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 86.4,
+        "change": -1.0199966,
+        "changePct": -1.17,
+        "previousClose": 87.42
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.71,
+        "previous": 3.78,
+        "change": -0.07,
+        "changeBps": -7,
+        "date": "2026-04-17"
+      },
+      "10Y": {
+        "current": 4.26,
+        "previous": 4.32,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-04-17"
+      },
+      "30Y": {
+        "current": 4.88,
+        "previous": 4.93,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-04-17"
+      },
+      "USD_BROAD": {
+        "current": 118.0795,
+        "previous": 118.3616,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-04-17"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 409181,
+        "previous": 872985,
+        "change": -463804,
+        "period": "2026-04-10",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil will fall to the mid $80s in a best-case scenario, says UBS",
+        "link": "https://www.marketwatch.com/story/oil-will-fall-to-the-mid-80s-in-a-best-case-scenario-says-ubs-312a7055?mod=mw_rss_topstories",
+        "date": "2026-04-21T10:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How The Iranian Regime Destroyed Its Economy... Long Before The War",
+        "link": "https://www.zerohedge.com/geopolitical/how-iranian-regime-destroyed-its-economy-long-war",
+        "date": "2026-04-21T10:30:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "How does Fed chair nominee Kevin Warsh view the central bank's inflation goal?",
+        "link": "https://www.foxbusiness.com/economy/how-does-fed-chair-nominee-kevin-warsh-view-central-banks-inflation-goal",
+        "date": "2026-04-21T10:00:52.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Data Centers Drove Half Of All Growth In US Electricity Use In 2025",
+        "link": "https://www.zerohedge.com/energy/data-centers-drove-half-all-growth-us-electricity-use-2025",
+        "date": "2026-04-21T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Primark owner warns of impact of war in Iran on outlook — making it one of the first European retailers to do so",
+        "link": "https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories",
+        "date": "2026-04-21T09:30:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Who is Kevin Warsh, Trump's pick to succeed Jerome Powell as Fed chair?",
+        "link": "https://www.foxbusiness.com/economy/who-kevin-warsh-trumps-pick-succeed-jerome-powell-fed-chair",
+        "date": "2026-04-21T09:00:21.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+        "link": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html",
+        "date": "2026-04-21T08:15:10.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The end of freedom of the seas: Why global shipping may never be the same",
+        "link": "https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories",
+        "date": "2026-04-21T07:43:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia's Tuapse Refinery Attacked 2nd Time In Days, While Battling Oil Spill Into Black Sea",
+        "link": "https://www.zerohedge.com/energy/russias-tuapse-refinery-attacked-2nd-time-days-while-battling-oil-spill-black-sea",
+        "date": "2026-04-21T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The US Demanded That Europeans Accelerate Their Transition To 'NATO 3.0'",
+        "link": "https://www.zerohedge.com/geopolitical/us-demanded-europeans-accelerate-their-transition-nato-30",
+        "date": "2026-04-21T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iranian Woman Arrested In LA, Charged With Helping Iranian Regime Sell Drones",
+        "link": "https://www.zerohedge.com/geopolitical/iranian-woman-arrested-la-charged-helping-iranian-regime-sell-drones",
+        "date": "2026-04-21T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China To Import Record Amount Of US Ethane As Iran War Chokes Off Naphtha, LPG Supplies",
+        "link": "https://www.zerohedge.com/markets/china-import-record-amount-us-ethane-iran-war-chokes-naphtha-lpg-supplies",
+        "date": "2026-04-21T02:59:21.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iraq's Ruling Pro-Iran Bloc Races To Choose PM, While US Rejects Main Candidates",
+        "link": "https://www.zerohedge.com/geopolitical/iraqs-ruling-pro-iran-bloc-races-choose-prime-minister-while-us-rejects-main",
+        "date": "2026-04-21T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "World's Biggest Physical Oil Trader Warns Of Months Of Price Volatility",
+        "link": "https://www.zerohedge.com/energy/worlds-biggest-physical-oil-trader-warns-months-price-volatility",
+        "date": "2026-04-21T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Beyond Chips: U.S. And China Enter Robotaxi Race As Physical AI Emerges",
+        "link": "https://www.zerohedge.com/technology/beyond-chips-us-and-china-enter-robotaxi-race-physical-ai-emerges",
+        "date": "2026-04-21T00:30:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-21T10:56:06.538Z"
+  }
+}
