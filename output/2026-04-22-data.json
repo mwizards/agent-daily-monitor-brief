@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-04-22T10:55:21.155Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -5.07,
+        "current": 68.49,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -5.07% to $68.49"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -5.54,
+        "current": 81.47,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -5.54% to $81.47"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -6.55,
+        "current": 30.55,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -6.55% to $30.55"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -4.72,
+        "current": 67.09,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -4.72% to $67.09"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -4.12,
+        "current": 53.74,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -4.12% to $53.74"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "South Korea Curbs Syringe Hoarding As Iran War Cripples Supply",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] South Korea Curbs Syringe Hoarding As Iran War Cripples Supply"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Treasury Sanctions 14 Targets For Helping Iran Obtain Weapons",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] US Treasury Sanctions 14 Targets For Helping Iran Obtain Weapons"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Democratic Rep. Cherfilus-McCormick Resigns Ahead of Ethics Committee Sanctions Hearing",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] Democratic Rep. Cherfilus-McCormick Resigns Ahead of Ethics Committee Sanctions Hearing"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -2.83,
+        "current": 429.57,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -2.83% to $429.57"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "US Throttles Intelligence-Sharing With South Korea After Nuclear Disclosure Row",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US Throttles Intelligence-Sharing With South Korea After Nuclear Disclosure Row"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.23,
+        "message": "Gold/Silver ratio: 61.23x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 429.57,
+        "previousClose": 442.09,
+        "high": 440.245,
+        "low": 428.71,
+        "changePct": -2.83
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.49,
+        "previousClose": 72.15,
+        "high": 71.5397,
+        "low": 68.35,
+        "changePct": -5.07
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 81.47,
+        "previousClose": 86.25,
+        "high": 85.9,
+        "low": 81.32,
+        "changePct": -5.54
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 67.09,
+        "previousClose": 70.41,
+        "high": 70.145,
+        "low": 66.8101,
+        "changePct": -4.72
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 53.74,
+        "previousClose": 56.05,
+        "high": 56.415,
+        "low": 53.66,
+        "changePct": -4.12
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.55,
+        "previousClose": 32.69,
+        "high": 32.48,
+        "low": 30.53,
+        "changePct": -6.55
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.87,
+        "previousClose": 55.07,
+        "high": 55.96,
+        "low": 54.92,
+        "changePct": 1.45
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.47,
+        "previousClose": 27.32,
+        "high": 27.47,
+        "low": 27.345,
+        "changePct": 0.55
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.57,
+        "previousClose": 87.05,
+        "high": 87.092,
+        "low": 86.53,
+        "changePct": -0.55
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 704.08,
+        "previousClose": 708.72,
+        "high": 711.275,
+        "low": 702.64,
+        "changePct": -0.65
+      }
+    },
+    "metals": {
+      "gold": 4775.1,
+      "silver": 77.98,
+      "copper": 6.06,
+      "platinum": 2082.1,
+      "crude": null,
+      "goldSilverRatio": 61.23
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4775.1,
+        "change": 55.5,
+        "changePct": 1.18,
+        "previousClose": 4719.6
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 77.98,
+        "change": 1.4920044,
+        "changePct": 1.95,
+        "previousClose": 76.488
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.0635,
+        "change": 0.052999973,
+        "changePct": 0.88,
+        "previousClose": 6.0105
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2082.1,
+        "change": 41.30005,
+        "changePct": 2.02,
+        "previousClose": 2040.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.24,
+        "change": 0.5699997,
+        "changePct": 0.64,
+        "previousClose": 89.67
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.72,
+        "previous": 3.71,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-20"
+      },
+      "10Y": {
+        "current": 4.26,
+        "previous": 4.26,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-20"
+      },
+      "30Y": {
+        "current": 4.88,
+        "previous": 4.88,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-20"
+      },
+      "USD_BROAD": {
+        "current": 118.0795,
+        "previous": 118.3616,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-04-17"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 409181,
+        "previous": 872985,
+        "change": -463804,
+        "period": "2026-04-10",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "China \"Aggressively\" Selling Oil In Recent Weeks",
+        "link": "https://www.zerohedge.com/energy/china-aggressively-selling-oil-recent-weeks",
+        "date": "2026-04-22T10:55:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
+        "link": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html",
+        "date": "2026-04-22T10:37:32.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Throttles Intelligence-Sharing With South Korea After Nuclear Disclosure Row",
+        "link": "https://www.zerohedge.com/geopolitical/us-throttles-intelligence-sharing-south-korea-after-nuclear-disclosure-row",
+        "date": "2026-04-22T08:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin",
+        "link": "https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories",
+        "date": "2026-04-22T07:36:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Loads Up On US Chip Tools Via Southeast Asia Amid Supply Chain Shift",
+        "link": "https://www.zerohedge.com/markets/china-loads-us-chip-tools-southeast-asia-amid-supply-chain-shift",
+        "date": "2026-04-22T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Spain's Services Crumble; Military-Aged Male Migrants Overwhelm Registry Offices",
+        "link": "https://www.zerohedge.com/geopolitical/spains-services-crumble-military-aged-male-migrants-overwhelm-registry-offices",
+        "date": "2026-04-22T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "South Korea Curbs Syringe Hoarding As Iran War Cripples Supply",
+        "link": "https://www.zerohedge.com/markets/south-korea-curbs-syringe-hoarding-iran-war-cripples-supply",
+        "date": "2026-04-22T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Blinks Again, Unilaterally Extends Iran Ceasefire After Pakistan Talks Fail To Launch",
+        "link": "https://www.zerohedge.com/geopolitical/pakistan-tensely-awaits-next-round-talks-ceasefire-deadline-looms-us-navy-boards",
+        "date": "2026-04-22T02:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US, Philippines Launch Their 'Biggest Ever' Balikatan Drills With Large Japanese Contingent",
+        "link": "https://www.zerohedge.com/geopolitical/us-philippines-launch-their-biggest-ever-balikatan-drills-large-japanese-contingent",
+        "date": "2026-04-22T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Halliburton Sees First Signs Of Life In America's Oil Patch: \"We Are In Early Innings\"",
+        "link": "https://www.zerohedge.com/commodities/halliburton-sees-first-signs-life-americas-oil-patch-we-are-early-innings",
+        "date": "2026-04-22T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Treasury Sanctions 14 Targets For Helping Iran Obtain Weapons",
+        "link": "https://www.zerohedge.com/geopolitical/us-treasury-sanctions-14-targets-helping-iran-obtain-weapons",
+        "date": "2026-04-22T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Conservative-Targeting SPLC Indicted By Trump DoJ For Fraudulently Funding KKK & Other Extremist Groups",
+        "link": "https://www.zerohedge.com/political/conservative-targeting-splc-indicted-trump-doj-fraudulently-funding-kkk-other-extremist",
+        "date": "2026-04-22T00:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "What is Cursor? SpaceX could buy the AI company for a whopping $60 billion.",
+        "link": "https://www.marketwatch.com/story/what-is-cursor-spacex-could-buy-the-ai-company-for-a-whopping-60-billion-97cc4c16?mod=mw_rss_topstories",
+        "date": "2026-04-22T00:01:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Democratic Rep. Cherfilus-McCormick Resigns Ahead of Ethics Committee Sanctions Hearing",
+        "link": "https://www.zerohedge.com/political/democratic-rep-cherfilus-mccormick-resigns-ahead-ethics-committee-sanctions-hearing",
+        "date": "2026-04-21T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Whistleblower Says CIA Hid 2020 Election Threats To Help Biden",
+        "link": "https://www.zerohedge.com/political/whistleblower-says-cia-hid-2020-election-threats-help-biden",
+        "date": "2026-04-21T21:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-22T10:55:11.431Z"
+  }
+}
