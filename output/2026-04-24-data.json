@@ -1,0 +1,399 @@
+{
+  "generatedAt": "2026-04-24T10:56:17.610Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.12,
+        "current": 69.13,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.12% to $69.13"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "There’s never been a semiconductor rally like this one — and that’s triggering a number of warnings",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] There’s never been a semiconductor rally like this one — and that’s triggering a number of warnings"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Sweden Will Consider Ways To Limit Energy Use If Iran War Continues, Government Says",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Sweden Will Consider Ways To Limit Energy Use If Iran War Continues, Government Says"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Breakthrough: Trump Unveils 3-Week Extended Ceasefire In Lebanon, But Says 'All The Time In The World' To End Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Breakthrough: Trump Unveils 3-Week Extended Ceasefire In Lebanon, But Says 'All The Time In The World' To End Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "EU Finally Unblocks €90 Loan For Ukraine, Weighted Toward Military Spending",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] EU Finally Unblocks €90 Loan For Ukraine, Weighted Toward Military Spending"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -2.83,
+        "current": 68.38,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -2.83% to $68.38"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -2.87,
+        "current": 82.46,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -2.87% to $82.46"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.18,
+        "current": 56.47,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.18% to $56.47"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.73,
+        "current": 30.66,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.73% to $30.66"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "37 Senate Democrats Urge USPS To Refuse Trump's Vote-By-Mail Executive Order",
+        "keywords": [
+          "executive order"
+        ],
+        "message": "[ZeroHedge] 37 Senate Democrats Urge USPS To Refuse Trump's Vote-By-Mail Executive Order"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.77,
+        "message": "Gold/Silver ratio: 62.77x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 431.04,
+        "previousClose": 435.26,
+        "high": 435.2913,
+        "low": 428.25,
+        "changePct": -0.97
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.38,
+        "previousClose": 70.37,
+        "high": 69.24,
+        "low": 67.515,
+        "changePct": -2.83
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.46,
+        "previousClose": 84.9,
+        "high": 85.2,
+        "low": 81.29,
+        "changePct": -2.87
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 69.13,
+        "previousClose": 71.36,
+        "high": 72.335,
+        "low": 67.802,
+        "changePct": -3.12
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 56.47,
+        "previousClose": 57.73,
+        "high": 58.96,
+        "low": 55.29,
+        "changePct": -2.18
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.66,
+        "previousClose": 31.52,
+        "high": 31.38,
+        "low": 29.73,
+        "changePct": -2.73
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.98,
+        "previousClose": 56.54,
+        "high": 57.19,
+        "low": 56.47,
+        "changePct": 0.78
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.53,
+        "previousClose": 27.48,
+        "high": 27.5775,
+        "low": 27.465,
+        "changePct": 0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.55,
+        "previousClose": 86.74,
+        "high": 87.04,
+        "low": 86.2401,
+        "changePct": -0.22
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 708.45,
+        "previousClose": 711.21,
+        "high": 712.3598,
+        "low": 702.2803,
+        "changePct": -0.39
+      }
+    },
+    "metals": {
+      "gold": 4693.6,
+      "silver": 74.77,
+      "copper": 5.99,
+      "platinum": 1987.2,
+      "crude": null,
+      "goldSilverRatio": 62.77
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4693.6,
+        "change": -30.399902,
+        "changePct": -0.64,
+        "previousClose": 4724
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 74.77,
+        "change": -0.73400116,
+        "changePct": -0.97,
+        "previousClose": 75.504
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.992,
+        "change": -0.08949995,
+        "changePct": -1.47,
+        "previousClose": 6.0815
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1987.2,
+        "change": -51.200073,
+        "changePct": -2.51,
+        "previousClose": 2038.4
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 97.23,
+        "change": 1.3800049,
+        "changePct": 1.44,
+        "previousClose": 95.85
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.79,
+        "previous": 3.78,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-22"
+      },
+      "10Y": {
+        "current": 4.3,
+        "previous": 4.3,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-22"
+      },
+      "30Y": {
+        "current": 4.9,
+        "previous": 4.89,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-22"
+      },
+      "USD_BROAD": {
+        "current": 118.0795,
+        "previous": 118.3616,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-04-17"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 405045,
+        "previous": 870774,
+        "change": -465729,
+        "period": "2026-04-17",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "There’s never been a semiconductor rally like this one — and that’s triggering a number of warnings",
+        "link": "https://www.marketwatch.com/story/theres-never-been-a-semiconductor-rally-like-this-one-and-thats-triggering-a-number-of-warnings-bf622cfa?mod=mw_rss_topstories",
+        "date": "2026-04-24T10:53:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The ‘simple math’ why oil prices need to rise a lot more, according to JPMorgan",
+        "link": "https://www.marketwatch.com/story/the-simple-math-why-oil-prices-need-to-rise-a-lot-more-according-to-jpmorgan-bd041c17?mod=mw_rss_topstories",
+        "date": "2026-04-24T09:57:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Sweden Will Consider Ways To Limit Energy Use If Iran War Continues, Government Says",
+        "link": "https://www.zerohedge.com/political/sweden-will-consider-ways-limit-energy-use-if-iran-war-continues-government-says",
+        "date": "2026-04-24T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ship Of Shame: Australia Saved By Trump's Emergency Fuel Shipments",
+        "link": "https://www.zerohedge.com/geopolitical/ship-shame-australia-saved-trumps-emergency-fuel-shipments",
+        "date": "2026-04-24T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israeli Air Force Technicians Charged With Spying For Iran Amid 'Espionage Epidemic'",
+        "link": "https://www.zerohedge.com/geopolitical/israeli-air-force-technicians-charged-spying-iran-amid-espionage-epidemic",
+        "date": "2026-04-24T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Breakthrough: Trump Unveils 3-Week Extended Ceasefire In Lebanon, But Says 'All The Time In The World' To End Iran War",
+        "link": "https://www.zerohedge.com/geopolitical/us-intercepts-iranian-tankers-tehran-keeps-hormuz-chokepoint-shut",
+        "date": "2026-04-24T06:59:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "EU Finally Unblocks €90 Loan For Ukraine, Weighted Toward Military Spending",
+        "link": "https://www.zerohedge.com/geopolitical/eu-finally-unblocks-eu90-loan-ukraine-weighted-toward-military-spending",
+        "date": "2026-04-24T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Europe Bets On Newsom To Reverse Trump's America -  And Save Its Own Model",
+        "link": "https://www.zerohedge.com/markets/europe-bets-newsom-reverse-trumps-america-and-save-its-own-model",
+        "date": "2026-04-24T03:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "37 Senate Democrats Urge USPS To Refuse Trump's Vote-By-Mail Executive Order",
+        "link": "https://www.zerohedge.com/political/37-senate-democrats-urge-usps-refuse-trumps-vote-mail-executive-order",
+        "date": "2026-04-24T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "DOJ Settles Surveillance Abuse Lawsuit With Former Trump Campaign Adviser Carter Page",
+        "link": "https://www.zerohedge.com/political/doj-settles-surveillance-abuse-lawsuit-former-trump-campaign-adviser-carter-page",
+        "date": "2026-04-24T01:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Announces First Hormuz Toll Fees Successfully Transferred To Central Bank",
+        "link": "https://www.zerohedge.com/geopolitical/iran-announces-first-hormuz-toll-fees-successfully-transferred-central-bank",
+        "date": "2026-04-24T00:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Judge Blocks Trump Admin's Move To Halt Wind, Solar Approvals",
+        "link": "https://www.zerohedge.com/political/judge-blocks-trump-admins-move-halt-wind-solar-approvals-0",
+        "date": "2026-04-24T00:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mercuria, Goldman, JPMorgan See Major Aluminum Market Shock",
+        "link": "https://www.zerohedge.com/commodities/mercuria-goldman-jpmorgan-see-major-aluminum-market-shock",
+        "date": "2026-04-23T23:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Confirms Possible U.S. Takeover Of Spirit If 'Price Is Right'",
+        "link": "https://www.zerohedge.com/markets/trump-admin-nears-possible-rescue-deal-spirit-airlines-14000-jobs-risk",
+        "date": "2026-04-23T23:29:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "PIMCO Privately Lends Over $10 Billion To Dollar-Strapped Gulf States",
+        "link": "https://www.zerohedge.com/geopolitical/pimco-privately-lends-over-10-billion-dollar-strapped-gulf-states",
+        "date": "2026-04-23T22:15:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-24T10:56:08.152Z"
+  }
+}
