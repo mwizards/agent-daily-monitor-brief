@@ -1,0 +1,368 @@
+{
+  "generatedAt": "2026-04-25T10:32:09.256Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.07,
+        "current": 67.01,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.07% to $67.01"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Sanctions Cambodian Senator Linked To Crypto Romance Scam Centers",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] US Sanctions Cambodian Senator Linked To Crypto Romance Scam Centers"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "IRGC Seizes Ship With Witkoff-Kushner Team En Route To Pakistan; US Sanctions Chinese Refinery, Iran Shadow Fleet",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] IRGC Seizes Ship With Witkoff-Kushner Team En Route To Pakistan; US Sanctions Chinese Refinery, Iran Shadow Fleet"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+        "keywords": [
+          "fed chair"
+        ],
+        "message": "[CNBC Economy] Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Why crude prices won’t fall back to levels seen before the Iran war anytime soon",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Why crude prices won’t fall back to levels seen before the Iran war anytime soon"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Race To Refill U.S. Weapons Stockpiles Will Supercharge War Economy",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Race To Refill U.S. Weapons Stockpiles Will Supercharge War Economy"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.05,
+        "current": 55.31,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.05% to $55.31"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "There’s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[MarketWatch] There’s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "DOE's Nuclear Fuel Consortium Announces Seven-Year Plan",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] DOE's Nuclear Fuel Consortium Announces Seven-Year Plan"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.04,
+        "message": "Gold/Silver ratio: 62.04x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 433.25,
+        "previousClose": 431.04,
+        "high": 435.28,
+        "low": 430.6501,
+        "changePct": 0.51
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.79,
+        "previousClose": 68.38,
+        "high": 69.415,
+        "low": 68.1,
+        "changePct": 0.6
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.37,
+        "previousClose": 82.46,
+        "high": 83.12,
+        "low": 81.875,
+        "changePct": -0.11
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 67.01,
+        "previousClose": 69.13,
+        "high": 69.85,
+        "low": 67,
+        "changePct": -3.07
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.31,
+        "previousClose": 56.47,
+        "high": 57.44,
+        "low": 55.261,
+        "changePct": -2.05
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.9,
+        "previousClose": 30.66,
+        "high": 31.11,
+        "low": 30.35,
+        "changePct": 0.78
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.87,
+        "previousClose": 56.98,
+        "high": 56.92,
+        "low": 56.17,
+        "changePct": -0.19
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.48,
+        "previousClose": 27.53,
+        "high": 27.525,
+        "low": 27.45,
+        "changePct": -0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.71,
+        "previousClose": 86.55,
+        "high": 86.82,
+        "low": 86.25,
+        "changePct": 0.18
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 713.94,
+        "previousClose": 708.45,
+        "high": 714.47,
+        "low": 709.01,
+        "changePct": 0.77
+      }
+    },
+    "metals": {
+      "gold": 4740.9,
+      "silver": 76.41,
+      "copper": 6.03,
+      "platinum": 2030.4,
+      "crude": null,
+      "goldSilverRatio": 62.04
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4740.9,
+        "change": 16.899902,
+        "changePct": 0.36,
+        "previousClose": 4724
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.414,
+        "change": 0.91000366,
+        "changePct": 1.21,
+        "previousClose": 75.504
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.027,
+        "change": -0.054500103,
+        "changePct": -0.9,
+        "previousClose": 6.0815
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2030.4,
+        "change": -8,
+        "changePct": -0.39,
+        "previousClose": 2038.4
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 94.4,
+        "change": -1.449997,
+        "changePct": -1.51,
+        "previousClose": 95.85
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.83,
+        "previous": 3.79,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-23"
+      },
+      "10Y": {
+        "current": 4.34,
+        "previous": 4.3,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-23"
+      },
+      "30Y": {
+        "current": 4.92,
+        "previous": 4.9,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-04-23"
+      },
+      "USD_BROAD": {
+        "current": 118.0795,
+        "previous": 118.3616,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-04-17"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 405045,
+        "previous": 870774,
+        "change": -465729,
+        "period": "2026-04-17",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Muted Demand During India's Second-Biggest Gold-Buying Festival, After Prices Surge",
+        "link": "https://www.zerohedge.com/precious-metals/muted-demand-during-indias-second-biggest-gold-buying-festival-after-prices-surge",
+        "date": "2026-04-25T02:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Email Seeks Ways To Suspend Spain From NATO, Brussels Says Not Possible",
+        "link": "https://www.zerohedge.com/geopolitical/pentagon-email-seeks-ways-suspend-spain-nato-brussels-says-not-possible",
+        "date": "2026-04-25T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Administration Seeks Pause Of Lawsuit Challenging Vaccine Recommendations",
+        "link": "https://www.zerohedge.com/medical/trump-administration-seeks-pause-lawsuit-challenging-vaccine-recommendations",
+        "date": "2026-04-25T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Sanctions Cambodian Senator Linked To Crypto Romance Scam Centers",
+        "link": "https://www.zerohedge.com/crypto/us-sanctions-cambodian-senator-linked-crypto-romance-scam-centers",
+        "date": "2026-04-24T23:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "TerraPower Commences Construction of Utility-Scale Advanced Reactor",
+        "link": "https://www.zerohedge.com/energy/terrapower-commences-construction-utility-scale-advanced-reactor",
+        "date": "2026-04-24T21:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "There’s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?",
+        "link": "https://www.marketwatch.com/story/theres-a-new-stock-for-the-nuclear-power-ipo-trade-and-wall-street-is-piling-in-should-you-b07269fa?mod=mw_rss_topstories",
+        "date": "2026-04-24T20:29:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Why Did China Reserve A Vast Offshore Airspace For 40 Days Without Explanation?",
+        "link": "https://www.zerohedge.com/geopolitical/why-did-china-reserve-vast-offshore-airspace-40-days-without-explanation",
+        "date": "2026-04-24T20:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "IRGC Seizes Ship With Witkoff-Kushner Team En Route To Pakistan; US Sanctions Chinese Refinery, Iran Shadow Fleet",
+        "link": "https://www.zerohedge.com/geopolitical/flurry-reports-signal-breakthrough-us-iran-getting-back-table-pakistan-third-us",
+        "date": "2026-04-24T20:03:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+        "link": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html",
+        "date": "2026-04-24T19:19:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Why crude prices won’t fall back to levels seen before the Iran war anytime soon",
+        "link": "https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories",
+        "date": "2026-04-24T19:07:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Race To Refill U.S. Weapons Stockpiles Will Supercharge War Economy",
+        "link": "https://www.zerohedge.com/military/race-refill-us-weapons-stockpiles-will-supercharge-war-economy",
+        "date": "2026-04-24T18:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "DOE's Nuclear Fuel Consortium Announces Seven-Year Plan",
+        "link": "https://www.zerohedge.com/energy/does-nuclear-fuel-consortium-announces-seven-year-plan",
+        "date": "2026-04-24T17:25:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-25T10:31:59.477Z"
+  }
+}
