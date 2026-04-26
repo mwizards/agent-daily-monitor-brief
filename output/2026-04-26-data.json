@@ -1,0 +1,332 @@
+{
+  "generatedAt": "2026-04-26T10:33:35.869Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.07,
+        "current": 67.01,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.07% to $67.01"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The Petroyuan Myth: War Failed To Shake The Dollar",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The Petroyuan Myth: War Failed To Shake The Dollar"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Total Internet Blackout In Iran Hits 8 Weeks As Citizens Left In Dark About War's Future",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Total Internet Blackout In Iran Hits 8 Weeks As Citizens Left In Dark About War's Future"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Germany's Debt Spiral Warning Ignored As Berlin Doubles Down On Spending",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Germany's Debt Spiral Warning Ignored As Berlin Doubles Down On Spending"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Global Inflation Scare: Chinese Exporters Hike Prices As Iran War Triggers Ethane Shortage, Plastics Crunch",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Global Inflation Scare: Chinese Exporters Hike Prices As Iran War Triggers Ethane Shortage, Plastics Crunch"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.05,
+        "current": 55.31,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.05% to $55.31"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.04,
+        "message": "Gold/Silver ratio: 62.04x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 433.25,
+        "previousClose": 431.04,
+        "high": 435.28,
+        "low": 430.6501,
+        "changePct": 0.51
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.79,
+        "previousClose": 68.38,
+        "high": 69.415,
+        "low": 68.1,
+        "changePct": 0.6
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.37,
+        "previousClose": 82.46,
+        "high": 83.12,
+        "low": 81.875,
+        "changePct": -0.11
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 67.01,
+        "previousClose": 69.13,
+        "high": 69.85,
+        "low": 67,
+        "changePct": -3.07
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.31,
+        "previousClose": 56.47,
+        "high": 57.44,
+        "low": 55.261,
+        "changePct": -2.05
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.9,
+        "previousClose": 30.66,
+        "high": 31.11,
+        "low": 30.35,
+        "changePct": 0.78
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.87,
+        "previousClose": 56.98,
+        "high": 56.92,
+        "low": 56.17,
+        "changePct": -0.19
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.48,
+        "previousClose": 27.53,
+        "high": 27.525,
+        "low": 27.45,
+        "changePct": -0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.71,
+        "previousClose": 86.55,
+        "high": 86.82,
+        "low": 86.25,
+        "changePct": 0.18
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 713.94,
+        "previousClose": 708.45,
+        "high": 714.47,
+        "low": 709.01,
+        "changePct": 0.77
+      }
+    },
+    "metals": {
+      "gold": 4740.9,
+      "silver": 76.41,
+      "copper": 6.03,
+      "platinum": 2030.4,
+      "crude": null,
+      "goldSilverRatio": 62.04
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4740.9,
+        "change": 16.899902,
+        "changePct": 0.36,
+        "previousClose": 4724
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.414,
+        "change": 0.91000366,
+        "changePct": 1.21,
+        "previousClose": 75.504
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.027,
+        "change": -0.054500103,
+        "changePct": -0.9,
+        "previousClose": 6.0815
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2030.4,
+        "change": -8,
+        "changePct": -0.39,
+        "previousClose": 2038.4
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 94.4,
+        "change": -1.449997,
+        "changePct": -1.51,
+        "previousClose": 95.85
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.83,
+        "previous": 3.79,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-23"
+      },
+      "10Y": {
+        "current": 4.34,
+        "previous": 4.3,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-23"
+      },
+      "30Y": {
+        "current": 4.92,
+        "previous": 4.9,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-04-23"
+      },
+      "USD_BROAD": {
+        "current": 118.0795,
+        "previous": 118.3616,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-04-17"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 405045,
+        "previous": 870774,
+        "change": -465729,
+        "period": "2026-04-17",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "The Petroyuan Myth: War Failed To Shake The Dollar",
+        "link": "https://www.zerohedge.com/geopolitical/petroyuan-myth-war-failed-shake-dollar",
+        "date": "2026-04-26T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Pitching US Companies To Rebuild Gulf Infrastructure Hit By Iran, Arab Officials Say 'Tone-Deaf'",
+        "link": "https://www.zerohedge.com/geopolitical/trump-admin-pitching-us-companies-rebuild-gulf-infrastructure-hit-iran-arab-officials",
+        "date": "2026-04-26T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Cole Tomas Allen ID'd As Suspect In White House Correspondents' Dinner Shooting",
+        "link": "https://www.zerohedge.com/political/trump-evacuated-shots-fired-white-house-correspondents-dinner-shooter-dead",
+        "date": "2026-04-26T00:59:45.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
+        "link": "https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories",
+        "date": "2026-04-25T19:05:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "ChatGPT is so 2025 — here are the real AI gold mines for investors in 2026",
+        "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
+        "date": "2026-04-25T17:41:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Total Internet Blackout In Iran Hits 8 Weeks As Citizens Left In Dark About War's Future",
+        "link": "https://www.zerohedge.com/markets/total-internet-blackout-iran-hits-eight-weeks-citizens-left-dark-about-wars-future",
+        "date": "2026-04-25T16:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"We Have All The Cards\": Trump Cancels Witkoff-Kushner Trip To Pakistan For Iran Talks",
+        "link": "https://www.zerohedge.com/geopolitical/cautious-optimism-amid-stalemated-pakistan-talks-even-iran-fm-insists-no-meeting",
+        "date": "2026-04-25T16:06:32.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "White House Confirms Trump To Address Memecoin Gala Tonight",
+        "link": "https://www.zerohedge.com/crypto/white-house-confirms-trump-address-memecoin-gala-tonight",
+        "date": "2026-04-25T15:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump's SWIFT Hint And The Decline Of The Euro",
+        "link": "https://www.zerohedge.com/economics/trumps-swift-hint-and-decline-euro",
+        "date": "2026-04-25T14:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany's Debt Spiral Warning Ignored As Berlin Doubles Down On Spending",
+        "link": "https://www.zerohedge.com/economics/germanys-debt-spiral-warning-ignored-berlin-doubles-down-spending",
+        "date": "2026-04-25T13:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Global Inflation Scare: Chinese Exporters Hike Prices As Iran War Triggers Ethane Shortage, Plastics Crunch",
+        "link": "https://www.zerohedge.com/economics/global-inflation-scare-chinese-exporters-hike-prices-iran-war-triggers-ethane-shortage",
+        "date": "2026-04-25T12:45:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-26T10:33:27.178Z"
+  }
+}
