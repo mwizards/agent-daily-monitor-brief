@@ -1,0 +1,364 @@
+{
+  "generatedAt": "2026-04-28T11:29:07.759Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "SEC Issues Warning For US Investors On Phishing, Smishing, & Vishing Scams",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] SEC Issues Warning For US Investors On Phishing, Smishing, & Vishing Scams"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Report Claims Iranian Jet Bombed American Base In Kuwait At War's Start",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Report Claims Iranian Jet Bombed American Base In Kuwait At War's Start"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Let's Get Ruthless\": Bulwark's Bill Kristol Suggests Illiberal Means Are Needed To Save Liberal Democracy",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"Let's Get Ruthless\": Bulwark's Bill Kristol Suggests Illiberal Means Are Needed To Save Liberal Democracy"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Chevron CEO warns aviation strain could worsen as jet fuel crunch deepens",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Chevron CEO warns aviation strain could worsen as jet fuel crunch deepens"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 2.58,
+        "current": 68.74,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +2.58% to $68.74"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 2.51,
+        "current": 56.7,
+        "direction": "UP",
+        "message": "Uranium (URA) +2.51% to $56.7"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Zelensky Charges Russia With 'Nuclear Terrorism' On 40th Chernobyl Anniversary",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Zelensky Charges Russia With 'Nuclear Terrorism' On 40th Chernobyl Anniversary"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.94,
+        "message": "Gold/Silver ratio: 62.94x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 429.89,
+        "previousClose": 433.25,
+        "high": 431.8,
+        "low": 428.54,
+        "changePct": -0.78
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.33,
+        "previousClose": 68.79,
+        "high": 68.55,
+        "low": 67.56,
+        "changePct": -0.67
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 81.7,
+        "previousClose": 82.37,
+        "high": 82.1399,
+        "low": 80.97,
+        "changePct": -0.81
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.74,
+        "previousClose": 67.01,
+        "high": 69.18,
+        "low": 67.4813,
+        "changePct": 2.58
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 56.7,
+        "previousClose": 55.31,
+        "high": 57.02,
+        "low": 55.465,
+        "changePct": 2.51
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.63,
+        "previousClose": 30.9,
+        "high": 30.76,
+        "low": 30.24,
+        "changePct": -0.87
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.77,
+        "previousClose": 56.87,
+        "high": 57.68,
+        "low": 56.63,
+        "changePct": -0.18
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.45,
+        "previousClose": 27.48,
+        "high": 27.46,
+        "low": 27.39,
+        "changePct": -0.11
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.28,
+        "previousClose": 86.71,
+        "high": 86.62,
+        "low": 86.1926,
+        "changePct": -0.5
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 715.17,
+        "previousClose": 713.94,
+        "high": 715.61,
+        "low": 712.295,
+        "changePct": 0.17
+      }
+    },
+    "metals": {
+      "gold": 4611.1,
+      "silver": 73.27,
+      "copper": 5.97,
+      "platinum": 1928.6,
+      "crude": null,
+      "goldSilverRatio": 62.94
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4611.1,
+        "change": -82.6001,
+        "changePct": -1.76,
+        "previousClose": 4693.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.265,
+        "change": -2.3030014,
+        "changePct": -3.05,
+        "previousClose": 75.568
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.9655,
+        "change": -0.11350012,
+        "changePct": -1.87,
+        "previousClose": 6.079
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1928.6,
+        "change": -69,
+        "changePct": -3.45,
+        "previousClose": 1997.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 100.72,
+        "change": 4.3499985,
+        "changePct": 4.51,
+        "previousClose": 96.37
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.83,
+        "change": -0.05,
+        "changeBps": -5,
+        "date": "2026-04-24"
+      },
+      "10Y": {
+        "current": 4.31,
+        "previous": 4.34,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-04-24"
+      },
+      "30Y": {
+        "current": 4.91,
+        "previous": 4.92,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-04-24"
+      },
+      "USD_BROAD": {
+        "current": 118.7294,
+        "previous": 118.7155,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-24"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 405045,
+        "previous": 870774,
+        "change": -465729,
+        "period": "2026-04-17",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Already Scrambling For Oil Storage After Two Weeks Of US Blockade",
+        "link": "https://www.zerohedge.com/geopolitical/iran-already-scrambling-oil-storage-after-two-weeks-us-blockade",
+        "date": "2026-04-28T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "A second China shock is hitting Europe. These stocks are most vulnerable, strategist says.",
+        "link": "https://www.marketwatch.com/story/a-second-china-shock-is-hitting-europe-these-stocks-are-most-vulnerable-strategist-says-41ff6200?mod=mw_rss_topstories",
+        "date": "2026-04-28T09:33:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war",
+        "link": "https://www.marketwatch.com/story/global-oil-contract-tops-110-after-reports-that-trump-unhappy-with-proposal-from-iran-to-end-war-0708b8ec?mod=mw_rss_topstories",
+        "date": "2026-04-28T09:27:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Investigates Mystery Fire At UK Base Used For Bombing Iran",
+        "link": "https://www.zerohedge.com/military/pentagon-investigates-mystery-fire-uk-base-used-bombing-iran",
+        "date": "2026-04-28T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "NATO Minus US: European Militaries Won't Add Up To Deter Russia",
+        "link": "https://www.zerohedge.com/military/nato-minus-us-european-militaries-wont-add-deter-russia",
+        "date": "2026-04-28T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Zelensky Charges Russia With 'Nuclear Terrorism' On 40th Chernobyl Anniversary",
+        "link": "https://www.zerohedge.com/geopolitical/zelensky-charges-russia-nuclear-terrorism-40th-chernobyl-anniversary",
+        "date": "2026-04-28T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Kim Jong Un Opens Museum Commemorating Troops Killed Fighting For Russia, Blasts US 'Hegemony'",
+        "link": "https://www.zerohedge.com/geopolitical/kim-jong-un-opens-museum-commemorating-troops-killed-fighting-russia-blasts-us",
+        "date": "2026-04-28T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "SEC Issues Warning For US Investors On Phishing, Smishing, & Vishing Scams",
+        "link": "https://www.zerohedge.com/technology/sec-issues-warning-us-investors-phishing-smishing-vishing-scams",
+        "date": "2026-04-28T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Democrat-Owned Brewery Complains About Failed Trump Assassination Attempt With Twisted Promise To Customers",
+        "link": "https://www.zerohedge.com/political/democrat-owned-brewery-complains-about-failed-trump-assassination-attempt-twisted-promise",
+        "date": "2026-04-27T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Report Claims Iranian Jet Bombed American Base In Kuwait At War's Start",
+        "link": "https://www.zerohedge.com/markets/report-claims-iranian-jet-bombed-american-base-kuwait-during-opening-days-war",
+        "date": "2026-04-27T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Let's Get Ruthless\": Bulwark's Bill Kristol Suggests Illiberal Means Are Needed To Save Liberal Democracy",
+        "link": "https://www.zerohedge.com/political/lets-get-ruthless-bulwarks-bill-kristol-suggests-illiberal-means-are-needed-save-liberal",
+        "date": "2026-04-27T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Resurgence Of Electrification\": Goldman Says EV Demand Gaining Momentum Amid Fuel Price Shock",
+        "link": "https://www.zerohedge.com/markets/resurgence-electrification-goldman-says-ev-demand-gaining-momo-amid-fuel-price-shock",
+        "date": "2026-04-27T22:00:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Chevron CEO warns aviation strain could worsen as jet fuel crunch deepens",
+        "link": "https://www.foxbusiness.com/economy/jet-fuel-shortage-airlines-chevron-wirth-warning",
+        "date": "2026-04-27T14:30:03.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-28T11:28:59.041Z"
+  }
+}
