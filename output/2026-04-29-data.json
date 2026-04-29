@@ -1,0 +1,393 @@
+{
+  "generatedAt": "2026-04-29T11:21:57.236Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -3.12,
+        "current": 66.2,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -3.12% to $66.2"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.68,
+        "current": 78.69,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.68% to $78.69"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -4.04,
+        "current": 65.96,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -4.04% to $65.96"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -4.36,
+        "current": 54.23,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -4.36% to $54.23"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -4.7,
+        "current": 29.19,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -4.7% to $29.19"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "NATO Mulls Nixing Annual Summits, Wary Of 'Trump Drama' Overshadowing",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] NATO Mulls Nixing Annual Summits, Wary Of 'Trump Drama' Overshadowing"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israelis Outraged After Govt Sent Vital Arrow Missiles To Germany Mid-Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israelis Outraged After Govt Sent Vital Arrow Missiles To Germany Mid-Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Fed expected to hold rates as Powell era nears end with Warsh on deck",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Fed expected to hold rates as Powell era nears end with Warsh on deck"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "$200 oil – and two other scenarios – could tip the world into a recession, says this global bank",
+        "keywords": [
+          "recession"
+        ],
+        "message": "[MarketWatch] $200 oil – and two other scenarios – could tip the world into a recession, says this global bank"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "Fox Biz Markets",
+        "title": "UAE exits OPEC and OPEC+, seeking output flexibility as global energy markets tighten",
+        "keywords": [
+          "opec"
+        ],
+        "message": "[Fox Biz Markets] UAE exits OPEC and OPEC+, seeking output flexibility as global energy markets tighten"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.63,
+        "message": "Gold/Silver ratio: 62.63x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 421.91,
+        "previousClose": 429.89,
+        "high": 422.51,
+        "low": 418.4,
+        "changePct": -1.86
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 66.2,
+        "previousClose": 68.33,
+        "high": 66.54,
+        "low": 65.37,
+        "changePct": -3.12
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 78.69,
+        "previousClose": 81.7,
+        "high": 80.42,
+        "low": 78.365,
+        "changePct": -3.68
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 65.96,
+        "previousClose": 68.74,
+        "high": 68.21,
+        "low": 65.4875,
+        "changePct": -4.04
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.23,
+        "previousClose": 56.7,
+        "high": 56.025,
+        "low": 53.79,
+        "changePct": -4.36
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.19,
+        "previousClose": 30.63,
+        "high": 30,
+        "low": 29.0101,
+        "changePct": -4.7
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.71,
+        "previousClose": 56.77,
+        "high": 58.05,
+        "low": 57.375,
+        "changePct": 1.66
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.53,
+        "previousClose": 27.45,
+        "high": 27.5485,
+        "low": 27.49,
+        "changePct": 0.29
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.37,
+        "previousClose": 86.305,
+        "high": 86.37,
+        "low": 85.94,
+        "changePct": 0.08
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 711.69,
+        "previousClose": 715.17,
+        "high": 712.88,
+        "low": 709.25,
+        "changePct": -0.49
+      }
+    },
+    "metals": {
+      "gold": 4580.5,
+      "silver": 73.14,
+      "copper": 5.98,
+      "platinum": 1926.1,
+      "crude": null,
+      "goldSilverRatio": 62.63
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4580.5,
+        "change": -27.899902,
+        "changePct": -0.61,
+        "previousClose": 4608.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.135,
+        "change": -0.6100006,
+        "changePct": -0.83,
+        "previousClose": 73.745
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.981,
+        "change": 0.0069999695,
+        "changePct": 0.12,
+        "previousClose": 5.974
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1926.1,
+        "change": -32.700073,
+        "changePct": -1.67,
+        "previousClose": 1958.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 103.25,
+        "change": 3.3199997,
+        "changePct": 3.32,
+        "previousClose": 99.93
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.78,
+        "previous": 3.78,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-27"
+      },
+      "10Y": {
+        "current": 4.35,
+        "previous": 4.31,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-27"
+      },
+      "30Y": {
+        "current": 4.94,
+        "previous": 4.91,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-04-27"
+      },
+      "USD_BROAD": {
+        "current": 118.7294,
+        "previous": 118.7155,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-24"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 405045,
+        "previous": 870774,
+        "change": -465729,
+        "period": "2026-04-17",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Why this Soros alum is betting on copper and cables over AI chips",
+        "link": "https://www.marketwatch.com/story/why-this-soros-alum-is-betting-on-copper-and-cables-over-ai-chips-283e22ca?mod=mw_rss_topstories",
+        "date": "2026-04-29T11:02:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Goldman's State Of U.S. Consumer Outlook Gets More Grim",
+        "link": "https://www.zerohedge.com/personal-finance/goldmans-state-us-consumer-outlook-gets-more-grim",
+        "date": "2026-04-29T10:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany Scrambles For Polish Oil Route As Russia Halts Druzhba Flows",
+        "link": "https://www.zerohedge.com/markets/germany-scrambles-polish-oil-route-russia-halts-druzhba-flows",
+        "date": "2026-04-29T10:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "$200 oil – and two other scenarios – could tip the world into a recession, says this global bank",
+        "link": "https://www.marketwatch.com/story/200-oil-and-two-other-scenarios-could-tip-the-world-into-a-recession-says-this-global-bank-23a66a46?mod=mw_rss_topstories",
+        "date": "2026-04-29T09:48:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Most Americans Expect Prolonged Conflict With Iran",
+        "link": "https://www.zerohedge.com/political/most-americans-expect-prolonged-conflict-iran",
+        "date": "2026-04-29T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "NATO Mulls Nixing Annual Summits, Wary Of 'Trump Drama' Overshadowing",
+        "link": "https://www.zerohedge.com/geopolitical/nato-mulls-nixing-annual-summits-wary-trump-drama-overshadowing",
+        "date": "2026-04-29T08:15:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+        "link": "https://www.cnbc.com/2026/04/29/europes-central-banks-in-wait-and-see-mode-on-interest-rates.html",
+        "date": "2026-04-29T08:13:18.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israelis Outraged After Govt Sent Vital Arrow Missiles To Germany Mid-Iran War",
+        "link": "https://www.zerohedge.com/geopolitical/israelis-outraged-after-govt-sent-vital-arrow-missiles-germany-mid-iran-war",
+        "date": "2026-04-29T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Republican Lawmakers Move On Legislation To Build And Fund Trump's $400 Million Ballroom",
+        "link": "https://www.zerohedge.com/political/republican-lawmakers-move-legislation-build-and-fund-trumps-400-million-ballroom",
+        "date": "2026-04-29T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "California Dreamin': GOP's Chance To Flip The Golden State",
+        "link": "https://www.zerohedge.com/political/california-dreamin-gops-chance-flip-golden-state",
+        "date": "2026-04-29T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Tells Aides US Preparing For Extended Blockade, But Could Be Open To Interim Deal With Iran",
+        "link": "https://www.zerohedge.com/geopolitical/iran-believes-it-can-outlast-us-based-munitions-markets-midterms-while-trump-not-open",
+        "date": "2026-04-29T01:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ft. Knox Full Of Impure Gold Unfit For International Transactions",
+        "link": "https://www.zerohedge.com/precious-metals/ft-knox-full-impure-gold-unfit-international-transactions",
+        "date": "2026-04-29T00:55:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fed expected to hold rates as Powell era nears end with Warsh on deck",
+        "link": "https://www.foxbusiness.com/economy/fed-expected-hold-rates-powell-era-nears-end-warsh-deck",
+        "date": "2026-04-28T18:55:53.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "UAE exits OPEC and OPEC+, seeking output flexibility as global energy markets tighten",
+        "link": "https://www.foxbusiness.com/markets/uae-says-leave-opec-effective-may-1",
+        "date": "2026-04-28T12:48:07.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-29T11:21:45.867Z"
+  }
+}
