@@ -1,0 +1,431 @@
+{
+  "generatedAt": "2026-04-30T11:21:04.507Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Vance Reportedly Questions Pentagon's Rosy Assessment Of Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Vance Reportedly Questions Pentagon's Rosy Assessment Of Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Why Morgan Stanley shifted its call on Federal Reserve rate cuts after the FOMC meeting",
+        "keywords": [
+          "rate cut",
+          "federal reserve"
+        ],
+        "message": "[MarketWatch] Why Morgan Stanley shifted its call on Federal Reserve rate cuts after the FOMC meeting"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "What Does The End Of OPEC Mean For The Iran War And Global Energy Prices?",
+        "keywords": [
+          "war",
+          "opec"
+        ],
+        "message": "[ZeroHedge] What Does The End Of OPEC Mean For The Iran War And Global Energy Prices?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "US shrimpers face ‘double whammy’ from soaring fuel costs, tariff refunds",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] US shrimpers face ‘double whammy’ from soaring fuel costs, tariff refunds"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran Announces Fuel Rationing As Brent Sets New War Highs, After Trump Rejects Tehran's Latest Offer",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iran Announces Fuel Rationing As Brent Sets New War Highs, After Trump Rejects Tehran's Latest Offer"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran War Cost $25 Billion in First 2 Months, Pentagon Says",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iran War Cost $25 Billion in First 2 Months, Pentagon Says"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"We Can't Move Forward\": Brookfield-Backed Compass Abandons Virginia Data Center Project",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"We Can't Move Forward\": Brookfield-Backed Compass Abandons Virginia Data Center Project"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Powell says he'll stay on Fed board after chairmanship ends but won't be a 'shadow Fed chair'",
+        "keywords": [
+          "fed chair"
+        ],
+        "message": "[Fox Biz Economy] Powell says he'll stay on Fed board after chairmanship ends but won't be a 'shadow Fed chair'"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -2.05,
+        "current": 64.84,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -2.05% to $64.84"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -2.35,
+        "current": 64.41,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -2.35% to $64.41"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.47,
+        "current": 52.89,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.47% to $52.89"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.88,
+        "current": 28.35,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.88% to $28.35"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.29,
+        "current": 59.03,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.29% to $59.03"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.73,
+        "message": "Gold/Silver ratio: 62.73x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 13
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 417.41,
+        "previousClose": 421.91,
+        "high": 419.1705,
+        "low": 414.17,
+        "changePct": -1.07
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 64.84,
+        "previousClose": 66.2,
+        "high": 65.265,
+        "low": 64.13,
+        "changePct": -2.05
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 77.73,
+        "previousClose": 78.69,
+        "high": 79.02,
+        "low": 77.57,
+        "changePct": -1.22
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.41,
+        "previousClose": 65.96,
+        "high": 66.54,
+        "low": 64.0201,
+        "changePct": -2.35
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 52.89,
+        "previousClose": 54.23,
+        "high": 54.62,
+        "low": 52.6521,
+        "changePct": -2.47
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 28.35,
+        "previousClose": 29.19,
+        "high": 28.8399,
+        "low": 28.23,
+        "changePct": -2.88
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.03,
+        "previousClose": 57.71,
+        "high": 59.11,
+        "low": 58.06,
+        "changePct": 2.29
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.61,
+        "previousClose": 27.53,
+        "high": 27.63,
+        "low": 27.545,
+        "changePct": 0.29
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.7,
+        "previousClose": 86.37,
+        "high": 85.99,
+        "low": 85.555,
+        "changePct": -0.78
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 711.58,
+        "previousClose": 711.69,
+        "high": 712.2,
+        "low": 708.37,
+        "changePct": -0.02
+      }
+    },
+    "metals": {
+      "gold": 4656.4,
+      "silver": 74.24,
+      "copper": 5.99,
+      "platinum": 1960.2,
+      "crude": null,
+      "goldSilverRatio": 62.73
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4656.4,
+        "change": 94.8999,
+        "changePct": 2.08,
+        "previousClose": 4561.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 74.235,
+        "change": 2.1470032,
+        "changePct": 2.98,
+        "previousClose": 72.088
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.9885,
+        "change": 0.05550003,
+        "changePct": 0.94,
+        "previousClose": 5.933
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1960.2,
+        "change": 59.599976,
+        "changePct": 3.14,
+        "previousClose": 1900.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 105.65,
+        "change": -1.2299957,
+        "changePct": -1.15,
+        "previousClose": 106.88
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.84,
+        "previous": 3.78,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-04-28"
+      },
+      "10Y": {
+        "current": 4.36,
+        "previous": 4.35,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-28"
+      },
+      "30Y": {
+        "current": 4.94,
+        "previous": 4.94,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-28"
+      },
+      "USD_BROAD": {
+        "current": 118.7294,
+        "previous": 118.7155,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-24"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 114403,
+        "previous": 7609,
+        "change": 106794,
+        "period": "2026-04-24",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "CNBC Economy",
+        "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+        "link": "https://www.cnbc.com/2026/04/29/europes-central-banks-in-wait-and-see-mode-on-interest-rates.html",
+        "date": "2026-04-30T10:44:14.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "German Chancellor Claims Relationship With Trump Is Good, Despite Comments About Iran",
+        "link": "https://www.zerohedge.com/geopolitical/german-chancellor-claims-relationship-trump-good-despite-comments-about-iran",
+        "date": "2026-04-30T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Vance Reportedly Questions Pentagon's Rosy Assessment Of Iran War",
+        "link": "https://www.zerohedge.com/geopolitical/vance-reportedly-questions-pentagons-rosy-assessment-iran-war",
+        "date": "2026-04-30T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices drop after earlier reaching four-year high as Iran developments eyed",
+        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-four-year-high-above-120-after-report-that-trump-is-considering-further-military-action-in-iran-9785eb43?mod=mw_rss_topstories",
+        "date": "2026-04-30T09:21:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Why Morgan Stanley shifted its call on Federal Reserve rate cuts after the FOMC meeting",
+        "link": "https://www.marketwatch.com/story/why-morgan-stanley-shifted-its-call-on-federal-reserve-rate-cuts-after-the-fomc-meeting-da657bf0?mod=mw_rss_topstories",
+        "date": "2026-04-30T09:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "What Does The End Of OPEC Mean For The Iran War And Global Energy Prices?",
+        "link": "https://www.zerohedge.com/geopolitical/what-does-end-opec-mean-iran-war-and-global-oil-prices",
+        "date": "2026-04-30T08:15:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "US shrimpers face ‘double whammy’ from soaring fuel costs, tariff refunds",
+        "link": "https://www.foxbusiness.com/economy/us-shrimpers-fuel-costs-tariff-refunds-impact",
+        "date": "2026-04-30T08:04:03.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Senate Rejects Resolution To Bar Trump From Attacking Cuba",
+        "link": "https://www.zerohedge.com/political/senate-rejects-resolution-bar-trump-attacking-cuba",
+        "date": "2026-04-30T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US May Deploy Hypersonic Missiles Against Iran As Centcom Set To Brief Trump On New Military Options",
+        "link": "https://www.zerohedge.com/geopolitical/us-may-deploy-hypersonic-missiles-against-iran-centcom-set-brief-trump-new-military",
+        "date": "2026-04-30T02:50:50.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Nearly 13K toddler towers recalled after dozens of injuries from stools collapsing, tipping",
+        "link": "https://www.foxbusiness.com/economy/nearly-13k-toddler-towers-recalled-after-dozens-injuries-from-stools-collapsing-tipping",
+        "date": "2026-04-30T02:46:45.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Announces Fuel Rationing As Brent Sets New War Highs, After Trump Rejects Tehran's Latest Offer",
+        "link": "https://www.zerohedge.com/geopolitical/brent-nears-iran-war-highs-after-trump-orders-extended-blockade-threatens-no-more-mr",
+        "date": "2026-04-30T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran War Cost $25 Billion in First 2 Months, Pentagon Says",
+        "link": "https://www.zerohedge.com/military/iran-war-cost-25-billion-first-2-months-pentagon-says",
+        "date": "2026-04-30T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"We Can't Move Forward\": Brookfield-Backed Compass Abandons Virginia Data Center Project",
+        "link": "https://www.zerohedge.com/ai/we-cant-move-forward-brookfield-backed-compass-abandons-virginia-data-center-project",
+        "date": "2026-04-30T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Loses Monopoly Over The Rarest Of Rare Earths",
+        "link": "https://www.zerohedge.com/economics/china-loses-monopoly-over-rarest-rare-earth",
+        "date": "2026-04-29T23:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Powell says he'll stay on Fed board after chairmanship ends but won't be a 'shadow Fed chair'",
+        "link": "https://www.foxbusiness.com/economy/powell-says-hell-stay-fed-board-after-chairmanship-ends-wont-shadow-fed-chair",
+        "date": "2026-04-29T22:56:04.000Z"
+      }
+    ],
+    "fetchedAt": "2026-04-30T11:20:53.873Z"
+  }
+}
