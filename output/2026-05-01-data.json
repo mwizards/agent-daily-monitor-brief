@@ -1,0 +1,419 @@
+{
+  "generatedAt": "2026-05-01T10:58:55.882Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 6.43,
+        "current": 68.55,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +6.43% to $68.55"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 6.67,
+        "current": 56.42,
+        "direction": "UP",
+        "message": "Uranium (URA) +6.67% to $56.42"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.42,
+        "current": 29.32,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.42% to $29.32"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "The S&P 500’s newest member is this under-the-radar software stock",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] The S&P 500’s newest member is this under-the-radar software stock"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "L3Harris' Missile Business Files To Go Public As Trump's War Economy Prepares For Launch",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] L3Harris' Missile Business Files To Go Public As Trump's War Economy Prepares For Launch"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Aircraft Carrier Strike Group To Leave Middle East, Reducing Footprint Amid Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Aircraft Carrier Strike Group To Leave Middle East, Reducing Footprint Amid Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Says Gas Prices Will Drop \"Like a Rock\" Once Conflict Ends, As Senator Breaks With GOP Leadership On War Powers",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump Says Gas Prices Will Drop \"Like a Rock\" Once Conflict Ends, As Senator Breaks With GOP Leadership On War Powers"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "$25 Billion: Hegseth Accused Of Lowballing Cost Of Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] $25 Billion: Hegseth Accused Of Lowballing Cost Of Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "AI Hype Meets Hardware Crunch As US Power Equipment Market Eyes $65 Billion Boom",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] AI Hype Meets Hardware Crunch As US Power Equipment Market Eyes $65 Billion Boom"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.81,
+        "current": 66.66,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.81% to $66.66"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.42,
+        "current": 79.61,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.42% to $79.61"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "MarketWatch",
+        "title": "Saving for retirement when you make less than $35,000 won’t be much easier with Trump’s new executive order",
+        "keywords": [
+          "executive order"
+        ],
+        "message": "[MarketWatch] Saving for retirement when you make less than $35,000 won’t be much easier with Trump’s new executive order"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.05,
+        "message": "Gold/Silver ratio: 62.05x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 12
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 423.66,
+        "previousClose": 417.41,
+        "high": 425.45,
+        "low": 422.7394,
+        "changePct": 1.5
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 66.66,
+        "previousClose": 64.84,
+        "high": 66.81,
+        "low": 65.875,
+        "changePct": 2.81
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 79.61,
+        "previousClose": 77.73,
+        "high": 79.83,
+        "low": 78.21,
+        "changePct": 2.42
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.55,
+        "previousClose": 64.41,
+        "high": 68.62,
+        "low": 64.92,
+        "changePct": 6.43
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 56.42,
+        "previousClose": 52.89,
+        "high": 56.48,
+        "low": 53.54,
+        "changePct": 6.67
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.32,
+        "previousClose": 28.35,
+        "high": 29.75,
+        "low": 28.87,
+        "changePct": 3.42
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.65,
+        "previousClose": 59.03,
+        "high": 59.835,
+        "low": 57.935,
+        "changePct": 1.05
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.36,
+        "previousClose": 27.61,
+        "high": 27.495,
+        "low": 27.34,
+        "changePct": -0.91
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.62,
+        "previousClose": 85.7,
+        "high": 85.9,
+        "low": 85.385,
+        "changePct": -0.09
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 718.66,
+        "previousClose": 711.58,
+        "high": 719.79,
+        "low": 710.445,
+        "changePct": 0.99
+      }
+    },
+    "metals": {
+      "gold": 4583.1,
+      "silver": 73.86,
+      "copper": 5.99,
+      "platinum": 1975.1,
+      "crude": null,
+      "goldSilverRatio": 62.05
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4583.1,
+        "change": -46.5,
+        "changePct": -1,
+        "previousClose": 4629.6
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.86,
+        "change": -0.16799927,
+        "changePct": -0.23,
+        "previousClose": 74.028
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.9875,
+        "change": 0.0069999695,
+        "changePct": 0.12,
+        "previousClose": 5.9805
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1975.1,
+        "change": -19.5,
+        "changePct": -0.98,
+        "previousClose": 1994.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 105.15,
+        "change": 0.08000183,
+        "changePct": 0.08,
+        "previousClose": 105.07
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.92,
+        "previous": 3.84,
+        "change": 0.08,
+        "changeBps": 8,
+        "date": "2026-04-29"
+      },
+      "10Y": {
+        "current": 4.42,
+        "previous": 4.36,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-04-29"
+      },
+      "30Y": {
+        "current": 4.98,
+        "previous": 4.94,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-04-29"
+      },
+      "USD_BROAD": {
+        "current": 118.7294,
+        "previous": 118.7155,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-24"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 114403,
+        "previous": 7609,
+        "change": 106794,
+        "period": "2026-04-24",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "China Reopens Fuel Export Spigot, Offering Relief To Asian Buyers",
+        "link": "https://www.zerohedge.com/energy/china-reopens-fuel-export-spigot-offering-relief-asian-buyers",
+        "date": "2026-05-01T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Threatens To Pull Some US Troops Out Of Germany While Lambasting 'Ineffective' Merz",
+        "link": "https://www.zerohedge.com/geopolitical/trump-again-lashes-out-ineffective-merz-who-oversees-broken-country",
+        "date": "2026-05-01T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Top Russian & Indian Think Tanks Devised A Plan For Rebalancing Economic Relations",
+        "link": "https://www.zerohedge.com/geopolitical/top-russian-indian-think-tanks-devised-plan-rebalancing-economic-relations",
+        "date": "2026-05-01T06:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The S&P 500’s newest member is this under-the-radar software stock",
+        "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-member-is-this-under-the-radar-software-stock-b828bd5e?mod=mw_rss_topstories",
+        "date": "2026-05-01T04:02:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Congress Passes 45-Day Extension Of FISA Section 702, Sending It To Trump's Desk",
+        "link": "https://www.zerohedge.com/political/congress-passes-45-day-extension-fisa-section-702-sending-it-trumps-desk",
+        "date": "2026-05-01T03:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "L3Harris' Missile Business Files To Go Public As Trump's War Economy Prepares For Launch",
+        "link": "https://www.zerohedge.com/military/l3harris-missile-business-files-go-public-trumps-war-economy-prepares-launch",
+        "date": "2026-05-01T02:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Aircraft Carrier Strike Group To Leave Middle East, Reducing Footprint Amid Iran War",
+        "link": "https://www.zerohedge.com/military/aircraft-carrier-strike-group-leave-middle-east-reducing-footprint-amid-iran-war",
+        "date": "2026-05-01T01:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Here Come The Cancellations: Brookfield-Backed Compass Pulls Out From Major Northern Virginia Data Center Project",
+        "link": "https://www.zerohedge.com/markets/here-come-cancellations-brookfield-backed-compass-pulls-out-major-northern-virginia-data",
+        "date": "2026-04-30T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "What Is the Trump Administration Really Trying To Do With The Latest Comey Indictment?",
+        "link": "https://www.zerohedge.com/political/what-trump-administration-really-trying-do-latest-comey-indictment",
+        "date": "2026-04-30T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says Gas Prices Will Drop \"Like a Rock\" Once Conflict Ends, As Senator Breaks With GOP Leadership On War Powers",
+        "link": "https://www.zerohedge.com/geopolitical/defiant-mojtaba-khamenei-says-gulfs-future-will-be-without-us-presence-vows-protect",
+        "date": "2026-04-30T22:30:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Saving for retirement when you make less than $35,000 won’t be much easier with Trump’s new executive order",
+        "link": "https://www.marketwatch.com/story/saving-for-retirement-when-you-make-less-than-35-000-wont-be-much-easier-with-trumps-new-executive-order-dbe72ddf?mod=mw_rss_topstories",
+        "date": "2026-04-30T22:22:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "$25 Billion: Hegseth Accused Of Lowballing Cost Of Iran War",
+        "link": "https://www.zerohedge.com/military/25-billion-hegseth-accused-lowballing-cost-iran-war",
+        "date": "2026-04-30T22:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "AI Hype Meets Hardware Crunch As US Power Equipment Market Eyes $65 Billion Boom",
+        "link": "https://www.zerohedge.com/energy/ai-hype-meets-hardware-crunch-us-power-equipment-market-eyes-65-billion-boom",
+        "date": "2026-04-30T21:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Goldman Maps Retailer Exposure To Working-Poor Consumers As Gas Soars",
+        "link": "https://www.zerohedge.com/markets/goldman-maps-retailer-exposure-working-poor-consumers-gas-soars",
+        "date": "2026-04-30T21:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Apple Drops After Mixed Results: America, Europe Revenue Miss; Iphone Sales Disappoint, But China Surges Again",
+        "link": "https://www.zerohedge.com/markets/apple-drops-after-mixed-results-america-europe-revenue-miss-iphone-sales-disappoint-china",
+        "date": "2026-04-30T21:07:12.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-01T10:58:43.529Z"
+  }
+}
