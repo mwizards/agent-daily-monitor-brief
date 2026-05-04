@@ -1,0 +1,328 @@
+{
+  "generatedAt": "2026-05-04T11:29:32.014Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil prices climb after disputed report of Iran strike on U.S. warship in the Strait of Hormuz",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Oil prices climb after disputed report of Iran strike on U.S. warship in the Strait of Hormuz"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "In \"Watershed Moment\" China Orders Companies To Defy US Sanctions",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] In \"Watershed Moment\" China Orders Companies To Defy US Sanctions"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Congrats, Elizabeth Warren, On The Death Of Spirit Airlines",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Congrats, Elizabeth Warren, On The Death Of Spirit Airlines"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.45,
+        "current": 68.29,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.45% to $68.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -2.07,
+        "current": 67.13,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -2.07% to $67.13"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.87,
+        "message": "Gold/Silver ratio: 61.87x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 5
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 423.18,
+        "previousClose": 423.66,
+        "high": 427.92,
+        "low": 421.08,
+        "changePct": -0.11
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.29,
+        "previousClose": 66.66,
+        "high": 69.65,
+        "low": 67.51,
+        "changePct": 2.45
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 79.05,
+        "previousClose": 79.61,
+        "high": 80.44,
+        "low": 78.95,
+        "changePct": -0.7
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 67.13,
+        "previousClose": 68.55,
+        "high": 67.87,
+        "low": 65.8205,
+        "changePct": -2.07
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.84,
+        "previousClose": 56.42,
+        "high": 55.99,
+        "low": 54.8,
+        "changePct": -1.03
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.44,
+        "previousClose": 29.32,
+        "high": 29.99,
+        "low": 29.02,
+        "changePct": 0.41
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.85,
+        "previousClose": 59.65,
+        "high": 59.6,
+        "low": 58.2601,
+        "changePct": -1.34
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.41,
+        "previousClose": 27.36,
+        "high": 27.42,
+        "low": 27.26,
+        "changePct": 0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.615,
+        "previousClose": 85.615,
+        "high": 85.995,
+        "low": 85.34,
+        "changePct": 0
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 720.65,
+        "previousClose": 718.66,
+        "high": 724.85,
+        "low": 720.47,
+        "changePct": 0.28
+      }
+    },
+    "metals": {
+      "gold": 4580.2,
+      "silver": 74.04,
+      "copper": 5.91,
+      "platinum": 1958.7,
+      "crude": null,
+      "goldSilverRatio": 61.87
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4580.2,
+        "change": -64.299805,
+        "changePct": -1.38,
+        "previousClose": 4644.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 74.035,
+        "change": -2.395996,
+        "changePct": -3.13,
+        "previousClose": 76.431
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.905,
+        "change": -0.07949972,
+        "changePct": -1.33,
+        "previousClose": 5.9845
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1958.7,
+        "change": -53.200073,
+        "changePct": -2.64,
+        "previousClose": 2011.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 105.28,
+        "change": 3.3399963,
+        "changePct": 3.28,
+        "previousClose": 101.94
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.88,
+        "previous": 3.92,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-04-30"
+      },
+      "10Y": {
+        "current": 4.4,
+        "previous": 4.42,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-04-30"
+      },
+      "30Y": {
+        "current": 4.98,
+        "previous": 4.98,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-04-30"
+      },
+      "USD_BROAD": {
+        "current": 118.7294,
+        "previous": 118.7155,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-04-24"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 114403,
+        "previous": 7609,
+        "change": 106794,
+        "period": "2026-04-24",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices climb after disputed report of Iran strike on U.S. warship in the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
+        "date": "2026-05-04T11:16:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "From \"Don't Be Evil\" To Drone King: Eric Schmidt's Interceptors Deployed With U.S. Troops",
+        "link": "https://www.zerohedge.com/markets/dont-be-evil-drone-king-eric-schmidts-interceptors-deployed-us-troops",
+        "date": "2026-05-04T10:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Europe Will Lose Billions In Revenue If US Military Bases Shut Down",
+        "link": "https://www.zerohedge.com/geopolitical/european-nations-will-lose-billions-revenue-if-us-military-bases-shut-down",
+        "date": "2026-05-04T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Outraged After Assassination Of Top Shia Cleric In Damascus",
+        "link": "https://www.zerohedge.com/geopolitical/iran-outraged-after-assassination-top-shia-cleric-damascus",
+        "date": "2026-05-04T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia's Oil Revenues Surge As The World Scrambles For Supply",
+        "link": "https://www.zerohedge.com/political/russias-oil-revenues-surge-world-scrambles-supply",
+        "date": "2026-05-04T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Chinese Hackers Spied On Cuban Embassy As Trump Ramped Up Blockade Threats",
+        "link": "https://www.zerohedge.com/geopolitical/chinese-hackers-spied-cuban-embassy-trump-ramped-blockade-threats",
+        "date": "2026-05-04T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "In \"Watershed Moment\" China Orders Companies To Defy US Sanctions",
+        "link": "https://www.zerohedge.com/economics/watershed-moment-china-orders-companies-defy-us-sanctions",
+        "date": "2026-05-04T03:37:51.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Tries To Assert Dominance Over Canada After Carney Trade Deal",
+        "link": "https://www.zerohedge.com/geopolitical/china-tries-assert-dominance-over-canada-after-carney-trade-deal",
+        "date": "2026-05-04T00:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Jailed Iranian Nobel Peace Prize Winner Hospitalized In Critical Condition",
+        "link": "https://www.zerohedge.com/political/jailed-iranian-nobel-peace-prize-winner-hospitalized-critical-condition",
+        "date": "2026-05-03T22:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "CNN 'Expert' Says Iranian Suicide Dolphins Going After US Ships",
+        "link": "https://www.zerohedge.com/geopolitical/cnn-expert-says-iranian-suicide-dolphins-going-after-us-ships",
+        "date": "2026-05-03T20:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bessent On Iran: \"We Are Suffocating The Regime\"",
+        "link": "https://www.zerohedge.com/geopolitical/bessent-iran-we-are-suffocating-regime",
+        "date": "2026-05-03T18:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Congrats, Elizabeth Warren, On The Death Of Spirit Airlines",
+        "link": "https://www.zerohedge.com/markets/congrats-elizabeth-warren-death-spirit-airlines",
+        "date": "2026-05-03T18:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-04T11:29:24.088Z"
+  }
+}
