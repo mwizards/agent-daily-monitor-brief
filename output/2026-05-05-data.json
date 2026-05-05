@@ -1,0 +1,408 @@
+{
+  "generatedAt": "2026-05-05T11:07:25.261Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -3.44,
+        "current": 65.94,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -3.44% to $65.94"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.04,
+        "current": 76.65,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.04% to $76.65"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Dell Board Unanimously Backs Redomiciliation To Texas As Delaware Exodus Accelerates",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Dell Board Unanimously Backs Redomiciliation To Texas As Delaware Exodus Accelerates"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Is Europe Sliding Towards Stagflation?",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Is Europe Sliding Towards Stagflation?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Ceasefire Over? Trump Downplays 'Mini-War' After US & Iranians Trade Shots, Missiles Target UAE",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Ceasefire Over? Trump Downplays 'Mini-War' After US & Iranians Trade Shots, Missiles Target UAE"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "EU Going To War With VPNs In Bid To \"Save The Children\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] EU Going To War With VPNs In Bid To \"Save The Children\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Officials warn of banking spoof callers draining customers' accounts",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Officials warn of banking spoof callers draining customers' accounts"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran War Threatens China's 4.5 Percent Growth Target: Analysts",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iran War Threatens China's 4.5 Percent Growth Target: Analysts"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Sacked Russian Minister Flees To US Amid Corruption Probe In First Of Ukraine War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Sacked Russian Minister Flees To US Amid Corruption Probe In First Of Ukraine War"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -2,
+        "current": 414.71,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -2% to $414.71"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.31,
+        "current": 28.76,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.31% to $28.76"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.84,
+        "message": "Gold/Silver ratio: 61.84x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 11
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 414.71,
+        "previousClose": 423.18,
+        "high": 420.86,
+        "low": 413.2801,
+        "changePct": -2
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 65.94,
+        "previousClose": 68.29,
+        "high": 67.58,
+        "low": 65.61,
+        "changePct": -3.44
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 76.65,
+        "previousClose": 79.05,
+        "high": 78.6057,
+        "low": 76.53,
+        "changePct": -3.04
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 66.36,
+        "previousClose": 67.13,
+        "high": 68.215,
+        "low": 65.89,
+        "changePct": -1.15
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.77,
+        "previousClose": 55.84,
+        "high": 55.97,
+        "low": 54.165,
+        "changePct": -1.92
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 28.76,
+        "previousClose": 29.44,
+        "high": 29.46,
+        "low": 28.67,
+        "changePct": -2.31
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.39,
+        "previousClose": 58.85,
+        "high": 59.63,
+        "low": 58.22,
+        "changePct": 0.92
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.48,
+        "previousClose": 27.41,
+        "high": 27.505,
+        "low": 27.42,
+        "changePct": 0.26
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 84.96,
+        "previousClose": 85.615,
+        "high": 85.36,
+        "low": 84.76,
+        "changePct": -0.77
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 718.01,
+        "previousClose": 720.65,
+        "high": 722.12,
+        "low": 714.99,
+        "changePct": -0.37
+      }
+    },
+    "metals": {
+      "gold": 4527.6,
+      "silver": 73.22,
+      "copper": 5.86,
+      "platinum": 1955.9,
+      "crude": null,
+      "goldSilverRatio": 61.84
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4527.6,
+        "change": -5.699707,
+        "changePct": -0.13,
+        "previousClose": 4533.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.215,
+        "change": -0.30700684,
+        "changePct": -0.42,
+        "previousClose": 73.522
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 5.86,
+        "change": 0.013500214,
+        "changePct": 0.23,
+        "previousClose": 5.8465
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1955.9,
+        "change": -5.5999756,
+        "changePct": -0.29,
+        "previousClose": 1961.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 105.23,
+        "change": -1.1899948,
+        "changePct": -1.12,
+        "previousClose": 106.42
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.88,
+        "previous": 3.88,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-05-01"
+      },
+      "10Y": {
+        "current": 4.39,
+        "previous": 4.4,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-01"
+      },
+      "30Y": {
+        "current": 4.97,
+        "previous": 4.98,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-01"
+      },
+      "USD_BROAD": {
+        "current": 118.3926,
+        "previous": 118.671,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-05-01"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 114403,
+        "previous": 7609,
+        "change": 106794,
+        "period": "2026-04-24",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Dell Board Unanimously Backs Redomiciliation To Texas As Delaware Exodus Accelerates",
+        "link": "https://www.zerohedge.com/markets/dell-board-unanimously-backs-redomiciliation-texas-delaware-exodus-accelerates",
+        "date": "2026-05-05T10:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is Europe Sliding Towards Stagflation?",
+        "link": "https://www.zerohedge.com/economics/europe-sliding-towards-stagflation",
+        "date": "2026-05-05T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ceasefire Over? Trump Downplays 'Mini-War' After US & Iranians Trade Shots, Missiles Target UAE",
+        "link": "https://www.zerohedge.com/geopolitical/iran-threatens-attack-us-navy-hormuz-pentagon-rejects-irgc-claim-american-warship-hit",
+        "date": "2026-05-05T10:12:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "America is using less oil, and the Iran conflict could further reduce its thirst for hydrocarbons",
+        "link": "https://www.marketwatch.com/story/america-is-using-less-oil-and-the-iran-conflict-could-further-reduce-its-thirst-for-hydrocarbons-3bed1c7a?mod=mw_rss_topstories",
+        "date": "2026-05-05T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Caught Off Guard: Stunned EU Leaders React To Trump's Troop Reduction In Germany",
+        "link": "https://www.zerohedge.com/geopolitical/caught-guard-stunned-eu-leaders-react-trumps-troop-reduction-germany",
+        "date": "2026-05-05T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "HSBC’s darkest scenario: stock markets down 35% and oil at $145",
+        "link": "https://www.marketwatch.com/story/hsbcs-darkest-scenario-stock-markets-down-35-and-oil-at-145-dc58c4dc?mod=mw_rss_topstories",
+        "date": "2026-05-05T08:33:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "EU Going To War With VPNs In Bid To \"Save The Children\"",
+        "link": "https://www.zerohedge.com/political/eu-going-war-vpns-bid-save-children",
+        "date": "2026-05-05T08:15:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Officials warn of banking spoof callers draining customers' accounts",
+        "link": "https://www.foxbusiness.com/economy/officials-warn-banking-spoof-callers-draining-customers-accounts",
+        "date": "2026-05-05T06:52:07.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany's Inflation Scapegoat: Why Hormuz Is A Convenient Cover Story",
+        "link": "https://www.zerohedge.com/economics/germanys-inflation-scapegoat-why-hormuz-convenient-cover-story",
+        "date": "2026-05-05T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Meta Raising $13 Billion SPV For Texas Data Center As Its CDS Hits Record",
+        "link": "https://www.zerohedge.com/markets/meta-raising-13-billion-spv-texas-data-center-its-cds-hits-record",
+        "date": "2026-05-05T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump's \"Project Vault\" Plans To Initially Buy Rare Earths From China",
+        "link": "https://www.zerohedge.com/economics/trumps-project-vault-plans-initially-buy-rare-earths-china",
+        "date": "2026-05-05T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "DC Judge 'Apologizes' To Alleged Trump Assassin",
+        "link": "https://www.zerohedge.com/political/dc-judge-apologizes-alleged-trump-assassin",
+        "date": "2026-05-05T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Rare Sight\": USAF C-17 Jets Land In Beijing Ahead Of Trump-Xi Summit",
+        "link": "https://www.zerohedge.com/military/rare-sight-usaf-c-17-jets-land-beijing-ahead-trump-xi-summit",
+        "date": "2026-05-05T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran War Threatens China's 4.5 Percent Growth Target: Analysts",
+        "link": "https://www.zerohedge.com/political/iran-war-threatens-chinas-45-percent-growth-target-analysts",
+        "date": "2026-05-05T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Sacked Russian Minister Flees To US Amid Corruption Probe In First Of Ukraine War",
+        "link": "https://www.zerohedge.com/geopolitical/sacked-russian-minister-flees-us-amid-corruption-probe-first-ukraine-war",
+        "date": "2026-05-04T23:40:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-05T11:07:13.558Z"
+  }
+}
