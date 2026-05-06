@@ -1,0 +1,361 @@
+{
+  "generatedAt": "2026-05-06T11:40:53.758Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Pauses Project Freedom Amid \"Great Progress\" Towards 'Complete & Final' Agreement With Iran",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump Pauses Project Freedom Amid \"Great Progress\" Towards 'Complete & Final' Agreement With Iran"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil futures fall 8% on report U.S. and Iran are in talks on memo to end the war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Oil futures fall 8% on report U.S. and Iran are in talks on memo to end the war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Industry Leaders Warn Chinese EV Imports Will Undercut Canada's Auto Sector, Bring Major Security Risks",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Industry Leaders Warn Chinese EV Imports Will Undercut Canada's Auto Sector, Bring Major Security Risks"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Markets",
+        "title": "Legendary economist known for 1969-70 recession prediction warns downturn may hit in 2026",
+        "keywords": [
+          "war",
+          "recession"
+        ],
+        "message": "[Fox Biz Markets] Legendary economist known for 1969-70 recession prediction warns downturn may hit in 2026"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.04,
+        "current": 78.21,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.04% to $78.21"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -2.32,
+        "current": 64.82,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -2.32% to $64.82"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "US Intelligence Only Sees Limited Additional Damage To Iran Nuclear Program Since Last June",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US Intelligence Only Sees Limited Additional Damage To Iran Nuclear Program Since Last June"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.53,
+        "message": "Gold/Silver ratio: 60.53x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 418.27,
+        "previousClose": 414.71,
+        "high": 421.13,
+        "low": 417.905,
+        "changePct": 0.86
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 65.91,
+        "previousClose": 65.94,
+        "high": 66.95,
+        "low": 65.85,
+        "changePct": -0.05
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 78.21,
+        "previousClose": 76.65,
+        "high": 79.17,
+        "low": 78,
+        "changePct": 2.04
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.82,
+        "previousClose": 66.36,
+        "high": 68.135,
+        "low": 64.62,
+        "changePct": -2.32
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.2,
+        "previousClose": 54.77,
+        "high": 56.1999,
+        "low": 53.775,
+        "changePct": -1.04
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 28.5,
+        "previousClose": 28.76,
+        "high": 29.415,
+        "low": 28.48,
+        "changePct": -0.9
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.45,
+        "previousClose": 59.39,
+        "high": 59.76,
+        "low": 58.89,
+        "changePct": 0.1
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.5,
+        "previousClose": 27.48,
+        "high": 27.5,
+        "low": 27.4425,
+        "changePct": 0.07
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.43,
+        "previousClose": 84.96,
+        "high": 85.49,
+        "low": 85.09,
+        "changePct": 0.55
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 723.77,
+        "previousClose": 718.01,
+        "high": 725.04,
+        "low": 721.4898,
+        "changePct": 0.8
+      }
+    },
+    "metals": {
+      "gold": 4717.5,
+      "silver": 77.94,
+      "copper": 6.2,
+      "platinum": 2047.1,
+      "crude": null,
+      "goldSilverRatio": 60.53
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4717.5,
+        "change": 149,
+        "changePct": 3.26,
+        "previousClose": 4568.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 77.94,
+        "change": 4.359001,
+        "changePct": 5.92,
+        "previousClose": 73.581
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.195,
+        "change": 0.20200014,
+        "changePct": 3.37,
+        "previousClose": 5.993
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2047.1,
+        "change": 71.79993,
+        "changePct": 3.63,
+        "previousClose": 1975.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.72,
+        "change": -11.549995,
+        "changePct": -11.29,
+        "previousClose": 102.27
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.95,
+        "previous": 3.88,
+        "change": 0.07,
+        "changeBps": 7,
+        "date": "2026-05-04"
+      },
+      "10Y": {
+        "current": 4.45,
+        "previous": 4.39,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-05-04"
+      },
+      "30Y": {
+        "current": 5.02,
+        "previous": 4.97,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-05-04"
+      },
+      "USD_BROAD": {
+        "current": 118.3926,
+        "previous": 118.671,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-05-01"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 114403,
+        "previous": 7609,
+        "change": 106794,
+        "period": "2026-04-24",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "There Needs To Be A Stronger European Element In NATO, Says Starmer",
+        "link": "https://www.zerohedge.com/political/there-needs-be-stronger-european-element-nato-says-starmer",
+        "date": "2026-05-06T10:30:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Gas prices surge past $4.50 nationally as Iran tensions pressure drivers",
+        "link": "https://www.foxbusiness.com/economy/gas-prices-surge-iran-tensions",
+        "date": "2026-05-06T10:01:47.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Pauses Project Freedom Amid \"Great Progress\" Towards 'Complete & Final' Agreement With Iran",
+        "link": "https://www.zerohedge.com/geopolitical/two-us-navy-destroyers-transit-hormuz-strait-iranian-factions-reportedly-clash-over",
+        "date": "2026-05-06T10:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil futures fall 8% on report U.S. and Iran are in talks on memo to end the war",
+        "link": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories",
+        "date": "2026-05-06T09:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "S&P500 Futs Jump, Bonds Rally, Oil Tanks On Axios Report U.S.-Iran Nearing Deal",
+        "link": "https://www.zerohedge.com/markets/sp500-futs-jump-bonds-rally-oil-tanks-axios-report-us-iran-nearing-deal",
+        "date": "2026-05-06T09:35:20.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ramaswamy Wins Ohio GOP Gubernatorial Primary In Landslide",
+        "link": "https://www.zerohedge.com/political/ramaswamy-wins-ohio-gop-gubernatorial-primary-landslide",
+        "date": "2026-05-06T03:53:44.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Petrogas-Dollar: Symptom Or Strategy?",
+        "link": "https://www.zerohedge.com/geopolitical/petrogas-dollar-symptom-or-strategy",
+        "date": "2026-05-06T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Industry Leaders Warn Chinese EV Imports Will Undercut Canada's Auto Sector, Bring Major Security Risks",
+        "link": "https://www.zerohedge.com/political/industry-leaders-warn-chinese-ev-imports-will-undercut-canadas-auto-sector-bring-major",
+        "date": "2026-05-06T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Golden State Has Fallen: Welcome To The Islamic Republic Of California",
+        "link": "https://www.zerohedge.com/political/golden-state-has-fallen-welcome-islamic-republic-california",
+        "date": "2026-05-06T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tech Bros Aim To Sidestep Local Resistance By Installing Mini Data Centers In Homes",
+        "link": "https://www.zerohedge.com/ai/tech-bros-aim-sidestep-local-resistance-installing-mini-data-centers-homes",
+        "date": "2026-05-06T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump DOJ Probes 36 Illinois School Districts For Secretly Transitioning Kids Behind Parents' Backs",
+        "link": "https://www.zerohedge.com/political/trump-doj-probes-36-illinois-school-districts-secretly-transitioning-kids-behind-parents",
+        "date": "2026-05-06T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Intelligence Only Sees Limited Additional Damage To Iran Nuclear Program Since Last June",
+        "link": "https://www.zerohedge.com/geopolitical/us-intelligence-only-sees-limited-damage-iran-nuclear-program-after-38-day-bombing",
+        "date": "2026-05-05T23:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Chevron CEO says economies 'are going to have to slow' as Strait of Hormuz closure disrupts oil supply",
+        "link": "https://www.foxbusiness.com/economy/chevron-ceo-says-economies-are-going-have-slow-strait-hormuz-closure-disrupts-oil-supply",
+        "date": "2026-05-05T20:10:03.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Legendary economist known for 1969-70 recession prediction warns downturn may hit in 2026",
+        "link": "https://www.foxbusiness.com/markets/legendary-economist-known-for-1969-70-recession-prediction-warns-downturn-may-hit-2026",
+        "date": "2026-05-05T16:02:57.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-06T11:40:44.503Z"
+  }
+}
