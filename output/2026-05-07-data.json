@@ -1,0 +1,380 @@
+{
+  "generatedAt": "2026-05-07T11:30:19.774Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 6.4,
+        "current": 70.13,
+        "direction": "UP",
+        "message": "Silver (SLV) +6.4% to $70.13"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 6.85,
+        "current": 83.57,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +6.85% to $83.57"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 6.74,
+        "current": 69.19,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +6.74% to $69.19"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 7.49,
+        "current": 58.26,
+        "direction": "UP",
+        "message": "Uranium (URA) +7.49% to $58.26"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 8.91,
+        "current": 31.04,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +8.91% to $31.04"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.03,
+        "current": 430.96,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.03% to $430.96"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -4.12,
+        "current": 57,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -4.12% to $57"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Gundlach Warns \"Bagholders\" Will \"Lose Money\" In Private Credit As BDCs Slash Asset Values, JPM Faces $500MM Loss In Biggest \"Hung\" Deal This Year",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Gundlach Warns \"Bagholders\" Will \"Lose Money\" In Private Credit As BDCs Slash Asset Values, JPM Faces $500MM Loss In Biggest \"Hung\" Deal This Year"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "UK Jet Fuel Rationing Risks Emerge As Goldman Warns Of \"Extreme Physical Tightness\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] UK Jet Fuel Rationing Risks Emerge As Goldman Warns Of \"Extreme Physical Tightness\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Medvedev: Russia Must Instill 'Animal Fear' In EU Warmongers As Goodwill Measures Futile",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Medvedev: Russia Must Instill 'Animal Fear' In EU Warmongers As Goodwill Measures Futile"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Toward Dual-Use Deterrence On The Moon",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Toward Dual-Use Deterrence On The Moon"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.59,
+        "message": "Gold/Silver ratio: 58.59x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 11
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 430.96,
+        "previousClose": 418.27,
+        "high": 433.19,
+        "low": 429.6,
+        "changePct": 3.03
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 70.13,
+        "previousClose": 65.91,
+        "high": 70.39,
+        "low": 69.44,
+        "changePct": 6.4
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.57,
+        "previousClose": 78.21,
+        "high": 84.13,
+        "low": 82.48,
+        "changePct": 6.85
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 69.19,
+        "previousClose": 64.82,
+        "high": 69.315,
+        "low": 65.01,
+        "changePct": 6.74
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 58.26,
+        "previousClose": 54.2,
+        "high": 58.305,
+        "low": 54.78,
+        "changePct": 7.49
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.04,
+        "previousClose": 28.5,
+        "high": 31.31,
+        "low": 30.31,
+        "changePct": 8.91
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57,
+        "previousClose": 59.45,
+        "high": 57.885,
+        "low": 56.655,
+        "changePct": -4.12
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.35,
+        "previousClose": 27.5,
+        "high": 27.37,
+        "low": 27.32,
+        "changePct": -0.55
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.08,
+        "previousClose": 85.43,
+        "high": 86.165,
+        "low": 85.92,
+        "changePct": 0.76
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 733.83,
+        "previousClose": 723.77,
+        "high": 734.58,
+        "low": 727.82,
+        "changePct": 1.39
+      }
+    },
+    "metals": {
+      "gold": 4739.7,
+      "silver": 80.9,
+      "copper": 6.22,
+      "platinum": 2091.6,
+      "crude": null,
+      "goldSilverRatio": 58.59
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4739.7,
+        "change": 45.40039,
+        "changePct": 0.97,
+        "previousClose": 4694.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 80.895,
+        "change": 3.5919952,
+        "changePct": 4.65,
+        "previousClose": 77.303
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.2165,
+        "change": 0.029999733,
+        "changePct": 0.48,
+        "previousClose": 6.1865
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2091.6,
+        "change": 29,
+        "changePct": 1.41,
+        "previousClose": 2062.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 91.8,
+        "change": -3.2799988,
+        "changePct": -3.45,
+        "previousClose": 95.08
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.93,
+        "previous": 3.95,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-05-05"
+      },
+      "10Y": {
+        "current": 4.43,
+        "previous": 4.45,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-05-05"
+      },
+      "USD_BROAD": {
+        "current": 118.3926,
+        "previous": 118.671,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-05-01"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112064,
+        "previous": 8462,
+        "change": 103602,
+        "period": "2026-05-01",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Gundlach Warns \"Bagholders\" Will \"Lose Money\" In Private Credit As BDCs Slash Asset Values, JPM Faces $500MM Loss In Biggest \"Hung\" Deal This Year",
+        "link": "https://www.zerohedge.com/markets/gundlach-warns-bagholders-will-lose-money-private-credit-bdcs-slash-asset-values-jpm-faces",
+        "date": "2026-05-07T10:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UK Jet Fuel Rationing Risks Emerge As Goldman Warns Of \"Extreme Physical Tightness\"",
+        "link": "https://www.zerohedge.com/energy/uk-jet-fuel-rationing-risks-emerge-goldman-warns-extreme-physical-tightness",
+        "date": "2026-05-07T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Oil Official In Surprise Admission: 'Fate Of Our Refineries Now At Risk' As US Blockade Begins To Bite",
+        "link": "https://www.zerohedge.com/markets/sp500-futs-jump-bonds-rally-oil-tanks-axios-report-us-iran-nearing-deal",
+        "date": "2026-05-07T08:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Medvedev: Russia Must Instill 'Animal Fear' In EU Warmongers As Goodwill Measures Futile",
+        "link": "https://www.zerohedge.com/geopolitical/medvedev-russia-must-instill-animal-fear-eu-warmongers-goodwill-measures-futile",
+        "date": "2026-05-07T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Calls On Foreign Embassies To Evacuate Diplomats From Ukrainian Capital",
+        "link": "https://www.zerohedge.com/markets/russia-calls-foreign-embassies-evacuate-diplomats-ukrainian-capital",
+        "date": "2026-05-07T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Toward Dual-Use Deterrence On The Moon",
+        "link": "https://www.zerohedge.com/geopolitical/toward-dual-use-deterrence-moon",
+        "date": "2026-05-07T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Existential Fight For Survival\": MSFT May Nuke Green Data Center Climate Pledge",
+        "link": "https://www.zerohedge.com/ai/existential-fight-survival-msft-may-nuke-green-data-center-climate-pledge",
+        "date": "2026-05-07T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Treasury Weighs Allowing Billionaires To Donate Stock To Trump Accounts",
+        "link": "https://www.zerohedge.com/personal-finance/treasury-weighs-allowing-billionaires-donate-stock-trump-accounts",
+        "date": "2026-05-06T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "NOAA OKs First Deep-Sea Mining Plan For Critical Minerals In Pacific Ocean",
+        "link": "https://www.zerohedge.com/commodities/noaa-oks-first-deep-sea-mining-plan-critical-minerals-pacific-ocean",
+        "date": "2026-05-06T21:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Indiana Primary: Senate Incumbents Crushed By Trump-Backed Challengers",
+        "link": "https://www.zerohedge.com/political/indiana-primary-senate-incumbents-crushed-trump-backed-challengers",
+        "date": "2026-05-06T21:20:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
+        "link": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
+        "date": "2026-05-06T13:49:25.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-07T11:30:09.840Z"
+  }
+}
