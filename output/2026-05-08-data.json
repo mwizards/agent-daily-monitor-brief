@@ -1,0 +1,401 @@
+{
+  "generatedAt": "2026-05-08T11:00:18.183Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.15,
+        "current": 67.01,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.15% to $67.01"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3.43,
+        "current": 56.26,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3.43% to $56.26"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Political Warfare? Advocacy Group With Ties To Lefty Unions Targets SpaceX IPO",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Political Warfare? Advocacy Group With Ties To Lefty Unions Targets SpaceX IPO"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Baltic States Warn Of Unfunded Debt Surge For Europe's Defense Splurge",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Baltic States Warn Of Unfunded Debt Surge For Europe's Defense Splurge"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Court Strikes Down Trump's Replacement Tariffs; A Minor, Temporary Setback, With Sec 301 Tariffs Coming",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] Court Strikes Down Trump's Replacement Tariffs; A Minor, Temporary Setback, With Sec 301 Tariffs Coming"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pastor: U.S. Intel Warned Christian Leaders That Trump's \"Alien Files\" Release Could Shatter Beliefs",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pastor: U.S. Intel Warned Christian Leaders That Trump's \"Alien Files\" Release Could Shatter Beliefs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[MarketWatch] Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "What To Know About Trump's Presidential Fitness Test Award Revival",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] What To Know About Trump's Presidential Fitness Test Award Revival"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Conducts New Iran Strikes Along Hormuz Corridor - Trump Says Warships Came Under Fire By 'Lunatics'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] US Conducts New Iran Strikes Along Hormuz Corridor - Trump Says Warships Came Under Fire By 'Lunatics'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.1,
+        "current": 71.6,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.1% to $71.6"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.22,
+        "message": "Gold/Silver ratio: 58.22x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 11
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 431.68,
+        "previousClose": 430.96,
+        "high": 437.42,
+        "low": 430.27,
+        "changePct": 0.17
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 71.6,
+        "previousClose": 70.13,
+        "high": 74.325,
+        "low": 71.175,
+        "changePct": 2.1
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.61,
+        "previousClose": 83.57,
+        "high": 85.6899,
+        "low": 82.4501,
+        "changePct": -1.15
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 67.01,
+        "previousClose": 69.19,
+        "high": 70.2171,
+        "low": 66.51,
+        "changePct": -3.15
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 56.26,
+        "previousClose": 58.26,
+        "high": 58.63,
+        "low": 55.78,
+        "changePct": -3.43
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.88,
+        "previousClose": 31.04,
+        "high": 33.09,
+        "low": 30.86,
+        "changePct": -0.52
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.95,
+        "previousClose": 57,
+        "high": 56.145,
+        "low": 55.13,
+        "changePct": -1.84
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.41,
+        "previousClose": 27.35,
+        "high": 27.41,
+        "low": 27.3,
+        "changePct": 0.22
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.65,
+        "previousClose": 86.08,
+        "high": 86.29,
+        "low": 85.595,
+        "changePct": -0.5
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 731.58,
+        "previousClose": 733.83,
+        "high": 736.13,
+        "low": 729.75,
+        "changePct": -0.31
+      }
+    },
+    "metals": {
+      "gold": 4729.5,
+      "silver": 81.23,
+      "copper": 6.29,
+      "platinum": 2057,
+      "crude": null,
+      "goldSilverRatio": 58.22
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4729.5,
+        "change": 18.600098,
+        "changePct": 0.39,
+        "previousClose": 4710.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 81.23,
+        "change": 1.050003,
+        "changePct": 1.31,
+        "previousClose": 80.18
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.288,
+        "change": 0.11199999,
+        "changePct": 1.81,
+        "previousClose": 6.176
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2057,
+        "change": -5.300049,
+        "changePct": -0.26,
+        "previousClose": 2062.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 94.68,
+        "change": -0.12999725,
+        "changePct": -0.14,
+        "previousClose": 94.81
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.87,
+        "previous": 3.93,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-05-06"
+      },
+      "10Y": {
+        "current": 4.36,
+        "previous": 4.43,
+        "change": -0.07,
+        "changeBps": -7,
+        "date": "2026-05-06"
+      },
+      "30Y": {
+        "current": 4.94,
+        "previous": 4.98,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-05-06"
+      },
+      "USD_BROAD": {
+        "current": 118.3926,
+        "previous": 118.671,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-05-01"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112064,
+        "previous": 8462,
+        "change": 103602,
+        "period": "2026-05-01",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "The World's Biggest Fusion Reactor Just Hit A Milestone",
+        "link": "https://www.zerohedge.com/markets/worlds-biggest-fusion-reactor-just-hit-milestone",
+        "date": "2026-05-08T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Political Warfare? Advocacy Group With Ties To Lefty Unions Targets SpaceX IPO",
+        "link": "https://www.zerohedge.com/markets/political-warfare-advocacy-group-ties-lefty-unions-flags-spacex",
+        "date": "2026-05-08T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Baltic States Warn Of Unfunded Debt Surge For Europe's Defense Splurge",
+        "link": "https://www.zerohedge.com/markets/baltic-states-warn-unfunded-debt-surge-europes-defense-splurge",
+        "date": "2026-05-08T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hungary Returns Ukrainian Bank Cash & Gold Seized During Election Campaign",
+        "link": "https://www.zerohedge.com/political/hungary-returns-ukrainian-bank-cash-gold-seized-during-election-campaign",
+        "date": "2026-05-08T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Outraged At Its Ally Armenia For Hosting Zelensky: 'Whose Side Of History Are You On?'",
+        "link": "https://www.zerohedge.com/geopolitical/whose-side-history-are-you-russia-outraged-its-ally-armenia-hosting-zelensky",
+        "date": "2026-05-08T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Court Strikes Down Trump's Replacement Tariffs; A Minor, Temporary Setback, With Sec 301 Tariffs Coming",
+        "link": "https://www.zerohedge.com/economics/court-strikes-down-trumps-replacement-tariffs-minor-temporary-setback-sec-301-tariffs",
+        "date": "2026-05-08T03:31:54.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pastor: U.S. Intel Warned Christian Leaders That Trump's \"Alien Files\" Release Could Shatter Beliefs",
+        "link": "https://www.zerohedge.com/political/pastor-us-intel-warned-christian-leaders-trumps-alien-files-release-could-shatter-beliefs",
+        "date": "2026-05-08T03:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
+        "link": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories",
+        "date": "2026-05-08T02:57:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Saudi Arabia's $1Tn Wealth Fund Opens Shanghai Office As China Ties Deepen",
+        "link": "https://www.zerohedge.com/geopolitical/saudi-arabias-1tn-wealth-fund-opens-shanghai-office-china-ties-deepen",
+        "date": "2026-05-08T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hochul Targets NYC's Multimillion-Dollar Second Homes In $268 Billion Budget Framework",
+        "link": "https://www.zerohedge.com/political/hochul-targets-nycs-multimillion-dollar-second-homes-268-billion-budget-framework",
+        "date": "2026-05-08T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "What To Know About Trump's Presidential Fitness Test Award Revival",
+        "link": "https://www.zerohedge.com/medical/what-know-about-trumps-presidential-fitness-test-award-revival",
+        "date": "2026-05-08T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "$16M Hospice Fraud Exposed In Newsom's California As Trump Admin Ramps Up Crackdown",
+        "link": "https://www.zerohedge.com/political/16m-hospice-fraud-exposed-newsoms-california-trump-admin-ramps-crackdown",
+        "date": "2026-05-07T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Conducts New Iran Strikes Along Hormuz Corridor - Trump Says Warships Came Under Fire By 'Lunatics'",
+        "link": "https://www.zerohedge.com/geopolitical/first-chinese-tanker-attacked-near-hormuz-beijing-urges-waterway-reopened",
+        "date": "2026-05-07T21:30:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says",
+        "link": "https://www.cnbc.com/2026/05/07/theres-no-chance-warsh-will-be-able-to-get-the-fed-to-cut-rates-paul-tudor-jones-says.html",
+        "date": "2026-05-07T13:23:19.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-08T11:00:06.861Z"
+  }
+}
