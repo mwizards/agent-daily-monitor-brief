@@ -1,0 +1,371 @@
+{
+  "generatedAt": "2026-05-09T10:43:17.535Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 4.07,
+        "current": 85.97,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +4.07% to $85.97"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.01,
+        "current": 64.99,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.01% to $64.99"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Nike faces class action lawsuit accusing it of pocketing tariff refunds while charging consumers more",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] Nike faces class action lawsuit accusing it of pocketing tariff refunds while charging consumers more"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Is There More Risk Than Reward In The US–China Summit?",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Is There More Risk Than Reward In The US–China Summit?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "keywords": [
+          "federal reserve"
+        ],
+        "message": "[CNBC Economy] The Federal Reserve is quickly running out of reasons to cut interest rates"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Toyota And Honda See Sharp Declines In Profit Amidst Iran War Pressures, Spiking EV Costs",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Toyota And Honda See Sharp Declines In Profit Amidst Iran War Pressures, Spiking EV Costs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Gets Diplomatic Win In Ukraine War, 3-Day Ceasefire Declared For Russia's V-Day",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump Gets Diplomatic Win In Ukraine War, 3-Day Ceasefire Declared For Russia's V-Day"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.82,
+        "current": 31.75,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.82% to $31.75"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.5,
+        "message": "Gold/Silver ratio: 58.5x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 433.77,
+        "previousClose": 431.68,
+        "high": 436.2,
+        "low": 431.74,
+        "changePct": 0.48
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 73.01,
+        "previousClose": 71.6,
+        "high": 73.825,
+        "low": 72.285,
+        "changePct": 1.97
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 85.97,
+        "previousClose": 82.61,
+        "high": 86.24,
+        "low": 84.915,
+        "changePct": 4.07
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.99,
+        "previousClose": 67.01,
+        "high": 67.85,
+        "low": 64.88,
+        "changePct": -3.01
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.18,
+        "previousClose": 56.26,
+        "high": 56.8199,
+        "low": 54.91,
+        "changePct": -1.92
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.75,
+        "previousClose": 30.88,
+        "high": 32.32,
+        "low": 31.135,
+        "changePct": 2.82
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.7,
+        "previousClose": 55.95,
+        "high": 56.225,
+        "low": 55.465,
+        "changePct": -0.45
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.34,
+        "previousClose": 27.41,
+        "high": 27.351,
+        "low": 27.31,
+        "changePct": -0.26
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.08,
+        "previousClose": 85.647,
+        "high": 86.28,
+        "low": 85.99,
+        "changePct": 0.51
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 737.62,
+        "previousClose": 731.58,
+        "high": 738.07,
+        "low": 734.57,
+        "changePct": 0.83
+      }
+    },
+    "metals": {
+      "gold": 4730.7,
+      "silver": 80.86,
+      "copper": 6.3,
+      "platinum": 2059.3,
+      "crude": null,
+      "goldSilverRatio": 58.5
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4730.7,
+        "change": 19.800293,
+        "changePct": 0.42,
+        "previousClose": 4710.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 80.865,
+        "change": 0.68499756,
+        "changePct": 0.85,
+        "previousClose": 80.18
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.2965,
+        "change": 0.12050009,
+        "changePct": 1.95,
+        "previousClose": 6.176
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2059.3,
+        "change": -3,
+        "changePct": -0.15,
+        "previousClose": 2062.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 95.42,
+        "change": 0.6100006,
+        "changePct": 0.64,
+        "previousClose": 94.81
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.92,
+        "previous": 3.87,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-05-07"
+      },
+      "10Y": {
+        "current": 4.41,
+        "previous": 4.36,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-05-07"
+      },
+      "30Y": {
+        "current": 4.97,
+        "previous": 4.94,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-07"
+      },
+      "USD_BROAD": {
+        "current": 118.3926,
+        "previous": 118.671,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-05-01"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112064,
+        "previous": 8462,
+        "change": 103602,
+        "period": "2026-05-01",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Gold, Debt And The Inevitable Global Housing Market Crash",
+        "link": "https://www.zerohedge.com/economics/gold-debt-and-inevitable-global-housing-market-crash",
+        "date": "2026-05-09T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "DOE's NNSA Removes Enriched Uranium From Venezuela And Japan",
+        "link": "https://www.zerohedge.com/energy/does-nnsa-removes-enriched-uranium-venezuela-and-japan",
+        "date": "2026-05-09T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is Marco Rubio The New Heir Apparent To Trump?",
+        "link": "https://www.zerohedge.com/political/marco-rubio-new-heir-apparent-trump",
+        "date": "2026-05-09T01:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Nike faces class action lawsuit accusing it of pocketing tariff refunds while charging consumers more",
+        "link": "https://www.foxbusiness.com/economy/nike-faces-class-action-lawsuit-accusing-pocketing-tariff-refunds-while-charging-consumers-more",
+        "date": "2026-05-09T01:13:49.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Is There More Risk Than Reward In The US–China Summit?",
+        "link": "https://www.zerohedge.com/geopolitical/there-more-risk-reward-us-china-summit",
+        "date": "2026-05-09T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "What The Indiana Primaries Tell Us About Trump's Grip On The GOP",
+        "link": "https://www.zerohedge.com/political/what-indiana-primaries-tell-us-about-trumps-grip-gop",
+        "date": "2026-05-09T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Traders Puzzled As Physical Oil Prices Tumble Amid Surging Chinese Crude Sales, Plunging Imports",
+        "link": "https://www.zerohedge.com/markets/traders-puzzled-physical-oil-prices-tumble-amid-surging-chinese-crude-sales-plunging",
+        "date": "2026-05-08T22:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "link": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+        "date": "2026-05-08T21:44:14.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Gold has climbed back above a key trend line. Are more gains on the way?",
+        "link": "https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories",
+        "date": "2026-05-08T21:44:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won’t see coming",
+        "link": "https://www.marketwatch.com/story/no-do-overs-how-one-extra-dollar-on-your-roth-conversion-triggers-a-tax-bill-you-wont-see-coming-5b52c911?mod=mw_rss_topstories",
+        "date": "2026-05-08T21:29:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Massive Oil Slick Spotted Off Iran's Kharg Island, Cause Unknown",
+        "link": "https://www.zerohedge.com/geopolitical/massive-oil-slick-spotted-irans-kharg-island-cause-unknown",
+        "date": "2026-05-08T20:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Toyota And Honda See Sharp Declines In Profit Amidst Iran War Pressures, Spiking EV Costs",
+        "link": "https://www.zerohedge.com/markets/toyota-expecting-sharp-decline-profit-due-iran-conflict-pressures",
+        "date": "2026-05-08T19:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Gets Diplomatic Win In Ukraine War, 3-Day Ceasefire Declared For Russia's V-Day",
+        "link": "https://www.zerohedge.com/geopolitical/trump-gets-diplomatic-win-ukraine-war-3-day-ceasefire-declared-russias-v-day",
+        "date": "2026-05-08T19:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Taiwan Semiconductor April Sales Grow At Slowest Pace In 6 Months",
+        "link": "https://www.zerohedge.com/markets/taiwan-semi-april-sales-grow-slowest-pace-6-months",
+        "date": "2026-05-08T18:40:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-09T10:43:06.981Z"
+  }
+}
