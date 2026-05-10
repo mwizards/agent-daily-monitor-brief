@@ -1,0 +1,327 @@
+{
+  "generatedAt": "2026-05-10T10:50:43.105Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 4.07,
+        "current": 85.97,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +4.07% to $85.97"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.01,
+        "current": 64.99,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.01% to $64.99"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "When The Persian Gulf Supply Shock Meets The Warsh Fed: Stagflation & The Coming AI Bubble Bust",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] When The Persian Gulf Supply Shock Meets The Warsh Fed: Stagflation & The Coming AI Bubble Bust"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "De-Extinct Dire Wolves Ready To Breed; Bioscience Company Pushes Forward Multiple Projects",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] De-Extinct Dire Wolves Ready To Breed; Bioscience Company Pushes Forward Multiple Projects"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.82,
+        "current": 31.75,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.82% to $31.75"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Cameco Sees As Many As 20 AP1000 Nuclear Reactors On The Horizon",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Cameco Sees As Many As 20 AP1000 Nuclear Reactors On The Horizon"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.5,
+        "message": "Gold/Silver ratio: 58.5x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 6
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 433.77,
+        "previousClose": 431.68,
+        "high": 436.2,
+        "low": 431.74,
+        "changePct": 0.48
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 73.01,
+        "previousClose": 71.6,
+        "high": 73.825,
+        "low": 72.285,
+        "changePct": 1.97
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 85.97,
+        "previousClose": 82.61,
+        "high": 86.24,
+        "low": 84.915,
+        "changePct": 4.07
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.99,
+        "previousClose": 67.01,
+        "high": 67.85,
+        "low": 64.88,
+        "changePct": -3.01
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.18,
+        "previousClose": 56.26,
+        "high": 56.8199,
+        "low": 54.91,
+        "changePct": -1.92
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.75,
+        "previousClose": 30.88,
+        "high": 32.32,
+        "low": 31.135,
+        "changePct": 2.82
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.7,
+        "previousClose": 55.95,
+        "high": 56.225,
+        "low": 55.465,
+        "changePct": -0.45
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.34,
+        "previousClose": 27.41,
+        "high": 27.351,
+        "low": 27.31,
+        "changePct": -0.26
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.08,
+        "previousClose": 85.647,
+        "high": 86.28,
+        "low": 85.99,
+        "changePct": 0.51
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 737.62,
+        "previousClose": 731.58,
+        "high": 738.07,
+        "low": 734.57,
+        "changePct": 0.83
+      }
+    },
+    "metals": {
+      "gold": 4730.7,
+      "silver": 80.86,
+      "copper": 6.3,
+      "platinum": 2059.3,
+      "crude": null,
+      "goldSilverRatio": 58.5
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4730.7,
+        "change": 19.800293,
+        "changePct": 0.42,
+        "previousClose": 4710.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 80.865,
+        "change": 0.68499756,
+        "changePct": 0.85,
+        "previousClose": 80.18
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.2965,
+        "change": 0.12050009,
+        "changePct": 1.95,
+        "previousClose": 6.176
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2059.3,
+        "change": -3,
+        "changePct": -0.15,
+        "previousClose": 2062.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 95.42,
+        "change": 0.6100006,
+        "changePct": 0.64,
+        "previousClose": 94.81
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.92,
+        "previous": 3.87,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-05-07"
+      },
+      "10Y": {
+        "current": 4.41,
+        "previous": 4.36,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-05-07"
+      },
+      "30Y": {
+        "current": 4.97,
+        "previous": 4.94,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-07"
+      },
+      "USD_BROAD": {
+        "current": 118.3926,
+        "previous": 118.671,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-05-01"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112064,
+        "previous": 8462,
+        "change": 103602,
+        "period": "2026-05-01",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "4 Key Points From New White House Counter-Terror Strategy",
+        "link": "https://www.zerohedge.com/political/4-key-points-new-white-house-counter-terror-strategy",
+        "date": "2026-05-10T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Cameco Sees As Many As 20 AP1000 Nuclear Reactors On The Horizon",
+        "link": "https://www.zerohedge.com/energy/cameco-sees-many-20-ap1000s-horizon",
+        "date": "2026-05-10T01:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Congratulates Incoming Iraqi Leader, Who Moves To Disarm Pro-Iran Militias",
+        "link": "https://www.zerohedge.com/geopolitical/trump-congratulates-incoming-iraq-leader-who-moves-disarm-pro-iran-militias",
+        "date": "2026-05-10T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "From Civilian To Military Economy: This Is What A Declining Empire's Economy Looks Like",
+        "link": "https://www.zerohedge.com/economics/civilian-military-economy-what-declining-empires-economy-looks",
+        "date": "2026-05-09T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "When The Persian Gulf Supply Shock Meets The Warsh Fed: Stagflation & The Coming AI Bubble Bust",
+        "link": "https://www.zerohedge.com/markets/when-persian-gulf-supply-shock-meets-warsh-fed-stagflation-coming-ai-bubble-bust",
+        "date": "2026-05-09T22:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says He's Not Replacing FDA Chief Makary",
+        "link": "https://www.zerohedge.com/political/trump-says-hes-not-replacing-fda-chief-makary",
+        "date": "2026-05-09T19:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "More \"Love Taps\"? US Reportedly Struck 4 Iranian Tankers As Qatari LNG Tanker Traverses Strait",
+        "link": "https://www.zerohedge.com/geopolitical/qatari-lng-tanker-transits-hormuz-us-awaits-irans-response-peace-deal",
+        "date": "2026-05-09T17:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Publicly Discloses Supreme Leader's Status For First Time: 'Marginally Injured'",
+        "link": "https://www.zerohedge.com/geopolitical/iran-publicly-discloses-supreme-leaders-injuries-first-time-marginally-injured",
+        "date": "2026-05-09T17:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Putin Rips NATO Aggression At Scaled-Down Victory Day Parade As Ceasefire Holds",
+        "link": "https://www.zerohedge.com/geopolitical/putin-rips-nato-aggression-scaled-down-victory-day-parade-ceasefire-holds",
+        "date": "2026-05-09T16:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "De-Extinct Dire Wolves Ready To Breed; Bioscience Company Pushes Forward Multiple Projects",
+        "link": "https://www.zerohedge.com/technology/de-extinct-dire-wolves-ready-breed-bioscience-company-pushes-forward-multiple-projects",
+        "date": "2026-05-09T15:40:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-10T10:50:34.184Z"
+  }
+}
