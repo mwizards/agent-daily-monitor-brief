@@ -1,0 +1,328 @@
+{
+  "generatedAt": "2026-05-11T12:32:25.135Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 4.07,
+        "current": 85.97,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +4.07% to $85.97"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.01,
+        "current": 64.99,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.01% to $64.99"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "A ‘race against time.’ Hormuz closure could push Brent to $150 by summer, warns Morgan Stanley.",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] A ‘race against time.’ Hormuz closure could push Brent to $150 by summer, warns Morgan Stanley."
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Rabobank: \"More War Seems Inevitable\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Rabobank: \"More War Seems Inevitable\""
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Kraft Heinz CEO: \"Consumers Are Literally Running Out Of Money Toward The End Of The Month\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Kraft Heinz CEO: \"Consumers Are Literally Running Out Of Money Toward The End Of The Month\""
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.82,
+        "current": 31.75,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.82% to $31.75"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 56.59,
+        "message": "Gold/Silver ratio: 56.59x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 433.77,
+        "previousClose": 431.68,
+        "high": 436.2,
+        "low": 431.74,
+        "changePct": 0.48
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 73.01,
+        "previousClose": 71.6,
+        "high": 73.825,
+        "low": 72.285,
+        "changePct": 1.97
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 85.97,
+        "previousClose": 82.61,
+        "high": 86.24,
+        "low": 84.915,
+        "changePct": 4.07
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.99,
+        "previousClose": 67.01,
+        "high": 67.85,
+        "low": 64.88,
+        "changePct": -3.01
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 55.18,
+        "previousClose": 56.26,
+        "high": 56.8199,
+        "low": 54.91,
+        "changePct": -1.92
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 31.75,
+        "previousClose": 30.88,
+        "high": 32.32,
+        "low": 31.135,
+        "changePct": 2.82
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.7,
+        "previousClose": 55.95,
+        "high": 56.225,
+        "low": 55.465,
+        "changePct": -0.45
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.34,
+        "previousClose": 27.41,
+        "high": 27.351,
+        "low": 27.31,
+        "changePct": -0.26
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 86.08,
+        "previousClose": 85.647,
+        "high": 86.28,
+        "low": 85.99,
+        "changePct": 0.51
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 737.62,
+        "previousClose": 731.58,
+        "high": 738.07,
+        "low": 734.57,
+        "changePct": 0.83
+      }
+    },
+    "metals": {
+      "gold": 4690.8,
+      "silver": 82.89,
+      "copper": 6.38,
+      "platinum": 2072.5,
+      "crude": null,
+      "goldSilverRatio": 56.59
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4690.8,
+        "change": -39.90039,
+        "changePct": -0.84,
+        "previousClose": 4730.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 82.885,
+        "change": 2.0200043,
+        "changePct": 2.5,
+        "previousClose": 80.865
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.3815,
+        "change": 0.08499956,
+        "changePct": 1.35,
+        "previousClose": 6.2965
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2072.5,
+        "change": 13.199951,
+        "changePct": 0.64,
+        "previousClose": 2059.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 98.21,
+        "change": 2.790001,
+        "changePct": 2.92,
+        "previousClose": 95.42
+      }
+    },
+    "yields": {
+      "USD_BROAD": {
+        "current": 118.3926,
+        "previous": 118.671,
+        "change": -0.28,
+        "changeBps": -28,
+        "date": "2026-05-01"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112064,
+        "previous": 8462,
+        "change": 103602,
+        "period": "2026-05-01",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Very Wide Gap Between US & Iranian Positions As Tehran Blasts White House 'Unreasonable Demands'",
+        "link": "https://www.zerohedge.com/geopolitical/very-wide-gap-between-us-iranian-positions-tehran-blasts-white-house-unreasonable",
+        "date": "2026-05-11T12:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Qatari LNG Tanker Abruptly U-Turns In Hormuz Chokepoint After Weekend Transit Breakthrough",
+        "link": "https://www.zerohedge.com/energy/qatari-lng-tanker-abruptly-u-turns-hormuz-chokepoint-after-weekend-transit-breakthrough",
+        "date": "2026-05-11T11:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "A ‘race against time.’ Hormuz closure could push Brent to $150 by summer, warns Morgan Stanley.",
+        "link": "https://www.marketwatch.com/story/a-race-against-time-hormuz-closure-could-push-brent-to-150-by-summer-warns-morgan-stanley-018be51f?mod=mw_rss_topstories",
+        "date": "2026-05-11T11:28:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
+        "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
+        "date": "2026-05-11T10:14:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "As Trump heads to China, here’s how much the dollar is overvalued, according to Goldman Sachs",
+        "link": "https://www.marketwatch.com/story/as-trump-heads-to-china-heres-how-much-the-dollar-is-overvalued-according-to-goldman-sachs-e29884f9?mod=mw_rss_topstories",
+        "date": "2026-05-11T09:55:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "From Singapore to Brussels, world leaders eye Trump-Xi summit from afar",
+        "link": "https://www.cnbc.com/2026/05/11/trump-xi-summit-beijing-global-leaders-iran-war-taiwan-strait-of-hormuz-.html",
+        "date": "2026-05-11T07:28:36.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "EU Prepares For 'Potential' Talks With Putin As US Slowly Reduces Troops On Continent",
+        "link": "https://www.zerohedge.com/geopolitical/eu-prepares-potential-talks-putin-us-slowly-reduces-troops-continent",
+        "date": "2026-05-11T06:45:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
+        "link": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html",
+        "date": "2026-05-11T04:44:54.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Rabobank: \"More War Seems Inevitable\"",
+        "link": "https://www.zerohedge.com/geopolitical/rabobank-more-war-seems-inevitable",
+        "date": "2026-05-11T03:37:17.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Kraft Heinz CEO: \"Consumers Are Literally Running Out Of Money Toward The End Of The Month\"",
+        "link": "https://www.zerohedge.com/economics/kraft-heinz-ceo-consumers-are-literally-running-out-money-toward-end-month",
+        "date": "2026-05-10T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"They'll Be Laughing No Longer\": Trump Rejects Iran Peace Deal Response As \"Totally Unacceptable\"",
+        "link": "https://www.zerohedge.com/geopolitical/iran-responds-us-peace-proposal-ayatollah-meets-top-general-discuss-readiness",
+        "date": "2026-05-10T20:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Vegetable-Oil Inflation Sends World Food Prices Higher",
+        "link": "https://www.zerohedge.com/commodities/vegetable-oil-inflation-sends-world-food-prices-higher",
+        "date": "2026-05-10T20:20:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-11T12:32:16.454Z"
+  }
+}
