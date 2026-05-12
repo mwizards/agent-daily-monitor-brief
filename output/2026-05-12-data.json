@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-05-12T11:44:47.923Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 6.83,
+        "current": 78,
+        "direction": "UP",
+        "message": "Silver (SLV) +6.83% to $78"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 6.39,
+        "current": 33.78,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +6.39% to $33.78"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 4.92,
+        "current": 68.19,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +4.92% to $68.19"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 3.72,
+        "current": 57.23,
+        "direction": "UP",
+        "message": "Uranium (URA) +3.72% to $57.23"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Netanyahu Insists Iran War To Continue Until Uranium Is 'Physically' Removed",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Netanyahu Insists Iran War To Continue Until Uranium Is 'Physically' Removed"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "India Rejects Russian LNG Under Sanctions",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] India Rejects Russian LNG Under Sanctions"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "keywords": [
+          "federal reserve"
+        ],
+        "message": "[CNBC Economy] The Federal Reserve is quickly running out of reasons to cut interest rates"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.64,
+        "current": 57.17,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.64% to $57.17"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Iran Deploys Combat-Ready Mini Subs In Hormuz As US Flexes Nuclear Submarine En Route",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Iran Deploys Combat-Ready Mini Subs In Hormuz As US Flexes Nuclear Submarine En Route"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "US To Develop Small Modular Nuclear Reactors For Commercial Shipping",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US To Develop Small Modular Nuclear Reactors For Commercial Shipping"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 55.76,
+        "message": "Gold/Silver ratio: 55.76x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 11
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 434.65,
+        "previousClose": 433.77,
+        "high": 436.03,
+        "low": 432.25,
+        "changePct": 0.2
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 78,
+        "previousClose": 73.01,
+        "high": 78,
+        "low": 76.145,
+        "changePct": 6.83
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 87.59,
+        "previousClose": 85.97,
+        "high": 88.83,
+        "low": 86.76,
+        "changePct": 1.88
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 68.19,
+        "previousClose": 64.99,
+        "high": 69.3459,
+        "low": 66.47,
+        "changePct": 4.92
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 57.23,
+        "previousClose": 55.18,
+        "high": 58.12,
+        "low": 55.33,
+        "changePct": 3.72
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 33.78,
+        "previousClose": 31.75,
+        "high": 33.85,
+        "low": 32.57,
+        "changePct": 6.39
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.17,
+        "previousClose": 55.7,
+        "high": 57.22,
+        "low": 56.2401,
+        "changePct": 2.64
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.35,
+        "previousClose": 27.34,
+        "high": 27.36,
+        "low": 27.33,
+        "changePct": 0.04
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.56,
+        "previousClose": 86.08,
+        "high": 85.915,
+        "low": 85.49,
+        "changePct": -0.6
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 739.3,
+        "previousClose": 737.62,
+        "high": 740.75,
+        "low": 736.45,
+        "changePct": 0.23
+      }
+    },
+    "metals": {
+      "gold": 4705.9,
+      "silver": 84.4,
+      "copper": 6.48,
+      "platinum": 2096.8,
+      "crude": null,
+      "goldSilverRatio": 55.76
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4705.9,
+        "change": -22.800293,
+        "changePct": -0.48,
+        "previousClose": 4728.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 84.4,
+        "change": -1.5479965,
+        "changePct": -1.8,
+        "previousClose": 85.948
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.4815,
+        "change": 0.021000385,
+        "changePct": 0.33,
+        "previousClose": 6.4605
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2096.8,
+        "change": -29.5,
+        "changePct": -1.39,
+        "previousClose": 2126.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.46,
+        "change": 3.3899994,
+        "changePct": 3.46,
+        "previousClose": 98.07
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.9,
+        "previous": 3.92,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-05-08"
+      },
+      "10Y": {
+        "current": 4.38,
+        "previous": 4.41,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-05-08"
+      },
+      "30Y": {
+        "current": 4.95,
+        "previous": 4.97,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-05-08"
+      },
+      "USD_BROAD": {
+        "current": 118.0392,
+        "previous": 118.0116,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-08"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112064,
+        "previous": 8462,
+        "change": 103602,
+        "period": "2026-05-01",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "'Mediator' Pakistan Hosted Iranian Military Aircraft To Insulate Them From US Attacks, Graham Fumes At Islamabad",
+        "link": "https://www.zerohedge.com/geopolitical/very-wide-gap-between-us-iranian-positions-tehran-blasts-white-house-unreasonable",
+        "date": "2026-05-12T11:02:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Trump readies for Beijing summit with Xi as AI chip sales, farm goods top agenda",
+        "link": "https://www.foxbusiness.com/economy/trump-readies-beijing-summit-xi-ai-chip-sales-farm-goods-top-agenda",
+        "date": "2026-05-12T10:00:56.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UAE Secretly Carried Out Attacks On Iran, Making It An Active Combatant",
+        "link": "https://www.zerohedge.com/geopolitical/uae-secretly-carried-out-attacks-iran-making-it-active-combatant",
+        "date": "2026-05-12T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "What Decades Of Academic Literature, Military Doctrine Says About Effectiveness Of 'Decapitation Strikes'",
+        "link": "https://www.zerohedge.com/geopolitical/what-decades-academic-literature-military-doctrine-says-about-effectiveness",
+        "date": "2026-05-12T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Netanyahu Insists Iran War To Continue Until Uranium Is 'Physically' Removed",
+        "link": "https://www.zerohedge.com/markets/netanyahu-insists-iran-war-continue-until-uranium-physically-removed",
+        "date": "2026-05-12T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India Rejects Russian LNG Under Sanctions",
+        "link": "https://www.zerohedge.com/markets/india-rejects-russian-lng-under-sanctions",
+        "date": "2026-05-12T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Deploys Combat-Ready Mini Subs In Hormuz As US Flexes Nuclear Submarine En Route",
+        "link": "https://www.zerohedge.com/geopolitical/iran-deploys-combat-ready-mini-subs-hormuz-us-flexes-nuclear-submarine-en-route",
+        "date": "2026-05-12T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Executes Top Young Aerospace Scientist, Alleging CIA & Mossad Ties",
+        "link": "https://www.zerohedge.com/geopolitical/iran-executes-top-young-aerospace-scientist-alleging-cia-mossad-ties",
+        "date": "2026-05-11T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's Car Sales Slump As Gasoline Demand Craters",
+        "link": "https://www.zerohedge.com/economics/chinas-car-sales-slump-gasoline-demand-craters",
+        "date": "2026-05-11T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Floats Making Venezuela The 51st State",
+        "link": "https://www.zerohedge.com/geopolitical/trump-floats-making-venezuela-51st-state",
+        "date": "2026-05-11T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US To Develop Small Modular Nuclear Reactors For Commercial Shipping",
+        "link": "https://www.zerohedge.com/energy/us-develop-small-modular-nuclear-reactors-commercial-shipping",
+        "date": "2026-05-11T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Modi Urges Indians To Conserve Fuel As Oil Shock Spreads",
+        "link": "https://www.zerohedge.com/commodities/modi-urges-indians-conserve-fuel-oil-shock-spreads",
+        "date": "2026-05-11T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Billionaire Bucks Co-Owner Alleges $1 Billion Blackmail Plot After Affair With China-Born Entrepreneur",
+        "link": "https://www.zerohedge.com/markets/billionaire-bucks-co-owner-alleges-1-billion-blackmail-plot-after-affair",
+        "date": "2026-05-11T21:20:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions",
+        "link": "https://www.foxbusiness.com/economy/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-hormuz-disruptions",
+        "date": "2026-05-11T20:31:56.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "link": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+        "date": "2026-05-11T15:30:23.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-12T11:44:38.582Z"
+  }
+}
