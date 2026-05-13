@@ -1,0 +1,387 @@
+{
+  "generatedAt": "2026-05-13T11:52:21.468Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -5.03,
+        "current": 54.35,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -5.03% to $54.35"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 3.63,
+        "current": 90.77,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +3.63% to $90.77"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.94,
+        "current": 65.5,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.94% to $65.5"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "India More Than Doubles Gold, Silver Tariffs To Defend Crashing Rupee",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] India More Than Doubles Gold, Silver Tariffs To Defend Crashing Rupee"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Truth Is The First Casualty Of War; The Currency Is The Second...",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Truth Is The First Casualty Of War; The Currency Is The Second..."
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel Sent Iron Dome & Troops To UAE During Iran War: Amb. Huckabee Confirms",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel Sent Iron Dome & Troops To UAE During Iran War: Amb. Huckabee Confirms"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "As Hegseth Spars With Congress Over Iran War, Trump Decries Criticism As 'Virtual Treason'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] As Hegseth Spars With Congress Over Iran War, Trump Decries Criticism As 'Virtual Treason'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "The Overhyped Nuclear Hazard America Has Mastered",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] The Overhyped Nuclear Hazard America Has Mastered"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Germany's Nuclear Confession Is A Crack In Net‑Zero Pretense",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Germany's Nuclear Confession Is A Crack In Net‑Zero Pretense"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 53.4,
+        "message": "Gold/Silver ratio: 53.4x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 432.93,
+        "previousClose": 434.65,
+        "high": 432.98,
+        "low": 425.88,
+        "changePct": -0.4
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 78.55,
+        "previousClose": 78,
+        "high": 78.615,
+        "low": 75.145,
+        "changePct": 0.71
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 90.77,
+        "previousClose": 87.59,
+        "high": 91,
+        "low": 86.0901,
+        "changePct": 3.63
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 65.5,
+        "previousClose": 68.19,
+        "high": 66.98,
+        "low": 63.29,
+        "changePct": -3.94
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 54.35,
+        "previousClose": 57.23,
+        "high": 55.705,
+        "low": 52.62,
+        "changePct": -5.03
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.18,
+        "previousClose": 33.78,
+        "high": 34.3299,
+        "low": 32.09,
+        "changePct": 1.18
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.57,
+        "previousClose": 57.17,
+        "high": 57.84,
+        "low": 57.14,
+        "changePct": 0.7
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.45,
+        "previousClose": 27.35,
+        "high": 27.505,
+        "low": 27.44,
+        "changePct": 0.37
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 84.99,
+        "previousClose": 85.56,
+        "high": 85.2,
+        "low": 84.92,
+        "changePct": -0.67
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 738.18,
+        "previousClose": 739.3,
+        "high": 738.84,
+        "low": 731.83,
+        "changePct": -0.15
+      }
+    },
+    "metals": {
+      "gold": 4709.1,
+      "silver": 88.19,
+      "copper": 6.66,
+      "platinum": 2180.9,
+      "crude": null,
+      "goldSilverRatio": 53.4
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4709.1,
+        "change": 22.399902,
+        "changePct": 0.48,
+        "previousClose": 4686.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 88.19,
+        "change": 2.598999,
+        "changePct": 3.04,
+        "previousClose": 85.591
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.6585,
+        "change": 0.12750006,
+        "changePct": 1.95,
+        "previousClose": 6.531
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2180.9,
+        "change": 61.799805,
+        "changePct": 2.92,
+        "previousClose": 2119.1
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.85,
+        "change": -0.33000183,
+        "changePct": -0.32,
+        "previousClose": 102.18
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.95,
+        "previous": 3.9,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-05-11"
+      },
+      "10Y": {
+        "current": 4.42,
+        "previous": 4.38,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-05-11"
+      },
+      "30Y": {
+        "current": 4.98,
+        "previous": 4.95,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-11"
+      },
+      "USD_BROAD": {
+        "current": 118.0392,
+        "previous": 118.0116,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-08"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 112064,
+        "previous": 8462,
+        "change": 103602,
+        "period": "2026-05-01",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Here’s the silver lining for stocks and 5% Treasury yields",
+        "link": "https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories",
+        "date": "2026-05-13T11:22:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
+        "link": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
+        "date": "2026-05-13T11:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "What’s at stake as Trump and an army of CEOs go to China",
+        "link": "https://www.marketwatch.com/story/whats-at-stake-as-trump-and-an-army-of-ceos-go-to-china-24a64200?mod=mw_rss_topstories",
+        "date": "2026-05-13T11:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Overhyped Nuclear Hazard America Has Mastered",
+        "link": "https://www.zerohedge.com/energy/overhyped-nuclear-hazard-america-has-mastered",
+        "date": "2026-05-13T10:55:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Boeing could finally reignite its China business. Will that breathe new life into its stock?",
+        "link": "https://www.marketwatch.com/story/boeing-could-finally-reignite-its-china-business-will-that-breathe-new-life-into-its-stock-388520a8?mod=mw_rss_topstories",
+        "date": "2026-05-13T10:44:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Germany's Nuclear Confession Is A Crack In Net‑Zero Pretense",
+        "link": "https://www.zerohedge.com/geopolitical/germanys-nuclear-confession-crack-net-zero-pretense",
+        "date": "2026-05-13T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Successfully Tests Troubled SATAN II, Will Enter Combat By Year's End",
+        "link": "https://www.zerohedge.com/geopolitical/russia-successfully-tests-troubled-satan-ii-will-enter-combat-years-end",
+        "date": "2026-05-13T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India More Than Doubles Gold, Silver Tariffs To Defend Crashing Rupee",
+        "link": "https://www.zerohedge.com/precious-metals/india-more-doubles-gold-silver-tariffs-defend-crashing-rupee",
+        "date": "2026-05-13T05:03:52.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Think Tank Tells Chinese Media That U.S. Endgame In Iran Is To \"Achieve Market Monopoly\" In Logistics, Energy",
+        "link": "https://www.zerohedge.com/military/russian-war-blog-tells-chinese-media-iran-war-really-us-tool-achieve-market-monopoly",
+        "date": "2026-05-13T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Truth Is The First Casualty Of War; The Currency Is The Second...",
+        "link": "https://www.zerohedge.com/political/truth-first-casualty-war-currency-second",
+        "date": "2026-05-13T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Sent Iron Dome & Troops To UAE During Iran War: Amb. Huckabee Confirms",
+        "link": "https://www.zerohedge.com/geopolitical/israel-sent-iron-dome-troops-uae-during-iran-war-amb-huckabee-confirms",
+        "date": "2026-05-13T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "SpaceX, Google Eye Orbital Data Centers As Small-Town Resistance Grows",
+        "link": "https://www.zerohedge.com/technology/spacex-google-eye-orbital-data-centers-small-town-resistance-grows",
+        "date": "2026-05-13T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "As Hegseth Spars With Congress Over Iran War, Trump Decries Criticism As 'Virtual Treason'",
+        "link": "https://www.zerohedge.com/political/hegseth-spars-congress-over-iran-war-trump-decries-criticism-virtual-treason",
+        "date": "2026-05-12T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Former CIA Director Brennan Says There Are Still \"Legions\" Of Anti-Trump, Deep State Operatives, At DOJ, FBI, & CIA",
+        "link": "https://www.zerohedge.com/political/former-cia-director-brennan-says-there-are-still-legions-anti-trump-deep-state-operatives",
+        "date": "2026-05-12T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China's Teapot Refiners Slash Output As Hormuz Crisis Crushes Margins",
+        "link": "https://www.zerohedge.com/energy/chinas-teapot-refiners-slash-output-hormuz-crisis-crushes-margins",
+        "date": "2026-05-12T22:50:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-13T11:52:11.122Z"
+  }
+}
