@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2026-05-14T11:30:19.025Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "The commodities guru who warned about silver falling now is saying the hantavirus could do the same to oil",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] The commodities guru who warned about silver falling now is saying the hantavirus could do the same to oil"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The US Has Restarted Jungle Warfare In Panama After 25 Years",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The US Has Restarted Jungle Warfare In Panama After 25 Years"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Neocon Grandee Robert Kagan Issues Surprise Scathing Critique Of Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Neocon Grandee Robert Kagan Issues Surprise Scathing Critique Of Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel's Netanyahu Made Clandestine Trip To UAE During Height Of Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel's Netanyahu Made Clandestine Trip To UAE During Height Of Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump's Booming War Economy Explained In One Chart",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump's Booming War Economy Explained In One Chart"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Vance Shrugs Off Backlash After Trump Says Americans' Finances Don't Factor Into Iran War \"Even A Little Bit\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Vance Shrugs Off Backlash After Trump Says Americans' Finances Don't Factor Into Iran War \"Even A Little Bit\""
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -2.47,
+        "current": 63.88,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -2.47% to $63.88"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 53.82,
+        "message": "Gold/Silver ratio: 53.82x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 430.5,
+        "previousClose": 432.93,
+        "high": 432.49,
+        "low": 428.75,
+        "changePct": -0.56
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 79.35,
+        "previousClose": 78.55,
+        "high": 80.86,
+        "low": 78.27,
+        "changePct": 1.02
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 91.91,
+        "previousClose": 90.77,
+        "high": 92.77,
+        "low": 90.3391,
+        "changePct": 1.26
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 63.88,
+        "previousClose": 65.5,
+        "high": 64.95,
+        "low": 62.76,
+        "changePct": -2.47
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 53.31,
+        "previousClose": 54.35,
+        "high": 54.11,
+        "low": 52.5,
+        "changePct": -1.91
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 34.27,
+        "previousClose": 34.18,
+        "high": 34.73,
+        "low": 33.18,
+        "changePct": 0.26
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.63,
+        "previousClose": 57.57,
+        "high": 57.71,
+        "low": 56.96,
+        "changePct": 0.1
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.51,
+        "previousClose": 27.45,
+        "high": 27.535,
+        "low": 27.5,
+        "changePct": 0.22
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 84.8,
+        "previousClose": 84.99,
+        "high": 85.045,
+        "low": 84.59,
+        "changePct": -0.22
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 742.31,
+        "previousClose": 738.18,
+        "high": 743.89,
+        "low": 735.47,
+        "changePct": 0.56
+      }
+    },
+    "metals": {
+      "gold": 4701.3,
+      "silver": 87.36,
+      "copper": 6.64,
+      "platinum": 2131.7,
+      "crude": null,
+      "goldSilverRatio": 53.82
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4701.3,
+        "change": -5.4003906,
+        "changePct": -0.11,
+        "previousClose": 4706.7
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 87.36,
+        "change": -2.0079956,
+        "changePct": -2.25,
+        "previousClose": 89.368
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.64,
+        "change": -0.039000034,
+        "changePct": -0.58,
+        "previousClose": 6.679
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 2131.7,
+        "change": -65.6001,
+        "changePct": -2.99,
+        "previousClose": 2197.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.04,
+        "change": 0.020004272,
+        "changePct": 0.02,
+        "previousClose": 101.02
+      }
+    },
+    "yields": {
+      "10Y": {
+        "current": 4.46,
+        "previous": 4.42,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-05-12"
+      },
+      "30Y": {
+        "current": 5.03,
+        "previous": 4.98,
+        "change": 0.05,
+        "changeBps": 5,
+        "date": "2026-05-12"
+      },
+      "USD_BROAD": {
+        "current": 118.0392,
+        "previous": 118.0116,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-08"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 111215,
+        "previous": 7692,
+        "change": 103523,
+        "period": "2026-05-08",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Europe's Dependence On US LNG Set To Surge",
+        "link": "https://www.zerohedge.com/commodities/europes-dependence-us-lng-set-surge",
+        "date": "2026-05-14T11:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The commodities guru who warned about silver falling now is saying the hantavirus could do the same to oil",
+        "link": "https://www.marketwatch.com/story/the-commodities-guru-who-warned-about-silver-falling-now-is-saying-the-hantavirus-could-do-the-same-to-oil-a0504be0?mod=mw_rss_topstories",
+        "date": "2026-05-14T11:08:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump, Xi Put Hormuz, Iran, Trade, Taiwan At Center Of Historic Beijing Summit",
+        "link": "https://www.zerohedge.com/geopolitical/trump-xi-put-hormuz-iran-trade-taiwan-center-historic-beijing-summit",
+        "date": "2026-05-14T11:05:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Retailers keep tinkering with their AI shopping assistants, in search of better service",
+        "link": "https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories",
+        "date": "2026-05-14T10:54:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bessent's \"Suffocating\" Iranian Regime Strategy Materializes In Kharg Island Satellite Imagery",
+        "link": "https://www.zerohedge.com/energy/bessents-suffocating-iranian-regime-strategy-materializes-kharg-island-satellite-imagery",
+        "date": "2026-05-14T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The US Has Restarted Jungle Warfare In Panama After 25 Years",
+        "link": "https://www.zerohedge.com/markets/us-has-restarted-jungle-warfare-panama-after-25-years",
+        "date": "2026-05-14T09:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The stock market is breaking the rules of the inflation playbook. Here is what is different this time",
+        "link": "https://www.marketwatch.com/story/a-look-at-which-assets-are-following-the-script-and-which-arent-on-day-75-of-the-war-bdd52fba?mod=mw_rss_topstories",
+        "date": "2026-05-14T09:38:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The UK's New Multinational Naval Initiative Aims To Contain Russia In The Arctic & Baltic",
+        "link": "https://www.zerohedge.com/geopolitical/uks-new-multinational-naval-initiative-aims-contain-russia-arctic-baltic",
+        "date": "2026-05-14T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Neocon Grandee Robert Kagan Issues Surprise Scathing Critique Of Iran War",
+        "link": "https://www.zerohedge.com/geopolitical/neocon-grandee-robert-kagan-issues-surprise-scathing-critique-iran-war",
+        "date": "2026-05-14T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel's Netanyahu Made Clandestine Trip To UAE During Height Of Iran War",
+        "link": "https://www.zerohedge.com/geopolitical/israels-netanyahu-made-clandestine-trip-uae-during-height-iran-war",
+        "date": "2026-05-14T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says Cuba Is Seeking Help: 'We Are Going To Talk'",
+        "link": "https://www.zerohedge.com/geopolitical/trump-says-cuba-seeking-help-we-are-going-talk",
+        "date": "2026-05-14T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump's Booming War Economy Explained In One Chart",
+        "link": "https://www.zerohedge.com/military/trumps-booming-war-economy-explained-one-chart",
+        "date": "2026-05-14T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Vance Shrugs Off Backlash After Trump Says Americans' Finances Don't Factor Into Iran War \"Even A Little Bit\"",
+        "link": "https://www.zerohedge.com/geopolitical/vance-shrugs-backlash-after-trump-says-americans-finances-dont-factor-iran-war-even",
+        "date": "2026-05-13T23:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Boeing pursues massive China jet deal as CEO joins Trump's delegation to Beijing",
+        "link": "https://www.foxbusiness.com/markets/boeing-pursues-massive-china-jet-deal-ceo-joins-trumps-delegation-beijing",
+        "date": "2026-05-13T20:26:57.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Social Security recipients could see a bigger cost-of-living adjustment in 2027 as inflation rises",
+        "link": "https://www.foxbusiness.com/economy/social-security-recipients-could-see-bigger-cost-living-adjustment-2027-inflation-rises",
+        "date": "2026-05-13T16:22:20.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-14T11:30:10.044Z"
+  }
+}
