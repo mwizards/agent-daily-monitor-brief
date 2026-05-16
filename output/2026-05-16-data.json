@@ -1,0 +1,455 @@
+{
+  "generatedAt": "2026-05-16T10:51:45.672Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -8.57,
+        "current": 69.04,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -8.57% to $69.04"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -7.08,
+        "current": 83.05,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -7.08% to $83.05"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -8.26,
+        "current": 30.19,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -8.26% to $30.19"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.76,
+        "current": 60.15,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.76% to $60.15"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -4.9,
+        "current": 49.93,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -4.9% to $49.93"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Amazon accused of keeping hundreds of millions in tariff costs to curry favor with Trump administration",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[Fox Biz Economy] Amazon accused of keeping hundreds of millions in tariff costs to curry favor with Trump administration"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "BRICS Summit Can't Muster Joint Statement On Iran War Amid Deepening Division",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] BRICS Summit Can't Muster Joint Statement On Iran War Amid Deepening Division"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Beijing Showcased Future War Machines While Trump Was In Town",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Beijing Showcased Future War Machines While Trump Was In Town"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Berkshire’s Abel sours on some of Warren Buffett’s picks, while betting big on Delta",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Berkshire’s Abel sours on some of Warren Buffett’s picks, while betting big on Delta"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Send Us A Tip\": U.S. Dangles $15 Million Reward For New Intel On Iran's Drone Network",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"Send Us A Tip\": U.S. Dangles $15 Million Reward For New Intel On Iran's Drone Network"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "DHS Pushes Forward With Large-Scale Warehouse Immigration Detention Hubs",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] DHS Pushes Forward With Large-Scale Warehouse Immigration Detention Hubs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Watch: Trump Spars With 'Treasonous' NYT Reporter On Iran War Coverage",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Watch: Trump Spars With 'Treasonous' NYT Reporter On Iran War Coverage"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -2.32,
+        "current": 417.29,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -2.32% to $417.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.36,
+        "current": 59.44,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.36% to $59.44"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "\"Energy Is The Issue\" - NANO Nuclear Highlights Reactor And Enrichment Opportunity",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] \"Energy Is The Issue\" - NANO Nuclear Highlights Reactor And Enrichment Opportunity"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Uranium Gap Worsens: Nuclear News Roundup",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Uranium Gap Worsens: Nuclear News Roundup"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.83,
+        "message": "Gold/Silver ratio: 58.83x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 16
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 417.29,
+        "previousClose": 427.21,
+        "high": 419.2484,
+        "low": 414.12,
+        "changePct": -2.32
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.04,
+        "previousClose": 75.51,
+        "high": 70.06,
+        "low": 68.55,
+        "changePct": -8.57
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.05,
+        "previousClose": 89.38,
+        "high": 85.12,
+        "low": 82.76,
+        "changePct": -7.08
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 60.15,
+        "previousClose": 62.5,
+        "high": 61.52,
+        "low": 59.63,
+        "changePct": -3.76
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 49.93,
+        "previousClose": 52.5,
+        "high": 50.875,
+        "low": 49.775,
+        "changePct": -4.9
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.19,
+        "previousClose": 32.91,
+        "high": 31.135,
+        "low": 29.855,
+        "changePct": -8.26
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.44,
+        "previousClose": 58.07,
+        "high": 59.47,
+        "low": 58.475,
+        "changePct": 2.36
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.77,
+        "previousClose": 27.62,
+        "high": 27.77,
+        "low": 27.715,
+        "changePct": 0.54
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 83.66,
+        "previousClose": 84.920006,
+        "high": 83.9699,
+        "low": 83.59,
+        "changePct": -1.48
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 739.17,
+        "previousClose": 748.17,
+        "high": 743.46,
+        "low": 737.96,
+        "changePct": -1.2
+      }
+    },
+    "metals": {
+      "gold": 4561.9,
+      "silver": 77.55,
+      "copper": 6.3,
+      "platinum": 1991.8,
+      "crude": null,
+      "goldSilverRatio": 58.83
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4561.9,
+        "change": -123.3999,
+        "changePct": -2.63,
+        "previousClose": 4685.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 77.547,
+        "change": -7.781006,
+        "changePct": -9.12,
+        "previousClose": 85.328
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.295,
+        "change": -0.3164997,
+        "changePct": -4.79,
+        "previousClose": 6.6115
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1991.8,
+        "change": -99.59985,
+        "changePct": -4.76,
+        "previousClose": 2091.4
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.02,
+        "change": 4.0999985,
+        "changePct": 4.23,
+        "previousClose": 96.92
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4,
+        "previous": 3.98,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-05-14"
+      },
+      "10Y": {
+        "current": 4.47,
+        "previous": 4.46,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-05-14"
+      },
+      "30Y": {
+        "current": 5.02,
+        "previous": 5.03,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-14"
+      },
+      "USD_BROAD": {
+        "current": 118.0392,
+        "previous": 118.0116,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-08"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 111215,
+        "previous": 7692,
+        "change": 103523,
+        "period": "2026-05-08",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "Fox Biz Economy",
+        "title": "Amazon accused of keeping hundreds of millions in tariff costs to curry favor with Trump administration",
+        "link": "https://www.foxbusiness.com/economy/amazon-accused-keeping-hundreds-millions-tariff-costs-curry-favor-trump-administration",
+        "date": "2026-05-16T09:01:03.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "BRICS Summit Can't Muster Joint Statement On Iran War Amid Deepening Division",
+        "link": "https://www.zerohedge.com/geopolitical/brics-summit-cant-muster-joint-statement-iran-war-amid-deepening-division",
+        "date": "2026-05-16T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Beijing Showcased Future War Machines While Trump Was In Town",
+        "link": "https://www.zerohedge.com/military/beijing-showcased-future-war-machines-while-trump-was-town",
+        "date": "2026-05-16T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Energy Is The Issue\" - NANO Nuclear Highlights Reactor And Enrichment Opportunity",
+        "link": "https://www.zerohedge.com/energy/energy-issue-nano-nuclear-highlights-reactor-and-enrichment-opportunity",
+        "date": "2026-05-15T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Harvard Weighs Major Crackdown On \"Grade Inflation\"",
+        "link": "https://www.zerohedge.com/markets/harvard-weighs-major-crackdown-grade-inflation",
+        "date": "2026-05-15T22:50:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Berkshire’s Abel sours on some of Warren Buffett’s picks, while betting big on Delta",
+        "link": "https://www.marketwatch.com/story/berkshires-abel-sours-on-some-of-warren-buffetts-picks-while-betting-big-on-delta-7ad679f7?mod=mw_rss_topstories",
+        "date": "2026-05-15T21:41:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Stocks and bonds get swept up in a selloff, as Trump’s China visit fails to pry open the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
+        "date": "2026-05-15T20:57:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Send Us A Tip\": U.S. Dangles $15 Million Reward For New Intel On Iran's Drone Network",
+        "link": "https://www.zerohedge.com/military/send-us-dangles-15-million-reward-new-intel-irans-drone-network",
+        "date": "2026-05-15T20:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Deadlocked At Square Zero: Very First Line Of Iran's Latest Proposal 'Unacceptable,' Trump Says",
+        "link": "https://www.zerohedge.com/markets/deadlocked-square-zero-very-first-line-irans-latest-proposal-unacceptable-trump-says",
+        "date": "2026-05-15T20:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "DHS Pushes Forward With Large-Scale Warehouse Immigration Detention Hubs",
+        "link": "https://www.zerohedge.com/political/dhs-pushes-forward-large-scale-warehouse-immigration-detention-hubs",
+        "date": "2026-05-15T19:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Uranium Gap Worsens: Nuclear News Roundup",
+        "link": "https://www.zerohedge.com/markets/uranium-supply-gap-worsens-goldman-accounts-smr-growth",
+        "date": "2026-05-15T19:25:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
+        "link": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html",
+        "date": "2026-05-15T18:55:25.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: Trump Spars With 'Treasonous' NYT Reporter On Iran War Coverage",
+        "link": "https://www.zerohedge.com/geopolitical/watch-trump-spars-treasonous-nyt-reporter-iran-war-coverage",
+        "date": "2026-05-15T18:55:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+        "link": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html",
+        "date": "2026-05-15T18:08:41.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-16T10:51:35.679Z"
+  }
+}
