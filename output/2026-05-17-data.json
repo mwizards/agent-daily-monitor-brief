@@ -1,0 +1,422 @@
+{
+  "generatedAt": "2026-05-17T10:57:21.207Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -8.57,
+        "current": 69.04,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -8.57% to $69.04"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -7.08,
+        "current": 83.05,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -7.08% to $83.05"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -8.26,
+        "current": 30.19,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -8.26% to $30.19"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.76,
+        "current": 60.15,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.76% to $60.15"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -4.9,
+        "current": 49.93,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -4.9% to $49.93"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "FBI Offers $200,000 Reward To Catch Former US Air Force Specialist In Iran Spying Case",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] FBI Offers $200,000 Reward To Catch Former US Air Force Specialist In Iran Spying Case"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Tehran Claims US Faces Escalating Economic Fallout From 'War Of Choice' As Hardship Mounts Inside Iran",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Tehran Claims US Faces Escalating Economic Fallout From 'War Of Choice' As Hardship Mounts Inside Iran"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "New Fed Chair Kevin Warsh's Job Is Impossible",
+        "keywords": [
+          "fed chair",
+          "war"
+        ],
+        "message": "[ZeroHedge] New Fed Chair Kevin Warsh's Job Is Impossible"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "April’s inflation spike leaves Warsh and the Fed zero excuses not to raise rates",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] April’s inflation spike leaves Warsh and the Fed zero excuses not to raise rates"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "The Iran war could be a $300 billion shock — driving up mortgage rates and squeezing wages",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] The Iran war could be a $300 billion shock — driving up mortgage rates and squeezing wages"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -2.32,
+        "current": 417.29,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -2.32% to $417.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.36,
+        "current": 59.44,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.36% to $59.44"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.83,
+        "message": "Gold/Silver ratio: 58.83x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 12
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 417.29,
+        "previousClose": 427.21,
+        "high": 419.2484,
+        "low": 414.12,
+        "changePct": -2.32
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.04,
+        "previousClose": 75.51,
+        "high": 70.06,
+        "low": 68.55,
+        "changePct": -8.57
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.05,
+        "previousClose": 89.38,
+        "high": 85.12,
+        "low": 82.76,
+        "changePct": -7.08
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 60.15,
+        "previousClose": 62.5,
+        "high": 61.52,
+        "low": 59.63,
+        "changePct": -3.76
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 49.93,
+        "previousClose": 52.5,
+        "high": 50.875,
+        "low": 49.775,
+        "changePct": -4.9
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.19,
+        "previousClose": 32.91,
+        "high": 31.135,
+        "low": 29.855,
+        "changePct": -8.26
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.44,
+        "previousClose": 58.07,
+        "high": 59.47,
+        "low": 58.475,
+        "changePct": 2.36
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.77,
+        "previousClose": 27.62,
+        "high": 27.77,
+        "low": 27.715,
+        "changePct": 0.54
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 83.66,
+        "previousClose": 84.920006,
+        "high": 83.9699,
+        "low": 83.59,
+        "changePct": -1.48
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 739.17,
+        "previousClose": 748.17,
+        "high": 743.46,
+        "low": 737.96,
+        "changePct": -1.2
+      }
+    },
+    "metals": {
+      "gold": 4561.9,
+      "silver": 77.55,
+      "copper": 6.3,
+      "platinum": 1991.8,
+      "crude": null,
+      "goldSilverRatio": 58.83
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4561.9,
+        "change": -123.3999,
+        "changePct": -2.63,
+        "previousClose": 4685.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 77.547,
+        "change": -7.781006,
+        "changePct": -9.12,
+        "previousClose": 85.328
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.295,
+        "change": -0.3164997,
+        "changePct": -4.79,
+        "previousClose": 6.6115
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1991.8,
+        "change": -99.59985,
+        "changePct": -4.76,
+        "previousClose": 2091.4
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.02,
+        "change": 4.0999985,
+        "changePct": 4.23,
+        "previousClose": 96.92
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4,
+        "previous": 3.98,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-05-14"
+      },
+      "10Y": {
+        "current": 4.47,
+        "previous": 4.46,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-05-14"
+      },
+      "30Y": {
+        "current": 5.02,
+        "previous": 5.03,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-14"
+      },
+      "USD_BROAD": {
+        "current": 118.0392,
+        "previous": 118.0116,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-08"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 111215,
+        "previous": 7692,
+        "change": 103523,
+        "period": "2026-05-08",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Establishment Media Outraged By White House Sponsored Christian Prayer Event",
+        "link": "https://www.zerohedge.com/political/establishment-media-outraged-white-house-sponsored-christian-prayer-event",
+        "date": "2026-05-17T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "FBI Offers $200,000 Reward To Catch Former US Air Force Specialist In Iran Spying Case",
+        "link": "https://www.zerohedge.com/political/fbi-offers-200000-reward-catch-former-us-air-force-specialist-iran-spying-case",
+        "date": "2026-05-16T21:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Putin To Visit China Just Days After Trump's Beijing, Demonstrating 'No Limits' Partnership",
+        "link": "https://www.zerohedge.com/geopolitical/putin-visit-china-just-days-after-trumps-beijing-trip-demonstrate-no-limits",
+        "date": "2026-05-16T20:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pakistan Uses Diplomacy To Secure LNG Supply from Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/pakistan-uses-diplomacy-secure-lng-supply-hormuz",
+        "date": "2026-05-16T20:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tehran Claims US Faces Escalating Economic Fallout From 'War Of Choice' As Hardship Mounts Inside Iran",
+        "link": "https://www.zerohedge.com/markets/tehran-warns-us-faces-escalating-economic-fallout-war-choice-hardship-mounting-inside-iran",
+        "date": "2026-05-16T18:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "New Fed Chair Kevin Warsh's Job Is Impossible",
+        "link": "https://www.zerohedge.com/markets/new-fed-chair-kevin-warshs-job-impossible",
+        "date": "2026-05-16T18:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Inflation will likely be higher for longer. Your retirement plan isn’t built for that.",
+        "link": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
+        "date": "2026-05-16T17:57:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "April’s inflation spike leaves Warsh and the Fed zero excuses not to raise rates",
+        "link": "https://www.marketwatch.com/story/warsh-faces-rate-pressure-as-aprils-inflation-spike-leaves-the-fed-with-zero-excuses-9610ddb6?mod=mw_rss_topstories",
+        "date": "2026-05-16T17:38:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The Iran war could be a $300 billion shock — driving up mortgage rates and squeezing wages",
+        "link": "https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories",
+        "date": "2026-05-16T17:07:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Persian Gulf Countries 'Refused' UAE Call For Joint Attack On Iran",
+        "link": "https://www.zerohedge.com/geopolitical/persian-gulf-countries-refused-uae-call-joint-attack-iran",
+        "date": "2026-05-16T16:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "One Of Russia's Largest Fuel Facilities Spews 'Black Rain' Over Ryazan After Deadly Ukrainian Drone Strike",
+        "link": "https://www.zerohedge.com/geopolitical/one-russias-largest-fuel-facilities-spews-black-rain-over-ryazan-after-deadly",
+        "date": "2026-05-16T16:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Democrats Devastated After Supreme Court Rejects Attempt To Revive Virginia Congressional Map",
+        "link": "https://www.zerohedge.com/political/democrats-devastated-after-supreme-court-rejects-attempt-revive-virginia-congressional",
+        "date": "2026-05-16T15:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UK Moves To Ban New North Sea Oil & Gas Licenses Permanently",
+        "link": "https://www.zerohedge.com/energy/uk-moves-ban-new-north-sea-oil-gas-licenses-permanently",
+        "date": "2026-05-16T13:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Confirms Boeing Jet Deal, Agrees To Cut Select Levies & Expand Agri Trade",
+        "link": "https://www.zerohedge.com/political/us-and-china-agree-establish-trade-and-investment-boards-trump-xi-summit-delivers-modest",
+        "date": "2026-05-16T13:02:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Deadlocked At Square Zero: Very First Line Of Iran's Latest Proposal 'Unacceptable,' Trump Says",
+        "link": "https://www.zerohedge.com/markets/deadlocked-square-zero-very-first-line-irans-latest-proposal-unacceptable-trump-says",
+        "date": "2026-05-16T12:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-17T10:57:10.664Z"
+  }
+}
