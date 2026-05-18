@@ -1,0 +1,402 @@
+{
+  "generatedAt": "2026-05-18T12:58:00.209Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -8.57,
+        "current": 69.04,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -8.57% to $69.04"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -7.08,
+        "current": 83.05,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -7.08% to $83.05"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -8.26,
+        "current": 30.19,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -8.26% to $30.19"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.76,
+        "current": 60.15,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.76% to $60.15"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -4.9,
+        "current": 49.93,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -4.9% to $49.93"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Oil Slides After Iran Says US Agreed To Lift Oil Sanctions During Talks, Long-Term 'Nuclear Freeze' On Table",
+        "keywords": [
+          "sanctions",
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Oil Slides After Iran Says US Agreed To Lift Oil Sanctions During Talks, Long-Term 'Nuclear Freeze' On Table"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Tells Iran 'Clock Is Ticking, Move Fast' After New Peace Proposal As Analysts Predict Likely Return To War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump Tells Iran 'Clock Is Ticking, Move Fast' After New Peace Proposal As Analysts Predict Likely Return To War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -2.32,
+        "current": 417.29,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -2.32% to $417.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": 2.36,
+        "current": 59.44,
+        "direction": "UP",
+        "message": "Energy (XLE) +2.36% to $59.44"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 58.9,
+        "message": "Gold/Silver ratio: 58.9x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 417.29,
+        "previousClose": 427.21,
+        "high": 419.2484,
+        "low": 414.12,
+        "changePct": -2.32
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.04,
+        "previousClose": 75.51,
+        "high": 70.06,
+        "low": 68.55,
+        "changePct": -8.57
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.05,
+        "previousClose": 89.38,
+        "high": 85.12,
+        "low": 82.76,
+        "changePct": -7.08
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 60.15,
+        "previousClose": 62.5,
+        "high": 61.52,
+        "low": 59.63,
+        "changePct": -3.76
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 49.93,
+        "previousClose": 52.5,
+        "high": 50.875,
+        "low": 49.775,
+        "changePct": -4.9
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.19,
+        "previousClose": 32.91,
+        "high": 31.135,
+        "low": 29.855,
+        "changePct": -8.26
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.44,
+        "previousClose": 58.07,
+        "high": 59.47,
+        "low": 58.475,
+        "changePct": 2.36
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.77,
+        "previousClose": 27.62,
+        "high": 27.77,
+        "low": 27.715,
+        "changePct": 0.54
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 83.66,
+        "previousClose": 84.920006,
+        "high": 83.9699,
+        "low": 83.59,
+        "changePct": -1.48
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 739.17,
+        "previousClose": 748.17,
+        "high": 743.46,
+        "low": 737.96,
+        "changePct": -1.2
+      }
+    },
+    "metals": {
+      "gold": 4573.3,
+      "silver": 77.65,
+      "copper": 6.3,
+      "platinum": 1986,
+      "crude": null,
+      "goldSilverRatio": 58.9
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4573.3,
+        "change": 11.399902,
+        "changePct": 0.25,
+        "previousClose": 4561.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 77.65,
+        "change": 0.103004456,
+        "changePct": 0.13,
+        "previousClose": 77.547
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.303,
+        "change": 0.007999897,
+        "changePct": 0.13,
+        "previousClose": 6.295
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1986,
+        "change": -5.800049,
+        "changePct": -0.29,
+        "previousClose": 1991.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 99.23,
+        "change": -1.7899933,
+        "changePct": -1.77,
+        "previousClose": 101.02
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4,
+        "previous": 3.98,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-05-14"
+      },
+      "10Y": {
+        "current": 4.47,
+        "previous": 4.46,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-05-14"
+      },
+      "30Y": {
+        "current": 5.02,
+        "previous": 5.03,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-14"
+      },
+      "USD_BROAD": {
+        "current": 118.0392,
+        "previous": 118.0116,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-05-08"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 111215,
+        "previous": 7692,
+        "change": 103523,
+        "period": "2026-05-08",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Oil Slides After Iran Says US Agreed To Lift Oil Sanctions During Talks, Long-Term 'Nuclear Freeze' On Table",
+        "link": "https://www.zerohedge.com/energy/oil-slides-iran-says-us-agreed-lift-oil-sanctions-during-negotiation-period",
+        "date": "2026-05-18T12:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Taiwan Loses Its Strategic Importance In 18 Months,\" Says Chamath Palihapitiya",
+        "link": "https://www.zerohedge.com/technology/taiwan-loses-its-strategic-important-18-months-says-chamath-palihapitiya",
+        "date": "2026-05-18T11:54:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Slide After Bond Yields, Oil Prices Jump Around The Globe",
+        "link": "https://www.zerohedge.com/markets/futures-slide-after-bond-yields-oil-prices-jump-around-globe",
+        "date": "2026-05-18T11:42:52.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Here’s where Treasury yields will peak and open up a rare opportunity to buy stocks and bonds, says Wall Street veteran",
+        "link": "https://www.marketwatch.com/story/heres-where-treasury-yields-will-peak-and-open-up-a-rare-opportunity-to-buy-stocks-and-bonds-says-wall-street-veteran-85b14790?mod=mw_rss_topstories",
+        "date": "2026-05-18T11:42:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "EPA Unwinds Massive Biden-Era Auto Emissions Regulations That Had 2027 Deadline",
+        "link": "https://www.zerohedge.com/economics/epa-unwinds-massive-biden-era-auto-emissions-regulations-had-2027-deadline",
+        "date": "2026-05-18T11:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘He didn’t really pay attention’: I told my friend he left millions of dollars on the table in retirement. Was I right?",
+        "link": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
+        "date": "2026-05-18T11:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Samsung, Union Resume Talks After Labor Action Scare; Goldman Says \"Korea: Buy\"",
+        "link": "https://www.zerohedge.com/markets/samsung-union-resume-talks-after-labor-action-scare-goldman-says-korea-buy",
+        "date": "2026-05-18T10:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Canada Rethinks Selling Its Crown Jewel Pipeline",
+        "link": "https://www.zerohedge.com/energy/canada-rethinks-selling-its-crown-jewel-pipeline",
+        "date": "2026-05-18T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Behind Turkey's Gold Sales: The Biggest Ever Plunge In Foreign Reserves",
+        "link": "https://www.zerohedge.com/markets/behind-turkeys-gold-sales-biggest-ever-plunge-foreign-reserves",
+        "date": "2026-05-18T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Tells Iran 'Clock Is Ticking, Move Fast' After New Peace Proposal As Analysts Predict Likely Return To War",
+        "link": "https://www.zerohedge.com/geopolitical/uranium-transfer-nuclear-limits-us-issues-5-peace-ultimatums-iran",
+        "date": "2026-05-18T09:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "So Where Does Wokeism Come From? (Spoiler Alert: The French, Of Course!)",
+        "link": "https://www.zerohedge.com/geopolitical/so-where-does-wokeism-come-spoiler-alert-french-course",
+        "date": "2026-05-18T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Switzerland To Vote On Capping Population At 10 Million",
+        "link": "https://www.zerohedge.com/geopolitical/switzerland-vote-capping-population-10-million",
+        "date": "2026-05-18T08:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories",
+        "date": "2026-05-18T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Social Security Recipients Could See Larger Payment Adjustment In 2027 Amid Higher Inflation",
+        "link": "https://www.zerohedge.com/personal-finance/social-security-recipients-could-see-larger-payment-adjustment-2027-amid-higher",
+        "date": "2026-05-17T23:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Secures $17 Billion Annual Chinese Commitment For U.S. Farm Goods",
+        "link": "https://www.zerohedge.com/political/us-and-china-agree-establish-trade-and-investment-boards-trump-xi-summit-delivers-modest",
+        "date": "2026-05-17T22:35:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-18T12:57:50.620Z"
+  }
+}
