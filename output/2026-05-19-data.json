@@ -1,0 +1,390 @@
+{
+  "generatedAt": "2026-05-19T12:31:37.267Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+        "keywords": [
+          "federal reserve",
+          "war"
+        ],
+        "message": "[CNBC Economy] Kevin Warsh to be sworn in as Federal Reserve chair on Friday"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "These charts offer a warning to the next generation — a new era of higher rates may be coming",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] These charts offer a warning to the next generation — a new era of higher rates may be coming"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Answering The Call\": Ford Motor Eyes WWII-Style Production Push For Trump's War Economy",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"Answering The Call\": Ford Motor Eyes WWII-Style Production Push For Trump's War Economy"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Software CEO Convicted In Massive $1 Billion Medicare Fraud Scheme Targeting Seniors",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Software CEO Convicted In Massive $1 Billion Medicare Fraud Scheme Targeting Seniors"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Almost All Non-Iran Tankers That Entered The Persian Gulf During The War, Have Successfully Exited With A Cargo",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Almost All Non-Iran Tankers That Entered The Persian Gulf During The War, Have Successfully Exited With A Cargo"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -2.33,
+        "current": 58.75,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -2.33% to $58.75"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -2.5,
+        "current": 48.68,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -2.5% to $48.68"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.02,
+        "current": 29.58,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.02% to $29.58"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "10Y",
+        "current": 4.59,
+        "changeBps": 12,
+        "direction": "UP",
+        "message": "10Y yield +12bps to 4.59%"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "30Y",
+        "current": 5.12,
+        "changeBps": 10,
+        "direction": "UP",
+        "message": "30Y yield +10bps to 5.12%"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.41,
+        "message": "Gold/Silver ratio: 59.41x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 418.43,
+        "previousClose": 417.29,
+        "high": 420.9299,
+        "low": 416.06,
+        "changePct": 0.27
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.94,
+        "previousClose": 69.04,
+        "high": 70.765,
+        "low": 68.88,
+        "changePct": 1.3
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 81.85,
+        "previousClose": 83.05,
+        "high": 83.95,
+        "low": 80.73,
+        "changePct": -1.44
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.75,
+        "previousClose": 60.15,
+        "high": 60.8,
+        "low": 58.14,
+        "changePct": -2.33
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.68,
+        "previousClose": 49.93,
+        "high": 50.3692,
+        "low": 48.0401,
+        "changePct": -2.5
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.58,
+        "previousClose": 30.19,
+        "high": 30.7,
+        "low": 29.3,
+        "changePct": -2.02
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 60.58,
+        "previousClose": 59.44,
+        "high": 60.7,
+        "low": 58.72,
+        "changePct": 1.92
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.7,
+        "previousClose": 27.77,
+        "high": 27.7301,
+        "low": 27.67,
+        "changePct": -0.25
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 83.56,
+        "previousClose": 83.66,
+        "high": 83.915,
+        "low": 83.315,
+        "changePct": -0.12
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 738.65,
+        "previousClose": 739.17,
+        "high": 741.4,
+        "low": 733.39,
+        "changePct": -0.07
+      }
+    },
+    "metals": {
+      "gold": 4546.1,
+      "silver": 76.52,
+      "copper": 6.23,
+      "platinum": 1956.8,
+      "crude": null,
+      "goldSilverRatio": 59.41
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4546.1,
+        "change": -11.899902,
+        "changePct": -0.26,
+        "previousClose": 4558
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.52,
+        "change": -0.9240036,
+        "changePct": -1.19,
+        "previousClose": 77.444
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.229,
+        "change": -0.08649969,
+        "changePct": -1.37,
+        "previousClose": 6.3155
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1956.8,
+        "change": -20.599976,
+        "changePct": -1.04,
+        "previousClose": 1977.4
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 103.59,
+        "change": -0.7900009,
+        "changePct": -0.76,
+        "previousClose": 104.38
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.09,
+        "previous": 4,
+        "change": 0.09,
+        "changeBps": 9,
+        "date": "2026-05-15"
+      },
+      "10Y": {
+        "current": 4.59,
+        "previous": 4.47,
+        "change": 0.12,
+        "changeBps": 12,
+        "date": "2026-05-15"
+      },
+      "30Y": {
+        "current": 5.12,
+        "previous": 5.02,
+        "change": 0.1,
+        "changeBps": 10,
+        "date": "2026-05-15"
+      },
+      "USD_BROAD": {
+        "current": 119.2825,
+        "previous": 118.6696,
+        "change": 0.61,
+        "changeBps": 61,
+        "date": "2026-05-15"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 111215,
+        "previous": 7692,
+        "change": 103523,
+        "period": "2026-05-08",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Investors are unprotected against oil and yield shocks. Here are the stocks to buy and avoid.",
+        "link": "https://www.marketwatch.com/story/investors-are-unprotected-against-oil-and-yield-shocks-here-are-the-stocks-to-buy-and-avoid-ffed03c2?mod=mw_rss_topstories",
+        "date": "2026-05-19T12:17:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Fall As Momentum Cracks Grow With Yields And Oil Higher",
+        "link": "https://www.zerohedge.com/markets/futures-fall-momentum-cracks-grow-yields-and-oil-higher",
+        "date": "2026-05-19T11:58:15.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+        "link": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html",
+        "date": "2026-05-19T11:37:27.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump: Holding Off 'Planned' Attack On Iran At Request Of Gulf Allies, 'Deal Will Be Made'",
+        "link": "https://www.zerohedge.com/energy/oil-slides-iran-says-us-agreed-lift-oil-sanctions-during-negotiation-period",
+        "date": "2026-05-19T11:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "These charts offer a warning to the next generation — a new era of higher rates may be coming",
+        "link": "https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories",
+        "date": "2026-05-19T10:51:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Answering The Call\": Ford Motor Eyes WWII-Style Production Push For Trump's War Economy",
+        "link": "https://www.zerohedge.com/military/answering-call-ford-motor-eyes-wwii-style-wartime-production-push-trumps-war-economy",
+        "date": "2026-05-19T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pakistan Deploys Thousands Of Troops, Jet Fighter Squadron To Saudi Arabia",
+        "link": "https://www.zerohedge.com/geopolitical/pakistan-deploys-thousands-troops-jet-fighter-squadron-saudi-arabia",
+        "date": "2026-05-19T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Belarus Rattles Europe With Drills Involving Russian Tactical Nukes",
+        "link": "https://www.zerohedge.com/geopolitical/belarus-rattles-europe-drills-involving-russian-tactical-nukes",
+        "date": "2026-05-19T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Software CEO Convicted In Massive $1 Billion Medicare Fraud Scheme Targeting Seniors",
+        "link": "https://www.zerohedge.com/political/software-ceo-convicted-massive-1-billion-medicare-fraud-scheme-targeting-seniors",
+        "date": "2026-05-19T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hundreds Of Subpoenas Are Targeting The Russian Collusion Hoax",
+        "link": "https://www.zerohedge.com/political/hundreds-subpoenas-are-targeting-russian-collusion-hoax",
+        "date": "2026-05-19T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Demands DOJ Probe Of Maryland's 500,000 \"Illegal\" Mail-In Ballots",
+        "link": "https://www.zerohedge.com/political/trump-demands-doj-probe-marylands-500000-illegal-mail-ballots",
+        "date": "2026-05-19T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Combined NextEra-Dominion Would Have 130-GW Large-Load Pipeline",
+        "link": "https://www.zerohedge.com/markets/combined-nextera-dominion-would-have-130-gw-large-load-pipeline",
+        "date": "2026-05-19T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Almost All Non-Iran Tankers That Entered The Persian Gulf During The War, Have Successfully Exited With A Cargo",
+        "link": "https://www.zerohedge.com/energy/almost-all-non-iran-tankers-entered-persian-gulf-during-war-have-successfully-exited-cargo",
+        "date": "2026-05-18T23:40:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+        "link": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html",
+        "date": "2026-05-18T16:11:13.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-19T12:31:27.134Z"
+  }
+}
