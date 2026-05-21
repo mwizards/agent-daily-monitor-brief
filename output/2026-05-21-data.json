@@ -1,0 +1,378 @@
+{
+  "generatedAt": "2026-05-21T12:36:43.662Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 3.7,
+        "current": 82.31,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +3.7% to $82.31"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 4.19,
+        "current": 29.35,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +4.19% to $29.35"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Walmart sees slowing sales growth and warns of a profit miss, in contrast to rival Target",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Walmart sees slowing sales growth and warns of a profit miss, in contrast to rival Target"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Quantum Stocks Erupt As U.S. Gov't Awards $2 Billion, Takes Equity Stakes",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Quantum Stocks Erupt As U.S. Gov't Awards $2 Billion, Takes Equity Stakes"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "The Pentagon's Next Critical Minerals Source Is Already In Its Own Warehouses",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] The Pentagon's Next Critical Minerals Source Is Already In Its Own Warehouses"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "New Fed Chair Pledges 'Regime Change' To Fight Inflation - Here's What That Could Mean In Practice",
+        "keywords": [
+          "fed chair"
+        ],
+        "message": "[ZeroHedge] New Fed Chair Pledges 'Regime Change' To Fight Inflation - Here's What That Could Mean In Practice"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 2.74,
+        "current": 68.73,
+        "direction": "UP",
+        "message": "Silver (SLV) +2.74% to $68.73"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -2.43,
+        "current": 59.8,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -2.43% to $59.8"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.1,
+        "message": "Gold/Silver ratio: 60.1x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 417.4,
+        "previousClose": 411.5,
+        "high": 417.97,
+        "low": 410.0806,
+        "changePct": 1.43
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.73,
+        "previousClose": 66.9,
+        "high": 69.325,
+        "low": 67.33,
+        "changePct": 2.74
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.31,
+        "previousClose": 79.37,
+        "high": 82.4899,
+        "low": 79.425,
+        "changePct": 3.7
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 57.43,
+        "previousClose": 57.08,
+        "high": 58.22,
+        "low": 56.825,
+        "changePct": 0.61
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.04,
+        "previousClose": 47.2,
+        "high": 48.45,
+        "low": 47.01,
+        "changePct": 1.78
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.35,
+        "previousClose": 28.17,
+        "high": 29.45,
+        "low": 28.18,
+        "changePct": 4.19
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.8,
+        "previousClose": 61.29,
+        "high": 61.7,
+        "low": 59.675,
+        "changePct": -2.43
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.73,
+        "previousClose": 27.79,
+        "high": 27.82,
+        "low": 27.67,
+        "changePct": -0.22
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 83.91,
+        "previousClose": 83.02,
+        "high": 84,
+        "low": 83.04,
+        "changePct": 1.07
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 741.25,
+        "previousClose": 733.73,
+        "high": 741.87,
+        "low": 733.8983,
+        "changePct": 1.02
+      }
+    },
+    "metals": {
+      "gold": 4507.4,
+      "silver": 75,
+      "copper": 6.26,
+      "platinum": 1930.6,
+      "crude": null,
+      "goldSilverRatio": 60.1
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4507.4,
+        "change": -27.899902,
+        "changePct": -0.62,
+        "previousClose": 4535.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 75,
+        "change": -1.1809998,
+        "changePct": -1.55,
+        "previousClose": 76.181
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.262,
+        "change": -0.06850004,
+        "changePct": -1.08,
+        "previousClose": 6.3305
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1930.6,
+        "change": -29,
+        "changePct": -1.48,
+        "previousClose": 1959.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 101.11,
+        "change": 2.8499985,
+        "changePct": 2.9,
+        "previousClose": 98.26
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.13,
+        "previous": 4.07,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-05-19"
+      },
+      "10Y": {
+        "current": 4.67,
+        "previous": 4.61,
+        "change": 0.06,
+        "changeBps": 6,
+        "date": "2026-05-19"
+      },
+      "30Y": {
+        "current": 5.18,
+        "previous": 5.14,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-05-19"
+      },
+      "USD_BROAD": {
+        "current": 119.2825,
+        "previous": 118.6696,
+        "change": 0.61,
+        "changeBps": 61,
+        "date": "2026-05-15"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108509,
+        "previous": 7683,
+        "change": 100826,
+        "period": "2026-05-15",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Walmart sees slowing sales growth and warns of a profit miss, in contrast to rival Target",
+        "link": "https://www.marketwatch.com/story/walmart-sees-slowing-sales-growth-and-warns-of-a-profit-miss-in-contrast-to-rival-target-1f114fa0?mod=mw_rss_topstories",
+        "date": "2026-05-21T12:29:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Quantum stocks soar as the Trump administration looks to be buying in",
+        "link": "https://www.marketwatch.com/story/quantum-stocks-soar-as-trump-administration-is-reportedly-buying-in-d6ed17b2?mod=mw_rss_topstories",
+        "date": "2026-05-21T12:22:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ayatollah Orders Highly-Enriched Uranium To Remain In Iran, Stymying Trump's Basis For Deal",
+        "link": "https://www.zerohedge.com/geopolitical/ayatollah-orders-highly-enriched-uranium-remain-iran-stymying-trumps-basis-deal",
+        "date": "2026-05-21T12:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The ‘stunning’ end to Trump’s case against the IRS raises tax-law questions that will be analyzed for years",
+        "link": "https://www.marketwatch.com/story/the-stunning-end-to-trumps-case-against-the-irs-raises-tax-law-questions-that-will-be-analyzed-for-years-abe2bf79?mod=mw_rss_topstories",
+        "date": "2026-05-21T12:04:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices climb as crude stockpiles are being depleted — and travel season starts this weekend",
+        "link": "https://www.marketwatch.com/story/as-iran-war-drags-on-this-is-how-quickly-global-oil-stocks-are-being-depleted-and-travel-season-is-starting-soon-c6948319?mod=mw_rss_topstories",
+        "date": "2026-05-21T11:46:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Quantum Stocks Erupt As U.S. Gov't Awards $2 Billion, Takes Equity Stakes",
+        "link": "https://www.zerohedge.com/markets/quantum-stocks-erupt-us-govt-awards-2-billion-takes-equity-stakes",
+        "date": "2026-05-21T11:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Slump, Ignoring Korean Euphoria, After Iran Rejects Trump Enriched Uranium Demands",
+        "link": "https://www.zerohedge.com/markets/futures-slump-ignoring-korean-euphoria-after-iran-rejects-trump-enriched-uranium-demands",
+        "date": "2026-05-21T11:38:33.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Kremlin Blasts 'Borderline Crazy' Threat From Baltic NATO State",
+        "link": "https://www.zerohedge.com/geopolitical/kremlin-blasts-borderline-crazy-threat-baltic-nato-state",
+        "date": "2026-05-21T11:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Tense Trump-Netanyahu Call As US Presses Iran To 'Sign The Document' - But Israel Wants Military Greenlight",
+        "link": "https://www.zerohedge.com/geopolitical/iran-warns-will-take-war-beyond-region-if-trump-restarts-attacks",
+        "date": "2026-05-21T09:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Dubai's Shipping Hub Status Under Pressure As Some Industry Veterans Eye Greece",
+        "link": "https://www.zerohedge.com/geopolitical/dubais-shipping-hub-status-faces-under-pressure-some-industry-veterans-leaving-greece",
+        "date": "2026-05-21T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Where Inflation Is Highest In Europe In 2026",
+        "link": "https://www.zerohedge.com/personal-finance/where-inflation-highest-europe-2026",
+        "date": "2026-05-21T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Norway Wants To Lead A \"Viking Bloc\" For Containing Russia In Northern Europe",
+        "link": "https://www.zerohedge.com/markets/norway-wants-lead-viking-bloc-containing-russia-northern-europe",
+        "date": "2026-05-21T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Pentagon's Next Critical Minerals Source Is Already In Its Own Warehouses",
+        "link": "https://www.zerohedge.com/political/pentagons-next-critical-minerals-source-already-its-own-warehouses",
+        "date": "2026-05-21T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The US Is Still A Decade Away From Breaking China’s Rare Earth Hold",
+        "link": "https://www.zerohedge.com/markets/us-still-decade-away-breaking-chinas-rare-earth-hold",
+        "date": "2026-05-21T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "New Fed Chair Pledges 'Regime Change' To Fight Inflation - Here's What That Could Mean In Practice",
+        "link": "https://www.zerohedge.com/political/new-fed-chair-pledges-regime-change-fight-inflation-heres-what-could-mean-practice",
+        "date": "2026-05-21T00:55:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-21T12:36:32.173Z"
+  }
+}
