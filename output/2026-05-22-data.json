@@ -1,0 +1,368 @@
+{
+  "generatedAt": "2026-05-22T12:10:10.581Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Removes UN Gaza Rapporteur Francesca Albanese From Sanctions List",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] US Removes UN Gaza Rapporteur Francesca Albanese From Sanctions List"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Fake Wars & Higher Prices: What A \"Multipolar World Order\" Really Means",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Fake Wars & Higher Prices: What A \"Multipolar World Order\" Really Means"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] ‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "“We Must Leap Forward Into New Energy” - Canaccord’s Inaugural Nuclear Nexus Conference",
+        "keywords": [
+          "war",
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] “We Must Leap Forward Into New Energy” - Canaccord’s Inaugural Nuclear Nexus Conference"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Mortgage rates jump as inflation fears, Iran war weigh",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Mortgage rates jump as inflation fears, Iran war weigh"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "10Y",
+        "current": 4.57,
+        "changeBps": -10,
+        "direction": "DOWN",
+        "message": "10Y yield -10bps to 4.57%"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Hormuz Shock Raises Recession Risk As Retailers Sound Alarm On Consumer Stress",
+        "keywords": [
+          "recession"
+        ],
+        "message": "[ZeroHedge] Hormuz Shock Raises Recession Risk As Retailers Sound Alarm On Consumer Stress"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "No Deal Reached, Amid 'Fabricated' Mideast Media Reports; Trump Presses Nuclear Issue & Iran President Says 'Won't Back Down'",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] No Deal Reached, Amid 'Fabricated' Mideast Media Reports; Trump Presses Nuclear Issue & Iran President Says 'Won't Back Down'"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.39,
+        "message": "Gold/Silver ratio: 59.39x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 416.99,
+        "previousClose": 417.4,
+        "high": 418.41,
+        "low": 411.95,
+        "changePct": -0.1
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 69.45,
+        "previousClose": 68.73,
+        "high": 69.75,
+        "low": 67.31,
+        "changePct": 1.05
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.02,
+        "previousClose": 82.31,
+        "high": 83.88,
+        "low": 80.45,
+        "changePct": 0.86
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.08,
+        "previousClose": 57.43,
+        "high": 58.85,
+        "low": 56.81,
+        "changePct": 1.13
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.86,
+        "previousClose": 48.04,
+        "high": 49.43,
+        "low": 47.69,
+        "changePct": 1.71
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.2,
+        "previousClose": 29.35,
+        "high": 29.84,
+        "low": 28.53,
+        "changePct": -0.51
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.13,
+        "previousClose": 59.8,
+        "high": 60.58,
+        "low": 58.715,
+        "changePct": -1.12
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.73,
+        "previousClose": 27.73,
+        "high": 27.8299,
+        "low": 27.7101,
+        "changePct": 0
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 84.22,
+        "previousClose": 83.91,
+        "high": 84.2575,
+        "low": 83.325,
+        "changePct": 0.37
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 742.72,
+        "previousClose": 741.25,
+        "high": 744.87,
+        "low": 737.03,
+        "changePct": 0.2
+      }
+    },
+    "metals": {
+      "gold": 4521.5,
+      "silver": 76.13,
+      "copper": 6.34,
+      "platinum": 1942,
+      "crude": null,
+      "goldSilverRatio": 59.39
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4521.5,
+        "change": -21,
+        "changePct": -0.46,
+        "previousClose": 4542.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.13,
+        "change": -0.602005,
+        "changePct": -0.78,
+        "previousClose": 76.732
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.344,
+        "change": 0.049999714,
+        "changePct": 0.79,
+        "previousClose": 6.294
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1942,
+        "change": -22.800049,
+        "changePct": -1.16,
+        "previousClose": 1964.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 97.52,
+        "change": 1.1699982,
+        "changePct": 1.21,
+        "previousClose": 96.35
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.04,
+        "previous": 4.13,
+        "change": -0.09,
+        "changeBps": -9,
+        "date": "2026-05-20"
+      },
+      "10Y": {
+        "current": 4.57,
+        "previous": 4.67,
+        "change": -0.1,
+        "changeBps": -10,
+        "date": "2026-05-20"
+      },
+      "30Y": {
+        "current": 5.11,
+        "previous": 5.18,
+        "change": -0.07,
+        "changeBps": -7,
+        "date": "2026-05-20"
+      },
+      "USD_BROAD": {
+        "current": 119.2825,
+        "previous": 118.6696,
+        "change": 0.61,
+        "changeBps": 61,
+        "date": "2026-05-15"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108509,
+        "previous": 7683,
+        "change": 100826,
+        "period": "2026-05-15",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Hormuz Shock Raises Recession Risk As Retailers Sound Alarm On Consumer Stress",
+        "link": "https://www.zerohedge.com/markets/hormuz-shock-raises-recession-risk-retailers-sound-alarm-consumer-stress",
+        "date": "2026-05-22T11:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "As bullish bets surge, here’s the Goldman Sachs options play to protect portfolios from the likely pullback",
+        "link": "https://www.marketwatch.com/story/as-bullish-bets-surge-heres-the-option-play-to-protect-portfolios-from-a-likely-pullback-says-goldman-sachs-e0f1017a?mod=mw_rss_topstories",
+        "date": "2026-05-22T10:53:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+        "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
+        "date": "2026-05-22T10:52:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Removes UN Gaza Rapporteur Francesca Albanese From Sanctions List",
+        "link": "https://www.zerohedge.com/political/us-removes-un-gaza-rapporteur-francesca-albanese-sanctions-list",
+        "date": "2026-05-22T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Shipping Turmoil Remains Largely Contained To Gulf, For Now",
+        "link": "https://www.zerohedge.com/commodities/shipping-turmoil-remains-largely-contained-gulf-now",
+        "date": "2026-05-22T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "No Deal Reached, Amid 'Fabricated' Mideast Media Reports; Trump Presses Nuclear Issue & Iran President Says 'Won't Back Down'",
+        "link": "https://www.zerohedge.com/geopolitical/ayatollah-orders-highly-enriched-uranium-remain-iran-stymying-trumps-basis-deal",
+        "date": "2026-05-22T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Fake Wars & Higher Prices: What A \"Multipolar World Order\" Really Means",
+        "link": "https://www.zerohedge.com/geopolitical/fake-wars-higher-prices-what-multipolar-world-order-really-means",
+        "date": "2026-05-22T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Delegation's Beijing Visit Held Up Over Gargantuan US Arms Package For Taiwan",
+        "link": "https://www.zerohedge.com/military/pentagon-delegations-beijing-visit-held-over-gargantuan-us-arms-package-taiwan",
+        "date": "2026-05-22T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Targets States' Medicaid Fraud Units",
+        "link": "https://www.zerohedge.com/political/trump-admin-targets-states-medicaid-fraud-units",
+        "date": "2026-05-22T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Toyota To Import Taiwan-Built Minivans To Japan Amid Factory Strain",
+        "link": "https://www.zerohedge.com/markets/toyota-import-taiwan-built-minivans-japan-amid-factory-strain",
+        "date": "2026-05-22T02:10:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
+        "link": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories",
+        "date": "2026-05-22T01:23:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "“We Must Leap Forward Into New Energy” - Canaccord’s Inaugural Nuclear Nexus Conference",
+        "link": "https://www.zerohedge.com/energy/we-must-leap-forward-new-energy-canaccords-inaugural-nuclear-nexus-conference",
+        "date": "2026-05-22T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "It's Not Iran Trapping Ships In The Hormuz, It's The Insurance Risk",
+        "link": "https://www.zerohedge.com/geopolitical/its-not-iran-trapping-ships-hormuz-its-insurance-risk",
+        "date": "2026-05-22T00:30:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Mortgage rates jump as inflation fears, Iran war weigh",
+        "link": "https://www.foxbusiness.com/economy/mortgage-rates-may-21-2026",
+        "date": "2026-05-21T20:13:20.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-22T12:10:00.821Z"
+  }
+}
