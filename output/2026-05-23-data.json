@@ -1,0 +1,374 @@
+{
+  "generatedAt": "2026-05-23T11:01:58.771Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Escobar: The Russia-China Spaceship Rushes Towards Planet Multipolar",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Escobar: The Russia-China Spaceship Rushes Towards Planet Multipolar"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Logic Of Violence: We Are Nowhere Near The Endgame In Drone Wars",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Logic Of Violence: We Are Nowhere Near The Endgame In Drone Wars"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Sanctions Sinaloa Cartel-Linked Ethereum Addresses",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] US Sanctions Sinaloa Cartel-Linked Ethereum Addresses"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Pentagon Concedes That US Provided Most Of Israel's Missile Defense During Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Pentagon Concedes That US Provided Most Of Israel's Missile Defense During Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Japan To Welcome First Crude Cargo Via Hormuz Since War Began",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Japan To Welcome First Crude Cargo Via Hormuz Since War Began"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] ‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.36,
+        "message": "Gold/Silver ratio: 59.36x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 8
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 413.82,
+        "previousClose": 416.99,
+        "high": 415.67,
+        "low": 412.165,
+        "changePct": -0.76
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.36,
+        "previousClose": 69.45,
+        "high": 69.06,
+        "low": 67.795,
+        "changePct": -1.57
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.35,
+        "previousClose": 83.02,
+        "high": 83.8,
+        "low": 82.03,
+        "changePct": 0.4
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.22,
+        "previousClose": 58.08,
+        "high": 59.25,
+        "low": 57.905,
+        "changePct": 0.24
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.96,
+        "previousClose": 48.86,
+        "high": 49.92,
+        "low": 48.76,
+        "changePct": 0.2
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 28.83,
+        "previousClose": 29.2,
+        "high": 29.3,
+        "low": 28.485,
+        "changePct": -1.27
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.49,
+        "previousClose": 59.13,
+        "high": 59.61,
+        "low": 58.83,
+        "changePct": 0.61
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.77,
+        "previousClose": 27.73,
+        "high": 27.82,
+        "low": 27.75,
+        "changePct": 0.14
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 84.68,
+        "previousClose": 84.22,
+        "high": 84.68,
+        "low": 84.135,
+        "changePct": 0.55
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 745.64,
+        "previousClose": 742.72,
+        "high": 748.94,
+        "low": 744.48,
+        "changePct": 0.39
+      }
+    },
+    "metals": {
+      "gold": 4523.2,
+      "silver": 76.2,
+      "copper": 6.38,
+      "platinum": 1939.7,
+      "crude": null,
+      "goldSilverRatio": 59.36
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4523.2,
+        "change": -19.299805,
+        "changePct": -0.42,
+        "previousClose": 4542.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.199,
+        "change": -0.53300476,
+        "changePct": -0.69,
+        "previousClose": 76.732
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.379,
+        "change": 0.08500004,
+        "changePct": 1.35,
+        "previousClose": 6.294
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1939.7,
+        "change": -25.100098,
+        "changePct": -1.28,
+        "previousClose": 1964.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 96.6,
+        "change": 0.25,
+        "changePct": 0.26,
+        "previousClose": 96.35
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.08,
+        "previous": 4.04,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-05-21"
+      },
+      "10Y": {
+        "current": 4.57,
+        "previous": 4.57,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-05-21"
+      },
+      "30Y": {
+        "current": 5.1,
+        "previous": 5.11,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-21"
+      },
+      "USD_BROAD": {
+        "current": 119.2825,
+        "previous": 118.6696,
+        "change": 0.61,
+        "changeBps": 61,
+        "date": "2026-05-15"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108509,
+        "previous": 7683,
+        "change": 100826,
+        "period": "2026-05-15",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Says 'No Deal' Will Materialize If US Insists On Enriched Uranium Handover",
+        "link": "https://www.zerohedge.com/geopolitical/pakistani-army-chief-travels-tehran-rubio-touts-sligh-progress-talks",
+        "date": "2026-05-23T07:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Escobar: The Russia-China Spaceship Rushes Towards Planet Multipolar",
+        "link": "https://www.zerohedge.com/geopolitical/escobar-russia-china-spaceship-rushes-towards-planet-multipolar",
+        "date": "2026-05-23T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Logic Of Violence: We Are Nowhere Near The Endgame In Drone Wars",
+        "link": "https://www.zerohedge.com/military/logic-violence-we-are-nowhere-near-endgame-drone-wars",
+        "date": "2026-05-23T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Sanctions Sinaloa Cartel-Linked Ethereum Addresses",
+        "link": "https://www.zerohedge.com/crypto/us-sanctions-sinaloa-cartel-linked-ethereum-addresses",
+        "date": "2026-05-23T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India Explores Alternative Energy Sources After Oil Supply Shock",
+        "link": "https://www.zerohedge.com/markets/india-explores-alternative-energy-sources-after-oil-supply-shock",
+        "date": "2026-05-23T00:05:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Consumer sentiment sinks to an all-time low. Is this about Democrats’ distaste for Trump?",
+        "link": "https://www.marketwatch.com/story/consumer-sentiment-sinks-to-an-all-time-low-is-it-just-because-of-democrats-anger-at-trump-91efde1d?mod=mw_rss_topstories",
+        "date": "2026-05-22T23:43:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Trillion-Dollar Man",
+        "link": "https://www.zerohedge.com/personal-finance/trillion-dollar-man",
+        "date": "2026-05-22T23:15:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
+        "link": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
+        "date": "2026-05-22T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China To Impose Mining Controls On Strategic Minerals",
+        "link": "https://www.zerohedge.com/commodities/china-impose-mining-controls-strategic-minerals",
+        "date": "2026-05-22T22:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Concedes That US Provided Most Of Israel's Missile Defense During Iran War",
+        "link": "https://www.zerohedge.com/military/pentagon-concedes-us-provided-most-israels-missile-defense-during-iran-war",
+        "date": "2026-05-22T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Japan To Welcome First Crude Cargo Via Hormuz Since War Began",
+        "link": "https://www.zerohedge.com/markets/japan-welcome-first-crude-cargo-hormuz-war-began",
+        "date": "2026-05-22T21:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Restricts Fentanyl Precursor Chemical Exports To North America After Trump-Xi Talks",
+        "link": "https://www.zerohedge.com/geopolitical/china-restricts-fentanyl-chemical-exports-north-america-after-trump-xi-talks",
+        "date": "2026-05-22T21:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
+        "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
+        "date": "2026-05-22T20:33:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
+        "link": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories",
+        "date": "2026-05-22T20:32:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+        "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+        "date": "2026-05-22T20:01:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-23T11:01:49.289Z"
+  }
+}
