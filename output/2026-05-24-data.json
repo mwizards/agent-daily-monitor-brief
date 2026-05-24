@@ -1,0 +1,284 @@
+{
+  "generatedAt": "2026-05-24T11:04:38.210Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Dozens Of Nations Scramble For World Bank Financing Amid Iran War Global Shock",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Dozens Of Nations Scramble For World Bank Financing Amid Iran War Global Shock"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.36,
+        "message": "Gold/Silver ratio: 59.36x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 2
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 413.82,
+        "previousClose": 416.99,
+        "high": 415.67,
+        "low": 412.165,
+        "changePct": -0.76
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.36,
+        "previousClose": 69.45,
+        "high": 69.06,
+        "low": 67.795,
+        "changePct": -1.57
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.35,
+        "previousClose": 83.02,
+        "high": 83.8,
+        "low": 82.03,
+        "changePct": 0.4
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.22,
+        "previousClose": 58.08,
+        "high": 59.25,
+        "low": 57.905,
+        "changePct": 0.24
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.96,
+        "previousClose": 48.86,
+        "high": 49.92,
+        "low": 48.76,
+        "changePct": 0.2
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 28.83,
+        "previousClose": 29.2,
+        "high": 29.3,
+        "low": 28.485,
+        "changePct": -1.27
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 59.49,
+        "previousClose": 59.13,
+        "high": 59.61,
+        "low": 58.83,
+        "changePct": 0.61
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.77,
+        "previousClose": 27.73,
+        "high": 27.82,
+        "low": 27.75,
+        "changePct": 0.14
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 84.68,
+        "previousClose": 84.22,
+        "high": 84.68,
+        "low": 84.135,
+        "changePct": 0.55
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 745.64,
+        "previousClose": 742.72,
+        "high": 748.94,
+        "low": 744.48,
+        "changePct": 0.39
+      }
+    },
+    "metals": {
+      "gold": 4523.2,
+      "silver": 76.2,
+      "copper": 6.38,
+      "platinum": 1939.7,
+      "crude": null,
+      "goldSilverRatio": 59.36
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4523.2,
+        "change": -19.299805,
+        "changePct": -0.42,
+        "previousClose": 4542.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 76.199,
+        "change": -0.53300476,
+        "changePct": -0.69,
+        "previousClose": 76.732
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.379,
+        "change": 0.08500004,
+        "changePct": 1.35,
+        "previousClose": 6.294
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1939.7,
+        "change": -25.100098,
+        "changePct": -1.28,
+        "previousClose": 1964.8
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 96.6,
+        "change": 0.25,
+        "changePct": 0.26,
+        "previousClose": 96.35
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.08,
+        "previous": 4.04,
+        "change": 0.04,
+        "changeBps": 4,
+        "date": "2026-05-21"
+      },
+      "10Y": {
+        "current": 4.57,
+        "previous": 4.57,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-05-21"
+      },
+      "30Y": {
+        "current": 5.1,
+        "previous": 5.11,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-21"
+      },
+      "USD_BROAD": {
+        "current": 119.2825,
+        "previous": 118.6696,
+        "change": 0.61,
+        "changeBps": 61,
+        "date": "2026-05-15"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 108509,
+        "previous": 7683,
+        "change": 100826,
+        "period": "2026-05-15",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Free Speech Shouldn't Be Just For The Party In The White House",
+        "link": "https://www.zerohedge.com/political/free-speech-shouldnt-be-just-party-white-house",
+        "date": "2026-05-24T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Unleashes New Gaza Strikes Soon After Trump Says Iran Peace Deal 'Largely Negotiated,' Hormuz To Reopen As Final Terms Discussed",
+        "link": "https://www.zerohedge.com/geopolitical/pentagon-intelligence-community-preparing-renewed-strikes-iran-weekend-cbs",
+        "date": "2026-05-24T02:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Gunman Dead, Bystander Wounded After Large Shootout With Secret Service Near White House, Trump Safe",
+        "link": "https://www.zerohedge.com/political/gunman-dead-bystander-wounded-after-large-shootout-secret-service-near-white-house-trump",
+        "date": "2026-05-24T02:13:33.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Dozens Of Nations Scramble For World Bank Financing Amid Iran War Global Shock",
+        "link": "https://www.zerohedge.com/economics/dozens-nations-scramble-world-bank-financing-amid-iran-war-global-shock",
+        "date": "2026-05-24T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Destroyed 20% Of Pentagon's MQ-9 Reaper Drone Fleet: Report",
+        "link": "https://www.zerohedge.com/military/iran-destroyed-20-pentagons-mq-9-reaper-drone-fleet-report",
+        "date": "2026-05-23T22:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ivanka Trump Was Reportedly Targeted For Assassination By IRGC Terrorist",
+        "link": "https://www.zerohedge.com/geopolitical/ivanka-trump-was-reportedly-targeted-assassination-irgc-terrorist",
+        "date": "2026-05-23T20:55:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+        "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+        "date": "2026-05-23T18:13:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+        "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
+        "date": "2026-05-23T16:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ukraine Regained Territory After Cutting Russia's Black Market Starlink Terminals",
+        "link": "https://www.zerohedge.com/geopolitical/us-intelligence-says-ukraine-regained-territory-after-cutting-russias-black-market",
+        "date": "2026-05-23T16:15:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
+        "link": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html",
+        "date": "2026-05-23T12:32:36.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-24T11:04:30.861Z"
+  }
+}
