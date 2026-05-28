@@ -1,0 +1,345 @@
+{
+  "generatedAt": "2026-05-28T12:57:27.616Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -3.18,
+        "current": 67.5,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -3.18% to $67.5"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "UK Targets Kremlin-Linked Crypto Network In Latest Sanctions Round",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] UK Targets Kremlin-Linked Crypto Network In Latest Sanctions Round"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Solar Stocks Flash Major Technical Breakout As Tariff Talk Escalates",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] Solar Stocks Flash Major Technical Breakout As Tariff Talk Escalates"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.53,
+        "current": 29.27,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.53% to $29.27"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "2Y",
+        "current": 4.01,
+        "changeBps": -12,
+        "direction": "DOWN",
+        "message": "2Y yield -12bps to 4.01%"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.12,
+        "message": "Gold/Silver ratio: 60.12x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 5
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 408.49,
+        "previousClose": 414,
+        "high": 409.22,
+        "low": 404.314,
+        "changePct": -1.33
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 67.5,
+        "previousClose": 69.72,
+        "high": 67.915,
+        "low": 66.88,
+        "changePct": -3.18
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 86.09,
+        "previousClose": 87.51,
+        "high": 86.445,
+        "low": 85.05,
+        "changePct": -1.62
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 60.48,
+        "previousClose": 60.88,
+        "high": 61.16,
+        "low": 59.5005,
+        "changePct": -0.66
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.16,
+        "previousClose": 50.86,
+        "high": 50.51,
+        "low": 49.28,
+        "changePct": -1.38
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.27,
+        "previousClose": 30.03,
+        "high": 29.73,
+        "low": 29.16,
+        "changePct": -2.53
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.99,
+        "previousClose": 57.85,
+        "high": 57.5,
+        "low": 56.475,
+        "changePct": -1.49
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.75,
+        "previousClose": 27.75,
+        "high": 27.79,
+        "low": 27.71,
+        "changePct": 0
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.3,
+        "previousClose": 85.1,
+        "high": 85.4774,
+        "low": 85.155,
+        "changePct": 0.24
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 750.46,
+        "previousClose": 750.59,
+        "high": 751.38,
+        "low": 748.22,
+        "changePct": -0.02
+      }
+    },
+    "metals": {
+      "gold": 4434.6,
+      "silver": 73.76,
+      "copper": 6.36,
+      "platinum": 1896.4,
+      "crude": null,
+      "goldSilverRatio": 60.12
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4434.6,
+        "change": -46.899902,
+        "changePct": -1.05,
+        "previousClose": 4481.5
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.76,
+        "change": -1.1349945,
+        "changePct": -1.52,
+        "previousClose": 74.895
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.3555,
+        "change": 0.015500069,
+        "changePct": 0.24,
+        "previousClose": 6.34
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1896.4,
+        "change": -31.599976,
+        "changePct": -1.64,
+        "previousClose": 1928
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.64,
+        "change": 1.9599991,
+        "changePct": 2.21,
+        "previousClose": 88.68
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.01,
+        "previous": 4.13,
+        "change": -0.12,
+        "changeBps": -12,
+        "date": "2026-05-26"
+      },
+      "10Y": {
+        "current": 4.5,
+        "previous": 4.56,
+        "change": -0.06,
+        "changeBps": -6,
+        "date": "2026-05-26"
+      },
+      "30Y": {
+        "current": 5.03,
+        "previous": 5.07,
+        "change": -0.04,
+        "changeBps": -4,
+        "date": "2026-05-26"
+      },
+      "USD_BROAD": {
+        "current": 119.2868,
+        "previous": 119.369,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-05-22"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 374175,
+        "previous": 819188,
+        "change": -445013,
+        "period": "2026-05-15",
+        "direction": "DRAW"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "'He's Having A Stroke': Jill Biden Admits Joe's Debate Disaster Scared Her 'To Death'",
+        "link": "https://www.zerohedge.com/political/hes-having-stroke-jill-biden-admits-joes-debate-disaster-scared-her-death",
+        "date": "2026-05-28T12:50:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
+        "link": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html",
+        "date": "2026-05-28T12:43:55.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Americans' Savings-Rate Slumps In April As Fed's Favorite Inflation Signal Soars",
+        "link": "https://www.zerohedge.com/personal-finance/americans-savings-rate-slumps-april-feds-favorite-inflation-signal-soars",
+        "date": "2026-05-28T12:41:49.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Consumer spending looks strong, but higher inflation is a big reason why",
+        "link": "https://www.marketwatch.com/story/consumer-spending-looks-strong-but-higher-inflation-is-a-big-reason-why-fa1e7a30?mod=mw_rss_topstories",
+        "date": "2026-05-28T12:38:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fed's favored inflation gauge remained elevated in April",
+        "link": "https://www.foxbusiness.com/economy/april-2026-pce-inflation",
+        "date": "2026-05-28T12:37:56.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "U.S. oil prices rise back above $90 a barrel after fresh round of U.S.-Iran strikes, pushing peace deal into doubt",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories",
+        "date": "2026-05-28T12:35:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Inflation escalates to 3-year high. And it might get worse before it gets better.",
+        "link": "https://www.marketwatch.com/story/inflation-escalates-to-3-year-high-and-it-might-get-worse-before-it-gets-better-8d194aa6?mod=mw_rss_topstories",
+        "date": "2026-05-28T12:34:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Fall, Oil Rises As Mideast Violence Flares Up",
+        "link": "https://www.zerohedge.com/markets/futures-fall-oil-rises-mideast-violence-flares",
+        "date": "2026-05-28T12:14:19.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Cancer treatment already costs hundreds of thousands of dollars — and it’s about to get even worse",
+        "link": "https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories",
+        "date": "2026-05-28T12:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Targets US Base In Kuwait With Missile & Drones - Gulf Allies Denounce 'Terrorist Attacks'",
+        "link": "https://www.zerohedge.com/geopolitical/iran-targets-us-base-kuwait-missile-drones-gulf-allies-denounce-terrorist-attacks",
+        "date": "2026-05-28T12:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "FBI Arrests CIA Official With $40 Million in Gold Bars, $2 Million In Cash Stashed in His Home",
+        "link": "https://www.zerohedge.com/political/fbi-arrests-cia-official-40-million-gold-bars-2-million-cash-stashed-his-home",
+        "date": "2026-05-28T11:55:12.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UK Targets Kremlin-Linked Crypto Network In Latest Sanctions Round",
+        "link": "https://www.zerohedge.com/crypto/uk-targets-kremlin-linked-crypto-network-latest-sanctions-round",
+        "date": "2026-05-28T11:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Solar Stocks Flash Major Technical Breakout As Tariff Talk Escalates",
+        "link": "https://www.zerohedge.com/markets/solar-stocks-flash-major-technical-breakout-after-five-year-downtrend",
+        "date": "2026-05-28T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "NATO 3.0: Report Details 'Fundamental Restructuring' Of US Commitments",
+        "link": "https://www.zerohedge.com/geopolitical/nato-30-report-details-fundamental-restructuring-us-commitments",
+        "date": "2026-05-28T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures, Bonds Tumble, Oil Surges After Middle East Attacks Resume",
+        "link": "https://www.zerohedge.com/geopolitical/tehran-pushes-draft-peace-framework-while-sidestepping-uranium-question-pezeshkian",
+        "date": "2026-05-28T07:24:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-28T12:57:19.827Z"
+  }
+}
