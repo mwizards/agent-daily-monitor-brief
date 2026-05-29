@@ -1,0 +1,396 @@
+{
+  "generatedAt": "2026-05-29T12:37:41.730Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.45,
+        "current": 30.28,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.45% to $30.28"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "NATO Warns Russia's Hybrid War Is Targeting Europe's Energy Grid",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] NATO Warns Russia's Hybrid War Is Targeting Europe's Energy Grid"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Approaching Unheard Of Inventory Levels\": Exxon, Chevron Issue Apocalyptic Warning About What Happens Next To Oil",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] \"Approaching Unheard Of Inventory Levels\": Exxon, Chevron Issue Apocalyptic Warning About What Happens Next To Oil"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Threat Of 2030s Lunar War Has NASA, Elon Musk Racing To Build Major Moon Base",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Threat Of 2030s Lunar War Has NASA, Elon Musk Racing To Build Major Moon Base"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.73,
+        "current": 88.44,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.73% to $88.44"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "US To Power Base With Nuclear Aircraft Carrier As Navy Mulls New Floating Reactor Program",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US To Power Base With Nuclear Aircraft Carrier As Navy Mulls New Floating Reactor Program"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Miniature Floating Nuclear Plants Could Supply Clean Power To Greek Islands",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Miniature Floating Nuclear Plants Could Supply Clean Power To Greek Islands"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Vance Says Trump Not Ready To Approve Iran Deal, Citing Distance On Nuclear Issue",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Vance Says Trump Not Ready To Approve Iran Deal, Citing Distance On Nuclear Issue"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "US Nuclear Recycling Plant Could Extract 100 Times More Energy From Uranium Fuel",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] US Nuclear Recycling Plant Could Extract 100 Times More Energy From Uranium Fuel"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.22,
+        "message": "Gold/Silver ratio: 60.22x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 412.77,
+        "previousClose": 408.49,
+        "high": 414.505,
+        "low": 405.4108,
+        "changePct": 1.05
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.36,
+        "previousClose": 67.5,
+        "high": 68.755,
+        "low": 66.155,
+        "changePct": 1.27
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 88.44,
+        "previousClose": 86.09,
+        "high": 88.75,
+        "low": 84.5,
+        "changePct": 2.73
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 61.35,
+        "previousClose": 60.48,
+        "high": 61.675,
+        "low": 59.0765,
+        "changePct": 1.44
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.75,
+        "previousClose": 50.16,
+        "high": 50.96,
+        "low": 48.99,
+        "changePct": 1.18
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.28,
+        "previousClose": 29.27,
+        "high": 30.62,
+        "low": 28.61,
+        "changePct": 3.45
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.95,
+        "previousClose": 56.99,
+        "high": 57.68,
+        "low": 56.68,
+        "changePct": -0.07
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.7,
+        "previousClose": 27.75,
+        "high": 27.79,
+        "low": 27.69,
+        "changePct": -0.18
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.74,
+        "previousClose": 85.3,
+        "high": 85.845,
+        "low": 85.27,
+        "changePct": 0.52
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 754.6,
+        "previousClose": 750.46,
+        "high": 755.15,
+        "low": 749.23,
+        "changePct": 0.55
+      }
+    },
+    "metals": {
+      "gold": 4552,
+      "silver": 75.58,
+      "copper": 6.39,
+      "platinum": 1920.3,
+      "crude": null,
+      "goldSilverRatio": 60.22
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4552,
+        "change": 19.600098,
+        "changePct": 0.43,
+        "previousClose": 4532.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 75.585,
+        "change": -0.32700348,
+        "changePct": -0.43,
+        "previousClose": 75.912
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.39,
+        "change": -0.03600025,
+        "changePct": -0.56,
+        "previousClose": 6.426
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1920.3,
+        "change": -7,
+        "changePct": -0.36,
+        "previousClose": 1927.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 87.69,
+        "change": -1.2099991,
+        "changePct": -1.36,
+        "previousClose": 88.9
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4,
+        "previous": 4.01,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-27"
+      },
+      "10Y": {
+        "current": 4.48,
+        "previous": 4.5,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-05-27"
+      },
+      "30Y": {
+        "current": 5.01,
+        "previous": 5.03,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-05-27"
+      },
+      "USD_BROAD": {
+        "current": 119.2868,
+        "previous": 119.369,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-05-22"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 103794,
+        "previous": 8600,
+        "change": 95194,
+        "period": "2026-05-22",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Hit Another Record High After Pricing In Same \"Iran Deal\" Every Day For The Past Month",
+        "link": "https://www.zerohedge.com/markets/futures-hit-another-record-high-after-pricing-same-iran-deal-every-day-past-month",
+        "date": "2026-05-29T12:29:34.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "This strategist is using prediction-market shifts to calculate what happens when an Iran deal is announced",
+        "link": "https://www.marketwatch.com/story/this-strategist-is-using-prediction-market-shifts-to-calculate-what-happens-when-an-iran-deal-is-announced-1a42696e?mod=mw_rss_topstories",
+        "date": "2026-05-29T12:29:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers",
+        "link": "https://www.cnbc.com/2026/05/29/iran-war-inflation-stagflation-eu-ecb-consumer-prices.html",
+        "date": "2026-05-29T12:24:17.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US To Power Base With Nuclear Aircraft Carrier As Navy Mulls New Floating Reactor Program",
+        "link": "https://www.zerohedge.com/markets/us-chases-russia-exploring-nuclear-barges-navy-mulls-new-reactor-program",
+        "date": "2026-05-29T11:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Consumers Face Fiscal-Cliff As Tax-Refund Sugar-High Fades",
+        "link": "https://www.zerohedge.com/markets/consumers-face-fiscal-cliff-tax-refund-sugar-high-fades",
+        "date": "2026-05-29T10:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Miniature Floating Nuclear Plants Could Supply Clean Power To Greek Islands",
+        "link": "https://www.zerohedge.com/technology/miniature-floating-nuclear-plants-could-supply-clean-power-greek-islands",
+        "date": "2026-05-29T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Vance Says Trump Not Ready To Approve Iran Deal, Citing Distance On Nuclear Issue",
+        "link": "https://www.zerohedge.com/geopolitical/iran-targets-us-base-kuwait-missile-drones-gulf-allies-denounce-terrorist-attacks",
+        "date": "2026-05-29T08:44:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "NATO Warns Russia's Hybrid War Is Targeting Europe's Energy Grid",
+        "link": "https://www.zerohedge.com/geopolitical/nato-warns-russias-hybrid-war-targeting-europes-energy-grid",
+        "date": "2026-05-29T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Approaching Unheard Of Inventory Levels\": Exxon, Chevron Issue Apocalyptic Warning About What Happens Next To Oil",
+        "link": "https://www.zerohedge.com/markets/approaching-unheard-inventory-levels-chevron-exxon-issue-apocalyptic-warning-about-what",
+        "date": "2026-05-29T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Nuclear Recycling Plant Could Extract 100 Times More Energy From Uranium Fuel",
+        "link": "https://www.zerohedge.com/technology/us-nuclear-recycling-plant-could-extract-100-times-more-energy-uranium-fuel",
+        "date": "2026-05-29T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Threat Of 2030s Lunar War Has NASA, Elon Musk Racing To Build Major Moon Base",
+        "link": "https://www.zerohedge.com/geopolitical/threat-2030s-lunar-war-has-nasa-elon-musk-racing-build-major-moon-base",
+        "date": "2026-05-29T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Judge Declines To Block Trump's Order On Mail-In Voting",
+        "link": "https://www.zerohedge.com/political/judge-declines-block-trumps-order-mail-voting",
+        "date": "2026-05-29T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Missouri Supreme Court Rejects Challenge To New Congressional Map That Boosts Republicans",
+        "link": "https://www.zerohedge.com/political/missouri-supreme-court-rejects-challenge-new-congressional-map-boosts-republicans",
+        "date": "2026-05-29T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Canada Taunts Beijing With Frigate's Taiwan Strait Transit Despite Carney's China Reset",
+        "link": "https://www.zerohedge.com/geopolitical/canada-taunts-beijing-warships-taiwan-strait-transit-despite-carneys-china-reset",
+        "date": "2026-05-28T23:40:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
+        "link": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html",
+        "date": "2026-05-28T15:15:19.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-29T12:37:31.934Z"
+  }
+}
