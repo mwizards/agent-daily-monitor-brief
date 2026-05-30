@@ -1,0 +1,336 @@
+{
+  "generatedAt": "2026-05-30T11:08:16.624Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "ServiceNow’s stock soars to a historic month as AI fears fade across software",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] ServiceNow’s stock soars to a historic month as AI fears fade across software"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] Iran war cost: Average U.S. household paying $450 more on gas and energy"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"Closing The Nuclear Fuel Cycle\" - Newcleo's $780M War Chest And Oklo Partnership Fuel $2.4B SPAC Debut",
+        "keywords": [
+          "war",
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] \"Closing The Nuclear Fuel Cycle\" - Newcleo's $780M War Chest And Oklo Partnership Fuel $2.4B SPAC Debut"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 2.08,
+        "current": 30.91,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +2.08% to $30.91"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.53,
+        "message": "Gold/Silver ratio: 60.53x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 4
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 417.12,
+        "previousClose": 412.77,
+        "high": 421.82,
+        "low": 415.1301,
+        "changePct": 1.05
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 68.33,
+        "previousClose": 68.36,
+        "high": 69.345,
+        "low": 67.485,
+        "changePct": -0.04
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 88.14,
+        "previousClose": 88.44,
+        "high": 89.32,
+        "low": 86.9,
+        "changePct": -0.34
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 61.28,
+        "previousClose": 61.35,
+        "high": 61.7,
+        "low": 59.62,
+        "changePct": -0.11
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.76,
+        "previousClose": 50.75,
+        "high": 51.155,
+        "low": 49.46,
+        "changePct": 0.02
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.91,
+        "previousClose": 30.28,
+        "high": 31.32,
+        "low": 29.97,
+        "changePct": 2.08
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 56.29,
+        "previousClose": 56.95,
+        "high": 56.79,
+        "low": 55.99,
+        "changePct": -1.16
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.66,
+        "previousClose": 27.7,
+        "high": 27.735,
+        "low": 27.635,
+        "changePct": -0.14
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.76,
+        "previousClose": 85.74,
+        "high": 85.9584,
+        "low": 85.55,
+        "changePct": 0.02
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 756.48,
+        "previousClose": 754.6,
+        "high": 758.075,
+        "low": 754.69,
+        "changePct": 0.25
+      }
+    },
+    "metals": {
+      "gold": 4593,
+      "silver": 75.88,
+      "copper": 6.39,
+      "platinum": 1929.5,
+      "crude": null,
+      "goldSilverRatio": 60.53
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4593,
+        "change": 60.600098,
+        "changePct": 1.34,
+        "previousClose": 4532.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 75.875,
+        "change": -0.037002563,
+        "changePct": -0.05,
+        "previousClose": 75.912
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.389,
+        "change": -0.03700018,
+        "changePct": -0.58,
+        "previousClose": 6.426
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1929.5,
+        "change": 2.1999512,
+        "changePct": 0.11,
+        "previousClose": 1927.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 87.36,
+        "change": -1.5400009,
+        "changePct": -1.73,
+        "previousClose": 88.9
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.99,
+        "previous": 4,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-28"
+      },
+      "10Y": {
+        "current": 4.45,
+        "previous": 4.48,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-05-28"
+      },
+      "30Y": {
+        "current": 4.98,
+        "previous": 5.01,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-05-28"
+      },
+      "USD_BROAD": {
+        "current": 119.2868,
+        "previous": 119.369,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-05-22"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 103794,
+        "previous": 8600,
+        "change": 95194,
+        "period": "2026-05-22",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Biden's Weaponized DOJ Ruined Tate Adamiak's Life. Top Gun Rights Group Calls On Trump To Pardon",
+        "link": "https://www.zerohedge.com/political/bidens-weaponized-doj-ruined-tate-adamiaks-life-top-gun-rights-group-calls-trump-pardon",
+        "date": "2026-05-30T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iranian Opposition News Outlet Got $800 Million In Debt Relief: Report",
+        "link": "https://www.zerohedge.com/geopolitical/iranian-opposition-news-site-got-800bn-debt-relief-report",
+        "date": "2026-05-30T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'We Outright Grabbed The Wallets': Bessent Boasts $1BN In Iran State Crypto Seized To Date",
+        "link": "https://www.zerohedge.com/crypto/we-outright-grabbed-wallets-bessent-boasts-1bn-iran-state-crypto-seized-date",
+        "date": "2026-05-30T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Service Members Targeted Via Commercial Location Data, Pentagon Tells Senators",
+        "link": "https://www.zerohedge.com/military/us-service-members-targeted-commercial-location-data-pentagon-tells-senators",
+        "date": "2026-05-29T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Japan Crude Imports Fall 66% To Record Low",
+        "link": "https://www.zerohedge.com/markets/japan-crude-imports-fall-66-record-low",
+        "date": "2026-05-29T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Anti-Trump Entertainers Bolt From Freedom 250 Celebration",
+        "link": "https://www.zerohedge.com/political/anti-trump-entertainers-bolt-freedom-250-celebration",
+        "date": "2026-05-29T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Obama-Nominated Judge Orders Trump's Name Removed From Kennedy Center Building",
+        "link": "https://www.zerohedge.com/political/obama-nominated-judge-orders-trumps-name-removed-kennedy-center-building",
+        "date": "2026-05-29T21:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Oil slides, stocks climb as Trump puts off determination on Iran proposal",
+        "link": "https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories",
+        "date": "2026-05-29T21:35:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "ServiceNow’s stock soars to a historic month as AI fears fade across software",
+        "link": "https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories",
+        "date": "2026-05-29T21:24:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Japan Prepares To End Quantitative Tightening Amid Bond Market Turmoil",
+        "link": "https://www.zerohedge.com/markets/japan-prepares-end-quantitative-tightening-amid-bond-market-turmoil",
+        "date": "2026-05-29T21:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Here’s the real story behind the record drop in America’s oil reserves",
+        "link": "https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories",
+        "date": "2026-05-29T20:55:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+        "link": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html",
+        "date": "2026-05-29T19:58:45.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Refiles Lawsuit Over Wall Street Journal Article Linking Him To Epstein Letter",
+        "link": "https://www.zerohedge.com/political/trump-refiles-lawsuit-over-wall-street-journal-article-linking-him-epstein-letter",
+        "date": "2026-05-29T19:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Closing The Nuclear Fuel Cycle\" - Newcleo's $780M War Chest And Oklo Partnership Fuel $2.4B SPAC Debut",
+        "link": "https://www.zerohedge.com/markets/closing-nuclear-fuel-cycle-newcleos-780m-war-chest-and-oklo-partnership-fuel-24b-spac-debut",
+        "date": "2026-05-29T19:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Both Sides Agree Iran Deal 'Close' But Not Finalized, As Trump Promises 'Final Determination' Soon",
+        "link": "https://www.zerohedge.com/geopolitical/iran-makes-clear-deal-not-finalized-amid-lack-trust-warns-us-gulf-utter-ruin-if-war",
+        "date": "2026-05-29T18:55:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-05-30T11:08:07.102Z"
+  }
+}
