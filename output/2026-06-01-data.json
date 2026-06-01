@@ -1,0 +1,258 @@
+{
+  "generatedAt": "2026-06-01T15:44:22.888Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel Warns There'll Be 'No Calm In Beirut' Until Hezbollah Ceases Attacks",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel Warns There'll Be 'No Calm In Beirut' Until Hezbollah Ceases Attacks"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "He's \"Full Of Sh!t\": JPMorgan CEO Jamie Dimon Slams Coinbase's Armstrong, Declares War On Clarity Act",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] He's \"Full Of Sh!t\": JPMorgan CEO Jamie Dimon Slams Coinbase's Armstrong, Declares War On Clarity Act"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 59.82,
+        "message": "Gold/Silver ratio: 59.82x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 2
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 410.445,
+        "previousClose": 417.12,
+        "high": 416.1438,
+        "low": 408.24,
+        "changePct": -1.6
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 67.77,
+        "previousClose": 68.33,
+        "high": 68.055,
+        "low": 66.8,
+        "changePct": -0.82
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 89.285,
+        "previousClose": 88.14,
+        "high": 89.46,
+        "low": 86.6507,
+        "changePct": 1.3
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 61.395,
+        "previousClose": 61.28,
+        "high": 61.4,
+        "low": 59.6979,
+        "changePct": 0.19
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.79,
+        "previousClose": 50.76,
+        "high": 50.88,
+        "low": 49.1,
+        "changePct": 0.06
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 30.33,
+        "previousClose": 30.91,
+        "high": 30.4499,
+        "low": 29.39,
+        "changePct": -1.88
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.295,
+        "previousClose": 56.29,
+        "high": 57.81,
+        "low": 56.85,
+        "changePct": 1.79
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.785,
+        "previousClose": 27.66,
+        "high": 27.83,
+        "low": 27.7699,
+        "changePct": 0.45
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.01,
+        "previousClose": 85.76,
+        "high": 85.14,
+        "low": 84.8,
+        "changePct": -0.87
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 757.185,
+        "previousClose": 756.48,
+        "high": 757.42,
+        "low": 754.69,
+        "changePct": 0.09
+      }
+    },
+    "metals": {
+      "gold": 4507.1,
+      "silver": 75.35,
+      "copper": 6.56,
+      "platinum": 1939.2,
+      "crude": null,
+      "goldSilverRatio": 59.82
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4507.1,
+        "change": -85.8999,
+        "changePct": -1.87,
+        "previousClose": 4593
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 75.345,
+        "change": -0.5299988,
+        "changePct": -0.7,
+        "previousClose": 75.875
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.5565,
+        "change": 0.16750002,
+        "changePct": 2.62,
+        "previousClose": 6.389
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1939.2,
+        "change": 9.699951,
+        "changePct": 0.5,
+        "previousClose": 1929.5
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 93.04,
+        "change": 5.6800003,
+        "changePct": 6.5,
+        "previousClose": 87.36
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 3.99,
+        "previous": 4,
+        "change": -0.01,
+        "changeBps": -1,
+        "date": "2026-05-28"
+      },
+      "10Y": {
+        "current": 4.45,
+        "previous": 4.48,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-05-28"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 103794,
+        "previous": 8600,
+        "change": 95194,
+        "period": "2026-05-22",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Warns There'll Be 'No Calm In Beirut' Until Hezbollah Ceases Attacks",
+        "link": "https://www.zerohedge.com/geopolitical/israel-warns-therell-be-no-calm-beirut-until-hezbollah-ceases-attacks",
+        "date": "2026-06-01T15:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Global oil prices jump 5% to above $95 a barrel after Iran reportedly suspends talks with U.S. and fully closes Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-wave-of-attacks-between-u-s-and-iran-fbcdd5ed?mod=mw_rss_topstories",
+        "date": "2026-06-01T14:06:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Halts All Messages With US, Orders Opening Of New Fronts Citing 'Israeli Crimes'; Futures Slide As Oil Jumps",
+        "link": "https://www.zerohedge.com/geopolitical/irgc-launches-new-strikes-kuwait-after-us-attacks-until-last-american-soldier-leaves",
+        "date": "2026-06-01T13:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "IBM Soars On Resurfaced Trump Clip, Barclays Buy Rating As MoMo Rally Accelerates",
+        "link": "https://www.zerohedge.com/markets/ibm-soars-resurfaced-trump-clip-barclays-buy-rating-momo-rally-accelerates",
+        "date": "2026-06-01T13:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Rise Despite Oil Bounce, As Nvidia Keeps AI Euphoria Going",
+        "link": "https://www.zerohedge.com/markets/futures-rise-despite-oil-bounce-nvidia-keeps-ai-euphoria-going",
+        "date": "2026-06-01T12:25:15.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "He's \"Full Of Sh!t\": JPMorgan CEO Jamie Dimon Slams Coinbase's Armstrong, Declares War On Clarity Act",
+        "link": "https://www.zerohedge.com/crypto/hes-full-sht-jpmorgan-ceo-jamie-dimon-slams-coinbases-armstrong-declares-war-clarity-act",
+        "date": "2026-06-01T11:45:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Fleeing for their futures, a California exodus unleashes a Florida 'gold rush'",
+        "link": "https://www.foxbusiness.com/economy/fleeing-futures-massive-california-exodus-unleashes-florida-gold-rush",
+        "date": "2026-06-01T10:00:53.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Toughens Terms Of Iran Deal Framework, As Bessent Pinpoints Tehran's 'Big Mistake'",
+        "link": "https://www.zerohedge.com/geopolitical/trump-tightens-terms-iran-deal-framework-bessent-pinpoints-tehrans-big-mistake",
+        "date": "2026-06-01T07:10:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-01T15:44:12.314Z"
+  }
+}
