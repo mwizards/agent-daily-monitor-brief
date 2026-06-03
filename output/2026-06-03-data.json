@@ -1,0 +1,407 @@
+{
+  "generatedAt": "2026-06-03T14:17:45.358Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -3.01,
+        "current": 90.845,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -3.01% to $90.845"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3,
+        "current": 51.82,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3% to $51.82"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -3.65,
+        "current": 29.995,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -3.65% to $29.995"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "A stark new warning about the global economy: Inflation is headed higher and growth lower",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] A stark new warning about the global economy: Inflation is headed higher and growth lower"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Team Proposes New Tariff Round On 60 Countries Over Forced Labor Practices",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] Trump Team Proposes New Tariff Round On 60 Countries Over Forced Labor Practices"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[CNBC Economy] U.S. proposes fresh tariffs on 60 economies over forced labor trade practices"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Warns Ally Oman That It Better Pick The 'Right' Side In Hormuz Standoff",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] US Warns Ally Oman That It Better Pick The 'Right' Side In Hormuz Standoff"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Markets",
+        "title": "Nissan recalls over 51K SUVs after software defect causes dashboard screens to fail",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Markets] Nissan recalls over 51K SUVs after software defect causes dashboard screens to fail"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Economy",
+        "title": "Top CEOs brace for downturn, warn US economy will worsen in next 6 months",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Economy] Top CEOs brace for downturn, warn US economy will worsen in next 6 months"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Reactor Developers Advance Sweden's Nuclear Ambitions While State Puts Up $3.7 Billion",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Reactor Developers Advance Sweden's Nuclear Ambitions While State Puts Up $3.7 Billion"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Opposite Of Drawdown: US Mulls Expanding Nuclear Weapons Deployments In Europe",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Opposite Of Drawdown: US Mulls Expanding Nuclear Weapons Deployments In Europe"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 60.5,
+        "message": "Gold/Silver ratio: 60.5x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 11
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 408.76,
+        "previousClose": 411.95,
+        "high": 409.24,
+        "low": 406.225,
+        "changePct": -0.77
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 66.685,
+        "previousClose": 67.99,
+        "high": 67.14,
+        "low": 66.185,
+        "changePct": -1.92
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 90.845,
+        "previousClose": 93.66,
+        "high": 92,
+        "low": 90.1,
+        "changePct": -3.01
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 64.095,
+        "previousClose": 65.34,
+        "high": 64.98,
+        "low": 62.81,
+        "changePct": -1.91
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 51.82,
+        "previousClose": 53.42,
+        "high": 52.68,
+        "low": 50.77,
+        "changePct": -3
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.995,
+        "previousClose": 31.13,
+        "high": 30.63,
+        "low": 29.81,
+        "changePct": -3.65
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.73,
+        "previousClose": 57.96,
+        "high": 58.775,
+        "low": 58.01,
+        "changePct": 1.33
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.8453,
+        "previousClose": 27.76,
+        "high": 27.86,
+        "low": 27.8432,
+        "changePct": 0.31
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.4,
+        "previousClose": 85.65,
+        "high": 85.425,
+        "low": 85.225,
+        "changePct": -0.29
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 756.67,
+        "previousClose": 759.57,
+        "high": 758.8,
+        "low": 754.74,
+        "changePct": -0.38
+      }
+    },
+    "metals": {
+      "gold": 4477.8,
+      "silver": 74.01,
+      "copper": 6.53,
+      "platinum": 1905,
+      "crude": null,
+      "goldSilverRatio": 60.5
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4477.8,
+        "change": -42.100098,
+        "changePct": -0.93,
+        "previousClose": 4519.9
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 74.01,
+        "change": -1.5459976,
+        "changePct": -2.05,
+        "previousClose": 75.556
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.527,
+        "change": -0.1494999,
+        "changePct": -2.24,
+        "previousClose": 6.6765
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1905,
+        "change": -38.30005,
+        "changePct": -1.97,
+        "previousClose": 1943.3
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 94.59,
+        "change": 0.8299942,
+        "changePct": 0.89,
+        "previousClose": 93.76
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.05,
+        "previous": 3.98,
+        "change": 0.07,
+        "changeBps": 7,
+        "date": "2026-06-01"
+      },
+      "10Y": {
+        "current": 4.47,
+        "previous": 4.45,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-06-01"
+      },
+      "30Y": {
+        "current": 4.99,
+        "previous": 4.99,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-06-01"
+      },
+      "USD_BROAD": {
+        "current": 118.8783,
+        "previous": 119.0318,
+        "change": -0.15,
+        "changeBps": -15,
+        "date": "2026-05-29"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 103794,
+        "previous": 8600,
+        "change": 95194,
+        "period": "2026-05-22",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "CNBC Economy",
+        "title": "U.S., Iran intensify attacks as ceasefire frays, peace talks stall",
+        "link": "https://www.cnbc.com/2026/06/03/us-iran-war-escalates-peace-talks-stalemate-.html",
+        "date": "2026-06-03T14:07:23.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says He'd Like To Meet Iran's New Supreme Leader: 'We Probably Will'",
+        "link": "https://www.zerohedge.com/geopolitical/trump-says-hed-meet-irans-new-supreme-leader-we-probably-will",
+        "date": "2026-06-03T14:00:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "A stark new warning about the global economy: Inflation is headed higher and growth lower",
+        "link": "https://www.marketwatch.com/story/oecd-gives-a-stark-warning-while-lowering-2027-growth-forecasts-3f97394b?mod=mw_rss_topstories",
+        "date": "2026-06-03T12:39:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Major Iranian Attack On Kuwait International Airport Leaves One Dead, 63 Injured",
+        "link": "https://www.zerohedge.com/geopolitical/major-iranian-attack-kuwait-international-airport-leaves-one-dead-63-injured",
+        "date": "2026-06-03T12:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Drop, Yields And Oil Rise On Latest Middle East Hostilities",
+        "link": "https://www.zerohedge.com/markets/futures-drop-yields-and-oil-rise-latest-middle-east-hostilities",
+        "date": "2026-06-03T12:24:11.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Team Proposes New Tariff Round On 60 Countries Over Forced Labor Practices",
+        "link": "https://www.zerohedge.com/geopolitical/trump-team-proposes-new-tariff-round-60-countries-over-forced-labor-practices",
+        "date": "2026-06-03T11:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Sends Missiles, Drones Targeting Airbases Across Gulf After US Nighttime Attack On Qeshm Island",
+        "link": "https://www.zerohedge.com/geopolitical/hezbollah-idf-trade-fire-amid-nominal-ceasefire-trump-says-iran-deal-coming-over-next",
+        "date": "2026-06-03T10:15:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
+        "link": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html",
+        "date": "2026-06-03T10:05:32.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Reactor Developers Advance Sweden's Nuclear Ambitions While State Puts Up $3.7 Billion",
+        "link": "https://www.zerohedge.com/markets/reactor-developers-advance-swedens-nuclear-ambitions-while-state-puts-37-billion",
+        "date": "2026-06-03T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Opposite Of Drawdown: US Mulls Expanding Nuclear Weapons Deployments In Europe",
+        "link": "https://www.zerohedge.com/geopolitical/opposite-drawdown-us-mulls-expanding-nuclear-weapons-deployments-europe",
+        "date": "2026-06-03T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Warns Ally Oman That It Better Pick The 'Right' Side In Hormuz Standoff",
+        "link": "https://www.zerohedge.com/geopolitical/us-warns-ally-oman-it-better-pick-right-side-hormuz-standoff",
+        "date": "2026-06-03T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Weighs $50 Million Plan To Influence Armenia's Election",
+        "link": "https://www.zerohedge.com/markets/russia-weighs-50-million-plan-influence-armenias-election",
+        "date": "2026-06-03T06:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "How China Is Remaking Its Vast Western Frontier",
+        "link": "https://www.zerohedge.com/markets/how-china-remaking-its-vast-western-frontier",
+        "date": "2026-06-03T03:00:00.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Nissan recalls over 51K SUVs after software defect causes dashboard screens to fail",
+        "link": "https://www.foxbusiness.com/markets/nissan-recalls-51k-suvs-software-defect-causes-dashboard-screens-fail",
+        "date": "2026-06-03T01:31:07.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Top CEOs brace for downturn, warn US economy will worsen in next 6 months",
+        "link": "https://www.foxbusiness.com/economy/top-ceos-brace-downturn-warn-us-economy-worsen-in-next-6-months",
+        "date": "2026-06-02T14:53:20.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-03T14:17:36.064Z"
+  }
+}
