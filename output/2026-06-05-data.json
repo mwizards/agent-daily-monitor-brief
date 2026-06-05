@@ -1,0 +1,322 @@
+{
+  "generatedAt": "2026-06-05T12:28:16.396Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran Oil Exports Plunge To Four Year Low As Blockade Tightens, While Inflation Soars To World War 2 Levels",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iran Oil Exports Plunge To Four Year Low As Blockade Tightens, While Inflation Soars To World War 2 Levels"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Iran FM Warns American Bases Are Legitimate Targets, Cites 'No Tangible Progress' In Talks",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Iran FM Warns American Bases Are Legitimate Targets, Cites 'No Tangible Progress' In Talks"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "UBS CEO Warns Swiss Population Cap Is An 'Extreme' Measure",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] UBS CEO Warns Swiss Population Cap Is An 'Extreme' Measure"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "Trump Softens Red Line: 'No Reason' To Retrieve Iran's Nuclear 'Dust' As It's Effectively 'Entombed'",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] Trump Softens Red Line: 'No Reason' To Retrieve Iran's Nuclear 'Dust' As It's Effectively 'Entombed'"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.22,
+        "message": "Gold/Silver ratio: 61.22x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 4
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 411.27,
+        "previousClose": 407.87,
+        "high": 414.31,
+        "low": 409.02,
+        "changePct": 0.83
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 66.98,
+        "previousClose": 66.21,
+        "high": 67.71,
+        "low": 66.2,
+        "changePct": 1.16
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 90.22,
+        "previousClose": 90.25,
+        "high": 90.745,
+        "low": 89.2,
+        "changePct": -0.03
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 61.05,
+        "previousClose": 61.46,
+        "high": 61.75,
+        "low": 60.3,
+        "changePct": -0.67
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 50.28,
+        "previousClose": 50.39,
+        "high": 50.64,
+        "low": 49.52,
+        "changePct": -0.22
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.62,
+        "previousClose": 29.5,
+        "high": 30.29,
+        "low": 29.44,
+        "changePct": 0.41
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.75,
+        "previousClose": 58.71,
+        "high": 59.025,
+        "low": 58.17,
+        "changePct": 0.07
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.84,
+        "previousClose": 27.86,
+        "high": 27.85,
+        "low": 27.78,
+        "changePct": -0.07
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.5,
+        "previousClose": 85.31,
+        "high": 85.71,
+        "low": 85.42,
+        "changePct": 0.22
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 757.09,
+        "previousClose": 754.24,
+        "high": 758.31,
+        "low": 751.47,
+        "changePct": 0.38
+      }
+    },
+    "metals": {
+      "gold": 4496.1,
+      "silver": 73.44,
+      "copper": 6.46,
+      "platinum": 1903.1,
+      "crude": null,
+      "goldSilverRatio": 61.22
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4496.1,
+        "change": -8.899902,
+        "changePct": -0.2,
+        "previousClose": 4505
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 73.445,
+        "change": -0.526001,
+        "changePct": -0.71,
+        "previousClose": 73.971
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.461,
+        "change": -0.07399988,
+        "changePct": -1.13,
+        "previousClose": 6.535
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1903.1,
+        "change": 3.1999512,
+        "changePct": 0.17,
+        "previousClose": 1899.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 92.79,
+        "change": -0.25,
+        "changePct": -0.27,
+        "previousClose": 93.04
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.08,
+        "previous": 4.05,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-06-03"
+      },
+      "10Y": {
+        "current": 4.49,
+        "previous": 4.46,
+        "change": 0.03,
+        "changeBps": 3,
+        "date": "2026-06-03"
+      },
+      "30Y": {
+        "current": 4.99,
+        "previous": 4.97,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-06-03"
+      },
+      "USD_BROAD": {
+        "current": 118.8783,
+        "previous": 119.0318,
+        "change": -0.15,
+        "changeBps": -15,
+        "date": "2026-05-29"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102952,
+        "previous": 8137,
+        "change": 94815,
+        "period": "2026-05-29",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Oil Exports Plunge To Four Year Low As Blockade Tightens, While Inflation Soars To World War 2 Levels",
+        "link": "https://www.zerohedge.com/markets/blockade-sends-irans-oil-exports-plunging-four-year-low-inflation-soars-world-war-2-levels",
+        "date": "2026-06-05T12:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran FM Warns American Bases Are Legitimate Targets, Cites 'No Tangible Progress' In Talks",
+        "link": "https://www.zerohedge.com/geopolitical/iran-fm-warns-american-bases-are-legitimate-targets-cites-no-tangible-progress-talks",
+        "date": "2026-06-05T11:20:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "The IPO of this power generator for data centers quietly outshines Quantinuum",
+        "link": "https://www.marketwatch.com/story/the-ipo-of-this-power-generator-for-data-centers-quietly-outshines-quantinuum-d5d3124c?mod=mw_rss_topstories",
+        "date": "2026-06-05T11:12:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+        "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+        "date": "2026-06-05T10:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Softens Red Line: 'No Reason' To Retrieve Iran's Nuclear 'Dust' As It's Effectively 'Entombed'",
+        "link": "https://www.zerohedge.com/geopolitical/oil-prices-fall-white-house-signals-will-maintain-ceasefire-iran-unless-american",
+        "date": "2026-06-05T10:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Alarming Supply-Chain Stress Sends Transport Cost Soaring, Fueling Inflation Fears",
+        "link": "https://www.zerohedge.com/markets/alarming-supply-chain-stress-sends-transport-cost-soaring-fueling-inflation-fears",
+        "date": "2026-06-05T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israelis Complain US Military Has Turned Ben Gurion Airport Into 'Its Own Base'",
+        "link": "https://www.zerohedge.com/geopolitical/israelis-complain-us-military-has-turned-ben-gurion-airport-its-own-base",
+        "date": "2026-06-05T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UBS CEO Warns Swiss Population Cap Is An 'Extreme' Measure",
+        "link": "https://www.zerohedge.com/geopolitical/ubs-ceo-warns-swiss-population-cap-extreme-measure",
+        "date": "2026-06-05T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Beijing Bans Four New Zealand MPs For \"Crossing Red Line\" With Taiwan Visit",
+        "link": "https://www.zerohedge.com/political/beijing-bans-four-new-zealand-mps-crossing-red-line-taiwan-visit",
+        "date": "2026-06-05T03:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Satellite Images Expose China’s Massive New 120-Meter Sail-Free Mystery Submarine",
+        "link": "https://www.zerohedge.com/military/satellite-images-expose-chinas-massive-new-120-meter-sail-free-mystery-submarine",
+        "date": "2026-06-05T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Decries Communism, Says Its 'Breathtaking Popularity' Turns To 'Death, Destruction, Squalor'",
+        "link": "https://www.zerohedge.com/political/trump-decries-communism-says-its-breathtaking-popularity-turns-death-destruction-squalor",
+        "date": "2026-06-05T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Feds Raid Newport Mansion, Arrest Businessman Accused Of Routing U.S. Technology To Iran",
+        "link": "https://www.zerohedge.com/markets/feds-raid-newport-mansion-arrest-businessman-accused-routing-us-technology-iran",
+        "date": "2026-06-05T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says Accountability Is Coming Over The 'Rigged' 2020 Election",
+        "link": "https://www.zerohedge.com/political/trump-says-accountability-coming-over-rigged-2020-election",
+        "date": "2026-06-05T00:30:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-05T12:28:07.739Z"
+  }
+}
