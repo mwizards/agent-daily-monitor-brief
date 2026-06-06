@@ -1,0 +1,362 @@
+{
+  "generatedAt": "2026-06-06T11:13:07.206Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -8.08,
+        "current": 61.57,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -8.08% to $61.57"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -10.62,
+        "current": 80.64,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -10.62% to $80.64"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -9.45,
+        "current": 55.28,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -9.45% to $55.28"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -9.88,
+        "current": 45.31,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -9.88% to $45.31"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -11.01,
+        "current": 26.36,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -11.01% to $26.36"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.65,
+        "current": 396.24,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.65% to $396.24"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "The key to the upcoming Fed meeting? How Warsh reacts to all the hints of a rate hike.",
+        "keywords": [
+          "rate hike",
+          "war"
+        ],
+        "message": "[MarketWatch] The key to the upcoming Fed meeting? How Warsh reacts to all the hints of a rate hike."
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "\"No Longer Tolerate Radical Marxists\": Rubio Sanctions Revolutionary Cuban Influence Network Tied To U.S. Left-Wing NGOs",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] \"No Longer Tolerate Radical Marxists\": Rubio Sanctions Revolutionary Cuban Influence Network Tied To U.S. Left-Wing NGOs"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SPY",
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "changePct": -2.58,
+        "current": 737.55,
+        "direction": "DOWN",
+        "message": "S&P 500 (SPY) -2.58% to $737.55"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.17,
+        "message": "Gold/Silver ratio: 63.17x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 396.24,
+        "previousClose": 411.27,
+        "high": 404.719,
+        "low": 395.92,
+        "changePct": -3.65
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 61.57,
+        "previousClose": 66.98,
+        "high": 64.245,
+        "low": 61.355,
+        "changePct": -8.08
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 80.64,
+        "previousClose": 90.22,
+        "high": 87.06,
+        "low": 80.51,
+        "changePct": -10.62
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 55.28,
+        "previousClose": 61.05,
+        "high": 60.39,
+        "low": 55.1438,
+        "changePct": -9.45
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 45.31,
+        "previousClose": 50.28,
+        "high": 49.44,
+        "low": 44.97,
+        "changePct": -9.88
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.36,
+        "previousClose": 29.62,
+        "high": 28.9684,
+        "low": 26.25,
+        "changePct": -11.01
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.67,
+        "previousClose": 58.75,
+        "high": 58.78,
+        "low": 57.63,
+        "changePct": -1.84
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 28.02,
+        "previousClose": 27.84,
+        "high": 28.0464,
+        "low": 27.9001,
+        "changePct": 0.65
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.06,
+        "previousClose": 85.5,
+        "high": 85.345,
+        "low": 84.92,
+        "changePct": -0.51
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 737.55,
+        "previousClose": 757.09,
+        "high": 752.82,
+        "low": 735.525,
+        "changePct": -2.58
+      }
+    },
+    "metals": {
+      "gold": 4365.3,
+      "silver": 69.1,
+      "copper": 6.28,
+      "platinum": 1797.9,
+      "crude": null,
+      "goldSilverRatio": 63.17
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4365.3,
+        "change": -139.7002,
+        "changePct": -3.1,
+        "previousClose": 4505
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 69.103,
+        "change": -4.868004,
+        "changePct": -6.58,
+        "previousClose": 73.971
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.2845,
+        "change": -0.25049973,
+        "changePct": -3.83,
+        "previousClose": 6.535
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1797.9,
+        "change": -102,
+        "changePct": -5.37,
+        "previousClose": 1899.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.54,
+        "change": -2.5,
+        "changePct": -2.69,
+        "previousClose": 93.04
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.05,
+        "previous": 4.08,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-06-04"
+      },
+      "10Y": {
+        "current": 4.47,
+        "previous": 4.49,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-04"
+      },
+      "30Y": {
+        "current": 4.97,
+        "previous": 4.99,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-04"
+      },
+      "USD_BROAD": {
+        "current": 118.8783,
+        "previous": 119.0318,
+        "change": -0.15,
+        "changeBps": -15,
+        "date": "2026-05-29"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102952,
+        "previous": 8137,
+        "change": 94815,
+        "period": "2026-05-29",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "The key to the upcoming Fed meeting? How Warsh reacts to all the hints of a rate hike.",
+        "link": "https://www.marketwatch.com/story/the-key-to-the-upcoming-fed-meeting-how-warsh-reacts-to-all-the-hints-of-a-rate-hike-3cbdce15?mod=mw_rss_topstories",
+        "date": "2026-06-06T11:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Has Trump Opened Pandora's Box?",
+        "link": "https://www.zerohedge.com/geopolitical/has-trump-opened-pandoras-box",
+        "date": "2026-06-06T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Military Shoots Down Inbound Iranian Attack Drones Over Hormuz, Bombs Coastal Sites",
+        "link": "https://www.zerohedge.com/geopolitical/iran-fm-warns-american-bases-are-legitimate-targets-cites-no-tangible-progress-talks",
+        "date": "2026-06-06T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Moscow To Host US-Russia Hockey Match Week Of July 4th",
+        "link": "https://www.zerohedge.com/geopolitical/moscow-host-us-russia-hockey-match-week-july-4th",
+        "date": "2026-06-06T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"No Longer Tolerate Radical Marxists\": Rubio Sanctions Revolutionary Cuban Influence Network Tied To U.S. Left-Wing NGOs",
+        "link": "https://www.zerohedge.com/political/no-longer-tolerate-radical-marxist-rubio-sanctions-revolutionary-cuban-influence-network",
+        "date": "2026-06-05T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"Thank You, Mr. President\": Maryland Freedom Caucus Applauds Trump's Coal Power Plant Restart Plan",
+        "link": "https://www.zerohedge.com/political/thank-you-mr-president-maryland-freedom-caucus-applauds-trumps-coal-power-plant-restart",
+        "date": "2026-06-05T23:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Lebanon's President Blasts Iran, Hezbollah For Using Country As Bargaining Chip",
+        "link": "https://www.zerohedge.com/geopolitical/lebanons-president-blasts-iran-hezbollah-using-country-bargaining-chip",
+        "date": "2026-06-05T22:50:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+        "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+        "date": "2026-06-05T22:07:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Tells \"Less Shackled\" Pulte To Fire Intelligence Officials As Senate Blocks FISA Extension",
+        "link": "https://www.zerohedge.com/political/senate-blocks-fisa-surveillance-extension-amid-backlash-over-trumps-timing-bill-pulte-dni",
+        "date": "2026-06-05T21:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Fannie, Freddie Jump After Trump Floats $1 Trillion Valuation",
+        "link": "https://www.zerohedge.com/markets/fannie-freddie-jump-after-trump-floats-1-trillion-valuation",
+        "date": "2026-06-05T18:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-06T11:12:57.623Z"
+  }
+}
