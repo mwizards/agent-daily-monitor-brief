@@ -1,0 +1,373 @@
+{
+  "generatedAt": "2026-06-07T11:30:04.170Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -8.08,
+        "current": 61.57,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -8.08% to $61.57"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": -10.62,
+        "current": 80.64,
+        "direction": "DOWN",
+        "message": "Copper Miners (COPX) -10.62% to $80.64"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -9.45,
+        "current": 55.28,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -9.45% to $55.28"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -9.88,
+        "current": 45.31,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -9.88% to $45.31"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -11.01,
+        "current": 26.36,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -11.01% to $26.36"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": -3.65,
+        "current": 396.24,
+        "direction": "DOWN",
+        "message": "Gold (GLD) -3.65% to $396.24"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "UN Food Agency Warns Millions Pushed Into Hunger By Prolonged Iran War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] UN Food Agency Warns Millions Pushed Into Hunger By Prolonged Iran War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Second Flesh-Eating Screwworm Case Raises Beef Supply Fears As Goldman Warns Outbreak \"Could Be Disruptive\"",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Second Flesh-Eating Screwworm Case Raises Beef Supply Fears As Goldman Warns Outbreak \"Could Be Disruptive\""
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SPY",
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "changePct": -2.58,
+        "current": 737.55,
+        "direction": "DOWN",
+        "message": "S&P 500 (SPY) -2.58% to $737.55"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.17,
+        "message": "Gold/Silver ratio: 63.17x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 396.24,
+        "previousClose": 411.27,
+        "high": 404.719,
+        "low": 395.92,
+        "changePct": -3.65
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 61.57,
+        "previousClose": 66.98,
+        "high": 64.245,
+        "low": 61.355,
+        "changePct": -8.08
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 80.64,
+        "previousClose": 90.22,
+        "high": 87.06,
+        "low": 80.51,
+        "changePct": -10.62
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 55.28,
+        "previousClose": 61.05,
+        "high": 60.39,
+        "low": 55.1438,
+        "changePct": -9.45
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 45.31,
+        "previousClose": 50.28,
+        "high": 49.44,
+        "low": 44.97,
+        "changePct": -9.88
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.36,
+        "previousClose": 29.62,
+        "high": 28.9684,
+        "low": 26.25,
+        "changePct": -11.01
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.67,
+        "previousClose": 58.75,
+        "high": 58.78,
+        "low": 57.63,
+        "changePct": -1.84
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 28.02,
+        "previousClose": 27.84,
+        "high": 28.0464,
+        "low": 27.9001,
+        "changePct": 0.65
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.06,
+        "previousClose": 85.5,
+        "high": 85.345,
+        "low": 84.92,
+        "changePct": -0.51
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 737.55,
+        "previousClose": 757.09,
+        "high": 752.82,
+        "low": 735.525,
+        "changePct": -2.58
+      }
+    },
+    "metals": {
+      "gold": 4365.3,
+      "silver": 69.1,
+      "copper": 6.28,
+      "platinum": 1797.9,
+      "crude": null,
+      "goldSilverRatio": 63.17
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4365.3,
+        "change": -139.7002,
+        "changePct": -3.1,
+        "previousClose": 4505
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 69.103,
+        "change": -4.868004,
+        "changePct": -6.58,
+        "previousClose": 73.971
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.2845,
+        "change": -0.25049973,
+        "changePct": -3.83,
+        "previousClose": 6.535
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1797.9,
+        "change": -102,
+        "changePct": -5.37,
+        "previousClose": 1899.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.54,
+        "change": -2.5,
+        "changePct": -2.69,
+        "previousClose": 93.04
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.05,
+        "previous": 4.08,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-06-04"
+      },
+      "10Y": {
+        "current": 4.47,
+        "previous": 4.49,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-04"
+      },
+      "30Y": {
+        "current": 4.97,
+        "previous": 4.99,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-04"
+      },
+      "USD_BROAD": {
+        "current": 118.8783,
+        "previous": 119.0318,
+        "change": -0.15,
+        "changeBps": -15,
+        "date": "2026-05-29"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102952,
+        "previous": 8137,
+        "change": 94815,
+        "period": "2026-05-29",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "An Emerging Market Crisis In Oil-Poor Asia?",
+        "link": "https://www.zerohedge.com/markets/emerging-market-crisis-oil-poor-asia",
+        "date": "2026-06-07T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: More Evidence Iran Is Rapidly Restoring Its Missile Tunnels",
+        "link": "https://www.zerohedge.com/geopolitical/watch-more-evidence-iran-rapidly-restoring-its-missile-tunnels",
+        "date": "2026-06-07T02:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "UN Food Agency Warns Millions Pushed Into Hunger By Prolonged Iran War",
+        "link": "https://www.zerohedge.com/geopolitical/un-food-agency-warns-millions-pushed-hunger-prolonged-iran-conflict",
+        "date": "2026-06-07T01:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Protesters Target NV Energy At Utility Conference As Anger Over Soaring Electricity Prices Boils Over",
+        "link": "https://www.zerohedge.com/markets/protesters-target-nv-energy-utility-conference-anger-over-soaring-electricity-prices-boils",
+        "date": "2026-06-07T01:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Obama-Appointed Judge Orders Trump Admin To Restart Processing Asylum Claims",
+        "link": "https://www.zerohedge.com/political/obama-appointed-judge-orders-trump-admin-restart-processing-asylum-claims",
+        "date": "2026-06-06T23:50:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+        "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+        "date": "2026-06-06T22:51:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran's World Cup Squad Belatedly Granted US Visas But Some Staff Blocked",
+        "link": "https://www.zerohedge.com/geopolitical/irans-world-cup-squad-belatedly-granted-us-visas-some-staff-blocked",
+        "date": "2026-06-06T20:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Watch: Leftists Are Crying Over Trump's Beautifully Restored Reflecting Pool",
+        "link": "https://www.zerohedge.com/political/watch-leftists-are-crying-over-trumps-beautifully-restored-reflecting-pool",
+        "date": "2026-06-06T18:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Intercepted Fresh Iranian Ballistic Missile Attacks Overnight As Tehran Blasts 'Ceasefire Violations'",
+        "link": "https://www.zerohedge.com/geopolitical/us-intercepted-fresh-iranian-ballistic-missile-attacks-overnight-tehran-blasts",
+        "date": "2026-06-06T18:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says US Weighing Taking Stakes In AI Companies",
+        "link": "https://www.zerohedge.com/ai/trump-says-us-weighing-taking-stakes-ai-companies",
+        "date": "2026-06-06T16:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Second Flesh-Eating Screwworm Case Raises Beef Supply Fears As Goldman Warns Outbreak \"Could Be Disruptive\"",
+        "link": "https://www.zerohedge.com/commodities/second-flesh-eating-screwworm-case-raises-beef-supply-fears-goldman-warns-outbreak",
+        "date": "2026-06-06T16:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Goldman's World Cup Winner Prediction Is ...",
+        "link": "https://www.zerohedge.com/personal-finance/goldmans-world-cup-winner-prediction",
+        "date": "2026-06-06T13:55:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-07T11:29:53.350Z"
+  }
+}
