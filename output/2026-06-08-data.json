@@ -1,0 +1,366 @@
+{
+  "generatedAt": "2026-06-08T13:55:37.645Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "This Big Tech investor’s warning for traders: Watch out for the SpaceX IPO",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] This Big Tech investor’s warning for traders: Watch out for the SpaceX IPO"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Israel Pauses Iran Strikes At Trump's Request To 'Stop Shooting' - But Warns 'Full Intensity' Lebanon Ops To Persist",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Israel Pauses Iran Strikes At Trump's Request To 'Stop Shooting' - But Warns 'Full Intensity' Lebanon Ops To Persist"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Gold has tumbled during the Iran war — exposing a massive myth about geopolitical risk",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Gold has tumbled during the Iran war — exposing a massive myth about geopolitical risk"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Hegseth Warns Europe of 'Dangerous Ideologies'",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Hegseth Warns Europe of 'Dangerous Ideologies'"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Buildings Collapse After 7.8 Magnitude Earthquake Strikes Philippines; Tsunami Warnings Issued",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Buildings Collapse After 7.8 Magnitude Earthquake Strikes Philippines; Tsunami Warnings Issued"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 2.08,
+        "current": 56.43,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +2.08% to $56.43"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 2.01,
+        "current": 46.22,
+        "direction": "UP",
+        "message": "Uranium (URA) +2.01% to $46.22"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.49,
+        "message": "Gold/Silver ratio: 63.49x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 398.035,
+        "previousClose": 396.34,
+        "high": 398.9454,
+        "low": 397.27,
+        "changePct": 0.43
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 61.74,
+        "previousClose": 61.56,
+        "high": 62.29,
+        "low": 61.56,
+        "changePct": 0.29
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 82.205,
+        "previousClose": 80.64,
+        "high": 82.995,
+        "low": 81.8501,
+        "changePct": 1.94
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 56.43,
+        "previousClose": 55.28,
+        "high": 57.36,
+        "low": 56.13,
+        "changePct": 2.08
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 46.22,
+        "previousClose": 45.31,
+        "high": 46.77,
+        "low": 46,
+        "changePct": 2.01
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.54,
+        "previousClose": 26.3519,
+        "high": 26.96,
+        "low": 26.4001,
+        "changePct": 0.71
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.755,
+        "previousClose": 57.67,
+        "high": 58.76,
+        "low": 57.97,
+        "changePct": 1.88
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.995,
+        "previousClose": 28.02,
+        "high": 28,
+        "low": 27.97,
+        "changePct": -0.09
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.125,
+        "previousClose": 85.06,
+        "high": 85.325,
+        "low": 85.105,
+        "changePct": 0.08
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 743.3,
+        "previousClose": 737.41,
+        "high": 744.51,
+        "low": 741.48,
+        "changePct": 0.8
+      }
+    },
+    "metals": {
+      "gold": 4360.3,
+      "silver": 68.68,
+      "copper": 6.37,
+      "platinum": 1758.4,
+      "crude": null,
+      "goldSilverRatio": 63.49
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4360.3,
+        "change": -5,
+        "changePct": -0.11,
+        "previousClose": 4365.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 68.675,
+        "change": -0.42799377,
+        "changePct": -0.62,
+        "previousClose": 69.103
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.368,
+        "change": 0.08349991,
+        "changePct": 1.33,
+        "previousClose": 6.2845
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1758.4,
+        "change": -39.5,
+        "changePct": -2.2,
+        "previousClose": 1797.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 90.79,
+        "change": 0.25,
+        "changePct": 0.28,
+        "previousClose": 90.54
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.05,
+        "previous": 4.08,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-06-04"
+      },
+      "10Y": {
+        "current": 4.47,
+        "previous": 4.49,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-04"
+      },
+      "30Y": {
+        "current": 4.97,
+        "previous": 4.99,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-04"
+      },
+      "USD_BROAD": {
+        "current": 118.8783,
+        "previous": 119.0318,
+        "change": -0.15,
+        "changeBps": -15,
+        "date": "2026-05-29"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102952,
+        "previous": 8137,
+        "change": 94815,
+        "period": "2026-05-29",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Key Events This Week: All Eyes On The First CPI Print Over 4% In 3 Years",
+        "link": "https://www.zerohedge.com/markets/key-events-week-all-eyes-first-cpi-print-over-4-3-years",
+        "date": "2026-06-08T13:50:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "This Big Tech investor’s warning for traders: Watch out for the SpaceX IPO",
+        "link": "https://www.marketwatch.com/story/this-big-tech-investors-warning-for-traders-watch-out-for-the-spacex-ipo-cd651485?mod=mw_rss_topstories",
+        "date": "2026-06-08T13:16:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Global oil prices erase most gains after topping $98 a barrel as Iran announces end of current attacks after exchanging fire with Israel",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+        "date": "2026-06-08T12:39:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Israel Pauses Iran Strikes At Trump's Request To 'Stop Shooting' - But Warns 'Full Intensity' Lebanon Ops To Persist",
+        "link": "https://www.zerohedge.com/geopolitical/trump-urges-immediate-halt-iran-israel-trade-strikes-massive-iranian-petrochemical",
+        "date": "2026-06-08T12:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Rebound, Oil Pares Gain After Iran Declares End To Military Operations",
+        "link": "https://www.zerohedge.com/markets/futures-rebound-oil-pares-gain-after-iran-declares-end-military-operations",
+        "date": "2026-06-08T12:34:51.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Gold has tumbled during the Iran war — exposing a massive myth about geopolitical risk",
+        "link": "https://www.marketwatch.com/story/gold-has-tumbled-during-the-iran-war-exposing-a-massive-myth-about-geopolitical-risk-15bd2c94?mod=mw_rss_topstories",
+        "date": "2026-06-08T11:51:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Oil Jumps After Israel Strikes Military Targets In Iran, Ignoring Trump Pleas Not To \"Strike Back\"",
+        "link": "https://www.zerohedge.com/geopolitical/iran-fm-blames-us-contradictions-stalled-peace-talks-tehran-slaps-million-dollar",
+        "date": "2026-06-08T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Goldman And UBS Preview Apple's WWDC: AI Siri Takes Center Stage",
+        "link": "https://www.zerohedge.com/technology/goldman-and-ubs-preview-apples-wwdc-ai-siri-takes-center-stage",
+        "date": "2026-06-08T09:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Hegseth Warns Europe of 'Dangerous Ideologies'",
+        "link": "https://www.zerohedge.com/geopolitical/hegseth-warns-europe-dangerous-ideologies",
+        "date": "2026-06-08T09:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Spain-Style Blackout Risk Rises As ERCOT Flags Boston-Sized Data Center Loads Tripping Offline",
+        "link": "https://www.zerohedge.com/energy/spain-style-blackout-risk-rises-ercot-flags-boston-sized-data-center-loads-tripping-offline",
+        "date": "2026-06-08T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Pentagon Officially Removes 180 Faiths From Military Religion List",
+        "link": "https://www.zerohedge.com/military/pentagon-officially-removes-180-faiths-military-religion-list",
+        "date": "2026-06-08T03:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Ex-CIA Official Accused Of Inventing Secret Spy Program To Amass $40 Million Gold Hoard",
+        "link": "https://www.zerohedge.com/political/ex-cia-official-accused-inventing-secret-spy-program-amass-40-million-gold-hoard",
+        "date": "2026-06-08T01:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Buildings Collapse After 7.8 Magnitude Earthquake Strikes Philippines; Tsunami Warnings Issued",
+        "link": "https://www.zerohedge.com/weather/buildings-collapse-after-78-magnitude-earthquake-strikes-philippines-tsunami-warnings",
+        "date": "2026-06-08T01:20:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Admin Announces $850MM To Modernize US Coal Capacity, Build 2 New Plants",
+        "link": "https://www.zerohedge.com/technology/trump-administration-announces-850mm-modernize-us-coal-capacity-build-2-new-plants",
+        "date": "2026-06-07T22:40:00.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "American Airlines reportedly pauses 6 domestic routes amid fuel price pressure tied to Iran conflict",
+        "link": "https://www.foxbusiness.com/economy/american-airlines-reportedly-pauses-6-domestic-routes-fuel-price-pressure-tied-iran-conflict",
+        "date": "2026-06-07T21:20:27.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-08T13:55:29.662Z"
+  }
+}
