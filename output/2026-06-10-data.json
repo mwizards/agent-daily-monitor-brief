@@ -1,0 +1,382 @@
+{
+  "generatedAt": "2026-06-10T12:46:57.919Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": -4.17,
+        "current": 59.01,
+        "direction": "DOWN",
+        "message": "Silver (SLV) -4.17% to $59.01"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": -3.64,
+        "current": 53.75,
+        "direction": "DOWN",
+        "message": "Uranium Miners (URNM) -3.64% to $53.75"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": -3.92,
+        "current": 44.12,
+        "direction": "DOWN",
+        "message": "Uranium (URA) -3.92% to $44.12"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Tom Lee says the tech-stock dip ahead of SpaceX’s IPO will reverse afterward",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Tom Lee says the tech-stock dip ahead of SpaceX’s IPO will reverse afterward"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "EU Targets Head Of Russian Orthodox Church With Sanctions",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] EU Targets Head Of Russian Orthodox Church With Sanctions"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Former MI6 Spy Alastair Crooke: Iran Takes Its Chances With War",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Former MI6 Spy Alastair Crooke: Iran Takes Its Chances With War"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "Fox Biz Markets",
+        "title": "Are you a new stock market investor in June 2026? Here's Warren Buffett's advice",
+        "keywords": [
+          "war"
+        ],
+        "message": "[Fox Biz Markets] Are you a new stock market investor in June 2026? Here's Warren Buffett's advice"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": -2.51,
+        "current": 25.68,
+        "direction": "DOWN",
+        "message": "Silver Juniors (SILJ) -2.51% to $25.68"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "MODERATE",
+        "source": "ZeroHedge",
+        "title": "China Unveils Nuclear-Powered Floating Hub For Green Shipping",
+        "keywords": [
+          "nuclear"
+        ],
+        "message": "[ZeroHedge] China Unveils Nuclear-Powered Floating Hub For Green Shipping"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.67,
+        "message": "Gold/Silver ratio: 64.67x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 9
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 390.78,
+        "previousClose": 397.27,
+        "high": 400.455,
+        "low": 388.75,
+        "changePct": -1.63
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 59.01,
+        "previousClose": 61.58,
+        "high": 62.425,
+        "low": 58.225,
+        "changePct": -4.17
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 80.14,
+        "previousClose": 81.29,
+        "high": 83.2,
+        "low": 77.68,
+        "changePct": -1.41
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 53.75,
+        "previousClose": 55.78,
+        "high": 56.31,
+        "low": 51.98,
+        "changePct": -3.64
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 44.12,
+        "previousClose": 45.92,
+        "high": 46.29,
+        "low": 42.4201,
+        "changePct": -3.92
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 25.68,
+        "previousClose": 26.34,
+        "high": 26.9,
+        "low": 24.7,
+        "changePct": -2.51
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.39,
+        "previousClose": 58.33,
+        "high": 58.21,
+        "low": 56.81,
+        "changePct": -1.61
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 28.01,
+        "previousClose": 28.03,
+        "high": 28.0499,
+        "low": 27.94,
+        "changePct": -0.07
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.12,
+        "previousClose": 84.62,
+        "high": 85.18,
+        "low": 84.785,
+        "changePct": 0.59
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 737.05,
+        "previousClose": 739.22,
+        "high": 746.9,
+        "low": 722.59,
+        "changePct": -0.29
+      }
+    },
+    "metals": {
+      "gold": 4183.8,
+      "silver": 64.69,
+      "copper": 6.26,
+      "platinum": 1674.6,
+      "crude": null,
+      "goldSilverRatio": 64.67
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4183.8,
+        "change": -102.6001,
+        "changePct": -2.39,
+        "previousClose": 4286.4
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 64.69,
+        "change": -0.5499954,
+        "changePct": -0.84,
+        "previousClose": 65.24
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.2595,
+        "change": -0.0625,
+        "changePct": -0.99,
+        "previousClose": 6.322
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1674.6,
+        "change": -37,
+        "changePct": -2.16,
+        "previousClose": 1711.6
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 89.32,
+        "change": 1.1200027,
+        "changePct": 1.27,
+        "previousClose": 88.2
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.15,
+        "previous": 4.17,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-08"
+      },
+      "10Y": {
+        "current": 4.56,
+        "previous": 4.55,
+        "change": 0.01,
+        "changeBps": 1,
+        "date": "2026-06-08"
+      },
+      "30Y": {
+        "current": 5.03,
+        "previous": 5.01,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-06-08"
+      },
+      "USD_BROAD": {
+        "current": 120.0831,
+        "previous": 119.3615,
+        "change": 0.72,
+        "changeBps": 72,
+        "date": "2026-06-05"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102952,
+        "previous": 8137,
+        "change": 94815,
+        "period": "2026-05-29",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Americans' Real Wages Are Shrinking As CPI Tops 4% For First Time In 3 Years",
+        "link": "https://www.zerohedge.com/markets/americans-real-wages-are-shrinking-cpi-tops-4-first-time-3-years",
+        "date": "2026-06-10T12:39:44.000Z"
+      },
+      {
+        "source": "Fox Biz Economy",
+        "title": "Inflation rose again in May as elevated energy prices squeeze consumers",
+        "link": "https://www.foxbusiness.com/economy/cpi-inflation-may-2026",
+        "date": "2026-06-10T12:32:45.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Slide Amid Renewed Tech Selling, Geopolitical Chaos Ahead Of Key CPI Print",
+        "link": "https://www.zerohedge.com/markets/futures-slide-amid-renewed-tech-selling-geopolitical-chaos-ahead-key-cpi-print",
+        "date": "2026-06-10T12:21:51.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "After Heavy Missile Exchange, Trump Mocks Iran's 'Total Mess' Of A Military As Tehran 'Reviews' Diplomacy With US",
+        "link": "https://www.zerohedge.com/geopolitical/after-heavy-missile-exchange-trump-mocks-irans-total-mess-military-tehran-reviews",
+        "date": "2026-06-10T11:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Tom Lee says the tech-stock dip ahead of SpaceX’s IPO will reverse afterward",
+        "link": "https://www.marketwatch.com/story/tom-lee-says-the-tech-stock-dip-ahead-of-spacexs-ipo-will-reverse-afterwards-2c391603?mod=mw_rss_topstories",
+        "date": "2026-06-10T10:13:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "EU Targets Head Of Russian Orthodox Church With Sanctions",
+        "link": "https://www.zerohedge.com/geopolitical/eu-targets-head-russian-orthodox-church-sanctions",
+        "date": "2026-06-10T08:15:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Former MI6 Spy Alastair Crooke: Iran Takes Its Chances With War",
+        "link": "https://www.zerohedge.com/geopolitical/former-mi6-spy-alastair-crooke-iran-takes-its-chances-war",
+        "date": "2026-06-10T07:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "NATO Country Halts Arms To Ukraine Under New Eurosceptic Prime Minister",
+        "link": "https://www.zerohedge.com/geopolitical/nato-country-halts-arms-ukraine-under-new-eurosceptic-prime-minister",
+        "date": "2026-06-10T06:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Seeking 'Precise Info' On Iran's Enriched Uranium Via IAEA Board",
+        "link": "https://www.zerohedge.com/geopolitical/us-seeking-precise-info-irans-enriched-uranium-iaea-board",
+        "date": "2026-06-10T03:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Unveils Nuclear-Powered Floating Hub For Green Shipping",
+        "link": "https://www.zerohedge.com/markets/china-unveils-nuclear-powered-floating-hub-green-shipping",
+        "date": "2026-06-10T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Memos Show Anti-Trump Nonprofit Assisted State Prosecutions Of Trump Supporters",
+        "link": "https://www.zerohedge.com/political/memos-show-anti-trump-nonprofit-assisted-state-prosecutions-trump-supporters",
+        "date": "2026-06-10T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "SNAP Benefits Go To 186,000 Dead People... And Stopping Them Might Be Difficult",
+        "link": "https://www.zerohedge.com/political/snap-benefits-go-186000-dead-people-and-stopping-them-might-be-difficult",
+        "date": "2026-06-09T22:25:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/06/09/the-may-inflation-numbers-are-due-out-wednesday-morning-heres-what-to-expect.html",
+        "date": "2026-06-09T19:49:59.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "Are you a new stock market investor in June 2026? Here's Warren Buffett's advice",
+        "link": "https://www.foxbusiness.com/markets/you-new-stock-market-investor-june-2026-heres-warren-buffetts-advice",
+        "date": "2026-06-09T14:09:34.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-10T12:46:50.106Z"
+  }
+}
