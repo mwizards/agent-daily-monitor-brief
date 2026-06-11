@@ -1,0 +1,365 @@
+{
+  "generatedAt": "2026-06-11T13:45:58.043Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "War And Piece",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] War And Piece"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "AI Price Wars Begin: OpenAI Considers \"Drastic Price Cuts\" In Pursuit Of Anthropic Customers",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] AI Price Wars Begin: OpenAI Considers \"Drastic Price Cuts\" In Pursuit Of Anthropic Customers"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Warns Iran Will Be Hit 'Very Hard' Tonight After Tehran Deems Ceasefire 'Meaningless', Oil Jumps",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Trump Warns Iran Will Be Hit 'Very Hard' Tonight After Tehran Deems Ceasefire 'Meaningless', Oil Jumps"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "ECB Preview: First Rate Hike Since 2023",
+        "keywords": [
+          "rate hike"
+        ],
+        "message": "[ZeroHedge] ECB Preview: First Rate Hike Since 2023"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Alcoa Plunges Most In Year After CFO Warns Alumina Unit \"Will Be Underwater\" Amid Hormuz Disruption",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Alcoa Plunges Most In Year After CFO Warns Alumina Unit \"Will Be Underwater\" Amid Hormuz Disruption"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "MODERATE",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 2.67,
+        "current": 79.52,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +2.67% to $79.52"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 64.25,
+        "message": "Gold/Silver ratio: 64.25x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 374.91,
+        "previousClose": 374.66,
+        "high": 375.04,
+        "low": 373.18,
+        "changePct": 0.07
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 57.89,
+        "previousClose": 57.65,
+        "high": 57.9,
+        "low": 57.3,
+        "changePct": 0.42
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 79.52,
+        "previousClose": 77.45,
+        "high": 79.86,
+        "low": 79.03,
+        "changePct": 2.67
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 52.42,
+        "previousClose": 51.54,
+        "high": 52.81,
+        "low": 52.0401,
+        "changePct": 1.71
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 43,
+        "previousClose": 42.38,
+        "high": 43.16,
+        "low": 42.6,
+        "changePct": 1.46
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 24.72,
+        "previousClose": 24.53,
+        "high": 24.9599,
+        "low": 24.56,
+        "changePct": 0.77
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 58.5,
+        "previousClose": 58.25,
+        "high": 58.99,
+        "low": 58.45,
+        "changePct": 0.43
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 28.06,
+        "previousClose": 28.04,
+        "high": 28.08,
+        "low": 28.0501,
+        "changePct": 0.07
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.3,
+        "previousClose": 84.88,
+        "high": 85.36,
+        "low": 85.155,
+        "changePct": 0.49
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 727.805,
+        "previousClose": 725.49,
+        "high": 729.09,
+        "low": 726.3617,
+        "changePct": 0.32
+      }
+    },
+    "metals": {
+      "gold": 4097.1,
+      "silver": 63.77,
+      "copper": 6.25,
+      "platinum": 1685.9,
+      "crude": null,
+      "goldSilverRatio": 64.25
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4097.1,
+        "change": -36.199707,
+        "changePct": -0.88,
+        "previousClose": 4133.3
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 63.765,
+        "change": -0.9749985,
+        "changePct": -1.51,
+        "previousClose": 64.74
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.248,
+        "change": -0.019000053,
+        "changePct": -0.3,
+        "previousClose": 6.267
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1685.9,
+        "change": -5,
+        "changePct": -0.3,
+        "previousClose": 1690.9
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 89.57,
+        "change": -0.45999908,
+        "changePct": -0.51,
+        "previousClose": 90.03
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.13,
+        "previous": 4.15,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-09"
+      },
+      "10Y": {
+        "current": 4.53,
+        "previous": 4.56,
+        "change": -0.03,
+        "changeBps": -3,
+        "date": "2026-06-09"
+      },
+      "30Y": {
+        "current": 5.01,
+        "previous": 5.03,
+        "change": -0.02,
+        "changeBps": -2,
+        "date": "2026-06-09"
+      },
+      "USD_BROAD": {
+        "current": 120.0831,
+        "previous": 119.3615,
+        "change": 0.72,
+        "changeBps": 72,
+        "date": "2026-06-05"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102314,
+        "previous": 7816,
+        "change": 94498,
+        "period": "2026-06-05",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "War And Piece",
+        "link": "https://www.zerohedge.com/markets/war-and-piece",
+        "date": "2026-06-11T13:40:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Wholesale inflation surges again and keeps the pressure on businesses and the U.S. economy",
+        "link": "https://www.marketwatch.com/story/wholesale-inflation-surges-again-and-keeps-the-pressure-on-businesses-and-the-u-s-economy-9a40a991?mod=mw_rss_topstories",
+        "date": "2026-06-11T13:27:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Iran Threatens Elon Musk's Gulf-Area Starlink Ground Stations In Suspicious Timing Ahead Of SpaceX IPO",
+        "link": "https://www.zerohedge.com/markets/massive-spacex-ipo-demand-coming-gulf-sovereign-wealth-funds",
+        "date": "2026-06-11T13:26:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "AI Price Wars Begin: OpenAI Considers \"Drastic Price Cuts\" In Pursuit Of Anthropic Customers",
+        "link": "https://www.zerohedge.com/markets/ai-price-wars-begin-openai-considers-drastic-price-cuts-pursuit-anthropic-customers",
+        "date": "2026-06-11T13:15:20.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+        "link": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
+        "date": "2026-06-11T13:01:44.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Bill Gates Tells Congress That Epstein Exploited Knowledge Of His Adultery",
+        "link": "https://www.zerohedge.com/political/bill-gates-tells-congress-epstein-exploited-knowledge-his-adultery",
+        "date": "2026-06-11T12:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Warns Iran Will Be Hit 'Very Hard' Tonight After Tehran Deems Ceasefire 'Meaningless', Oil Jumps",
+        "link": "https://www.zerohedge.com/geopolitical/us-attack-renders-ceasefire-meaningless-iran-says-us-forces-disable-yet-another-tanker",
+        "date": "2026-06-11T12:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "ECB Hikes Rates For First Time Since 2023 (As Expected); Cuts Growth, Hikes Inflation Outlook",
+        "link": "https://www.zerohedge.com/markets/ecb-hikes-rates-expected-cuts-growth-hikes-inflation-outlook",
+        "date": "2026-06-11T12:25:10.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Rise, Oil Drops As US Ends Iran Strikes",
+        "link": "https://www.zerohedge.com/markets/futures-rise-oil-drops-us-ends-iran-strikes",
+        "date": "2026-06-11T12:19:56.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "As artificial-intelligence capital expenditures rise, so do the risks for AI stocks, Goldman Sachs tells investors",
+        "link": "https://www.marketwatch.com/story/as-artificial-intelligence-capital-expenditures-rise-so-do-the-risks-for-ai-stocks-goldman-sachs-tells-investors-bc985b57?mod=mw_rss_topstories",
+        "date": "2026-06-11T11:56:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "ECB Preview: First Rate Hike Since 2023",
+        "link": "https://www.zerohedge.com/markets/ecb-preview-first-rate-hike-2023",
+        "date": "2026-06-11T11:45:25.000Z"
+      },
+      {
+        "source": "Fox Biz Markets",
+        "title": "GM letting some EV owners sell electricity back to the US power grid",
+        "link": "https://www.foxbusiness.com/markets/gm-letting-some-ev-owners-sell-electricity-back-us-power-grid",
+        "date": "2026-06-11T11:00:43.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
+        "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
+        "date": "2026-06-11T11:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Alcoa Plunges Most In Year After CFO Warns Alumina Unit \"Will Be Underwater\" Amid Hormuz Disruption",
+        "link": "https://www.zerohedge.com/commodities/alcoa-plunges-most-year-after-cfo-warns-alumina-unit-will-be-underwater-amid-hormuz",
+        "date": "2026-06-11T10:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "First Major Weather Organization Declares El Nino Onset As Food Inflation Risks Intensify",
+        "link": "https://www.zerohedge.com/weather/first-major-weather-organization-declares-el-nino-onset-food-inflation-risks-intensify",
+        "date": "2026-06-11T09:45:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-11T13:45:48.669Z"
+  }
+}
