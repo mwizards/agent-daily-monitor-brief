@@ -1,0 +1,394 @@
+{
+  "generatedAt": "2026-06-12T12:45:37.885Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 5.48,
+        "current": 60.82,
+        "direction": "UP",
+        "message": "Silver (SLV) +5.48% to $60.82"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 7.37,
+        "current": 83.16,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +7.37% to $83.16"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 5.48,
+        "current": 54.29,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +5.48% to $54.29"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 5.86,
+        "current": 44.83,
+        "direction": "UP",
+        "message": "Uranium (URA) +5.86% to $44.83"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 7.38,
+        "current": 26.33,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +7.38% to $26.33"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.13,
+        "current": 386.32,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.13% to $386.32"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Why a Fed communications ‘blackout’ isn’t coming to markets under new Warsh regime",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Why a Fed communications ‘blackout’ isn’t coming to markets under new Warsh regime"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "US Investigating Iran War Critic Trita Parsi, Co-Founder Of Non-Interventionist Think Tank",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] US Investigating Iran War Critic Trita Parsi, Co-Founder Of Non-Interventionist Think Tank"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "JPM Call With Axon Reveals Race To Fortify U.S. Data Centers Against Kamikaze Drone Swarms",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] JPM Call With Axon Reveals Race To Fortify U.S. Data Centers Against Kamikaze Drone Swarms"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "CNBC Economy",
+        "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+        "keywords": [
+          "war"
+        ],
+        "message": "[CNBC Economy] ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 63.16,
+        "message": "Gold/Silver ratio: 63.16x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 10
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 386.32,
+        "previousClose": 374.58,
+        "high": 387.18,
+        "low": 371.88,
+        "changePct": 3.13
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 60.82,
+        "previousClose": 57.66,
+        "high": 61.1,
+        "low": 57.3,
+        "changePct": 5.48
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 83.16,
+        "previousClose": 77.45,
+        "high": 83.27,
+        "low": 79.03,
+        "changePct": 7.37
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 54.29,
+        "previousClose": 51.47,
+        "high": 54.46,
+        "low": 52.0401,
+        "changePct": 5.48
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 44.83,
+        "previousClose": 42.35,
+        "high": 44.93,
+        "low": 42.6,
+        "changePct": 5.86
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 26.33,
+        "previousClose": 24.52,
+        "high": 26.34,
+        "low": 24.56,
+        "changePct": 7.38
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.12,
+        "previousClose": 58.25,
+        "high": 58.99,
+        "low": 57.055,
+        "changePct": -1.94
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.95,
+        "previousClose": 28.05,
+        "high": 28.125,
+        "low": 27.915,
+        "changePct": -0.36
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.98,
+        "previousClose": 84.88,
+        "high": 86.035,
+        "low": 85.04,
+        "changePct": 1.3
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 737.76,
+        "previousClose": 725.43,
+        "high": 740,
+        "low": 724.412,
+        "changePct": 1.7
+      }
+    },
+    "metals": {
+      "gold": 4221,
+      "silver": 66.83,
+      "copper": 6.38,
+      "platinum": 1708.4,
+      "crude": null,
+      "goldSilverRatio": 63.16
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4221,
+        "change": 107,
+        "changePct": 2.6,
+        "previousClose": 4114
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 66.825,
+        "change": 2.8239975,
+        "changePct": 4.41,
+        "previousClose": 64.001
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.379,
+        "change": 0.10400009,
+        "changePct": 1.66,
+        "previousClose": 6.275
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1708.4,
+        "change": 42.700073,
+        "changePct": 2.56,
+        "previousClose": 1665.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 85.41,
+        "change": -2.2999954,
+        "changePct": -2.62,
+        "previousClose": 87.71
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.13,
+        "previous": 4.13,
+        "change": 0,
+        "changeBps": 0,
+        "date": "2026-06-10"
+      },
+      "10Y": {
+        "current": 4.55,
+        "previous": 4.53,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-06-10"
+      },
+      "30Y": {
+        "current": 5.03,
+        "previous": 5.01,
+        "change": 0.02,
+        "changeBps": 2,
+        "date": "2026-06-10"
+      },
+      "USD_BROAD": {
+        "current": 120.0831,
+        "previous": 119.3615,
+        "change": 0.72,
+        "changeBps": 72,
+        "date": "2026-06-05"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102314,
+        "previous": 7816,
+        "change": 94498,
+        "period": "2026-06-05",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "MarketWatch",
+        "title": "Oil prices fall as investors weigh reports of peace-deal progress between the U.S. and Iran",
+        "link": "https://www.marketwatch.com/story/oil-prices-extend-declines-on-possible-u-s-iran-peace-deal-to-reopen-strait-of-hormuz-6d2822bd?mod=mw_rss_topstories",
+        "date": "2026-06-12T12:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Futures Rally Amid Fresh Iran Peace Hopes, All Eyes On SpaceX",
+        "link": "https://www.zerohedge.com/markets/futures-rally-amid-fresh-iran-peace-hopes-all-eyes-spacex",
+        "date": "2026-06-12T12:23:06.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "'US-Iran Deal Is Near' Narrative Returns, But Tehran Refuses To Surrender Hormuz Leverage",
+        "link": "https://www.zerohedge.com/geopolitical/us-iran-deal-near-narrative-returns-tehran-refuses-surrender-hormuz-leverage",
+        "date": "2026-06-12T11:45:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Why a Fed communications ‘blackout’ isn’t coming to markets under new Warsh regime",
+        "link": "https://www.marketwatch.com/story/why-a-fed-communications-blackout-isnt-coming-to-markets-under-new-warsh-regime-4cfcff68?mod=mw_rss_topstories",
+        "date": "2026-06-12T11:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "China Is Learning To Use Less Oil, And That's A Bigger Deal Than It Sounds",
+        "link": "https://www.zerohedge.com/markets/china-learning-use-less-oil-and-thats-bigger-deal-it-sounds",
+        "date": "2026-06-12T10:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Traders Are Shorting Oil As If The Hormuz Crisis Is Over",
+        "link": "https://www.zerohedge.com/energy/traders-are-shorting-oil-if-hormuz-crisis-over",
+        "date": "2026-06-12T09:00:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
+        "link": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html",
+        "date": "2026-06-12T07:01:15.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Why China's Population Decline Is Irreversible",
+        "link": "https://www.zerohedge.com/geopolitical/why-chinas-population-decline-irreversible",
+        "date": "2026-06-12T03:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Investigating Iran War Critic Trita Parsi, Co-Founder Of Non-Interventionist Think Tank",
+        "link": "https://www.zerohedge.com/geopolitical/us-investigating-iran-war-critic-trita-parsi-co-founder-non-interventionist-think-tank",
+        "date": "2026-06-12T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "JPM Call With Axon Reveals Race To Fortify U.S. Data Centers Against Kamikaze Drone Swarms",
+        "link": "https://www.zerohedge.com/technology/jpm-call-axon-reveals-race-fortify-us-drone-centers-against-kamikaze-drone-swarms",
+        "date": "2026-06-12T02:10:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Florida Supreme Court Allows New GOP Congressional Map To Remain In Place",
+        "link": "https://www.zerohedge.com/political/florida-supreme-court-allows-new-gop-congressional-map-remain-place",
+        "date": "2026-06-12T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Cops Bust India-Based Gold Scam Before Widow Loses $700K",
+        "link": "https://www.zerohedge.com/markets/cops-bust-india-based-gold-scam-widow-loses-700k",
+        "date": "2026-06-11T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Nominates US Attorney Jay Clayton As Director Of National Intelligence",
+        "link": "https://www.zerohedge.com/political/trump-nominates-us-attorney-jay-clayton-director-national-intelligence",
+        "date": "2026-06-11T22:25:00.000Z"
+      },
+      {
+        "source": "CNBC Economy",
+        "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+        "link": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
+        "date": "2026-06-11T13:57:33.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-12T12:45:29.019Z"
+  }
+}
