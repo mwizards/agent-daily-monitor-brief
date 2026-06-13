@@ -1,0 +1,335 @@
+{
+  "generatedAt": "2026-06-13T11:44:11.246Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 3.38,
+        "current": 85.97,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +3.38% to $85.97"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 3.23,
+        "current": 27.18,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +3.23% to $27.18"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Half Of Israelis Agree Deterrence 'Weakened' Following Wars In Iran, Lebanon: Poll",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Half Of Israelis Agree Deterrence 'Weakened' Following Wars In Iran, Lebanon: Poll"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Public Schools Are In A Downward Spiral",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Public Schools Are In A Downward Spiral"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Welfare-Warfare State Reform Is Not Freedom",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Welfare-Warfare State Reform Is Not Freedom"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "India Accuses West Of Double Standards Over US Russia Oil Sanctions",
+        "keywords": [
+          "sanctions"
+        ],
+        "message": "[ZeroHedge] India Accuses West Of Double Standards Over US Russia Oil Sanctions"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "10Y",
+        "current": 4.45,
+        "changeBps": -10,
+        "direction": "DOWN",
+        "message": "10Y yield -10bps to 4.45%"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 62.36,
+        "message": "Gold/Silver ratio: 62.36x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 7
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 386.54,
+        "previousClose": 386.32,
+        "high": 388.77,
+        "low": 383.35,
+        "changePct": 0.06
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 61.29,
+        "previousClose": 60.82,
+        "high": 61.825,
+        "low": 59.865,
+        "changePct": 0.77
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 85.97,
+        "previousClose": 83.16,
+        "high": 86.565,
+        "low": 84.04,
+        "changePct": 3.38
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 54.58,
+        "previousClose": 54.29,
+        "high": 55.18,
+        "low": 53.8094,
+        "changePct": 0.53
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 45.52,
+        "previousClose": 44.83,
+        "high": 45.985,
+        "low": 44.84,
+        "changePct": 1.54
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 27.18,
+        "previousClose": 26.33,
+        "high": 27.44,
+        "low": 26.32,
+        "changePct": 3.23
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 57.55,
+        "previousClose": 57.12,
+        "high": 58.146,
+        "low": 56.63,
+        "changePct": 0.75
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.95,
+        "previousClose": 27.95,
+        "high": 27.99,
+        "low": 27.94,
+        "changePct": 0
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.77,
+        "previousClose": 85.98,
+        "high": 85.83,
+        "low": 85.41,
+        "changePct": -0.24
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 741.75,
+        "previousClose": 737.76,
+        "high": 744.44,
+        "low": 735.05,
+        "changePct": 0.54
+      }
+    },
+    "metals": {
+      "gold": 4238.8,
+      "silver": 67.97,
+      "copper": 6.45,
+      "platinum": 1712.2,
+      "crude": null,
+      "goldSilverRatio": 62.36
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4238.8,
+        "change": 124.799805,
+        "changePct": 3.03,
+        "previousClose": 4114
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 67.974,
+        "change": 3.9729996,
+        "changePct": 6.21,
+        "previousClose": 64.001
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.445,
+        "change": 0.17000008,
+        "changePct": 2.71,
+        "previousClose": 6.275
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1712.2,
+        "change": 46.5,
+        "changePct": 2.79,
+        "previousClose": 1665.7
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 84.88,
+        "change": -2.8300018,
+        "changePct": -3.23,
+        "previousClose": 87.71
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.05,
+        "previous": 4.13,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-06-11"
+      },
+      "10Y": {
+        "current": 4.45,
+        "previous": 4.55,
+        "change": -0.1,
+        "changeBps": -10,
+        "date": "2026-06-11"
+      },
+      "30Y": {
+        "current": 4.95,
+        "previous": 5.03,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-06-11"
+      },
+      "USD_BROAD": {
+        "current": 120.0831,
+        "previous": 119.3615,
+        "change": 0.72,
+        "changeBps": 72,
+        "date": "2026-06-05"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102314,
+        "previous": 7816,
+        "change": 94498,
+        "period": "2026-06-05",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Half Of Israelis Agree Deterrence 'Weakened' Following Wars In Iran, Lebanon: Poll",
+        "link": "https://www.zerohedge.com/geopolitical/half-israelis-agree-deterrence-weakened-following-wars-iran-lebanon-poll",
+        "date": "2026-06-13T02:35:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russian Governors Rush To Deny Fuel Crisis As Rationing Spreads",
+        "link": "https://www.zerohedge.com/markets/russian-governors-rush-deny-fuel-crisis-rationing-spreads",
+        "date": "2026-06-13T01:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Public Schools Are In A Downward Spiral",
+        "link": "https://www.zerohedge.com/political/public-schools-are-downward-spiral",
+        "date": "2026-06-13T00:55:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Russia Is Single-Handedly Standing Against The West: Putin",
+        "link": "https://www.zerohedge.com/geopolitical/russia-single-handedly-standing-against-west-putin",
+        "date": "2026-06-13T00:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Welfare-Warfare State Reform Is Not Freedom",
+        "link": "https://www.zerohedge.com/political/welfare-warfare-state-reform-not-freedom",
+        "date": "2026-06-13T00:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "\"They All Believe That Taiwan's Part Of China\", Former Reagan Advisor On Chinese Nationalism",
+        "link": "https://www.zerohedge.com/geopolitical/they-all-believe-taiwans-part-china-former-reagan-advisor-chinese-nationalism",
+        "date": "2026-06-12T23:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India Set To Miss Budget Deficit Target As Oil Shock Strains Public Finances",
+        "link": "https://www.zerohedge.com/markets/india-set-miss-budget-deficit-target-oil-shock-strains-public-finances",
+        "date": "2026-06-12T22:25:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Qatar Tried Secret Deal-Making With Iran To Protect World's Largest Gas Complex",
+        "link": "https://www.zerohedge.com/geopolitical/qatar-tried-secret-deal-making-iran-protect-worlds-largest-gas-complex",
+        "date": "2026-06-12T22:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Mother Of All 'Ifs': Trump Officials Claim Iran Deal Delivers Peace, Inspections & Hormuz Reopening; Iran Says Indeed 'Close'",
+        "link": "https://www.zerohedge.com/geopolitical/us-iran-deal-near-narrative-returns-tehran-refuses-surrender-hormuz-leverage",
+        "date": "2026-06-12T20:30:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "India Accuses West Of Double Standards Over US Russia Oil Sanctions",
+        "link": "https://www.zerohedge.com/energy/india-accuses-west-double-standards-over-us-russia-oil-sanctions",
+        "date": "2026-06-12T19:00:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-13T11:44:01.944Z"
+  }
+}
