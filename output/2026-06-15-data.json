@@ -1,0 +1,386 @@
+{
+  "generatedAt": "2026-06-15T15:32:32.803Z",
+  "mode": "LIVE",
+  "signals": {
+    "signals": [
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "COPX",
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "changePct": 5,
+        "current": 90.27,
+        "direction": "UP",
+        "message": "Copper Miners (COPX) +5% to $90.27"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URNM",
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "changePct": 6.52,
+        "current": 58.14,
+        "direction": "UP",
+        "message": "Uranium Miners (URNM) +6.52% to $58.14"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "URA",
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "changePct": 5.83,
+        "current": 48.175,
+        "direction": "UP",
+        "message": "Uranium (URA) +5.83% to $48.175"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "CRITICAL",
+        "symbol": "SILJ",
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "changePct": 8.2,
+        "current": 29.4099,
+        "direction": "UP",
+        "message": "Silver Juniors (SILJ) +8.2% to $29.4099"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "GLD",
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "changePct": 3.32,
+        "current": 399.3899,
+        "direction": "UP",
+        "message": "Gold (GLD) +3.32% to $399.3899"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "SLV",
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "changePct": 4.18,
+        "current": 63.8497,
+        "direction": "UP",
+        "message": "Silver (SLV) +4.18% to $63.8497"
+      },
+      {
+        "type": "PRICE_MOVE",
+        "severity": "HIGH",
+        "symbol": "XLE",
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "changePct": -3.13,
+        "current": 55.749,
+        "direction": "DOWN",
+        "message": "Energy (XLE) -3.13% to $55.749"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "MarketWatch",
+        "title": "Here’s when gas prices will go down now that there’s a deal to end the Iran war",
+        "keywords": [
+          "war"
+        ],
+        "message": "[MarketWatch] Here’s when gas prices will go down now that there’s a deal to end the Iran war"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Key Events This Week: First Warsh FOMC, Iran Deal Signing, Retail Sales And More",
+        "keywords": [
+          "war"
+        ],
+        "message": "[ZeroHedge] Key Events This Week: First Warsh FOMC, Iran Deal Signing, Retail Sales And More"
+      },
+      {
+        "type": "HEADLINE",
+        "severity": "HIGH",
+        "source": "ZeroHedge",
+        "title": "Trump Threatens 100% Tariff On French Wines Over Digital Services Tax",
+        "keywords": [
+          "tariff"
+        ],
+        "message": "[ZeroHedge] Trump Threatens 100% Tariff On French Wines Over Digital Services Tax"
+      },
+      {
+        "type": "YIELD_MOVE",
+        "severity": "MODERATE",
+        "label": "10Y",
+        "current": 4.45,
+        "changeBps": -10,
+        "direction": "DOWN",
+        "message": "10Y yield -10bps to 4.45%"
+      },
+      {
+        "type": "RATIO",
+        "severity": "INFO",
+        "goldSilverRatio": 61.94,
+        "message": "Gold/Silver ratio: 61.94x"
+      }
+    ],
+    "hasHighImpact": true,
+    "signalCount": 11
+  },
+  "rawData": {
+    "etfQuotes": {
+      "GLD": {
+        "name": "Gold (GLD)",
+        "category": "precious",
+        "current": 399.3899,
+        "previousClose": 386.54,
+        "high": 401,
+        "low": 399.14,
+        "changePct": 3.32
+      },
+      "SLV": {
+        "name": "Silver (SLV)",
+        "category": "precious",
+        "current": 63.8497,
+        "previousClose": 61.29,
+        "high": 64.4904,
+        "low": 63.67,
+        "changePct": 4.18
+      },
+      "COPX": {
+        "name": "Copper Miners (COPX)",
+        "category": "industrial",
+        "current": 90.27,
+        "previousClose": 85.97,
+        "high": 91.68,
+        "low": 89.49,
+        "changePct": 5
+      },
+      "URNM": {
+        "name": "Uranium Miners (URNM)",
+        "category": "energy",
+        "current": 58.14,
+        "previousClose": 54.58,
+        "high": 58.95,
+        "low": 57.12,
+        "changePct": 6.52
+      },
+      "URA": {
+        "name": "Uranium (URA)",
+        "category": "energy",
+        "current": 48.175,
+        "previousClose": 45.52,
+        "high": 48.63,
+        "low": 47.465,
+        "changePct": 5.83
+      },
+      "SILJ": {
+        "name": "Silver Juniors (SILJ)",
+        "category": "precious",
+        "current": 29.4099,
+        "previousClose": 27.18,
+        "high": 29.91,
+        "low": 29.235,
+        "changePct": 8.2
+      },
+      "XLE": {
+        "name": "Energy (XLE)",
+        "category": "energy",
+        "current": 55.749,
+        "previousClose": 57.55,
+        "high": 56.05,
+        "low": 55.02,
+        "changePct": -3.13
+      },
+      "UUP": {
+        "name": "Dollar Bull (UUP)",
+        "category": "macro",
+        "current": 27.91,
+        "previousClose": 27.95,
+        "high": 27.91,
+        "low": 27.87,
+        "changePct": -0.14
+      },
+      "TLT": {
+        "name": "20Y+ Treasuries (TLT)",
+        "category": "macro",
+        "current": 85.82,
+        "previousClose": 85.77,
+        "high": 86.11,
+        "low": 85.79,
+        "changePct": 0.06
+      },
+      "SPY": {
+        "name": "S&P 500 (SPY)",
+        "category": "benchmark",
+        "current": 755.25,
+        "previousClose": 741.75,
+        "high": 755.31,
+        "low": 751.76,
+        "changePct": 1.82
+      }
+    },
+    "metals": {
+      "gold": 4377.6,
+      "silver": 70.68,
+      "copper": 6.49,
+      "platinum": 1792.3,
+      "crude": null,
+      "goldSilverRatio": 61.94
+    },
+    "futures": {
+      "gold": {
+        "name": "Gold",
+        "unit": "/oz",
+        "price": 4377.6,
+        "change": 138.8003,
+        "changePct": 3.27,
+        "previousClose": 4238.8
+      },
+      "silver": {
+        "name": "Silver",
+        "unit": "/oz",
+        "price": 70.68,
+        "change": 2.7060013,
+        "changePct": 3.98,
+        "previousClose": 67.974
+      },
+      "copper": {
+        "name": "Copper",
+        "unit": "/lb",
+        "price": 6.491,
+        "change": 0.046000004,
+        "changePct": 0.71,
+        "previousClose": 6.445
+      },
+      "platinum": {
+        "name": "Platinum",
+        "unit": "/oz",
+        "price": 1792.3,
+        "change": 80.1001,
+        "changePct": 4.68,
+        "previousClose": 1712.2
+      },
+      "crude_oil_(wti)": {
+        "name": "Crude Oil (WTI)",
+        "unit": "/bbl",
+        "price": 80.54,
+        "change": -4.3399963,
+        "changePct": -5.11,
+        "previousClose": 84.88
+      }
+    },
+    "yields": {
+      "2Y": {
+        "current": 4.05,
+        "previous": 4.13,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-06-11"
+      },
+      "10Y": {
+        "current": 4.45,
+        "previous": 4.55,
+        "change": -0.1,
+        "changeBps": -10,
+        "date": "2026-06-11"
+      },
+      "30Y": {
+        "current": 4.95,
+        "previous": 5.03,
+        "change": -0.08,
+        "changeBps": -8,
+        "date": "2026-06-11"
+      },
+      "USD_BROAD": {
+        "current": 120.0831,
+        "previous": 119.3615,
+        "change": 0.72,
+        "changeBps": 72,
+        "date": "2026-06-05"
+      }
+    },
+    "eia": {
+      "crude_stocks": {
+        "name": "Crude Oil Stocks",
+        "unit": "thousand barrels",
+        "latest": 102314,
+        "previous": 7816,
+        "change": 94498,
+        "period": "2026-06-05",
+        "direction": "BUILD"
+      }
+    },
+    "headlines": [
+      {
+        "source": "ZeroHedge",
+        "title": "Protests In Los Angeles As Iranian Soccer Team Arrives For 1st World Cup Match",
+        "link": "https://www.zerohedge.com/geopolitical/protests-los-angeles-iranian-soccer-team-arrives-1st-world-cup-match",
+        "date": "2026-06-15T15:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump: Ships Starting To Move Through Strait Of Hormuz",
+        "link": "https://www.zerohedge.com/geopolitical/iran-offers-60-day-toll-free-hormuz-transit-100s-ships-await-reopening",
+        "date": "2026-06-15T14:59:16.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Elon Musk makes sky-high trillion-dollar forecast for SpaceX revenue",
+        "link": "https://www.marketwatch.com/story/elon-musk-makes-sky-high-trillion-dollar-forecast-for-spacex-revenue-721db931?mod=mw_rss_topstories",
+        "date": "2026-06-15T14:58:00.000Z"
+      },
+      {
+        "source": "MarketWatch",
+        "title": "Here’s when gas prices will go down now that there’s a deal to end the Iran war",
+        "link": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
+        "date": "2026-06-15T14:56:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Key Events This Week: First Warsh FOMC, Iran Deal Signing, Retail Sales And More",
+        "link": "https://www.zerohedge.com/economics/key-events-week-first-warsh-fomc-iran-deal-signing-retail-sales-and-more",
+        "date": "2026-06-15T14:00:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Threatens 100% Tariff On French Wines Over Digital Services Tax",
+        "link": "https://www.zerohedge.com/geopolitical/trump-threatens-100-tariff-french-wines-over-digital-services-tax",
+        "date": "2026-06-15T12:50:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "US Futures, Global Stocks Surge, Oil Tumbles On Iran Deal",
+        "link": "https://www.zerohedge.com/markets/us-futures-global-stocks-surge-oil-tumbles-iran-deal",
+        "date": "2026-06-15T12:20:30.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "The Bond Market Already Looked Through The Inflation Headlines",
+        "link": "https://www.zerohedge.com/markets/bond-market-already-looked-through-inflation-headlines",
+        "date": "2026-06-15T12:05:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Anthropic Races To Defuse Trump's Fable 5 U.S. Export Curbs While Jefferies Sees New Headwind For China AI",
+        "link": "https://www.zerohedge.com/ai/anthropic-races-defuse-trumps-fable-5-us-export-curbs-while-jefferies-sees-new-headwind-china-ai",
+        "date": "2026-06-15T11:45:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "Trump Says Hormuz To Reopen Friday After Signing Of \"Great Peace Deal\" With Iran",
+        "link": "https://www.zerohedge.com/geopolitical/trump-says-peace-deal-coming-sunday-tehran-signals-still-reviewing-text",
+        "date": "2026-06-15T10:40:00.000Z"
+      },
+      {
+        "source": "ZeroHedge",
+        "title": "SpaceX IPO Lifts Off As Data Center Race Moves From Ashburn To Abilene To Space",
+        "link": "https://www.zerohedge.com/ai/spacex-ipo-lifts-data-center-race-moves-ashburn-abilene-space",
+        "date": "2026-06-15T02:45:00.000Z"
+      }
+    ],
+    "fetchedAt": "2026-06-15T15:32:25.073Z"
+  }
+}
